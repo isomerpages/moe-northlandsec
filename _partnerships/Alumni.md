@@ -8,3 +8,5 @@ description: ""
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT1Cd7UWoFzffoHuME093Gxbvjx-egxXekjn14KhjfkccgsjotN7vb8WUnjiuo97xB6xe0gJvbBVZL4/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p><strong><span style="color: #990000;">Alumni Recognition - Friends of NSS Award</span></strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_afTb8TLfcYY5ucWFRGID6A-sSCVA9ufntuYdALs7z5De4OW1RoKYAHzOY0fu-7Oo5v3ovcTepu2a/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p><strong><span style="color: #990000;">SPARCLE Week 1 2018 - Secondary 2 Career Talk<br />(By Alumni Members)</strong></span></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQUetFXAhw1cXcTwWBbHNDK9yoGX1r564po_7qPTNLtKC3pcigyV-S4Dy5IJhOeW9HEXIWYZU6yRDqP/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
