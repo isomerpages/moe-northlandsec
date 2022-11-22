@@ -33,7 +33,9 @@ description: ""
 <li>educating new parents on how to relate better to their child (3 per semester)</li>
 <li>engage in Dad&rsquo;s for Life Programme to enhance father and child bonding.</li>
 </ul>
-<p><span style="color: #990000;"><strong>Parent Support Group Activities (2019)</strong></span></p>
+<p><strong><span style="color: #990000;">Parent Support Group Activities (2019)</span></strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0iit1uZBpM43M3ofXFbEjRI9kWcTQebJMbEddkNpsu96zd04q0nS8cAdcKAIXFE3bKA4ZDy_pn_zG/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p><span style="color: #990000;"><strong>PSG Activities (2018)</strong></span></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDcaK3h5y0L6BNPX-Ey6Ig_Wl0DoWVq-H1Fh0wVPhX0a9cCvx5PDE2l7NpcAq2GktwnFbdXdF8nZDR/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p><strong><span style="color: #990000;">Recognition of PSG - Friends of NSS Award (2018)</span></strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRR1s1F842tUmBs6lJ9op0Krc8Z1R26R74s-cpCFDvfZeY6PJ-s-s1FiKEOvEaWWjKDWKDk88NVqBB_/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
