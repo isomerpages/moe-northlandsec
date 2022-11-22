@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Parent Support Group.md
       - Alumni.md
       - Parents/Parents.md
       - Parents/Parents Gateway.md
