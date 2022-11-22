@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Parents/Parents Gateway.md
       - Parents/Timetable.md
       - Parents/Parents Letters.md
       - Parents/NSS Staff.md
