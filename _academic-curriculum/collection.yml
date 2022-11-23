@@ -2,4 +2,5 @@ collections:
   academic-curriculum:
     output: true
     order:
+      - Staff Matters/Staff Well–Being.md
       - Staff Matters/.keep
