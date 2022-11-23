@@ -6,7 +6,7 @@ third_nav_title: Vision, Mission & Values
 ---
 <img style="width: 50%;" src="/images/m1.png" />
 <h4 style="text-align: center;"><strong>Nurturing Character, Inspiring Learning</strong></h4>
-<p><strong>Nurturing Character<br /><br /></strong></p>
+<p><strong>Nurturing Character</strong></p>
 <ul>
 <li><strong>We inculcate values, develop social-emotional competencies, enhance leadership skills and cultivate a sense of civic mindedness.</strong></li>
 <li>We nurture our students to be healthy individuals who possess the physical and mental strength to adapt to changes and challenges in life.</li>
