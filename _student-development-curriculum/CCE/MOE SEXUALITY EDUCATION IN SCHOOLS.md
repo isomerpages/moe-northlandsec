@@ -90,3 +90,84 @@ third_nav_title: CCE
 </tbody>
 </table>
 <img style="width: 50%;" src="/images/img.jpg" />
+<p style="text-align: center;"><strong>At Northland Secondary School, the following lessons from the&nbsp;<br /></strong><strong>Sexuality Education Programme&nbsp;</strong><strong>will be taught in&nbsp;<u>2022</u>:</strong></p>
+<p style="text-align: center;"><strong>Secondary 1</strong></p>
+<table class="iveo_table ives_tab_1" width="0">
+<thead class="">
+<tr class="">
+<td class="" style="text-align: center;" width="112">
+<p class="" align="center"><strong class=""><span class="" lang="EN-GB">UNIT</span></strong></p>
+</td>
+<td class="" style="text-align: center;" width="170">
+<p class="" align="center"><strong class=""><span class="" lang="EN-GB">LESSONS / DURATION</span></strong></p>
+</td>
+<td class="" style="text-align: center;" width="483">
+<p class="" align="center"><strong class=""><span class="" lang="EN-GB">Lesson Objectives</span></strong></p>
+<p class="" align="center"><strong class=""><span class="" lang="EN-GB">At the end of the lesson, students will be able to:</span></strong></p>
+</td>
+<td class="" style="text-align: center;" width="165">
+<p class="" align="center"><strong class=""><span class="" lang="EN-GB">TIME PERIOD</span></strong></p>
+<p class="" align="center"><strong class=""><span class="" lang="EN-GB">(e.g. Term 1 Week 2)</span></strong></p>
+</td>
+</tr>
+</thead>
+<tbody class="">
+<tr class="">
+<td class="" style="text-align: center;" rowspan="3" width="112">
+<p class="" align="center"><span class="">Respectful Relationships &amp; Safety</span></p>
+<p class="" align="center"><span class="" lang="EN-GB">&nbsp;</span></p>
+<p class="" align="center"><span class="" lang="EN-GB">&nbsp;</span></p>
+</td>
+<td class="" style="text-align: center;" width="170">
+<p class="" align="center"><span class="" lang="EN-GB">1</span></p>
+<p class="" align="center"><span class="" lang="EN-GB">(60 mins)</span></p>
+</td>
+<td class="" width="483">
+<ul>
+<li><span class="" lang="EN-GB">Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</span></li>
+<li><span class="" lang="EN-GB">Recognise that there are different forms of love (e.g. familial, platonic, romantic love)</span></li>
+<li><span class="" lang="EN-GB">Recognise the importance and understand what builds healthy and supportive relationships, both online and offline</span></li>
+<li><span class="" lang="EN-GB">Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</span></li>
+</ul>
+</td>
+<td class="" style="text-align: center;" width="165">
+<p class="" align="center"><span class="" lang="EN-GB">Term 3 Week 8</span></p>
+</td>
+</tr>
+<tr class="">
+<td class="" style="text-align: center;" width="170">
+<p class="" align="center"><span class="" lang="EN-GB">2</span></p>
+<p class="" align="center"><span class="" lang="EN-GB">(60 mins)</span></p>
+</td>
+<td class="" width="483">
+<ul>
+<li><span class="" lang="EN-GB">Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person&rsquo;s self-concept</span></li>
+</ul>
+</td>
+<td class="" style="text-align: center;" width="165">
+<p class="" align="center"><span class="" lang="EN-GB">Term 3 Week 8</span></p>
+</td>
+</tr>
+<tr class="">
+<td class="" style="text-align: center;" width="170">
+<p class="" align="center"><span class="" lang="EN-GB">3</span></p>
+<p class="" align="center"><span class="" lang="EN-GB">(60 mins)</span></p>
+</td>
+<td class="" width="483">
+<ul>
+<li><span class="" lang="EN-GB">Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</span></li>
+<li><span class="" lang="EN-GB">Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</span></li>
+</ul>
+</td>
+<td class="" style="text-align: center;" width="165">
+<p class="" align="center"><span class="" lang="EN-GB">Term 3 Week 9</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<img style="width: 35%;" src="/images/img.jpg" />
+<img style="width: 35%;" src="/images/img.jpg" />
+<img style="width: 35%;" src="/images/img.jpg" />
+<img style="width: 35%;" src="/images/img.jpg" />
+<img style="width: 50%;" src="/images/img.jpg" />
+<img style="width: 35%;" src="/images/img.jpg" />
