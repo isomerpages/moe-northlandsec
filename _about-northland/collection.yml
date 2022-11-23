@@ -1,0 +1,4 @@
+collections:
+  about-northland:
+    output: true
+    order: []
