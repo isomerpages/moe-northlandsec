@@ -2,6 +2,7 @@ collections:
   student-matters:
     output: true
     order:
+      - Secondary One/Sec 1 Staff.md
       - Secondary One/Sec 1 Weighted Assessment.md
       - Secondary One/.keep
       - Secondary Two/Secondary Two.md
