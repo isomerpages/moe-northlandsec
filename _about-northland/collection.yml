@@ -2,6 +2,7 @@ collections:
   about-northland:
     output: true
     order:
+      - Staff/.keep
       - Achievements/.keep
       - Events.md
       - School Publications/Northland Pulse.md
