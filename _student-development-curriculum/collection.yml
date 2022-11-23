@@ -2,6 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
+      - CCE/.keep
       - Co–Curricular Activities (CCA).md
       - Direct School Admission (DSA).md
       - Learning for Life Programme (LLP).md
