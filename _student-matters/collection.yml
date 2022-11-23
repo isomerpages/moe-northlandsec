@@ -1,4 +1,5 @@
 collections:
   student-matters:
     output: true
-    order: []
+    order:
+      - Secondary Four & Five/.keep
