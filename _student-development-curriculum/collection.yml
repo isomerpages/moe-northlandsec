@@ -2,6 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
+      - SPARCLE Weeks.md
       - Students' Council.md
       - After School Education/ACE Programme.md
       - After School Education/Nebula Student Centre.md
