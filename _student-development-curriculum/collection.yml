@@ -1,4 +1,5 @@
 collections:
   student-development-curriculum:
     output: true
-    order: []
+    order:
+      - After School Education/.keep
