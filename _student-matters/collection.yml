@@ -2,6 +2,7 @@ collections:
   student-matters:
     output: true
     order:
+      - Secondary Two/Updates & Announcements.md
       - Secondary Two/Timetable.md
       - Secondary Two/Booklist.md
       - Secondary Two/Secondary 3 Subject Combination.md
