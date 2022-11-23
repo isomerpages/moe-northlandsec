@@ -2,6 +2,7 @@ collections:
   student-matters:
     output: true
     order:
+      - Secondary Three/SPARCLE 1 for Secondary 3s.md
       - Secondary Three/Sec 3 Staff.md
       - Secondary Three/Sec 3 Weighted Assessment.md
       - Secondary Three/.keep
