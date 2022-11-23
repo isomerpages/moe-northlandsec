@@ -2,4 +2,5 @@ collections:
   student-development-curriculum:
     output: true
     order:
+      - After School Education/Nebula Student Centre.md
       - After School Education/.keep
