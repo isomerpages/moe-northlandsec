@@ -2,6 +2,7 @@ collections:
   about-northland:
     output: true
     order:
+      - School Song & Crest/School Song.md
       - School Song & Crest/Crest.md
       - School Song & Crest/.keep
       - Staff/Staff.md
