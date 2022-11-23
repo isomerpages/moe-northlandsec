@@ -2,5 +2,4 @@ collections:
   useful-links:
     output: true
     order:
-      - For Staff/.keep
       - Financial Assistance Scheme (FAS).md
