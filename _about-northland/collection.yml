@@ -2,5 +2,6 @@ collections:
   about-northland:
     output: true
     order:
+      - School Publications/Northland Pulse.md
       - School Publications/Northland Times.md
       - School Publications/.keep
