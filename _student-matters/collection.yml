@@ -2,6 +2,7 @@ collections:
   student-matters:
     output: true
     order:
+      - Administration/Electronic Devices Policy.md
       - Administration/The Code of Conduct for Students.md
       - Administration/School Rules.md
       - Administration/Rights & Responsibilities of Stakeholders.md
