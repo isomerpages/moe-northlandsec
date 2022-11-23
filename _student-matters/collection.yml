@@ -1,0 +1,4 @@
+collections:
+  student-matters:
+    output: true
+    order: []
