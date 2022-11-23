@@ -1,0 +1,4 @@
+collections:
+  student-development-curriculum:
+    output: true
+    order: []
