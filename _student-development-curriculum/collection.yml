@@ -2,6 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
+      - CCE/Values in Action.md
       - CCE/National Education.md
       - CCE/Internationalization.md
       - CCE/Education and Career Guidance (ECG).md
