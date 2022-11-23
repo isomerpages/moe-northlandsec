@@ -2,6 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
+      - Direct School Admission (DSA).md
       - Learning for Life Programme (LLP).md
       - SPARCLE Weeks.md
       - Students' Council.md
