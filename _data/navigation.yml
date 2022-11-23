@@ -1,5 +1,7 @@
 logo: /images/logo.png
 links:
+  - title: Student Matters
+    collection: student-matters
   - title: Student Development Curriculum
     url: /student-development-curriculum/character-and-citizenship-education
     sublinks:
