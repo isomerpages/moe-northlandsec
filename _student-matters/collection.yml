@@ -2,11 +2,11 @@ collections:
   student-matters:
     output: true
     order:
-      - Administration/Electronic Devices Policy.md
+      - Administration/.keep
       - Administration/The Code of Conduct for Students.md
+      - Administration/Electronic Devices Policy.md
       - Administration/School Rules.md
       - Administration/Rights & Responsibilities of Stakeholders.md
-      - Administration/.keep
       - Home–based Learning Guide.md
       - Home–based Learning – Helpline.md
       - Secondary One/Updates & Announcements.md
