@@ -2,6 +2,7 @@ collections:
   student-matters:
     output: true
     order:
+      - Administration/Pacific Bookstore Purchase Guide.md
       - Administration/Uniform Sale Guidelines.md
       - Administration/.keep
       - Administration/The Code of Conduct for Students.md
