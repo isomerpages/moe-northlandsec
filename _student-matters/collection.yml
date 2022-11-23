@@ -2,6 +2,7 @@ collections:
   student-matters:
     output: true
     order:
+      - Secondary Three/.keep
       - Secondary Four & Five/Updates & Announcements.md
       - Secondary Four & Five/Sec 4E & 5N Graduation Package.md
       - Secondary Four & Five/Sec 4N Elective Modules Announcements.md
