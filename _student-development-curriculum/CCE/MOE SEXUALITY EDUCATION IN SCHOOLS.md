@@ -404,5 +404,171 @@ third_nav_title: CCE
 </tbody>
 </table>
 <img style="width: 35%;" src="/images/img.jpg" />
+<p style="text-align: center;"><strong>Secondary 5</strong></p>
+<table width="0">
+<thead>
+<tr>
+<td style="text-align: center;" width="112">
+<p><strong>UNIT</strong></p>
+</td>
+<td style="text-align: center;" width="170">
+<p><strong>LESSONS / DURATION</strong></p>
+</td>
+<td style="text-align: center;" width="483">
+<p><strong>Lesson Objectives</strong></p>
+<p><strong>At the end of the lesson, students will be able to:</strong></p>
+</td>
+<td style="text-align: center;" width="163">
+<p><strong>TIME PERIOD</strong></p>
+<p><strong>(e.g. Term 1 Week 2)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;" width="112">
+<p>Respectful Relationships &amp; Safety</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>1</p>
+<p>(60&nbsp;mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Understand that the value of a person is not tied to one&rsquo;s gender and not conforming to gender stereotypes does not negate one&rsquo;s gender identity.</li>
+<li>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</li>
+<li>Know that imposing gender stereotypes on oneself and others can limit one&rsquo;s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</li>
+</ul>
+</td>
+<td width="163">
+<p style="text-align: center;">Term 2 Week 3</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, &ldquo;Levelling the Ground&rdquo; from the unit, &ldquo;Respectful Relationship and Safety&rdquo;.</em></p>
 <img style="width: 50%;" src="/images/img.jpg" />
+<h4><strong>eTeens Programme:&nbsp;</strong></h4>
+<table>
+<tbody>
+<tr>
+<td>
+<p>8.</p>
+</td>
+<td>
+<p><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.</p>
+</td>
+<td>
+<p>Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="center"><strong>At Northland Secondary School, the eTeens programme will be implemented as follows in 2022:</strong></p>
+<table class="iveo_table ives_tab_1" width="819">
+<thead class="">
+<tr class="">
+<td class="" style="text-align: center;" width="177">
+<p class="" align="center"><strong class=""><span class="" lang="EN-GB">Topics/Lessons</span></strong></p>
+</td>
+<td class="" style="text-align: center;" width="482">
+<p class="" align="center"><strong class=""><span class="" lang="EN-GB">Programme Learning Objectives</span></strong></p>
+</td>
+<td class="" style="text-align: center;" width="160">
+<p class="" align="center"><strong class=""><span class="" lang="EN-GB">Time Period</span></strong></p>
+<p class="" align="center"><strong class=""><span class="" lang="EN-GB">(e.g. Term 3 Week 9)</span></strong></p>
+</td>
+</tr>
+</thead>
+<tbody class="">
+<tr class="">
+<td class="" style="text-align: center;" width="177">
+<p class=""><strong><span class="" lang="EN-GB">Mass Talk by HPB appointed vendor</span></strong></p>
+</td>
+<td class="" width="482">
+<ul>
+<li><span class="" lang="EN-GB">Awareness of the different STIs and HIV/AIDS</span></li>
+<li><span class="" lang="EN-GB">Modes of transmission</span></li>
+<li><span class="" lang="EN-GB">Modes of protection, specifically on how the condom is used</span></li>
+<li><span class="" lang="EN-GB">Consequences and impact of STIs/HIV</span></li>
+</ul>
+</td>
+<td class="" style="text-align: center;" width="160">
+<p class="" align="center"><span class="" lang="EN-GB">Term 3 Week 9</span></p>
+</td>
+</tr>
+<tr class="">
+<td class="" style="text-align: center;" width="177">
+<p class=""><strong><span class="" lang="EN-GB">Classroom-based Lesson</span></strong></p>
+</td>
+<td class="" width="482">
+<ul>
+<li><span class="" lang="EN-GB">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</span></li>
+</ul>
+</td>
+<td class="" style="text-align: center;" width="160">
+<p class="" align="center"><span class="" lang="EN-GB">Term 3 Week 9</span></p>
+</td>
+</tr>
+</tbody>
+</table>
 <img style="width: 35%;" src="/images/img.jpg" />
+<table>
+<tbody>
+<tr>
+<th>
+<h4>INFORMATION FOR PARENTS</h4>
+</th>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td>
+<p>10.</p>
+</td>
+<td>
+<p>Parents may opt their children out of the Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11.</p>
+</td>
+<td>
+<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form is downloadable&nbsp;<strong><a href="/files/SED%20AnnexA.pdf" target="_blank" rel="noopener">here.</a></strong>&nbsp;The completed form is to be submitted by&nbsp;<strong>19/01/2022.</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12.</p>
+</td>
+<td>
+<p>Parents who wish to opt their children out of the <strong><em>eTeens</em></strong><strong>&nbsp;programme</strong>&nbsp;need to complete an opt-out form. This form is downloadable&nbsp;<a href="/files/E-TEEN%20Opt%20-out%20form.pdf" target=""><strong>here.</strong></a>&nbsp;The completed form is to be submitted by&nbsp;<strong>19/01/2022.</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13.</p>
+</td>
+<td>
+<p>Parents can contact the school at 6257 6781 for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.</p>
+</td>
+<td>
+<p>Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<img style="width: 50%;" src="/images/img1.png" />
