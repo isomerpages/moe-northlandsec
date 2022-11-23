@@ -37,3 +37,5 @@ third_nav_title: Secondary Two
 <p>b) Attach a photocopy of your HDP result.</p>
 <p>c) Submit the form to General Office by&nbsp;<strong><u>Wed 17 Nov 2021, 12.00 pm.</u></strong></p>
 <p><strong><u>(<a href="/files/Appeal%20Form%202021.pdf">Click here</a>&nbsp;</u></strong>for appeal form<strong>)</strong></p>
+<p>2. The results of appeal will be released on&nbsp;<strong><u>Fri 19 Nov 2021 before 12pm</u></strong>.</p>
+<p><a href="https://northlandsec.moe.edu.sg/qql/slot/u511/Student%20Matters/2021%20Updates/Secondary%203%20Subject%20Combination/Sec%203%20Subject%20Combination%20Exercise%20for%202022%20Appeal%20Results.pdf">Sec 3 Subject Combination Exercise for 2022 Appeal Results.pdf</a></p>
