@@ -2,6 +2,7 @@ collections:
   student-matters:
     output: true
     order:
+      - Administration/School Rules.md
       - Administration/Rights & Responsibilities of Stakeholders.md
       - Administration/.keep
       - Home–based Learning Guide.md
