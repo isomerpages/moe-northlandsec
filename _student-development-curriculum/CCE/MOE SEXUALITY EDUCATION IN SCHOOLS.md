@@ -166,8 +166,243 @@ third_nav_title: CCE
 </tbody>
 </table>
 <img style="width: 35%;" src="/images/img.jpg" />
+<p style="text-align: center;"><strong>Secondary 2</strong></p>
+<table width="0">
+<thead>
+<tr>
+<td style="text-align: center;" width="112">
+<p><strong>UNIT</strong></p>
+</td>
+<td style="text-align: center;" width="170">
+<p><strong>LESSONS / DURATION</strong></p>
+</td>
+<td style="text-align: center;" width="483">
+<p><strong>Lesson Objectives</strong></p>
+<p><strong>At the end of the lesson, students will be able to:</strong></p>
+</td>
+<td style="text-align: center;" width="163">
+<p><strong>TIME PERIOD</strong></p>
+<p><strong>(e.g. Term 1 Week 2)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;" rowspan="3" width="112">
+<p>Respectful Relationships &amp; Safety</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>1</p>
+<p>(60&nbsp;mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Know that one&rsquo;s understanding of gender roles should not be limited by gender stereotypes</li>
+<li>Develop an appreciation of one&rsquo;s own unique qualities and characteristics as a male or female</li>
+<li>Understand what sexual orientation entails</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 3 Week 6</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="170">
+<p>2A</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Recognise one&rsquo;s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 3 Week 6</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="170">
+<p>2B</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Recognise the importance of self-respect and respect for others in relating to members of the opposite gender</li>
+<li>Recognise one&rsquo;s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 3 Week 7</p>
+</td>
+</tr>
+</tbody>
+</table>
 <img style="width: 35%;" src="/images/img.jpg" />
+<p style="text-align: center;"><strong>Secondary 3<br /></strong></p>
+<table width="0">
+<thead>
+<tr>
+<td style="text-align: center;" width="112">
+<p><strong>UNIT</strong></p>
+</td>
+<td style="text-align: center;" width="170">
+<p><strong>LESSONS / DURATION</strong></p>
+</td>
+<td style="text-align: center;" width="483">
+<p><strong>Lesson Objectives</strong></p>
+<p><strong>At the end of the lesson, students will be able to:</strong></p>
+</td>
+<td style="text-align: center;" width="163">
+<p><strong>TIME PERIOD</strong></p>
+<p><strong>(e.g. Term 1 Week 2)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;" rowspan="3" width="112">
+<p>Respectful Relationships &amp; Safety</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>1A</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.</li>
+<li>Understand that expectations of oneself and others may differ and can affect one&rsquo;s emotions, thoughts and behaviours.</li>
+<li>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 2 Week 6</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="170">
+<p>1B</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.</li>
+<li>Know that a decision to end a relationship will have consequences on oneself and others.</li>
+<li>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.</li>
+<li>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 2 Week 7</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="170">
+<p>2</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul type="disc">
+<li>Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.</li>
+<li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 2 Week 8</p>
+</td>
+</tr>
+</tbody>
+</table>
 <img style="width: 35%;" src="/images/img.jpg" />
+<p style="text-align: center;"><strong>Secondary 4</strong></p>
+<table width="0">
+<thead>
+<tr>
+<td style="text-align: center;" width="112">
+<p><strong>UNIT</strong></p>
+</td>
+<td style="text-align: center;" width="170">
+<p><strong>LESSONS / DURATION</strong></p>
+</td>
+<td style="text-align: center;" width="483">
+<p><strong>Lesson Objectives</strong></p>
+<p><strong>At the end of the lesson, students will be able to:</strong></p>
+</td>
+<td style="text-align: center;" width="163">
+<p><strong>TIME PERIOD</strong></p>
+<p><strong>(e.g. Term 1 Week 2)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;" rowspan="3" width="112">
+<p>Respectful Relationships &amp; Safety</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>1</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Understand that the value of a person is not tied to one&rsquo;s gender and not conforming to gender stereotypes does not negate one&rsquo;s gender identity.</li>
+<li>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</li>
+<li>Know that imposing gender stereotypes on oneself and others can limit one&rsquo;s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 2 Week 3</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="170">
+<p>2</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</li>
+<li>Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.</li>
+<li>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.</li>
+<li>Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 2 Week 3</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="170">
+<p>3</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.&nbsp;&nbsp;</li>
+<li>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.</li>
+<li>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 2 Week 4</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="112">&nbsp;</td>
+<td style="text-align: center;" width="170">
+<p>4</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 2 Week 6</p>
+</td>
+</tr>
+</tbody>
+</table>
 <img style="width: 35%;" src="/images/img.jpg" />
 <img style="width: 50%;" src="/images/img.jpg" />
 <img style="width: 35%;" src="/images/img.jpg" />
