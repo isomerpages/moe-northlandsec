@@ -2,6 +2,7 @@ collections:
   about-northland:
     output: true
     order:
+      - Vision, Mission & Values/Vision.md
       - Vision, Mission & Values/Mission.md
       - Vision, Mission & Values/Values.md
       - Vision, Mission & Values/.keep
