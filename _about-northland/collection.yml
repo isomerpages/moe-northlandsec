@@ -2,6 +2,7 @@ collections:
   about-northland:
     output: true
     order:
+      - Staff/School Management Committee.md
       - Staff/Executive and Administrative Staff.md
       - Staff/.keep
       - Achievements/.keep
