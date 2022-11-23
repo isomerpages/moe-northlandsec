@@ -45,3 +45,25 @@ third_nav_title: CCE
 </tr>
 </tbody>
 </table>
+<img style="width: 50%;" src="/images/img.jpg" />
+<p style="text-align: center;"><strong>OVERVIEW OF NORTHLAND SECONDARY SCHOOL&rsquo;S&nbsp;<br />SEXUALITY EDUCATION PROGRAMME FOR 2021</strong></p>
+<table class="ive_eobj_center ives_tab_kosong">
+<tbody>
+<tr>
+<td>4.</td>
+<td>
+<p style="text-align: left;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach" target="_blank" rel="noopener">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
+</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>
+<p>The subjects that incorporate topics on sexuality include:</p>
+<ol style="list-style-type: lower-alpha;">
+<li>Science</li>
+<li>Character and Citizenship Education (CCE)</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
