@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - For Staff/.keep
       - For Staff.md
       - Student Well–being.md
       - Financial Assistance Scheme (FAS).md
