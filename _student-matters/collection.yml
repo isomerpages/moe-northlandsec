@@ -2,6 +2,7 @@ collections:
   student-matters:
     output: true
     order:
+      - Home–based Learning – Helpline.md
       - Secondary One/Updates & Announcements.md
       - Secondary One/Timetable.md
       - Secondary One/Booklist.md
