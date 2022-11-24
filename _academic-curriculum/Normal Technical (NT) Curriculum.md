@@ -11,3 +11,4 @@ description: ""
 <li>ignite the joy of learning through experiential activities,</li>
 <li>to learn and appreciate how subjects are applied in the real world.</li>
 </ul>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnwtoI5wdrXsp5rJK7g05Nuo9KJgv_KyjFOkZW7NxW9gtBp0XFgmkxNUljWs6jSF9s4EejFWfBlwko/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
