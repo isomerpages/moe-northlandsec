@@ -20,3 +20,53 @@ third_nav_title: NDLP
 <p><strong>Students&rsquo; experiences&nbsp;</strong>&rArr; Click<a href="https://go.gov.sg/student-voxpop">&nbsp;here</a></p>
 <p><strong>Parents&rsquo; experiences&nbsp;</strong>&rArr; Click&nbsp;<a href="https://go.gov.sg/parent-voxpop-1">here</a></p>
 <p><strong>Device Management Application (DMA)</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="312">
+<p>Understanding DMA</p>
+</td>
+<td width="312">
+<p>Click&nbsp;<a href="https://drive.google.com/file/d/1RrMyu-CGdKN0aNIeie5_s50wuerkOXUU/view?usp=sharing">HERE</a>&nbsp;to understand the Device Management Application</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Option Form for<br />After-School DMA Settings</p>
+</td>
+<td width="312">
+<p>For Parents: Click&nbsp;<a href="https://go.gov.sg/nssparentdma">HERE</a>&nbsp;if you would like to change your child's After-School DMA settings on their PLD</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Please note that changes to the DMA after-school options will only take effect on the last working weekday of every month.</p>
+<p><strong>Useful Resources for Parents</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="342">
+<p>Find out more about the National Digital Literacy Programme (NDLP), and how your children will benefit from learning with a Personal Learning Device (PLD)</p>
+</td>
+<td width="282">
+<p>Click&nbsp;<a href="https://drive.google.com/file/d/1Rt0E9UWIvn1VZfFo-ygm05m8odoPcBki/view?usp=sharing">HERE</a>&nbsp;for Parent Handbook (I) on Learning with a Personal Learning Device.</p>
+</td>
+</tr>
+<tr>
+<td width="342">
+<p>Useful digital parenting tips and resources to support your children on their digital parenting journey.</p>
+</td>
+<td width="282">
+<p>Click&nbsp;<a href="https://drive.google.com/file/d/18WnxzvPOQFj3JJkbKJcYarMtmGNJ8YZj/view?usp=sharing">HERE</a>&nbsp;for Parent Handbook (II) on Learning with a Personal Learning Device.</p>
+</td>
+</tr>
+<tr>
+<td width="342">
+<p>Find out more about reinforcing good cyber wellness habits and monitoring your children&rsquo;s screen time over the term break</p>
+</td>
+<td width="282">
+<p>Click&nbsp;<a href="https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online">HERE</a>&nbsp;to read about &lsquo;Keeping our teens safe online&rsquo;</p>
+</td>
+</tr>
+</tbody>
+</table>
