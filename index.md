@@ -4,14 +4,12 @@ title: Northland Secondary School
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/banner.jpg
-      button: Contact Us
-      url: /contact-us/
+      button: Welcome!
+      url: /secondary-1-registration-2023/welcome
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
