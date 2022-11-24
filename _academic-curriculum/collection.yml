@@ -2,6 +2,7 @@ collections:
   academic-curriculum:
     output: true
     order:
+      - Science Department.md
       - Normal Technical (NT) Curriculum.md
       - Staff Matters/Professional Development.md
       - Staff Matters/Staff Well–Being.md
