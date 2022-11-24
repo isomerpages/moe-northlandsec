@@ -2,6 +2,7 @@ collections:
   academic-curriculum:
     output: true
     order:
+      - NDLP/Information on NDLP.md
       - NDLP/Lenovo Chromebook 500e (PLD purchased in 2021).md
       - NDLP/Acer Chromebook Spin 511 (PLD purchased in 2022).md
       - NDLP/.keep
