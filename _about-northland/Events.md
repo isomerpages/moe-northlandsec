@@ -29,3 +29,29 @@ description: ""
 <h4><strong>Northland Commemorates Racial Harmony Day &ndash; Singapore: Our Multicultural Mosaic</strong></h4>
 <p>Northland Secondary School commemorated Racial Harmony Day on 22 July. The day serves to remind us to be proud of our heritage and to learn to live in harmony and celebrate our unique, cross-cultural nature. Our Northstars came to school, dressed in their ethnic clothes to mark this important day. They were also treated to cultural delicacies during their breaks. The highlight of the day is definitely the assembly programme which served to educate and entertain our Northstars on racial harmony.</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQLooY36YRqbgb9XmeW6ySE9n6X4C3IFj0CJI1kgVhBO7vII0j99GsaFBOTL5J3abqVzRTjiQlxOISD/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h4><strong>Secondary 2NT Category A Elective Modules</strong></h4>
+<p>Every year, our 2NT and 3NT students are given the opportunity to study a Category A Elective Module (EM) at ITE.</p>
+<p>The modules are meant to</p>
+<ul>
+<li>broaden the learning experiences of students</li>
+<li>expose them to possible educational progression and career pathways, thereby enabling them to make more informed choices upon graduation from secondary schools.</li>
+<li>discover how the knowledge and skills learnt can be applied to related industries.</li>
+</ul>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRT1K1GIy7qnVgPnetkYQRZhtXqSMso3pSsrG7fqi5qzjFvWIrnDHTQMEMMGvk_CflghxfIiX2enTkj/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p>Our 2NT students were given the choice to choose between Fitness for Life and (Small Business Operations. The students enjoyed their learning experience at ITE very much and they are looking forward their second stint in Sec 3.</p>
+<h4><strong>A Northstar Shines&hellip; Once Again</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/eve2.jpg"></td>
+<td style="width: 75%;"><p>Northland would like to extend our heartiest congratulations to our alumnus, Andrew Nguyen Huy Dat (Class of 2019) for his stellar performance in the 2021 A levels. Andrew plans to go to National University of Singapore to pursue Data Science and Analytics. Other than pursuing his studies, Andrew intends to widen his horizon by going for internships and joining interest groups. We wish you all the best in your future endeavours Andrew!</p></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Chong Pang Next Top Speaker - Mohammad Azri Rahmat Bin Mohammad Rizal (3A3)</strong></h4>
+<p>Northland is proud to share that our Northstar, Mohammad Azri Rahmat Bin Mohammad Rizal (3A3) managed to clinch the first placing in the Chong Pang Next Top Speaker!&nbsp;</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSJY1r4ELm0A0vEbkLCldRuzsu2WOwiOWO45SSMpbXdTTTyTMYyQU4Yj8X2noWW47BGRIbRa1uWI5l_/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p>The public speaking competition is organised by Chong Pang Toastmasters Club and students across secondary schools in Yishun pit their public speaking skills to vie for the title of being Chong Pang Next Top Spealer. Azri&rsquo;s prepared speech on, &ldquo;What is life?&rdquo; and the impromptu speech on, &ldquo;Internet should be a human right. Discuss.&rdquo; was dealt with so much verve and confidence and won over the judges. With him earning the title of, &lsquo;Chong Pang Next Top Speaker 2022&rsquo;, the Challenge Trophy has finally made its way home to Northland after 6 long years. Congratulations to all our Northstars who have participated and a very big thank you to our Starmakers for guiding them.&nbsp;</p>
+<h4><strong>Northland Speech and Prize-Giving Day &ndash; Strive and Strive</strong></h4>
+<p>On 22 April 2022, Northland had our Speech and Prize-Giving Day, where we recognised and affirmed award winners for their outstanding 2021 achievements and contributions to the school.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRk1Y7Mn7zjiQVFkCWa_h-6O1_6Ny-I18oQXUkodfDs9XMpI4rtYZH7EXsLK80PsmvPxE4sMtR_mOfW/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
