@@ -2,6 +2,7 @@ collections:
   academic-curriculum:
     output: true
     order:
+      - NDLP/Acer Chromebook Spin 511 (PLD purchased in 2022).md
       - NDLP/.keep
       - Craft and Technology Department.md
       - English Language & Literature Department.md
