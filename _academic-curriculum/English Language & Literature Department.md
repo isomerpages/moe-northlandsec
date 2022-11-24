@@ -35,3 +35,22 @@ description: ""
 <li>To provide opportunities for students to write creatively and enhance their ability to understand the thought processes behind literary works</li>
 </ul>
 <h4><strong>Department Programmes</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 40%;"><img src="/images/eng2.png"></td>
+<td style="width: 60%;">
+<h4><strong>Take the Mic</strong></h4>
+<p>Be an English STAR! Develop your confidence in public speaking and share your interests with your friends! Who knows where this may take you?</p>
+</td>
+</tr>
+<tr>
+<td style="width: 40%;"><img src="/images/eng3.png"></td>
+<td style="width: 60%;">
+<h4><strong>Blackout Poetry</strong></h4>
+<p>Look at texts and pages on novels and 'shine a torch' on words from the pages that speak to your heart. Create your own poem out of those words.</p>
+<p>Unleash your inner poet through the Literature unit at Northland! </p>
+</td>
+</tr>
+</tbody>
+</table>
