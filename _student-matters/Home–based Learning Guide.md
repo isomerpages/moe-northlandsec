@@ -348,3 +348,71 @@ description: ""
 </tbody>
 </table>
 <h4><strong>Secondary 1 &amp; 3: HBL Plan for 25 April (Term 2 Week 6)</strong></h4>
+<table class="ive_eobj_center iveo_table ives_tab_green">
+<tbody>
+<tr>
+<th>Sec 1</th>
+<th>Sec 3</th>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
+<tr>
+<td><a href="/files/1S1%20HBL%20Plan%20-%20Mon%2025%20Apr.pdf" target="_blank" rel="noopener">1S1</a></td>
+<td><a href="/files/3A1%20HBL%20Plan%20-%20Mon%2025%20Apr.pdf" target="_blank" rel="noopener">3A1</a></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><a href="/files/1S2%20HBL%20Plan%20-%20Mon%2025%20Apr.pdf" target="_blank" rel="noopener">1S2</a></td>
+<td><a href="/files/3A2%20HBL%20Plan%20-%20Mon%2025%20Apr.pdf" target="_blank" rel="noopener">3A2</a></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><a href="/files/1S3%20HBL%20Plan%20-%20Mon%2025%20Apr.pdf" target="_blank" rel="noopener">1S3</a></td>
+<td><a href="/files/3A3%20HBL%20Plan%20-%20Mon%2025%20Apr.pdf" target="_blank" rel="noopener">3A3</a></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><a href="/files/1S4%20HBL%20Plan%20-%20Mon%2025%20Apr.pdf" target="_blank" rel="noopener">1S4</a></td>
+<td><a href="/files/3A4%20HBL%20Plan%20-%20Mon%2025%20Apr.pdf" target="_blank" rel="noopener">3A4</a></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><a href="/files/1S5%20HBL%20Plan%20-%20Mon%2025%20Apr.pdf" target="_blank" rel="noopener">1S5</a></td>
+<td><a href="/files/3A5%20HBL%20Plan%20-%20Mon%2025%20Apr.pdf" target="_blank" rel="noopener">3A5</a></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><a href="/files/1S6%20HBL%20Plan%20-%20Mon%2025%20Apr.pdf" target="_blank" rel="noopener">1S6</a></td>
+<td><a href="/files/3A6%20HBL%20Plan%20-%20Mon%2025%20Apr.pdf" target="_blank" rel="noopener">3A6</a></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;<a href="/files/1S7%20HBL%20Plan%20-%20Mon%2025%20Apr.pdf" target="_blank" rel="noopener">1S7</a></td>
+<td><a href="/files/3A7%20HBL%20Plan%20-%20Mon%2025%20Apr.pdf" target="_blank" rel="noopener">3A7</a></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><a href="/files/1S8%20HBL%20Plan%20-%20Mon%2025%20Apr.pdf" target="_blank" rel="noopener">1S8</a></td>
+<td><a href="/files/3A8%20HBL%20Plan%20-%20Mon%2025%20Apr.pdf" target="_blank" rel="noopener">3A8</a></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Secondary 1 - 4/5: HBL Plan for 11 April (Term 2 Week 4)</strong></h4>
