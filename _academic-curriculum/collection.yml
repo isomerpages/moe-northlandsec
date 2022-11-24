@@ -2,6 +2,7 @@ collections:
   academic-curriculum:
     output: true
     order:
+      - Humanities Department.md
       - Mathematics Department.md
       - Mother Tongue Department.md
       - Physical Education & Music Department.md
