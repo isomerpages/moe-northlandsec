@@ -1,5 +1,7 @@
 logo: /images/logo.png
 links:
+  - title: Academic Curriculum
+    collection: academic-curriculum
   - title: Student Matters
     collection: student-matters
   - title: Student Development Curriculum
