@@ -55,3 +55,31 @@ description: ""
 <h4><strong>Northland Speech and Prize-Giving Day &ndash; Strive and Strive</strong></h4>
 <p>On 22 April 2022, Northland had our Speech and Prize-Giving Day, where we recognised and affirmed award winners for their outstanding 2021 achievements and contributions to the school.</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRk1Y7Mn7zjiQVFkCWa_h-6O1_6Ny-I18oQXUkodfDs9XMpI4rtYZH7EXsLK80PsmvPxE4sMtR_mOfW/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p>In our journey of trying to keep the flame of success alive, our Northstars and Starmakers have put in so much effort. The theme &lsquo;Stride &amp; Strive&rsquo; captured how Northstars and Starmakers had worked hard, and their achievements, celebrate this effort. The theme also sought to encourage each other to stride and strive, to continue our pursuit to take everyday challenges in our stride, and strive to attain what we dream of in our life journey. Congratulations to all Northstars and Starmakers!</p>
+<h4><strong>Learners who Share &ndash; An outing to watch Meenah and Cheenah</strong></h4>
+<p>On 13 May, our teachers brought the Upper Secondary Literature students to Capitol Theatre to watch Meenah and Cheenah, a play staged by Dream Academy. The students were extremely excited as the play was a sweet celebration of the end of the exam season!</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTl35EHjjIiRkSbNaBtxPRT3osOkkCkwa1-4ApOabEXNp98Seo8g6B6yzRJW0lcZFbdLMjQKgLyKbAG/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p>The play was about the close friendship of a Chinese and Malay duo, and revealed the racial harmony as well as racial stereotypes that our society perpetuates. Overall, the play was uplifting, hilarious and highly entertaining too.</p>
+<p>Here&rsquo;s what some of our students have to say:</p>
+<p>&ldquo;What I liked about the play was the inside jokes that are relatable to Singaporeans! I also liked the Tik Tok dance breaks as the actors were so cute and the audience cheered loudly for them!&rdquo; - Joy, 3A1</p>
+<p>&ldquo;I rate the show 10/10. The show was very entertaining and kept me hooked from the start till the end. It really shows the stereotypes and discrimination of the minority in a controversial yet humorous way. I also enjoyed spending time with my peers. Definitely a highlight of my secondary 4 year!&ldquo; - Hari, 4R4</p>
+<p>Indeed, teachers and students alike were laughing throughout the play! We are already looking forward to the next opportunity to bring the students out for a play.</p>
+<h4><strong>Northstars Shine! &ndash; National Cadet Corps (Land)</strong></h4>
+<img src="/images/eve3.jpg">
+<p>Congratulations to our NCC Land cadets for being awarded DISTINCTION in the Unit Recognition Award. Well done Northstars!</p>
+<h4><strong>Northstars Shine! &ndash; National Cadet Corps (Air)</strong></h4>
+<img src="/images/eve4.jpg">
+<p>Congratulations to our NCC Air cadets for being awarded DISTINCTION in the Unit Recognition Award. Well done Northstars!</p>
+<h4><strong>A Northstar Shines! - Alesha Binte Mohamed Shabir from class 1S8</strong></h4>
+<img src="/images/eve5.jpeg">
+<p>Our school would like to affirm our young and amazingly talented Northstar, Alesha Binte Mohamed Shabir from class 1S8, whose lyrics were chosen to feature in one of the songs from 128 Circle, Gonna Rise Up! 128 Circle is a drama serial featured on Channel 5 which shows the daily lives of hawkers from a food centre, the daily sights and sounds that we, Singaporeans are familiar with and are proud of, and the challenges they face. Alesha&rsquo;s achievement is also testament that you are never too young for anything and to reach for the skies if you dare! Well done, Alesha!</p>
+<h4><strong>Northstars Shine! - Girl Guides</strong></h4>
+<img src="/images/eve6.jpg">
+<p>Congratulations to our Girl Guides for being awarded the Puan Noor Aishah BRONZE Award. The Puan Noor Aishah Award is a significant award presented to all Girl Guides Units who have fulfilled the criteria set by Girl Guides Singapore to recognise outstanding and effective units. Well done Northstars!</p>
+<h4><strong>Northstars Shine! &ndash; National Police Cadet Corps</strong></h4>
+<img src="/images/eve7.jpg">
+<p>Congratulations to our NPCC cadets for being awarded GOLD in the Unit Overall Proficiency Award (UOPA). The UOPA is a benchmark used to rank the NPCC Units in Singapore. It is an annual assessment which comprises of many categories, including the unit administration, enrichments and activities participation, achievement in various competitions and cadets&rsquo; promotion and awards. Well done Northstars!</p>
+<h4><strong>Visit by our Second Minister for Education, Dr Mohamad Maliki Bin Osman</strong></h4>
+<p>Northland Secondary School was graced by a visit from our Second Minister for Education, Dr Mohamad Maliki Bin Osman on 19 April. He officiated the opening of our new Student Recreation Centre, the Nebula and also engaged with some of our Northstars and Starmakers. At the Nebula Student Centre, Dr Maliki was warmly welcomed by our student hosts Ng Chee Yong from class 3A5 and Nur Khaililah Binte Halil from class 3A7.</p>
+<p>Nebula Student Centre will be officially opened from Friday, 22 April after our Speech Day celebrations and it promises to be the hottest new place in Northland!</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSOJfFBx3DqOS7KtPDNwQpKj2_f1e-Ik_la4PCltcIOE86aqUilqF7FbzG2afKn40Yl5j_nZ5_lr6GT/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
