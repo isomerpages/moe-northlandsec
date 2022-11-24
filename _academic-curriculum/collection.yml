@@ -2,6 +2,7 @@ collections:
   academic-curriculum:
     output: true
     order:
+      - Full Subject–Based Banding(FSBB).md
       - Applied Learning Programme (ALP) @ NSS–Eldertech.md
       - NDLP/Information on NDLP.md
       - NDLP/Lenovo Chromebook 500e (PLD purchased in 2021).md
