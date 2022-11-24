@@ -2,6 +2,7 @@ collections:
   academic-curriculum:
     output: true
     order:
+      - Mother Tongue Department.md
       - Physical Education & Music Department.md
       - Science Department.md
       - Normal Technical (NT) Curriculum.md
