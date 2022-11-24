@@ -13,14 +13,14 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 40%;">&nbsp;</td>
+<td style="width: 40%;"><img src="/images/ctd2.png"></td>
 <td style="width: 60%;">
 <h4><strong>Artmosphere</strong></h4>
 <p>Artmosphere is an annual event where students and staff participate actively to  create an artwork to demonstrate our commitment to care for our green earth during SPARCLE 2, a signature programme of our effort to go green.</p>
 </td>
 </tr>
 <tr>
-<td style="width: 40%;">&nbsp;</td>
+<td style="width: 40%;"><img src="/images/ctd3.png"></td>
 <td style="width: 60%;">
 <h4><strong>Design Thinking </strong></h4>
 <p>Design and Technology at Northland uses Design Thinking to analyse users’ needs, thinking and behaviour.</p>
@@ -28,7 +28,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 40%;">&nbsp;</td>
+<td style="width: 40%;"><img src="/images/ctd4.png"></td>
 <td style="width: 60%;">
 <h4><strong>Food & Consumer Education</strong></h4>
 <p>FCE will guide you in learning more about how nutrition supports our health and sustainability, and help you make more informed decisions for a healthier life!</p>
