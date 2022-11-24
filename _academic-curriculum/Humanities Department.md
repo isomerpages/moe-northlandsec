@@ -14,7 +14,7 @@ description: ""
 <tr>
 <td style="width: 40%;"><img src="/images/hum1.jpg"></td>
 <td style="width: 60%;">
-<h4>Take a Stand</h4>
+<h4><strong>Take a Stand</strong></h4>
 <p>Be the voice; take a stand!<br>
 Make a difference and be the change you wish to see in the world.</p>
 </td>
@@ -22,7 +22,7 @@ Make a difference and be the change you wish to see in the world.</p>
 <tr>
 <td style="width: 40%;"><img src="/images/hum2.jpg"></td>
 <td style="width: 60%;">
-<h4>Preloved, Preferred</h4>
+<h4><strong>Preloved, Preferred</strong></h4>
 <p>Selling second hand, buying a second chance… for Earth and its people.</p>
 </td>
 </tr>
