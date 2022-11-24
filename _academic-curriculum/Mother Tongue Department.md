@@ -22,3 +22,14 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 40%;"><img src="/images/mt2.png"></td>
+<td style="width: 60%;">
+<h4><strong>REad with Active Participation</strong></h4>
+<p>Spend a day as a journalist! With REAP,  you get the chance to sharpen your critical and creative thinking through journalistic activities. Design a newspaper and even produce  a news video! You also get to develop digital literacies and apply information skills. </p>
+</td>
+</tr>
+</tbody>
+</table>
