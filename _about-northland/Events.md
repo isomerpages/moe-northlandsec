@@ -270,3 +270,10 @@ description: ""
 <img src="/images/eve9.jpeg">
 <h4><strong>Bestowment Ceremony &ndash; Pipe Band</strong></h4>
 <p>The Pipe Band will be participating in the Southeast Asian Pipe Band Championships on 1st and 2nd June. The Championships is a competitive pipe band event held in Singapore. It is in line with international piping standards and conducted at both solo and band categories. Good luck Northstars!&nbsp;</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTIMhrJCwF1P6SOA_E4wMMjsjUPUT2FvLQwJgeOZ0U0NSvKJx-KMEaz3p60dybgHv5IMIrpLC1qNKQo/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h4><strong>Northland Secondary School Anti-Drug Week</strong></h4>
+<p>This week commemorates Northland&rsquo;s Anti-Drug Week. During the week, Northstars learnt more about the harmful effects of drugs, their consequences and how they hurt those around them. The highlight of the week was when special guest star, Mr Noel Yap of Ah Boys to Men fame, gave an honest sharing of how his life was almost ruined by drugs. It was indeed a good week of learning.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMy_QXKjX35KpTbtrbwlRoeRFToEtsHvqYNCs7KuvQpWgCp0syRt6Cpy-HqkJmS65oUw0cokOeyg3n/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h4><strong>Arts Showcase &ndash; Indian Dance, Malay Dance and MCAC</strong></h4>
+<p>The school was given a real treat as our school&rsquo;s dance groups performed for the school as a run-up to Singapore Youth Festival Arts Presentation. The performances were original, bold and entertaining. Most importantly, they show the resilience Northstars have put in.&nbsp;</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNQ81MoPBmG6Qypl_zIpFdWwHDj_Obmee_4FukQuhpP6lzoiBEe8JoEHuS_VTcysufzbBGfoFRMFZF/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
