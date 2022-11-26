@@ -226,3 +226,9 @@ description: ""
 <p><strong>CLASS ACTIVITY</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyGitKSTZm17_OZOKULuKhZdFmUVXJuabwrTNVwSEoMeJLsqq-FYLQwmJJW-XRxNC0UVQSPsVEgJKG/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p><strong>CONCERT</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQJ1oPoj_X_n1IIsiF7noydAzMg7jwMM8zH8SL7n5NhRd4ft7nhwLtviHwxLG8xfDVe35zUjI8rofd/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p><strong>OBSERVANCE PARADE</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAn7WpAnn-mOnVUwaXjG9YoeDRk2rckfKj8-5LBzlMCO8fFFPVwx5kEIl31DbxFpbqMSdOPnn1vswE/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h4><strong>Movie Night</strong></h4>
+<p>On 26 July Friday, 98 students and their families had a blast watching the movie, &ldquo;Aquaman&rdquo; in our school hall. There was a kampong-like atmosphere with everyone relaxing as they watched the movie &ldquo;Aquaman&rdquo;. This activity was organised by our dedicated Parent Support Group (PSG). Our students went home with wonderful memories.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTq8nMDlRHycl-uEDD4WuPz0MbloZTSsWzYCSxF0W7vh1x9aHUnkfhwyEzDjxUVBWqRlEQzvwvrozyj/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
