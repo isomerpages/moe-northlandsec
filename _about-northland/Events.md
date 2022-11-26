@@ -117,3 +117,5 @@ description: ""
 <img style="width: 60%;" src="/images/mcac.jpg" />
 <h4 style="text-align: center;">National Day Celebrations</h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTtuXm_z_RmcnAjtb0QzmwmvgxuyHlU9quFqiBg3Cjq_nJz4npV-ruI8phSkLiEWOtW6FrxEvEzH182/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h4 style="text-align: center;">Virtual Learning Journey - Civic District</h4>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSMc13YF1EHTNlPaIE0c1reUQcXy8ZeIrfScf__VGKbEMibvNKgP5gPSz9mEuegAXz1q8RoUBqN998u/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
