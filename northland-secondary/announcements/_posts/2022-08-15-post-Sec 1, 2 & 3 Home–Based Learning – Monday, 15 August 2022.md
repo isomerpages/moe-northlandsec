@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/a2.jpg">
+<p>Dear Northstars, you can access your Home-Based Learning Plan&nbsp;<a href="/student-matters/home-based-learning-guide" target="_blank" rel="noopener"><strong>HERE</strong></a>. Remember to be responsible for your learning.</p>
