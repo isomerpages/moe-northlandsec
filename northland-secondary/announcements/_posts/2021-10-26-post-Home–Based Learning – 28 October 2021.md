@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/a14.png">
+<p>Dear Secondary 1-3 Northstars, your Home-Based Learning will be on 28 October. You can access your Home-Based Learning Plan&nbsp;<a href="/student-matters/home-based-learning-guide"><strong>HERE</strong></a>. Remember to be responsible for your learning.</p>
