@@ -10,3 +10,6 @@ third_nav_title: SPARCLE Weeks
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-sEHx5wbBh1vP7UdXlHBHPw5zKmBUT2muvSuLvwKAYuBDTzEncTOQ9OabW2vYXoxMV615VfGC4mYV/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <h4><strong>Artmosphere</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtFXNuaaZG8AwgZD9EoGiL0gEWG55V8jjxsycmtPXoqssRaQyQbHteKJl1poc8bFI6-BWlj3A7n0yy/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h4><strong>Secondary 1 - Living in Harmony with Nature</strong></h4>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlkmwoxv0KDw67fC64gYyVa8vxvtYnsDq0883Rhg5rieHbuOG8ar-bzieYFERFrcva-dClr1WzmlQq/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h4><strong>Secondary 2 - Towards a Zero Waste Nation</strong></h4>
