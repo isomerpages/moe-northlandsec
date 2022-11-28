@@ -13,3 +13,6 @@ third_nav_title: SPARCLE Weeks
 <h4><strong>Secondary 1 - Living in Harmony with Nature</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlkmwoxv0KDw67fC64gYyVa8vxvtYnsDq0883Rhg5rieHbuOG8ar-bzieYFERFrcva-dClr1WzmlQq/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <h4><strong>Secondary 2 - Towards a Zero Waste Nation</strong></h4>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmJ5fByDImJ3elCY3jJ9W-YZMzbvJ7B8tpfqKNaPl7OTyzl3EFQtv3JQ5eNu8k1ihP5PZj_08QpFpR/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h4><strong>Secondary 3 - Promoting Eco Smart Towns</strong></h4>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzzVfUoL1doUQU40NbqO_MJ5zb0Z_hbyVNiGO2G_dEjt-bA229l9LXPgC_RGxywhGujsao13gttQmA/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
