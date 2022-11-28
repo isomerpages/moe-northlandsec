@@ -2,8 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
-      - SPARCLE Weeks/SPARCLE Weeks.md
-      - SPARCLE Weeks/.keep
+      - CCE/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/Values in Action.md
       - CCE/National Education.md
@@ -13,11 +12,12 @@ collections:
       - CCE/Cyberwellness.md
       - CCE/SEPAS Balanced Wellness.md
       - CCE/Socio–Emotional Learning.md
-      - CCE/.keep
       - Co–Curricular Activities (CCA).md
       - Direct School Admission (DSA).md
       - Learning for Life Programme (LLP).md
+      - SPARCLE Weeks/.keep
+      - SPARCLE Weeks/SPARCLE Weeks.md
       - Students' Council.md
+      - After School Education/.keep
       - After School Education/ACE Programme.md
       - After School Education/Nebula Student Centre.md
-      - After School Education/.keep
