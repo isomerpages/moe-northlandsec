@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/a10.jpeg">
+<p>Dear Northstars, you can access your Home-Based Learning Plan&nbsp;<strong><a href="https://northlandsec.moe.edu.sg/student-matters/home-based-learning-guide" target="_blank" rel="noopener">HERE</a></strong>. Remember to be responsible for your learning.</p>
