@@ -2,6 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
+      - SPARCLE Weeks/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/Values in Action.md
       - CCE/National Education.md
