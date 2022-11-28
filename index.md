@@ -7,23 +7,17 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.jpg
+      background: /images/banner1.jpeg
       button: Welcome!
       url: /secondary-1-registration-2023/welcome
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        - title: Events
+          description: Featured Stories
+          url: /about-northland/events
+        - title: SPARCLE Weeks
+          description: Featured Stories
+          url: /student-development-curriculum/sparcle-weeks/sparcle-2
+  - resources:
+      title: Announcements
+      button: More Announcements
 ---
