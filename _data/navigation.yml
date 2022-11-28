@@ -1,5 +1,7 @@
 logo: /images/logo.png
 links:
+  - title: About Northland
+    collection: about-northland
   - title: Academic Curriculum
     collection: academic-curriculum
   - title: Student Matters
