@@ -2,12 +2,12 @@ collections:
   student-matters:
     output: true
     order:
-      - Administration/Financial Matters.md
+      - Administration/.keep
       - Administration/Student Handbook.md
+      - Administration/Financial Matters.md
       - Administration/Financial Assistance Scheme (FAS).md
       - Administration/Pacific Bookstore Purchase Guide.md
       - Administration/Uniform Sale Guidelines.md
-      - Administration/.keep
       - Administration/The Code of Conduct for Students.md
       - Administration/Electronic Devices Policy.md
       - Administration/School Rules.md
