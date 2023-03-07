@@ -2,6 +2,7 @@ collections:
   student-matters:
     output: true
     order:
+      - Administration/Financial Matters.md
       - Administration/Student Handbook.md
       - Administration/Financial Assistance Scheme (FAS).md
       - Administration/Pacific Bookstore Purchase Guide.md
