@@ -2,8 +2,8 @@ title: Northland Secondary School
 url: https://northlandsec.moe.edu.sg
 favicon: /images/logo.png
 colors:
-  primary-color: "#007b38"
-  secondary-color: "#786658"
+  primary-color: "#d0021b"
+  secondary-color: "#f8e71c"
   media-colors:
     - title: media-color-one
       color: "#bc1414"
