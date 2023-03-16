@@ -4,7 +4,7 @@ permalink: /student-development-curriculum/character-n-citizenship-education/moe
 description: ""
 third_nav_title: CCE
 ---
-<p><strong><span style="color: #38761d;">Updated:&nbsp; January 2022</span></strong></p>
+<p><strong><span style="color: #38761d;">Updated:  Feb 2023</span></strong></p>
 <p style="text-align: center;"><strong>NORTHLAND SECONDARY SCHOOL<br /></strong><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></p>
 <table class="ive_eobj_center ives_tab_kosong">
 <tbody>
@@ -89,6 +89,8 @@ third_nav_title: CCE
 </tr>
 </tbody>
 </table>
+<a href="/student-development-curriculum/character-and-citizenship-education/moe-sexuality-education-in-schools/sec-1-sexuality-education-programme">Link to Sexuality Education Programme Pages</a>
+
 <img style="width: 50%;" src="/images/img.jpg" />
 <p style="text-align: center;"><strong>At Northland Secondary School, the following lessons from the&nbsp;<br /></strong><strong>Sexuality Education Programme&nbsp;</strong><strong>will be taught in&nbsp;<u>2022</u>:</strong></p>
 <p style="text-align: center;"><strong>Secondary 1</strong></p>
