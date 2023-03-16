@@ -3,7 +3,11 @@ title: Events
 permalink: /about-northland/events/
 description: ""
 ---
-
+<h4><strong>Mother Tongue Languages Fortnight - Live our Language. Love our Culture</strong></h4>
+<p>In line with the Mother Tongue Language Department&rsquo;s mission of &lsquo;&lsquo;Live our Language, Love our Culture&rsquo;, the department organised interesting hands-on activities for our students to gain a deeper understanding of their respective cultures and heritage.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ858xh54S_2Olxo1rJamFqDf4ogPrdwKJ_anafSBeHfrA6pMylnKRvSt4K61-aIBr--CXk_YBYs_wz/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h4><strong>Northland commemorates Total Defence Day -Citizens who Care</strong></h4>
+<p>Northland commemorated Total Defence Day on 14 February. Our theme this year is &ldquo;Together, We Keep Singapore Strong&rdquo;. The school had arranged a whole suite of experiential learning programmes to remind Northstars that Singapore is worth defending, and we ourselves must defend Singapore. During SPARCLE lessons, our lower secondary students played Guardians of the City, a Total Defence strategy card game while our upper secondary students learnt more about Digital Defence. In the afternoon, our Secondary 1s learnt how to perform CPR and our Secondary 2s went to Singapore Discovery Centre to learn more about Military Defence. Our Secondary 3s learnt more about Changi Airport in the Changi Experience Studio and our graduating classes embarked on their VIA Journeys.</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQl3n_EwEwzoC9L0u7dRWG0w_zWTExN9vKvKseI-BijMqpgc-ZMCi1ErBRbQe5xZ4JEftxUzkxyEVAl/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <h4><strong>Northland celebrates Chinese Lunar New Year</strong></h4>
 <p>Northland celebrated Chinese Lunar New Year on 20 January. This year, the theme for the New Year celebrations is &lsquo;Leaping to an auspicious year&rsquo; to usher in the year of the Rabbit. We started the week with a classroom decoration competition and also a lesson on making rabbit lanterns. On 20 January, the celebrations started with entertaining performances by the Guzheng Ensemble, Wushu and MCAC and then the school was then visited by some special guests &ndash; 2 LED lighted lions and the &lsquo;God of Fortune&rsquo;!</p>
