@@ -1,4 +1,5 @@
 collections:
   unused-pages:
     output: true
-    order: []
+    order:
+      - Home–based Learning Guide.md
