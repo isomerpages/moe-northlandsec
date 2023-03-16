@@ -2,4 +2,5 @@ collections:
   unused-pages:
     output: true
     order:
+      - NOVIA.md
       - Home–based Learning Guide.md
