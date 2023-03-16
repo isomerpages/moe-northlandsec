@@ -4,6 +4,9 @@ permalink: /about-northland/events/
 description: ""
 ---
 
+
+<h4><strong>Welcome back to school &ndash; Start Right 2023</strong></h4>
+<p>Northland Secondary School welcomed our Northstars back to school and began our Start Right Programme. During the week, Northstars had a good time reconnecting with their Class Mentors and their friends. Our new Secondary 1 Northstars also had the opportunity to know new friends, teachers and their new school. The year definitely promises to be an exciting one for our Northstars!</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSc03RLM5jg4mwvCyWsm6BRFr-x1Tqsq5oZgJlJ6olwDShQ3WKUpqhsFYkZ3nX4z8FrVRb7ZTrkovob/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <h4><strong>Northstars Shine! - Release of 2022 GCE N-level Results</strong></h4>
 <p>On Monday, 19 December 2022, graduating students from Northland Secondary School received their GCE N-level results. All of them were warmly welcomed by our School Leaders and Year Head. In the Normal Academic course, 50% of our 4NA students qualified to come back for Secondary 5 and 38 students qualified for the Direct-Entry-Scheme to Polytechnic Programme (DPP). In the Normal Technical course, 100% of the students qualified for post-secondary education in the Institute of Technical Education (ITE).</p>
