@@ -2,6 +2,7 @@ collections:
   student-matters:
     output: true
     order:
+      - Home–based Learning Guide.md
       - Administration/.keep
       - Administration/Student Handbook.md
       - Administration/Financial Matters.md
