@@ -31,7 +31,6 @@ third_nav_title: Secondary Two
 </tr>
 </tbody>
 </table>
-</div>
 <p><strong>For students</strong><strong>who&nbsp;</strong><strong>wish to appeal for a change</strong><strong>&nbsp;of their subject combination:</strong></p>
 <p>a) Download the&nbsp;<a href="/files/Appeal%20Form%202020.pdf"><strong>Appeal Form</strong></a> and&nbsp;complete it.</p>
 <p>b) Attach a photocopy of your HDP result.</p>
