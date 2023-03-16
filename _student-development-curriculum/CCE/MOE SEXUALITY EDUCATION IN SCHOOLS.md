@@ -89,7 +89,7 @@ third_nav_title: CCE
 </tr>
 </tbody>
 </table>
-<a href="/student-development-curriculum/character-and-citizenship-education/moe-sexuality-education-in-schools/sec-1-sexuality-education-programme">Link to Sexuality Education Programme Pages</a>
+<a href="/student-development-curriculum/character-and-citizenship-education/moe-sexuality-education-in-schools/sec-1-sexuality-education-programme"><h4 style="text-align: center;"><strong>Link to Sexuality Education Programme Pages</a></strong></h4>
 
 <img style="width: 50%;" src="/images/img.jpg" />
 <p style="text-align: center;"><strong>At Northland Secondary School, the following lessons from the&nbsp;<br /></strong><strong>Sexuality Education Programme&nbsp;</strong><strong>will be taught in&nbsp;<u>2022</u>:</strong></p>
