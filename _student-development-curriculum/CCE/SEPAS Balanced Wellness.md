@@ -8,7 +8,7 @@ third_nav_title: CCE
 <tbody>
 <tr>
 <th colspan="5">
-<h4><strong><span style="color: #990000; font-size: large;">STUDENT'S GUIDE TO SEPAS BALANCED WELLNESS</span></strong></h4>
+<h4 style="text-align: center;" ><strong><span style="color: #990000; font-size: large;">STUDENT'S GUIDE TO SEPAS BALANCED WELLNESS</span></strong></h4>
 </th>
 </tr>
 <tr>
@@ -39,7 +39,6 @@ third_nav_title: CCE
 <div>&nbsp;</div>
 <div><strong>Offer support to others</strong></div>
 <div>When your friend has a problem, how do you help? Sometimes, all you have to do is be a good listener. Show your friend that you are there to support him/her through the hard times. If the problem is too huge for your friend to handle, encourage him/her to share it with an adult -who may be able to help.</div>
-<div>&nbsp; &nbsp; &nbsp; &nbsp;</div>
 </td>
 </tr>
 <tr>
