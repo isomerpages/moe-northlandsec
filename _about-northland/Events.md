@@ -4,6 +4,9 @@ permalink: /about-northland/events/
 description: ""
 ---
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTPmVsw-D3rJQeWIn9K-YasJpq_kG1FHOHJFQ-cFjjDtqaxOQVr9YHn7AsP7HnmrFAS-tAaNVcHDrok/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h4><strong>Northland celebrates Pongal</strong></h4>
+<p>Northland Secondary School celebrated Pongal on Friday, 13 January. Pongal is a festival celebrated in South India over four days, by farmers who give thanks to the Sun God for the blessings of a rich harvest and our school seeks to educate our Northstars on the significance of Pongal in our community and also stress on the importance about learning about other cultures and practices.</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRz3fr_9KJp96PmgSdgPm67DNlY05LL7t7pvlK4UVqDACF7UZYuNEaGNPMwjPb0-MDqf6Yh6lWjAKfV/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <h4><strong>Northstars Shine! - Release of 2022 GCE O-level Results</strong></h4>
 <p>On Monday 12 January, graduating students from Northland Secondary School received their GCE O-level results. All of them were warmly received by our School Leaders and Year Head. After a short JAE briefing, the graduating students received their result slips from their respective Class Mentors.</p>
