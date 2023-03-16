@@ -2,4 +2,5 @@ collections:
   moe-sexuality-education:
     output: true
     order:
+      - Information for Parents.md
       - Sec 1 Sexuality Education Programme.md
