@@ -14,7 +14,7 @@ third_nav_title: Administration
 <p><strong>TYPES AND CONDITIONS OF ASSISTANCE</strong>&nbsp;</p>
 <p><strong>1. MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME<br /></strong>The Ministry of Education provides financial assistance to Singaporean students from our Government and Government-Aided Schools who need financial assistance for their studies.</p>
 <p><strong>INCOME CRITERION:</strong></p>
-<p style="text-align: center;">Gross Monthly Household Income = $2,750 or below<br />OR<br />Per Capita Income = $690 or below<br />(Per Capita Income = Total Gross Monthly Household Income divided by the No. of Household Members)</p>
+<p style="text-align: center;">Gross Monthly Household Income = $3000 or below<br />OR<br />Per Capita Income = $750 or below<br />(Per Capita Income = Total Gross Monthly Household Income divided by the No. of Household Members)</p>
 <img src="/images/fas.jpg">
 <p><strong>HOW TO APPLY?<br /></strong>Application forms are available from the school and MOE website. The school will notify you of the outcome of your application.</p>
 <p>You can click <a href="https://go.gov.sg/moe-efas" target="">here</a>&nbsp;or scan the QR code to submit the form online via FormSG</p>
