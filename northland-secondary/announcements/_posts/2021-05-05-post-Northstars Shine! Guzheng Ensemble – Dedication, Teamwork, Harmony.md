@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/nsge.png">
+<p>Congratulations to our Guzheng Ensemble for being awarded the Certificate of Distinction for their SYF Arts Presentation!</p>
