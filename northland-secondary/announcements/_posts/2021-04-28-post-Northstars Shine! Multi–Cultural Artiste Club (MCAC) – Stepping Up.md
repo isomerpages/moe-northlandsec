@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/nsmcac.png">
+<p>Congratulations to our MCAC for clinching the Certificate of Accomplishment for their SYF Arts Presentation! Well done Northstars!</p>
