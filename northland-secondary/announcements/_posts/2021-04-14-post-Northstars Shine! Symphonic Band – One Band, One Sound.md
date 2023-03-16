@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/nssb.png">
+<p>Congratulations to our Symphonic Band for being awarded the Certificate of Accomplishment for their SYF Arts Presentation!</p>
