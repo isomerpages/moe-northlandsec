@@ -1,4 +1,5 @@
 collections:
   moe-sexuality-education:
     output: true
-    order: []
+    order:
+      - Sec 1 Sexuality Education Programme.md
