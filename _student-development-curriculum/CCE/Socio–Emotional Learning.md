@@ -36,6 +36,6 @@ third_nav_title: CCE
 </table>
 <p><strong>Time Out Programme<br /></strong>We recognise formal education as a choice route to the future for our students. Thus, we run the Time Out Programme to provide additional support to students facing difficulties with schooling. IN Northland Secondary School, two variants are run:</p>
 <ol style="list-style-type: lower-alpha;">
-<li>a. GLOW, to support students with entrenched difficulties in terms of school-readiness</li>
-<li>b. SHINE, to enhance student attitudes and behaviours towards schooling.</li>
+<li>GLOW, to support students with entrenched difficulties in terms of school-readiness</li>
+<li>SHINE, to enhance student attitudes and behaviours towards schooling.</li>
 </ol>
