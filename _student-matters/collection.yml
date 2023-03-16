@@ -2,7 +2,6 @@ collections:
   student-matters:
     output: true
     order:
-      - Home–based Learning Guide.md
       - Administration/.keep
       - Administration/Student Handbook.md
       - Administration/Financial Matters.md
@@ -13,14 +12,16 @@ collections:
       - Administration/Electronic Devices Policy.md
       - Administration/School Rules.md
       - Administration/Rights & Responsibilities of Stakeholders.md
+      - Home–based Learning Guide.md
       - Home–based Learning – Helpline.md
+      - Secondary One/.keep
       - Secondary One/Updates & Announcements.md
       - Secondary One/Timetable.md
       - Secondary One/Booklist.md
       - Secondary One/SPARCLE 1 for Secondary 1s.md
       - Secondary One/Sec 1 Staff.md
       - Secondary One/Sec 1 Weighted Assessment.md
-      - Secondary One/.keep
+      - Secondary Two/.keep
       - Secondary Two/Secondary Two.md
       - Secondary Two/Updates & Announcements.md
       - Secondary Two/Timetable.md
@@ -29,7 +30,7 @@ collections:
       - Secondary Two/SPARCLE 1 for Secondary 2s.md
       - Secondary Two/Sec 2 Staff.md
       - Secondary Two/Sec 2 Weighted Assessment.md
-      - Secondary Two/.keep
+      - Secondary Three/.keep
       - Secondary Three/Secondary Three.md
       - Secondary Three/Updates & Announcements.md
       - Secondary Three/NOVIA.md
@@ -39,7 +40,7 @@ collections:
       - Secondary Three/SPARCLE 1 for Secondary 3s.md
       - Secondary Three/Sec 3 Staff.md
       - Secondary Three/Sec 3 Weighted Assessment.md
-      - Secondary Three/.keep
+      - Secondary Four & Five/.keep
       - Secondary Four & Five/Secondary Four & Five.md
       - Secondary Four & Five/Updates & Announcements.md
       - Secondary Four & Five/Sec 4E & 5N Graduation Package.md
@@ -50,4 +51,3 @@ collections:
       - Secondary Four & Five/Sec 4N Elective Modules.md
       - Secondary Four & Five/Sec 4&5 Staff.md
       - Secondary Four & Five/Sec 4 & 5 Weighted Assessment.md
-      - Secondary Four & Five/.keep
