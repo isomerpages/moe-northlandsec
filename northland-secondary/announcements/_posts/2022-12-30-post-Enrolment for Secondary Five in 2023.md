@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/log.png">
+<p>The following students are accepted to study Secondary Five for the year 2022. Please click&nbsp;<a href="/files/Sec%205%202023.pdf"><strong>HERE</strong>&nbsp;</a>for the list.</p>
