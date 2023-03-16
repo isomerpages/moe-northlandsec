@@ -4,6 +4,9 @@ permalink: /about-northland/events/
 description: ""
 ---
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQl3n_EwEwzoC9L0u7dRWG0w_zWTExN9vKvKseI-BijMqpgc-ZMCi1ErBRbQe5xZ4JEftxUzkxyEVAl/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h4><strong>Northland celebrates Chinese Lunar New Year</strong></h4>
+<p>Northland celebrated Chinese Lunar New Year on 20 January. This year, the theme for the New Year celebrations is &lsquo;Leaping to an auspicious year&rsquo; to usher in the year of the Rabbit. We started the week with a classroom decoration competition and also a lesson on making rabbit lanterns. On 20 January, the celebrations started with entertaining performances by the Guzheng Ensemble, Wushu and MCAC and then the school was then visited by some special guests &ndash; 2 LED lighted lions and the &lsquo;God of Fortune&rsquo;!</p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTPmVsw-D3rJQeWIn9K-YasJpq_kG1FHOHJFQ-cFjjDtqaxOQVr9YHn7AsP7HnmrFAS-tAaNVcHDrok/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <h4><strong>Northland celebrates Pongal</strong></h4>
 <p>Northland Secondary School celebrated Pongal on Friday, 13 January. Pongal is a festival celebrated in South India over four days, by farmers who give thanks to the Sun God for the blessings of a rich harvest and our school seeks to educate our Northstars on the significance of Pongal in our community and also stress on the importance about learning about other cultures and practices.</p>
