@@ -3,10 +3,10 @@ url: https://northlandsec.moe.edu.sg
 favicon: /images/logo.png
 colors:
   primary-color: "#d0021b"
-  secondary-color: "#f8e71c"
+  secondary-color: "#f8951c"
   media-colors:
     - title: media-color-one
-      color: "#bc1414"
+      color: "#00be54"
     - title: media-color-two
       color: "#000000"
     - title: media-color-three
