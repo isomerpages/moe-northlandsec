@@ -116,14 +116,77 @@ third_nav_title: Direct School Admission (DSA)
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/nss8.jpg"></td>
-<td style="width: 50%;"><p><strong>Tan Yi Ru<br /></strong><strong>Northland Student 2010-2014<br />Field Hockey</strong></p>
+<td style="width: 45%;"><img src="/images/nss8.jpg"></td>
+<td style="width: 55%;"><p><strong>Tan Yi Ru<br /></strong><strong>Northland Student 2003-2006<br />Field Hockey & Floorball</strong></p>
 <ul>
-<li>Represented Singapore Hockey since the age of 19</li>
-<li>AHF Cup 2016</li>
-<li>Hockey Series Open 2018</li>
-<li>Hockey Series Finals 2019 (France)</li>
+<li>Represented Singapore Floorball at age of 15</li>
+<li>Represent Singapore Hockey at age of 17</li>
+<li>Full Time Hockey/Floorball Coach(2008-2018)</li>
 </ul></td>
 </tr>
 </tbody>
 </table>
+<p><em>Northland&rsquo;s Hockey and Floorball programmes have moulded me to be a better player. They also always remind me to be on the right track morally, especially when I put on the school jersey. The programmes helped sharpen my skills as I saw steady improvements on the pitch. Northland also provided me with platforms to travel and compete overseas. Through constant honing of skills and character, it eventually benefited me by enabling me to get into polytechnic using Hockey/Floorball through Direct School Admission Scheme. I also attribute a big part of my development to my dedicated coaches and teachers who constantly supported us.</em></p>
+<img style="width: 80%;" src="/images/nss9.jpg" />
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/nss10.png"></td>
+<td style="width: 50%;"><p><strong>Mohammed Sabri Bin Yuhari<br /></strong><strong>Northland Student 2003-2006<br />Field Hockey & Floorball</strong></p>
+<ul>
+<li>Represented Singapore in Hockey and Floorball from 2006-2017</li>
+<li>SEA Games 2007, 2013</li>
+<li>Asian Hockey Federation Cup 2022</li>
+<li>Junior World Cup 2009</li>
+<li>World League Round 1 2012</li>
+<li>World League Round 2 2015</li>
+<li>Asian Games 2010, 2014</li>
+<li>Asian Games Qualifiers 2010, 2014</li>
+<li>Olympic Qualifiers 2012</li>
+<li>Captained the Men's Junior World Cup Hockey Team 2009</li>
+<li>Currently a Hockey and Floorball coach</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+<p><em>My debut in the National Hockey Men&rsquo;s Team was the Arafura Games in Darwin, Australia. I was one of the youngest players in the team. It was a memorable game for me as it was where I got to experience professional hockey. I was the co-captain of the U-21 Men&rsquo;s National Hockey Team that competed in the 2009 Junior World Cup in Singapore. In addition, I represented Singapore in the Asian Games, SEA Games, World Series, Asian Cup and Olympic Qualifiers.</em></p>
+<p><em>Northland Hockey and Floorball have shaped me into the player I am today. With dedicated coaches and elaborated training, I built my hockey and floorball foundations. Northland also gave us many opportunities for overseas training and games that were memorable and exciting for all of us. My teammates and I continue to be good friends even to this day.</em></p>
+<img style="width: 60%;" src="/images/nss11.png" />
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/nss12.jpg"></td>
+<td style="width: 50%;"><p><strong>Ang Shiqi<br /></strong><strong>Northland Student 2000-2003<br />Netball</strong></p>
+<ul>
+<li>Played for the National Team 2009 - 2014</li>
+<li>Captained Singapore’s Women’s U21 National Netball Team 2008</li>
+<li>Nations Cup 2008, 2014</li>
+<li>Asian Netball Championship 2009, 2014</li>
+<li>Australian Netball League 2010</li>
+<li>Scotland- Singapore Test Series 2009</li>
+<li>Asian Youth Netball Championship 2006-2008</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/nss13.png"></td>
+<td style="width: 50%;"><p><strong>Sharil Ismail<br /></strong><strong>Northland Student 1996-1999<br />Floorball</strong></p>
+<ul>
+<li>Singapore Floorball Men’s National Team 
+2000-2006</li>
+<li>Full-Time Coach (Floorball)</li>
+<li>Asian-Oceania Floorball Federation Committee (AOFC) Member</li>
+<li>Chairman of AOFC Referees Development Committee (Head of Referees Asia)</li>
+<li>Singapore Floorball Association (SFA) Committee Member</li>
+<li>Chairman of SFA Referees Development Committee (Head of Referees Singapore)</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+<p><em>My teachers and coaches in Northland play an important role in developing me into who I am today. Even though I gave them a lot of problems as a student, they continued to guide me and encourage me to be a better person. They instilled in me the values of responsibility and resilience, which have served me well even till this day. They nominated me for the Floorball Men&rsquo;s National Team trial, in which I was then selected to represent the country for the next seven years. This paved the way for me to carve out my career in sports. Their belief in me made me believe in myself.</em></p>
