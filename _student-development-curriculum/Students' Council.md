@@ -52,7 +52,7 @@ description: ""
 <tbody>
 <tr>
 <td><strong>President:</strong></td>
-<td>Grace Supasinee Wong (3A1)</td>
+<td><p>Grace Supasinee Wong (3A1)</p></td>
 </tr>
 <tr>
 <td><strong>Vice Presidents:&nbsp;</strong></td>
