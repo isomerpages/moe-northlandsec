@@ -52,3 +52,30 @@ third_nav_title: Direct School Admission (DSA)
 </tr>
 </tbody>
 </table>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/nsh4.png"><p>Northland Hockey and Floorball have been making waves in the Singapore Schools Scene since 1996 and we continue to do so.</p></td>
+<td style="width: 50%;"><p><strong>Hockey and Floorball Accolades</strong></p>
+<p><strong>Inter-School Competitions 2022</strong></p>
+<ul>
+<li>NSG B Div Boys Hockey - 2nd round</li>
+<li>NSG B Div Boys Floorball - 2nd round</li>
+</ul>
+<p><strong>Hockey and Floorball Accolades<br /></strong><strong>Inter-School Competitions 2019</strong></p>
+<ul>
+<li>NSG B Div Boys Floorball - 2nd round</li>
+<li>NSG B Div Girls Floorball - 2nd round</li>
+<li>NSG C Div Boys Hockey - 4th place</li>
+<li>NSG B Div Boys Hockey Bowl Category - Champions</li>
+<li>SHF National Junior League Div 3 Boys - 2nd place</li>
+<li>SHF National Junior League Division 2 Girls - 3rd place</li>
+<li>SHF Hockey 5s U19 Boys - 2nd place</li>
+<li>SHF Hockey 5s U19 Girls - 4th place</li>
+<li>SHF National Junior League Division 2 Girls - Top Scorer Award</li>
+</ul>
+<p><em>Note: Due to COVID-19 there were not sports competitions in 2020 and 2021</em></p></td>
+</tr>
+</tbody>
+</table>
