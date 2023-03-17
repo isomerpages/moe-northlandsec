@@ -2,7 +2,6 @@ collections:
   student-development-curriculum:
     output: true
     order:
-      - SPARCLE 1.md
       - CCE/.keep
       - CCE/Values in Action.md
       - CCE/National Education.md
@@ -21,6 +20,7 @@ collections:
       - Direct School Admission (DSA)/Northland’s DSA Process & Schedule.md
       - Direct School Admission (DSA)/Contact Us.md
       - Learning for Life Programme (LLP).md
+      - SPARCLE 1.md
       - Students' Council.md
       - After School Education/.keep
       - After School Education/ACE Programme.md
