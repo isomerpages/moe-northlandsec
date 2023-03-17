@@ -67,3 +67,63 @@ third_nav_title: Direct School Admission (DSA)
 </table>
 <p><em>A teacher affects eternity, and I am grateful and lucky enough to have met mine in Northland Secondary School. To all the Northland teachers, thank you for supporting me in my passion. I thank you from the bottom of my heart!</em></p>
 <hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/nss5.jpg"></td>
+<td style="width: 50%;"><p><strong>Nicholas Joshua Ng Joa Chim<br /></strong><strong>Northland Student 2010-2014<br />Field Hockey</strong></p>
+<ul>
+<li>Represented Singapore Hockey since the age of 19</li>
+<li>AHF Cup 2016</li>
+<li>Hockey Series Open 2018</li>
+<li>Hockey Series Finals 2019 (France)</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+<p><em>Northland Secondary School played a huge part in developing me into the person I am today.&nbsp; Besides being given the opportunities to become a better hockey player, the school also taught us essential values to become a better person. Although I was not an easy student to teach, my Teachers and Coaches continued to believe in me and put in additional time to help me. Without the support of all my Teachers, I would not be where I am today.</em></p>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/nss6.png"></td>
+<td style="width: 50%;"><p><strong>Enrico Elifh Marican<br /></strong><strong>Northland Student 2004-2007<br />Field Hockey & Floorball</strong></p>
+<p><strong>Hockey</strong></p>
+<ul>
+<li> Played for the National Team since 2007 Hockey Men’s Team</li>
+<li>Captained the Singapore National Team 2012-2021</li>
+<li>Junior World Cup 2009</li>
+<li>SEA GAMES 2007, 2013, 2015, 2017</li>
+<li>Asian Games 2010, 2014</li>
+<li>Torch Bearer For SEA Games 2015</li>
+<li>Club Deportivo Terrassa Spanish D’honor league 2017/2018 </li>
+</ul>
+<p><strong>Floorball</strong></p>
+<ul>
+<li>Men’s World Floorball Championship 2008, 2012 and 2016</li>
+<li>Best Player In 2008 and 2012 WFC against Great Britain & Switzerland</li>
+<li>Asia Pacific Championship 2006, 2007 and 2010</li>
+<li>Captained the Combined School Team </li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>Northland Secondary School plays a vital role in my sporting career. Being an athlete in Northland has taught me so many valuable lessons. From juggling schoolwork and intense competitions and trainings, I learnt the art of time management and discipline.</em></p>
+<p><em>The main thing I took away as a student in Northland was the emotions I go through with my teammates during our journey together. We learnt to bounce back from setbacks. We have also developed the mental resilience and this has made the person who I am today. Thank you Northland for providing this opportunity to me to realise my potential.</em></p>
+<img style="width: 80%;" src="/images/nss7.png" />
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/nss8.jpg"></td>
+<td style="width: 50%;"><p><strong>Tan Yi Ru<br /></strong><strong>Northland Student 2010-2014<br />Field Hockey</strong></p>
+<ul>
+<li>Represented Singapore Hockey since the age of 19</li>
+<li>AHF Cup 2016</li>
+<li>Hockey Series Open 2018</li>
+<li>Hockey Series Finals 2019 (France)</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
