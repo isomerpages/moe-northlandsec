@@ -2,8 +2,6 @@ collections:
   student-development-curriculum:
     output: true
     order:
-      - Direct School Admission (DSA)/Direct School Admission (DSA).md
-      - Direct School Admission (DSA)/.keep
       - CCE/.keep
       - CCE/Values in Action.md
       - CCE/National Education.md
@@ -14,6 +12,8 @@ collections:
       - CCE/SEPAS Balanced Wellness.md
       - CCE/Socio–Emotional Learning.md
       - Co–Curricular Activities (CCA).md
+      - Direct School Admission (DSA)/.keep
+      - Direct School Admission (DSA)/Direct School Admission (DSA).md
       - Learning for Life Programme (LLP).md
       - SPARCLE Weeks/.keep
       - SPARCLE Weeks/SPARCLE 1.md
