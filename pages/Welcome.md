@@ -3,6 +3,7 @@ title: Welcome
 permalink: /secondary-1-registration-2023/welcome/
 description: ""
 ---
+<img src="/images/welcome.jpg">
 <p>Congratulations on your posting to Northland Secondary School (NSS) to commence your secondary school education, as a Northstar. It will be a new phase of your development and we are happy to welcome you as part of our NSS family.</p>
 <p>This year&rsquo;s Sec 1 registration will be carried out in a hybrid mode.</p>
 <p>During the&nbsp;<strong>Sec 1 Registration day (23 December 2022)</strong>, there will be</p>
