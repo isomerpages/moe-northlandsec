@@ -2,6 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
+      - Direct School Admission (DSA)/Direct School Admission (DSA).md
       - Direct School Admission (DSA)/.keep
       - CCE/.keep
       - CCE/Values in Action.md
