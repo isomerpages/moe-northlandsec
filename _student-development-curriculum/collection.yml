@@ -2,6 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
+      - SPARCLE 1.md
       - CCE/.keep
       - CCE/Values in Action.md
       - CCE/National Education.md
