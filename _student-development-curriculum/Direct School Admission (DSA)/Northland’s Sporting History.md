@@ -27,3 +27,28 @@ third_nav_title: Direct School Admission (DSA)
 </tr>
 </tbody>
 </table>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><p style="text-align: center;"><strong>Northland Alumni @ 30th SEA GAMES 2019</strong><br />Northland is proud that 8 former students represented their respective countries in Hockey and Floorball.</p></td>
+<td style="width: 50%;"><img src="/images/nsh3.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p><strong>Indoor Hockey</strong></p>
+<ol>
+<li>Mohammed Sabri Yuhari (Singapore)</li>
+<li>Tan Yi Ru (Singapore)</li>
+<li>Sinuan Wannelenah Bte Mohd Alvarez (Singapore)</li>
+<li>Suriati Sonny (Singapore)&nbsp;</li>
+</ol></td>
+<td style="width: 50%;"><p><strong>Floorball</strong></p>
+<ol>
+<li>Jenmark Sorreda (Singapore)</li>
+<li>Seming Bianca (Philippines)</li>
+<li>Satuito Denisse (Philippines)</li>
+<li>Satuito Clarisse (Philippines)</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
