@@ -2,6 +2,7 @@ collections:
   moe-sexuality-education:
     output: true
     order:
+      - MOE Sexuality Education/Sec 2 Sexuality Education Programme.md
       - MOE Sexuality Education/Sec 1 Sexuality Education Programme.md
       - MOE Sexuality Education/.keep
       - Sec 3 Sexuality Education Programme.md
