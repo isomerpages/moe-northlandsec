@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage.jpg
+      background: /images/Homepage.gif
       button: Welcome!
       url: /secondary-1-registration-2023/welcome
       key_highlights:
