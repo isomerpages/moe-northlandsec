@@ -1,0 +1,27 @@
+collections:
+  student-development-curriculum:
+    output: true
+    order:
+      - CCE/.keep
+      - CCE/Values in Action.md
+      - CCE/National Education.md
+      - CCE/Internationalization.md
+      - CCE/Education and Career Guidance (ECG).md
+      - CCE/MOE SEXUALITY EDUCATION IN SCHOOLS.md
+      - CCE/Cyberwellness.md
+      - CCE/SEPAS Balanced Wellness.md
+      - CCE/Socio–Emotional Learning.md
+      - Co–Curricular Activities (CCA).md
+      - Direct School Admission (DSA)/.keep
+      - Direct School Admission (DSA)/Direct School Admission (DSA).md
+      - Direct School Admission (DSA)/Northland’s Sporting History.md
+      - Direct School Admission (DSA)/Northland Success Stories.md
+      - Direct School Admission (DSA)/Why should you be here?.md
+      - Direct School Admission (DSA)/Northland’s DSA Process & Schedule.md
+      - Direct School Admission (DSA)/Contact Us.md
+      - Learning for Life Programme (LLP).md
+      - SPARCLE Weeks.md
+      - Students' Council.md
+      - After School Education/.keep
+      - After School Education/ACE Programme.md
+      - After School Education/Nebula Student Centre.md

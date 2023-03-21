@@ -1,15 +1,44 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
+  - title: About Northland
+    collection: about-northland
+  - title: Academic Curriculum
+    collection: academic-curriculum
+  - title: Student Matters
+    collection: student-matters
+  - title: Student Development Curriculum
+    url: /student-development-curriculum/character-and-citizenship-education
+    sublinks:
+      - title: CCE
+        url: /student-development-curriculum/character-and-citizenship-education
+      - title: Co-Curricular Activities (CCA)
+        url: https://sites.google.com/moe.edu.sg/nssecca/home
+      - title: Direct School Admission (DSA)
+        url: /student-development-curriculum/direct-school-admission/direct-school-admission
+      - title: Learning for Life Programme
+        url: /student-development-curriculum/learning-for-life-programme-llp
+      - title: SPARCLE Weeks
+        url: https://sites.google.com/view/sparcle1/home
+      - title: Students/ Council
+        url: /student-development-curriculum/students-council
+      - title: After-school Education
+        url: /student-development-curriculum/after-school-education/ace-programme
+  - title: Useful Links
+    url: /useful-links/financial-assistance-scheme-fas
+    sublinks:
+      - title: Student Learning Space
+        url: https://vle.learning.moe.edu.sg/login
+      - title: AsknLearn
+        url: https://lms.asknlearn.com/NORTHLAND_SS/login.aspx
+      - title: ECG in NSS
+        url: https://sites.google.com/moe.edu.sg/nssecg
+      - title: ECG counselling sign up form
+        url: https://www.booking.gov.sg/public/services/ywlbp1x0/availability?spId=16Aym46r&anonymous=true
+      - title: For Staff
+        url: /useful-links/for-staff
+      - title: Student Well-being
+        url: https://sites.google.com/moe.edu.sg/nssstdtwb/home
+  - title: Partnerships
+    collection: partnerships
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    collection: contact-us

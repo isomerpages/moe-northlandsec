@@ -1,0 +1,9 @@
+collections:
+  contact-us:
+    output: true
+    order:
+      - Contact Us.md
+      - Contact Information.md
+      - School Virtual Tour.md
+      - Map & Directions.md
+      - FAQ Page.md

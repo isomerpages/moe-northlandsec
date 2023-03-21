@@ -1,0 +1,10 @@
+collections:
+  unused-pages:
+    output: true
+    order:
+      - Financial Assistance Scheme (FAS).md
+      - SPARCLE 2.md
+      - Character and Citizenship Education.md
+      - Dialogue with Principal.md
+      - NOVIA.md
+      - Home–based Learning Guide.md
