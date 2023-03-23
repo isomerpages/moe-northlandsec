@@ -7,22 +7,7 @@ links:
   - title: Student Matters
     collection: student-matters
   - title: Student Development Curriculum
-    url: /student-development-curriculum/character-and-citizenship-education
-    sublinks:
-      - title: CCE
-        url: /student-development-curriculum/character-and-citizenship-education
-      - title: Co-Curricular Activities (CCA)
-        url: https://sites.google.com/moe.edu.sg/nssecca/home
-      - title: Direct School Admission (DSA)
-        url: /student-development-curriculum/direct-school-admission/direct-school-admission
-      - title: Learning for Life Programme
-        url: /student-development-curriculum/learning-for-life-programme-llp
-      - title: SPARCLE Weeks
-        url: https://sites.google.com/view/sparcle1/home
-      - title: Students/ Council
-        url: /student-development-curriculum/students-council
-      - title: After-school Education
-        url: /student-development-curriculum/after-school-education/ace-programme
+    collection: student-development-curriculum
   - title: Useful Links
     url: /useful-links/financial-assistance-scheme-fas
     sublinks:
@@ -42,5 +27,3 @@ links:
     collection: partnerships
   - title: Contact Us
     collection: contact-us
-  - title: test1
-    collection: student-development-curriculum
