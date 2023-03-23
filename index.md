@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage1.gif
+      background: /images/Homepage.gif
       key_highlights:
         - title: Events
           description: Featured Stories
