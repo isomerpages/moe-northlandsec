@@ -12,4 +12,4 @@ description: ""
 <li>Call the helpline if you face technical issues.</li>
 </ul>
 <h4><strong>Secondary 1 to 5: HBL Plan for 27 March 2023 (Term 2 Week 2)</strong></h4>
-Click Here: <a href="url">go.gov.sg/nssndlp</a> 
+Click [Here](go.gov.sg/nssndlp)
