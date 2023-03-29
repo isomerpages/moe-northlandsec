@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/eBanner_2023.jpg
+      background: /images/ebanner20231.jpg
       key_highlights:
         - title: Events
           description: Featured Stories
