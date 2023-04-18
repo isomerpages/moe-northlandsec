@@ -2,13 +2,12 @@
 title: Northland Success Stories
 permalink: /student-development-curriculum/direct-school-admission-dsa/northland-success-stories/
 description: ""
-third_nav_title: Direct School Admission (DSA)
 ---
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/nss1.jpg"></td>
-<td style="width: 50%;"><p><strong>Le Yan Ni<br /></strong><strong>Northland Student 2015-2018<br />Netball</strong></p>
+<td style="width: 50%;"><p><strong>Le Yan Ni<br></strong><strong>Northland Student 2015-2018<br>Netball</strong></p>
 <ul>
 <li>M1 School's Challenge 'B' division Champion 2017</li>
 <li>M1 School's Challenge 'B' division 4th in grouping 2018</li>
@@ -23,7 +22,7 @@ third_nav_title: Direct School Admission (DSA)
 <tbody>
 <tr>
 <td style="width: 45%;"><img src="/images/nss2.jpg"></td>
-<td style="width: 55%;"><p><strong>Dawnraj Rengasamy<br /></strong><strong>Northland Student 2015-2018<br />Field Hockey</strong></p>
+<td style="width: 55%;"><p><strong>Dawnraj Rengasamy<br></strong><strong>Northland Student 2015-2018<br>Field Hockey</strong></p>
 <ul>
 <li>National Men’s Senior Team from the age of 15</li>
 <li>Youth Olympic Games Qualifier 2018</li>
@@ -40,7 +39,7 @@ third_nav_title: Direct School Admission (DSA)
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/nss3.jpg"></td>
-<td style="width: 50%;"><p><strong>Muhammad Zaki Bin Zulkarnain<br /></strong><strong>Northland Student 2014-2018<br />Field Hockey</strong></p>
+<td style="width: 50%;"><p><strong>Muhammad Zaki Bin Zulkarnain<br></strong><strong>Northland Student 2014-2018<br>Field Hockey</strong></p>
 <ul>
 <li>Youth Olympic Games Qualifiers 2018 (Bangkok, Thailand)</li>
 <li>Hockey Series Open 2018 (Singapore)</li>
@@ -56,7 +55,7 @@ third_nav_title: Direct School Admission (DSA)
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/nss4.jpg"></td>
-<td style="width: 50%;"><p><strong>Takashi Watanabe<br /></strong><strong>Northland Student 2013-2016<br />Field Hockey</strong></p>
+<td style="width: 50%;"><p><strong>Takashi Watanabe<br></strong><strong>Northland Student 2013-2016<br>Field Hockey</strong></p>
 <ul>
 <li>Captained Youth Olympic Games Qualifier</li>
 <li>Thunderbolts Cup 2016, 2017</li>
@@ -71,7 +70,7 @@ third_nav_title: Direct School Admission (DSA)
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/nss5.jpg"></td>
-<td style="width: 50%;"><p><strong>Nicholas Joshua Ng Joa Chim<br /></strong><strong>Northland Student 2010-2014<br />Field Hockey</strong></p>
+<td style="width: 50%;"><p><strong>Nicholas Joshua Ng Joa Chim<br></strong><strong>Northland Student 2010-2014<br>Field Hockey</strong></p>
 <ul>
 <li>Represented Singapore Hockey since the age of 19</li>
 <li>AHF Cup 2016</li>
@@ -87,7 +86,7 @@ third_nav_title: Direct School Admission (DSA)
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/nss6.png"></td>
-<td style="width: 50%;"><p><strong>Enrico Elifh Marican<br /></strong><strong>Northland Student 2004-2007<br />Field Hockey & Floorball</strong></p>
+<td style="width: 50%;"><p><strong>Enrico Elifh Marican<br></strong><strong>Northland Student 2004-2007<br>Field Hockey &amp; Floorball</strong></p>
 <p><strong>Hockey</strong></p>
 <ul>
 <li> Played for the National Team since 2007 Hockey Men’s Team</li>
@@ -101,7 +100,7 @@ third_nav_title: Direct School Admission (DSA)
 <p><strong>Floorball</strong></p>
 <ul>
 <li>Men’s World Floorball Championship 2008, 2012 and 2016</li>
-<li>Best Player In 2008 and 2012 WFC against Great Britain & Switzerland</li>
+<li>Best Player In 2008 and 2012 WFC against Great Britain &amp; Switzerland</li>
 <li>Asia Pacific Championship 2006, 2007 and 2010</li>
 <li>Captained the Combined School Team </li>
 </ul>
@@ -111,13 +110,13 @@ third_nav_title: Direct School Admission (DSA)
 </table>
 <p><em>Northland Secondary School plays a vital role in my sporting career. Being an athlete in Northland has taught me so many valuable lessons. From juggling schoolwork and intense competitions and trainings, I learnt the art of time management and discipline.</em></p>
 <p><em>The main thing I took away as a student in Northland was the emotions I go through with my teammates during our journey together. We learnt to bounce back from setbacks. We have also developed the mental resilience and this has made the person who I am today. Thank you Northland for providing this opportunity to me to realise my potential.</em></p>
-<img style="width: 80%;" src="/images/nss7.png" />
+<img style="width: 80%;" src="/images/nss7.png">
 <hr>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 45%;"><img src="/images/nss8.jpg"></td>
-<td style="width: 55%;"><p><strong>Tan Yi Ru<br /></strong><strong>Northland Student 2003-2006<br />Field Hockey & Floorball</strong></p>
+<td style="width: 55%;"><p><strong>Tan Yi Ru<br></strong><strong>Northland Student 2003-2006<br>Field Hockey &amp; Floorball</strong></p>
 <ul>
 <li>Represented Singapore Floorball at age of 15</li>
 <li>Represent Singapore Hockey at age of 17</li>
@@ -126,14 +125,14 @@ third_nav_title: Direct School Admission (DSA)
 </tr>
 </tbody>
 </table>
-<p><em>Northland&rsquo;s Hockey and Floorball programmes have moulded me to be a better player. They also always remind me to be on the right track morally, especially when I put on the school jersey. The programmes helped sharpen my skills as I saw steady improvements on the pitch. Northland also provided me with platforms to travel and compete overseas. Through constant honing of skills and character, it eventually benefited me by enabling me to get into polytechnic using Hockey/Floorball through Direct School Admission Scheme. I also attribute a big part of my development to my dedicated coaches and teachers who constantly supported us.</em></p>
-<img style="width: 80%;" src="/images/nss9.jpg" />
+<p><em>Northland’s Hockey and Floorball programmes have moulded me to be a better player. They also always remind me to be on the right track morally, especially when I put on the school jersey. The programmes helped sharpen my skills as I saw steady improvements on the pitch. Northland also provided me with platforms to travel and compete overseas. Through constant honing of skills and character, it eventually benefited me by enabling me to get into polytechnic using Hockey/Floorball through Direct School Admission Scheme. I also attribute a big part of my development to my dedicated coaches and teachers who constantly supported us.</em></p>
+<img style="width: 80%;" src="/images/nss9.jpg">
 <hr>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/nss10.png"></td>
-<td style="width: 50%;"><p><strong>Mohammed Sabri Bin Yuhari<br /></strong><strong>Northland Student 2003-2006<br />Field Hockey & Floorball</strong></p>
+<td style="width: 50%;"><p><strong>Mohammed Sabri Bin Yuhari<br></strong><strong>Northland Student 2003-2006<br>Field Hockey &amp; Floorball</strong></p>
 <ul>
 <li>Represented Singapore in Hockey and Floorball from 2006-2017</li>
 <li>SEA Games 2007, 2013</li>
@@ -150,15 +149,15 @@ third_nav_title: Direct School Admission (DSA)
 </tr>
 </tbody>
 </table>
-<p><em>My debut in the National Hockey Men&rsquo;s Team was the Arafura Games in Darwin, Australia. I was one of the youngest players in the team. It was a memorable game for me as it was where I got to experience professional hockey. I was the co-captain of the U-21 Men&rsquo;s National Hockey Team that competed in the 2009 Junior World Cup in Singapore. In addition, I represented Singapore in the Asian Games, SEA Games, World Series, Asian Cup and Olympic Qualifiers.</em></p>
+<p><em>My debut in the National Hockey Men’s Team was the Arafura Games in Darwin, Australia. I was one of the youngest players in the team. It was a memorable game for me as it was where I got to experience professional hockey. I was the co-captain of the U-21 Men’s National Hockey Team that competed in the 2009 Junior World Cup in Singapore. In addition, I represented Singapore in the Asian Games, SEA Games, World Series, Asian Cup and Olympic Qualifiers.</em></p>
 <p><em>Northland Hockey and Floorball have shaped me into the player I am today. With dedicated coaches and elaborated training, I built my hockey and floorball foundations. Northland also gave us many opportunities for overseas training and games that were memorable and exciting for all of us. My teammates and I continue to be good friends even to this day.</em></p>
-<img style="width: 60%;" src="/images/nss11.png" />
+<img style="width: 60%;" src="/images/nss11.png">
 <hr>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/nss12.jpg"></td>
-<td style="width: 50%;"><p><strong>Ang Shiqi<br /></strong><strong>Northland Student 2000-2003<br />Netball</strong></p>
+<td style="width: 50%;"><p><strong>Ang Shiqi<br></strong><strong>Northland Student 2000-2003<br>Netball</strong></p>
 <ul>
 <li>Played for the National Team 2009 - 2014</li>
 <li>Captained Singapore’s Women’s U21 National Netball Team 2008</li>
@@ -176,7 +175,7 @@ third_nav_title: Direct School Admission (DSA)
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/nss13.png"></td>
-<td style="width: 50%;"><p><strong>Sharil Ismail<br /></strong><strong>Northland Student 1996-1999<br />Floorball</strong></p>
+<td style="width: 50%;"><p><strong>Sharil Ismail<br></strong><strong>Northland Student 1996-1999<br>Floorball</strong></p>
 <ul>
 <li>Singapore Floorball Men’s National Team 
 2000-2006</li>
@@ -189,4 +188,4 @@ third_nav_title: Direct School Admission (DSA)
 </tr>
 </tbody>
 </table>
-<p><em>My teachers and coaches in Northland play an important role in developing me into who I am today. Even though I gave them a lot of problems as a student, they continued to guide me and encourage me to be a better person. They instilled in me the values of responsibility and resilience, which have served me well even till this day. They nominated me for the Floorball Men&rsquo;s National Team trial, in which I was then selected to represent the country for the next seven years. This paved the way for me to carve out my career in sports. Their belief in me made me believe in myself.</em></p>
+<p><em>My teachers and coaches in Northland play an important role in developing me into who I am today. Even though I gave them a lot of problems as a student, they continued to guide me and encourage me to be a better person. They instilled in me the values of responsibility and resilience, which have served me well even till this day. They nominated me for the Floorball Men’s National Team trial, in which I was then selected to represent the country for the next seven years. This paved the way for me to carve out my career in sports. Their belief in me made me believe in myself.</em></p>

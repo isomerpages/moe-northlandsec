@@ -2,6 +2,11 @@ collections:
   unused-pages:
     output: true
     order:
+      - Contact Us.md
+      - Northland’s DSA Process & Schedule.md
+      - Why should you be here?.md
+      - Northland Success Stories.md
+      - Northland’s Sporting History.md
       - Financial Assistance Scheme (FAS).md
       - SPARCLE 2.md
       - Character and Citizenship Education.md

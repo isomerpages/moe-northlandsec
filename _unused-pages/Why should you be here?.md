@@ -2,7 +2,6 @@
 title: Why should you be here?
 permalink: /student-development-curriculum/direct-school-admission-dsa/why-should-you-be-here/
 description: ""
-third_nav_title: Direct School Admission (DSA)
 ---
 <p>If you have an interest in Hockey, Floorball or Netball and wish to pursue these sports at a competitive level and beyond, we invite you to apply to Northland Secondary School.</p>
 <p><strong>DSA Selection Criteria</strong></p>
@@ -23,7 +22,7 @@ third_nav_title: Direct School Admission (DSA)
 <p>Students that come in through DSA can look forward to the following series of programmes:</p>
 <img src="/images/std2.jpg">
 <p><strong>LEARN TO PLAY PROGRAMME SERIES</strong></p>
-<p>Structured Sports Development Programme aimed at helping students attain their sporting potential<br />Exposure to high-level sports through&nbsp;competitions with local and international teams<br />Collaboration with external Sports Clubs and SportSG</p>
+<p>Structured Sports Development Programme aimed at helping students attain their sporting potential<br>Exposure to high-level sports through&nbsp;competitions with local and international teams<br>Collaboration with external Sports Clubs and SportSG</p>
 <img src="/images/std3.jpg">
 <p><strong>PLAY TO LEARN PROGRAMME SERIES</strong></p>
-<p>Sports Leaders Programme<br />Camps and exclusive sports experiences</p>
+<p>Sports Leaders Programme<br>Camps and exclusive sports experiences</p>
