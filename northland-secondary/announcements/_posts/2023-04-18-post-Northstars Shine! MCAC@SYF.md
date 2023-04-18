@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: /images/mcac syf 2023.png
 ---
+![](/images/mcac%20syf%202023.png)Congratulations to our MCAC for clinching the Certificate of Accomplishment for their SYF Arts Presentation! Well done Northstars!
