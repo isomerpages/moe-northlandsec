@@ -46,4 +46,4 @@ Play to Learn Series
     * Camps and exclusive sports experiences
 
 ###### **MORE INFORMATION   ** 
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
+The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please [click here](https://www.moe.gov.sg/dsa-sec) refer to the MOE website 
