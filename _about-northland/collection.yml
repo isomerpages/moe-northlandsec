@@ -2,6 +2,7 @@ collections:
   about-northland:
     output: true
     order:
+      - School Advisory Committee.md
       - Principal's Message.md
       - From the Principal's Desk.md
       - School Corporate Video 2022.md
