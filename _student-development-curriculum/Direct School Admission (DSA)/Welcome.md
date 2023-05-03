@@ -9,7 +9,9 @@ third_nav_title: Direct School Admission (DSA)
 Northland is offering DSA places for students with interest in **Basketball, Floorball, Hockey, Netball or Wushu.** Northland has a rich history in sports, and we invite you to explore these pages to learn more about the sports in our school.
 
 **DSA-Sec Talents Offered**  
-We invite you to apply to Northland Secondary School if you have an interest and wish to pursue any of the following sports at a competitive level and beyond:
+We invite you to apply to Northland Secondary School if you have an interest and wish to pursue any of the following sports at a competitive level and beyond:       
+
+Click on any sport to see its introductory video:
 * Basketball - [click here](https://drive.google.com/file/d/1828bf47yznO1o0CU0k0ohS-tGoue-9Yv/view?usp=share_link)
 * Floorball - [click here](https://drive.google.com/file/d/1P11-PBlNhW8Lc5Yb-C-vRLmSlwRTCEXT/view?usp=share_link)
 * Hockey -[click here](https://drive.google.com/file/d/18eIiIQUZvkpss9SfCmtmw7lkA80RF3-T/view?usp=share_link)
