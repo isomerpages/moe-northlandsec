@@ -35,6 +35,26 @@ Northland’s Sports Talent Development Programme presents a strong scaffold for
 3.   **National Junior Player:** If you have the ability, we will work with the National Sports Associations to ensure you get a chance to join the National Junior Teams.
 4.  **National Senior Player / Career in Sports:** Beyond school, we continue to work with our former students through our Alumni sports groups to continue in your development.
 
+![](/images/infographics%20-%20sports%20talent%20development%20@%20northland.png)
 
+Northland’s Sports-Focused Learning for Life Programme leverages Sports and Physical Activity Programme to grow every student into a Sportsman for Life, possessing Sportsmanship for Life.
 
+●        **Sportsman for Life**  
+Northland provides programmes to help students pursue their sporting aspirations and realise their potential. We also empower them to lead a healthy life through lifelong physical activity and sports.
 
+●        **Sportsmanship for Life**  
+Through sports, we develop our students’ character by instilling in them the values of Resilience, Responsibility and Respect. We also prepare students for the future by helping to strengthen a positive attitude, critical thinking, and people skills.
+
+Students that come to Northland through DSA can look forward to the following series of programmes:
+
+**Learn-to-Play Series**
+
+Our Learn-to-Play Series of programmes is a Structured Sports Development Programme to helping students attain their sporting potential through:
+
+●        Exposure to high-level sports e.g., competitions with local and international teams
+
+●        Collaboration with external other secondary schools, Sports Clubs and SportSG
+
+**Play to Learn Series**
+
+Our Play-to-Learn Series of programmes leverages Sports Experiences to strengthen character by inculcating values and developing leadership. These include our signature Sports Leaders Programme, Camps, and exclusive sports learning journeys.
