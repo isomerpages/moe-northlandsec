@@ -16,34 +16,25 @@ We invite you to apply to Northland Secondary School if you have an interest and
 * Netball
 * Wushu
 
-**DSA Selection Criteria**
-We are looking for students who:
+       
+##### **WHY CHOOSE NORTHLAND’S DSA PROGRAMME**
 
-* Play Basketball, Floorball, Hockey, Netball or Wushu competitively, or who possess the athleticism associated with these sports
-* Display a strong interest and aptitude for their sport of choice
-* Are committed to giving their best effort in academics and sports.
+**Developing you into a Sportsman for Life with Sportsmanship for Life**  
+Northland has a rich Sports History with many of our Alumni going on to represent Singapore in their respective sports.
 
-**WHY CHOOSE NORTHLAND'S DSA PROGRAMME**  
-Northland believes in the potential of Sports and Physical Activity to help our students grow. Consequently, we prepare our students to be "Future-Ready" adults through our Sports-focused Learning for Life Programme (LLP). 
+Northland believes in the potential of Sports and Physical Activity to help our students grow into Learners who Share, Citizens who Care and Leaders who Dare. Consequently, we prepare our students to be “Future-Ready” adults through our signature Sports Programmes:
 
-Leveraging our customised Sports and Physical Activity Programme, a student who comes to Northland will grow into a Sportsman for Life, possessing Sportsmanship for Life. 
+●        Sports Talent Development @ Northland
 
-**Sportsman for Life**  
-In Northland, we provide programmes to help students pursue their sporting aspirations and realise their potential. We also empower them to lead a healthy life through lifelong physical activity and sports. 
+●        Sports-focused Learning for Life Programme (LLP)
 
-**Sportsmanship for Life**  
-Through sports, we develop our students' character by instilling in them the values of Resilience, Responsibility and Respect. We also prepare students for the future by helping to strengthen a positive attitude, critical thinking and people skills. 
+Northland’s Sports Talent Development Programme presents a strong scaffold for students interested in sports to Discover, Develop and Deepen their sporting talent:
 
-Students that come in through DSA can look forward to the following series of programmes:
+1.  **School Player:** As a DSA student, you will experience firsthand the rich training given to our school team players. We have an excellent team of Basketball, Hockey, Floorball, Netball & Wushu Coaches who have either represented Singapore, coached national teams or are prominent officials. We also have a team of committed and passionate teachers to develop you into a Sportsman for Life, with Sportsmanship for Life
+2.  **Club Player:** As you continue to hone your skills, we will expose you to higher levels of training and competition. In Northland, we partner with our Alumni sports clubs to help you develop further.
+3.   **National Junior Player:** If you have the ability, we will work with the National Sports Associations to ensure you get a chance to join the National Junior Teams.
+4.  **National Senior Player / Career in Sports:** Beyond school, we continue to work with our former students through our Alumni sports groups to continue in your development.
 
-Learn to Play Series
-    * Structured Sports Development Programme aimed at helping students attain their sporting potential
-    * Exposure to high-level sports through competitions with local and international teams
-    * Collaboration with external Sports Clubs and SportSG
 
-Play to Learn Series
-    * Sports Leaders Programme
-    * Camps and exclusive sports experiences
 
-###### **MORE INFORMATION   ** 
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please [click here](https://www.moe.gov.sg/dsa-sec) to refer to the MOE website
+
