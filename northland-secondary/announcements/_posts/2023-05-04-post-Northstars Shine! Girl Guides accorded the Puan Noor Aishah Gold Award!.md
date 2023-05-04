@@ -8,4 +8,3 @@ image: ""
 ---
 Congratulations to our Girl Guides for obtaining the Puan Noor Aishah Gold Award for 2022! Well done Northstars! 
 ![](/images/white%20background%20congratulations%20%20.png)
-
