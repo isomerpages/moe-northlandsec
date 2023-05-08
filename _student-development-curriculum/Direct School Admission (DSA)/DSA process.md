@@ -34,8 +34,7 @@ _Students who are successfully admitted to the school via DSA are expected to ho
 
 ##### **DSA Schedule**
 Northland’s DSA Schedule is as follows:
-
-![](/images/infographics%20-%20dsa%20schedule%202023.png)
+![](/images/updated%20dsa%20schedule.png)
 
 
 ### **Contact Us**
