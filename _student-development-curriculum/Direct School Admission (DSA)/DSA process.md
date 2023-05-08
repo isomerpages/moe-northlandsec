@@ -10,7 +10,7 @@ third_nav_title: Direct School Admission (DSA)
 
 We are looking for students who:
 
-●        Play Basketball, Floorball, Hockey, Netball or Wushu competitively, or who possess the athleticism associated with these sports.
+●        Play Basketball *(Boys only)*, Floorball, Hockey, Netball *(Girls Only)* or Wushu competitively, or who possess the athleticism associated with these sports.
 
 ●        Display a strong interest and aptitude for their sport of choice.
 
