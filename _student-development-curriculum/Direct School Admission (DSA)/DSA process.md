@@ -10,7 +10,7 @@ third_nav_title: Direct School Admission (DSA)
 
 We are looking for students who:
 
-●        Play Basketball, Floorball, Hockey, Netball or Wushu competitively, or who possess the athleticism associated with these sports.
+●        Play Basketball *(Boys only)*, Floorball, Hockey, Netball *(Girls Only)* or Wushu competitively, or who possess the athleticism associated with these sports.
 
 ●        Display a strong interest and aptitude for their sport of choice.
 
@@ -34,8 +34,7 @@ _Students who are successfully admitted to the school via DSA are expected to ho
 
 ##### **DSA Schedule**
 Northland’s DSA Schedule is as follows:
-
-![](/images/infographics%20-%20dsa%20schedule%202023.png)
+![](/images/updated%20dsa%20schedule.png)
 
 
 ### **Contact Us**
