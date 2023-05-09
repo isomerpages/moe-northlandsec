@@ -3,6 +3,16 @@ title: Events
 permalink: /about-northland/events/
 description: ""
 ---
+<h4><strong>Congratulations Northstars - SYF Achievements</strong></h4>
+
+Congratulations to our Performing Arts CCAs for doing well at the SYF Arts Presentation 2023! Well done Northstars!
+
+1. Guzheng Ensemble - Certificate of Distinction
+2. Indian Dance - Certificate of Distinction
+3. Malay Dance  - Certificate of Accomplishment
+4. MCAC - Certificate of Accomplishment
+5. Symphonic Band - Certificate of Accomplishment
+
 <h4><strong>NSS Starcolade 2023</strong></h4>
 
 On Friday 28 April, the school came together to celebrate the achievements of Northstars and Starmakers. We had our School Advisory Committee, family members of award recipients and the whole school population witnessing Starcolade live in the Hall or via livestream from the classrooms. The event was a big success and while simple, it was meaningful and inspiring. Congratulations to all deserving recipients!
