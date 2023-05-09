@@ -14,7 +14,4 @@ image: ""
 4. MCAC - Certificate of Accomplishment
 5. Symphonic Band - Certificate of Accomplishment
 
-```
-<iframe allow="autoplay" height="480" width="640" src="https://drive.google.com/file/d/1vixHA2Ft9hP6r1OyLeU80xsxf-aR-pvD/preview"></iframe>
-```
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PQueZT3IhSI" height="315" width="560"></iframe>
