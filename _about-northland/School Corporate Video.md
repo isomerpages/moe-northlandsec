@@ -1,5 +1,5 @@
 ---
-title: School Corporate Video 2022
+title: School Corporate Video
 permalink: /about-northland/school-corporate-video-2022/
 description: ""
 ---
