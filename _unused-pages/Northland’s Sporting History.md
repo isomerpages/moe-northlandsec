@@ -20,4 +20,3 @@ Join the ranks of champions and be part of the legacy at Northland Secondary Sch
 ![](/images/dsa%20sh8.JPG)
 ![](/images/dsa%20sh9.JPG)
 ![](/images/dsa%20sh10.JPG)
-
