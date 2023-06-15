@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+Congratulations to our Netball Team for being First Runners-Up for this year's Netball Singapore's Secondary Schools Challenge!!!
+
+![](/images/netball.jpeg)
