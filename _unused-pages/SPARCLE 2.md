@@ -3,16 +3,18 @@ title: SPARCLE 2
 permalink: /student-development-curriculum/sparcle-weeks/sparcle-2/
 description: ""
 ---
-
-<p>SPARCLE Week 2 is a week-long interdisciplinary learning experience aimed to provide a holistic learning experience for all students from Secondary 1 to Secondary 3 where they worked, on a thematic group-based project to solve real-world problems. The theme was &lsquo;Green Earth for Everyone&rsquo; with each level having a different focus. The learning activities weaved concepts across various academic subjects together, thereby allowing our students to see the relationship between the different disciplines and the SPARCLE 2 theme.</p>
+<p>SPARCLE Week 2 is a week-long interdisciplinary learning experience aimed to provide a holistic learning experience for all students from Secondary 1 to Secondary 3 where they worked, on a thematic group-based project to solve real-world problems. The theme was ‘Green Earth for Everyone’ with each level having a different focus. The learning activities weaved concepts across various academic subjects together, thereby allowing our students to see the relationship between the different disciplines and the SPARCLE 2 theme.</p>
 <h4><strong>SPARCLE 2 Opening Ceremony</strong></h4>
-<p>This year, Northstars witnessed the opening ceremony in the hall and in their classrooms. Our opening ceremony was officiated by our Grassroots Advisor, Mr Louis Ng Kok Kwang, who continued to exhort us to play our part to make Earth greener. We also unveiled our NSS Green Pledge Wall which features our promises to play our part in reversing the effects of climate change. Over the next few days, our students will go through experiences based on the level themes &ndash; Living in Harmony with Nature, Towards a Zero Waste Nation, Promoting Eco-Smart Towns. Have a good week of learning, Northstars!</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-sEHx5wbBh1vP7UdXlHBHPw5zKmBUT2muvSuLvwKAYuBDTzEncTOQ9OabW2vYXoxMV615VfGC4mYV/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTvBfUQTBQDjDbKo-_V3_DaOOT_YZbD21UcrqhRdd5rf7lJqxJFZnsmGbiID393uw/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
+
 <h4><strong>Artmosphere</strong></h4>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtFXNuaaZG8AwgZD9EoGiL0gEWG55V8jjxsycmtPXoqssRaQyQbHteKJl1poc8bFI6-BWlj3A7n0yy/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmSGAJurX_yfU_bMILsUrWAM6bCLCiLiIkOaRtDR9s-0GlIlkoO7kpcYLx-HivFA/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
 <h4><strong>Secondary 1 - Living in Harmony with Nature</strong></h4>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlkmwoxv0KDw67fC64gYyVa8vxvtYnsDq0883Rhg5rieHbuOG8ar-bzieYFERFrcva-dClr1WzmlQq/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSYzrCqZR8y8QwFg9YMFRkLIiTGJhCuf-_EHFo_HeWDCGLRgF3A-B96LkOohq9nzg/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
 <h4><strong>Secondary 2 - Towards a Zero Waste Nation</strong></h4>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmJ5fByDImJ3elCY3jJ9W-YZMzbvJ7B8tpfqKNaPl7OTyzl3EFQtv3JQ5eNu8k1ihP5PZj_08QpFpR/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-<h4><strong>Secondary 3 - Promoting Eco Smart Towns</strong></h4>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzzVfUoL1doUQU40NbqO_MJ5zb0Z_hbyVNiGO2G_dEjt-bA229l9LXPgC_RGxywhGujsao13gttQmA/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXuli7B41H9euXiieT3zCGgd-aygGCEndIrUuIjgpP3tVLYu1AHpZKF1hGJ33dLA/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
+<h4><strong>Secondary 3 - FIghting Climate Change</strong></h4>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vREcvLjLiSUdqV1MB0LzZSg9PeoDEhcv0XxrJmVRJ6NCgxElZcksXk2E2JpL4yoCg/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
+
+
+
