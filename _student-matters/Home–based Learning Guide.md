@@ -12,4 +12,4 @@ description: ""
 <li>Call the helpline if you face technical issues.</li>
 </ul>
 <h4><strong>Secondary 1 to 3: HBL Plans for Semester 2</strong></h4>
-Click [Here](https://sites.google.com/moe.edu.sg/nssndlp/hbl?authuser=0)
+Please [click here](https://go.gov.sg/nssndlp)
