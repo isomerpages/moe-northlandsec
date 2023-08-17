@@ -4,8 +4,23 @@ permalink: /about-northland/achievements/staff-achievements/
 description: ""
 third_nav_title: Achievements
 ---
+<p><strong>Nurturing Character, Inspiring Learning – Winners of the National Day Awards 2023</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSxiTPqmNPQxv859i4iyDVvQvo5VEy8LB1WxyNGbbV4l3jq0wAQMPtTbAiNmNDaoA/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>
+Northland Secondary School is proud to announce the winners of the National Day Awards 2023 from our school –
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Joseph Peterson (Vice-Principal) - Awarded the National Day Awards 2023 The Public Administration Medal (Bronze)
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Choi Pei Ling (HOD, Mother Tongue Languages) - Awarded the National Day Awards 2023 Commendation Medal
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Hwee Yuet Mei (SH Mathematics) - Awarded the National Day Awards 2023 Long Service Medal
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Abdul Razak (HOD Educational Support) - Awarded the National Day Awards 2023 Long Service Medal
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Noor Zanariah Bte Sidi (DH Malay) - Awarded the National Day Awards 2023 Long Service Medal
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Feroze&nbsp; s/o Amzah - Awarded the National Day Awards 2023 Long Service Medal
 <p><strong>The National Awards (Covid-19) and Covid-19 Resilience Medal Recipients</strong></p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaPouaiuE0nIcGwdf556pStDfn3wWRp61QP__MEYJjLFuPMeWrjW7lPyOM1Js1yg/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaPouaiuE0nIcGwdf556pStDfn3wWRp61QP__MEYJjLFuPMeWrjW7lPyOM1Js1yg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 Congratulations to the following Starmakers for making significant contributions to combating and containing Covid-19 for the Covid-19 years from 2020 to 2022!
 
 **National Awards (Covid-19) Commendation Medal**
@@ -19,7 +34,7 @@ Congratulations to the following Starmakers for making significant contributions
 * Mdm Catherine Tan Soo Lee (Operationsl Manager)
 
 <p><strong>Congratulations to our Associate of AST (Innovator) Award Recipient 2022 Winner!</strong></p>
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/sa1.png"></td>
@@ -34,7 +49,7 @@ Congratulations to the following Starmakers for making significant contributions
 </table>
 <hr>
 <p><strong>Congratulations to our MOE Service Excellence Award (MSEA) 2022 Winners!</strong></p>
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/sa2.png"></td>
@@ -50,7 +65,7 @@ Congratulations to the following Starmakers for making significant contributions
 </table>
 <hr>
 <p><strong>Nurturing Character, Inspiring Learning – Winners of the National Day Awards 2022</strong></p>
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/sa3.png"></td>
@@ -65,7 +80,7 @@ Congratulations to the following Starmakers for making significant contributions
 <p><strong>Our congratulations to our deserving award winners. Thank you for your years of service and dedication to our school and the education service.</strong></p>
 <hr>
 <p><strong>Nurturing Character, Inspiring Learning – Winners of the National Day Awards 2021</strong></p>
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/sa4.png"></td>
@@ -80,7 +95,7 @@ Congratulations to the following Starmakers for making significant contributions
 </table>
 <hr>
 <p><strong>Nurturing Character, Inspiring Learning – Winners of the National Day Awards 2020</strong></p>
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/sa5.jpg"></td>
@@ -98,8 +113,8 @@ Congratulations to the following Starmakers for making significant contributions
 <p><strong>Our congratulations to our three deserving award winners. Thank you for your years of service and dedication to our school and the education service.</strong></p>
 <hr>
 <p><strong>EXCELLENT SERVICE AWARD WINNERS</strong></p>
-<img src="/images/sa6.jpg" style="width: 75%;">
+<img style="width: 75%;" src="/images/sa6.jpg">
 <hr>
 <p><strong>EXCELLENT SERVICE AWARD WINNER 2016</strong></p>
-<img align="left" src="/images/sa7.jpg" style="width: 15%;">
+<img style="width: 15%;" src="/images/sa7.jpg" align="left">
 <p>The school would like to congratulate our Corporate Support Officer Miss Carelyn Chan for being awarded the MOE Service Excellence Award in 2016. Ms Chan has shown personal qualities and a work attitude that reflect C.A.R.E. - Courtesy, Accessibility, Responsiveness and Effectiveness. Ms Chan is approachable and puts her heart in delivering the best service. The school would like to thank her for her outstanding contributions in pursuit of service excellence.</p>
