@@ -8,17 +8,17 @@ third_nav_title: Achievements
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSxiTPqmNPQxv859i4iyDVvQvo5VEy8LB1WxyNGbbV4l3jq0wAQMPtTbAiNmNDaoA/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>
 Northland Secondary School is proud to announce the winners of the National Day Awards 2023 from our school –
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Joseph Peterson (Vice-Principal) - Awarded the National Day Awards 2023 The Public Administration Medal (Bronze)
+* Mr Joseph Peterson (Vice-Principal) - Awarded the National Day Awards 2023 The Public Administration Medal (Bronze)
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Choi Pei Ling (HOD, Mother Tongue Languages) - Awarded the National Day Awards 2023 Commendation Medal
+* Mdm Choi Pei Ling (HOD, Mother Tongue Languages) - Awarded the National Day Awards 2023 Commendation Medal
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Hwee Yuet Mei (SH Mathematics) - Awarded the National Day Awards 2023 Long Service Medal
+* Mdm Hwee Yuet Mei (SH Mathematics) - Awarded the National Day Awards 2023 Long Service Medal
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Abdul Razak (HOD Educational Support) - Awarded the National Day Awards 2023 Long Service Medal
+* Mr Abdul Razak (HOD Educational Support) - Awarded the National Day Awards 2023 Long Service Medal
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Noor Zanariah Bte Sidi (DH Malay) - Awarded the National Day Awards 2023 Long Service Medal
+* Mdm Noor Zanariah Bte Sidi (DH Malay) - Awarded the National Day Awards 2023 Long Service Medal
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Feroze&nbsp; s/o Amzah - Awarded the National Day Awards 2023 Long Service Medal
+* Mr Feroze&nbsp; s/o Amzah - Awarded the National Day Awards 2023 Long Service Medal
 <p><strong>The National Awards (Covid-19) and Covid-19 Resilience Medal Recipients</strong></p>
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaPouaiuE0nIcGwdf556pStDfn3wWRp61QP__MEYJjLFuPMeWrjW7lPyOM1Js1yg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 Congratulations to the following Starmakers for making significant contributions to combating and containing Covid-19 for the Covid-19 years from 2020 to 2022!
