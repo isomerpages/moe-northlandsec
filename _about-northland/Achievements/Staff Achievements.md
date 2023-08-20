@@ -6,7 +6,7 @@ third_nav_title: Achievements
 ---
 <p><strong>Starmaker shines at National Secondary Tamil Language Professional Sharing Session</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQKHHd20lTj-4TnlSi9vQrsJ26rAhi8vujrE_SHv8GuCwWHmBU43kzw6e9a1uRBpw/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>
-Starmaker Mr Santhosh from the Mother Tongue Languages department shared his T&amp;L practice (Using Tamil song lyrics to improve situational writing skills) at the National Secondary Tamil Language professional sharing session at Chua Chu Kang Secondary School on Fri 11 Aug. His sharing was very well-received by the participants.
+Starmaker Mr Santhosh from the Mother Tongue Languages department shared his T&amp;L practice (Using Tamil song lyrics to improve situational writing skills) at the National Secondary Tamil Language professional sharing session at Chua Chu Kang Secondary School on Friday 11 August. His sharing was very well-received by the participants.
 Thank you, Mr Santhosh, for being a Learner who shares!
 
 <p><strong>Nurturing Character, Inspiring Learning – Winners of the National Day Awards 2023</strong></p>
