@@ -35,16 +35,18 @@ description: ""
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFpP1LQObpwP6RDk47bYI-XMMc_KYfP4AMTo4tTHYuST7qWw6AY9bFrNGPcypGiQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true"></iframe>
 
-<p>The Students’ Council is the school’s premier platform for developing confident student leaders who dare. The Council has strengthened its resolve to be the representatives of the student body, listening to the voices of Northstars. This year, the Council continued to seek feedback from the ground and issues surfaced by Northstars were analysed and shared with our School Leaders to improve the school. </p>
-<p>The Council also continues to initiate and support school events, such as the inaugural Induction Ceremony for Secondary Ones. The Council has also grown in their ability to plan, articulate their proposals as well as implement events at school level. The Council EXCO members have shown maturity in their thinking and honed their collaborative competencies.</p>
-<p>Our Student Councillors are cognisant of their leadership progress and development through their self-assessment of leadership and conversations with the Student Leadership teachers.&nbsp;Our Students’ Council will continue to work together with the student body to increase their own and the student body’s voice and agency.</p>
+The Students’ Council is the school’s premier platform for developing confident student leaders who dare. The Council has strengthened its resolve to be the representatives of the student body, listening to the voices of Northstars. This year, the Council continued to seek feedback from the ground and surfaced issues brought up by Northstars through platforms like the Town Hall Dialogue and Instagram Page, Voices of Northstars, where they analysed and discussed with our School Leaders to improve the school.&nbsp;
+
+The Council also continues to initiate and support school events, such as the Induction Ceremony for Secondary Ones and SPARCLE 1 camps. The Council has also grown in their ability to plan, articulate their proposals as well as implement events at school level. The Council EXCO members have shown maturity in their thinking and honed their collaborative competencies.
+
+Our Student Councillors are cognisant of their leadership progress and development through their self-assessment of leadership and conversations with the Student Leadership teachers. Our Students’ Council will continue to work together with the student body to increase their own and the student body’s voice and agency.
 
 <table border="1">
 <tbody>
 <tr>
 <td><strong>Teachers-in-charge:</strong></td>
 <td>
-<p>Mdm Lenny Azlina Bte Mohd Ikhsan<br>Mdm Siti Fathona Bte Amdan<br>Mr Brian Phua<br>Miss Zahratul Asyeeqah Binte Mohd<br>Mr Ernest Yeo<br>Mdm Nurulain Bte Ishak<br>Ms Kng Hwee Mae</p>
+<p>Mdm Nur Atassha Binte Mohd Nasirn<br>Mdm Siti Fathona Bte Amdan<br>Mr Brian Phua<br>Miss Zahratul Asyeeqah Binte Mohd<br>Mdm Nurulain Bte Ishak<br>Ms Kng Hwee Mae<br>Miss Tan Xin Yi</p>
 </td>
 </tr>
 </tbody>
@@ -54,19 +56,16 @@ description: ""
 <tbody>
 <tr>
 <td><strong>President:</strong></td>
-<td><p>Grace Supasinee Wong (3A1)</p></td>
+<td><p> Pow Xu Yi (3 Vega))</p></td>
 </tr>
 <tr>
 <td><strong>Vice Presidents:&nbsp;</strong></td>
 <td>
-<p>Adrianna Natasha Yazid (3A5)<br>Nur Maesarah Masrie (3A3)</p>
+<p>Chermaine Kuek Xhin Ting (3 Vega)<br>     Malejana Leah Marie Victoria Laurente (3 Epsilon)</p>
 </td>
 </tr>
 <tr>
 <td><strong>EXCO members:</strong></td>
 <td>
-<p>Sharlotte Anne Ye Ning Xuan (3A1)<br>Jong Jin Shan Novrynn (3A1)<br>Siti Asdyan Daniya Binte Muhammad Ramdan (3A1)<br>Koh Zun Ngee (3A2)<br>Esperanza Petrosia Fernandez (3A3)<br>Hua Vang Ngoc My My (3A3)<br>Manikandan Saggarika (3A5)<br>S Poojasri (3A5)<br>Liao Háo Jùn Rony (3A5)<br>Jmie Lee Ya Shi (3A6)</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p> Amal Elma Binte Mohamed Faizal (3 Vega))<br>Mikaela Choo (3 Epsilon)<br>Khloe Lim Xin Yi&nbsp;(3 Antares)<br>Nur Luthfeah Binte Othman (3 Orion))<br>Nurin Akisha Binte Kamar Nor (3 Pollux)<br>
+</p></td></tr></tbody></table>
