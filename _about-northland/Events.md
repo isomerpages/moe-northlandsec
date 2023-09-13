@@ -3,7 +3,7 @@ title: Events
 permalink: /about-northland/events/
 description: ""
 ---
-#### ****Northstars Shine – Prove It challenge****
+#### **Northstars Shine – Prove It challenge**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbo5RrbhBr1x9OhksZiP6Huis9ERRsI1sZy3qx3YXJk_Z3Pjrj6if9epIQhIK34w/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
 
 Some of our Secondary 1 Northstars participated in the Prove It challenge organised by NLB. We sent in 2 groups which investigated the following topics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
