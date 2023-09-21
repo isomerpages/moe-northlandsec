@@ -1,9 +1,8 @@
 ---
 title: Privacy
-permalink: /about-northland/admission/privacy/
+permalink: /privacy/
 description: ""
 ---
-
 <p>1. This is a Northland Secondary School website. Thank you for examining our privacy statement.</p>
 <p>2. If you are only browsing this website, we do not capture data that allows us to identify you individually.</p>
 <p>3. If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless&nbsp;such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except&nbsp;where such entities have been authorised to carry out specific Government services.</p>

@@ -1,9 +1,8 @@
 ---
 title: Terms of Use
-permalink: /about-northland/admission/terms-of-use/
+permalink: /terms-of-use/
 description: ""
 ---
-
 <p>Thank you for visiting. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.</p>
 <h4><strong>General</strong></h4>
 <p>These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.</p>
@@ -14,7 +13,7 @@ description: ""
 <p>5. Click here to review this Web Site Privacy Statement.</p>
 <h4><strong>Restrictions on Use of Materials</strong></h4>
 <p>Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Northland Secondary School . To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.</p>
-<p>Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Northland Secondary School &rsquo;s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Northland Secondary School .</p>
+<p>Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Northland Secondary School ’s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Northland Secondary School .</p>
 <h4><strong>Right of Access</strong></h4>
 <p>Northland Secondary School reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever.</p>
 <h4><strong>Disclaimer of Warranties and Liability</strong></h4>
