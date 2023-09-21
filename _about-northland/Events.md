@@ -3,6 +3,11 @@ title: Events
 permalink: /about-northland/events/
 description: ""
 ---
+#### **Northland celebrates Starmakers’ Day**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7hNTGNZUIEoALsVy7AGNwM2CiIHIMOcwtQMvvpKgryyb5DaZpPqAtg7DUotRuUQ/embed?start=true&amp;loop=true&amp;delayms=3000&amp;slide=id.p9" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+Our Northstars paid tribute to our Starmakers on Thursday 31 August with a series of celebratory activities. We started off the day with wonderful bonding time between Northstars and their Class Mentors. After that, the school proceeded to the hall for an entertaining concert whereby Northstars showcase their talent to express their appreciation to teachers. We also had the GEMS awards and our Caring Starmakers were affirmed. Our alumni also took time off their busy schedules to visit their former mentors and it was certainly an memorable day for all.
+
 #### **Northstars Shine – Prove It challenge**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbo5RrbhBr1x9OhksZiP6Huis9ERRsI1sZy3qx3YXJk_Z3Pjrj6if9epIQhIK34w/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
 
