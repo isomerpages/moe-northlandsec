@@ -3,6 +3,22 @@ title: Events
 permalink: /about-northland/events/
 description: ""
 ---
+#### **Northstars Shine at 全国中学编采比赛 National Create Your Own Newspaper Competition**
+![](/images/northstars%20shine%20national%20create%20your%20own%20newspaper%20competition.jpeg)
+
+Northland is proud to share that our Northstars - 
+Ooi Jun Xiang (1 Vega), 
+Cherry Thet (2 Antares), 
+Chia Li Via (2 Pollux), 
+Toh Jie Yu (2 Pollux) and 
+Yong Hui Yi  (2 Pollux) have won Third prize (三等奖) in the National Create Your Own Newspaper Competition. Congratulations to our Northstars and our appreciation to their teachers, Ms Li Yuewei, Ms Tan Xin Yi and Ms Tan Jee Yue for guiding them.
+
+#### **Northstar Shines - All Singapore Secondary Maths Competition**
+![](/images/northstar%20shines%20-%20all%20singapore%20secondary%20maths%20competitionn.jpeg)
+
+Northland Secondary School congratulates Lim Ting Ting (3 Sirius) for attaining first in the Upper Sec NA category in the All Singapore Secondary Maths Competition! Well done Ting Ting!
+
+
 #### **Northland celebrates Starmakers’ Day**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7hNTGNZUIEoALsVy7AGNwM2CiIHIMOcwtQMvvpKgryyb5DaZpPqAtg7DUotRuUQ/embed?start=true&amp;loop=true&amp;delayms=3000&amp;slide=id.p9" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
 
