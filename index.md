@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/eBanner_final.jpg
+      background: /images/open house 2023 banner.jpg
       key_highlights:
         - title: Events
           description: Featured Stories
