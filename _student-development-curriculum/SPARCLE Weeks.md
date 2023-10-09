@@ -3,7 +3,7 @@ title: SPARCLE Weeks
 permalink: /student-development-curriculum/sparcle-weeks/
 description: ""
 ---
-#### **SPARCLE 1**
+## **SPARCLE 1**
 
 SPARCLE stands for&nbsp;**SP**orts,&nbsp;**A**cademic,&nbsp;**R**3&nbsp;(Respect, Responsibility and Resilience) values,&nbsp;**C**haracter&nbsp;**L**eadership&nbsp;**E**ducation.  
   
