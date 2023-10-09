@@ -22,5 +22,5 @@ SPARCLE 1 is a week-long outdoor learning experience designed to nurture charact
 
 #### ****Secondary 4N  Elective Modules****
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSknhKVeZf7AvstK2-Gl-uNybVQs00lcjeaVQ-YKdQXVxPZ1RtLmvIW2n-XlkHBA/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true"></iframe>
-Click [HERE](https://www.northlandsec.moe.edu.sg/student-development-curriculum/sparcle-weeks/sparcle-2/)to learn more about SPARCLE 2!
 
+#### Click [HERE](https://www.northlandsec.moe.edu.sg/student-development-curriculum/sparcle-weeks/sparcle-2/)to learn more about SPARCLE 2!
