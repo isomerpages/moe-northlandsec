@@ -13,7 +13,7 @@ description: ""
 <iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYzrCqZR8y8QwFg9YMFRkLIiTGJhCuf-_EHFo_HeWDCGLRgF3A-B96LkOohq9nzg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 <h4><strong>Secondary 2 - Towards a Zero Waste Nation</strong></h4>
 <iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXuli7B41H9euXiieT3zCGgd-aygGCEndIrUuIjgpP3tVLYu1AHpZKF1hGJ33dLA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-<h4><strong>Secondary 3 - FIghting Climate Change</strong></h4>
+<h4><strong>Secondary 3 - Fighting Climate Change</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vREcvLjLiSUdqV1MB0LzZSg9PeoDEhcv0XxrJmVRJ6NCgxElZcksXk2E2JpL4yoCg/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
 
 
