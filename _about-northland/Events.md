@@ -3,6 +3,11 @@ title: Events
 permalink: /about-northland/events/
 description: ""
 ---
+#### **Northland Secondary School Open House 2023 – We are a Constellation of Northstars!**
+![](/images/open%20house%202023.jpeg)
+
+Dear Parents and P6 students, join us in our physical Open House on 17 November 2023, 11am – 5pm! Go through the Northland Experience of being Learners who Share, Citizens who Care and Leaders who Dare! There will be CCA Displays, Lesson Demonstrations, a guided tour around our school, sharings by our Students Leaders and Teachers and our school leaders will also share a bit more about our Northland story. Sign up to attend our school leaders’ dialogue at https://go.gov.sg/nssopenhouse2023.
+
 #### **Graduation Day 2023**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQJewfKBAUcLdFxXbE9QGAqE1tS4Jr474LuyEf7__BFSXAqMYFUYi-plNk5R1PkIQ3CZPkd5-ejq59C/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
 
