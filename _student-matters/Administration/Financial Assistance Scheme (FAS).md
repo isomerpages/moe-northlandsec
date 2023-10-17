@@ -18,7 +18,7 @@ third_nav_title: Administration
 ![](/images/fas%20benefits2024.JPG)
 <p><strong>HOW TO APPLY?<br></strong>Application forms are available from the school and MOE website. The school will notify you of the outcome of your application.</p>
 <p>You can click <a href="https://go.gov.sg/moe-efas" target="">here</a>&nbsp;or scan the QR code to submit the form online via FormSG</p>
-
+![](/images/fas2024%20qr1.jpg)
 <p><strong>ADDITIONAL HELP REQUIRED?<br></strong>If you need additional help, you can approach your child’s
 school for further financial assistance.
 	
