@@ -21,7 +21,7 @@ third_nav_title: Administration
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 25%;"><!--[](/images/fas2024%20qr.jpg)--></td>
+<td style="width: 25%;"></td>
 <td style="width: 75%;">&nbsp;</td>
 </tr>
 </tbody>
