@@ -26,8 +26,27 @@ third_nav_title: Administration
 </tr>
 </tbody>
 </table>
-<p><strong>ADDITIONAL HELP REQUIRED?<br></strong>If you need additional help, you can approach your child’s school for further financial assistance.<br>Schools can also help students from low-income households to own a laptop and/or get broadband internet access at affordable prices through IMDA’s digital access programmes<sup>#&nbsp;</sup>(www.digitalaccess.gov.sg). For enquiries, please contact 6377 3800 or e-mail: <a href="mailto:info@imda.gov.sg">info@imda.gov.sg</a>.<br><em># Subject to eligibility and availability.</em></p>
-<p><strong>2.BURSARIES AND SCHEMES FROM COMMUNITY ORGANISATIONS</strong></p>
+<p><strong>ADDITIONAL HELP REQUIRED?<br></strong>If you need additional help, you can approach your child’s
+school for further financial assistance.
+	
+If you need help to get a digital device and/or broadband
+internet access, you can apply for IMDA’s
+DigitalAccess@Home scheme#. For details, please visit
+www.digitalaccess.gov.sg
+For enquiries, please contact IMDA hotline 6377 3800 or email:
+digitalaccess@imda.gov.sg.<br><em># Subject to eligibility and availability.</em></p>
+
+<p><strong>Other Information<br></strong>
+</p><p>	Parents with children in different schools<br>
+	You need to submit only one application form for all your
+school-going children to one of their schools. The school
+which receives the application form will inform you of the
+outcome for all the children.
+	
+Primary 6 students going to Secondary 1 in 2024<br>
+Primary 6 students can apply for MOE FAS at their primary
+school for Secondary 1 next year.
+</p><p><strong>2.BURSARIES AND SCHEMES FROM COMMUNITY ORGANISATIONS</strong></p>
 <ul>
 <li>Students and parents should refer to the various community group webpages for the bursaries and schemes (such as tuition programmes) available:</li>
 <ul>
