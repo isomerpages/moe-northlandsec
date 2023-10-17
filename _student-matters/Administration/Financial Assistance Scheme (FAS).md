@@ -21,7 +21,7 @@ third_nav_title: Administration
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 25%;"></td>
+<td style="width: 25%;">![](/images/fas2024%20qr.jpg)</td>
 <td style="width: 75%;">&nbsp;</td>
 </tr>
 </tbody>
@@ -61,4 +61,5 @@ school for Secondary 1 next year.
 <li>Pupils are to approach the Form Teacher or Office Staff for&nbsp;application forms.&nbsp;</li>
 <li>Alternatively, pupils may be identified by teachers.</li>
 </ol>
-<p><strong>APPLICATION FORM<br></strong><a href="/file/MOE%20FAS%20Application%20Form%202023%20updated%2017102022.pdf" target="_blank" rel="noopener">MOE FAS Application Form 2023 (updated on 17 October 2022)</a>&nbsp;</p>
+
+Updated 17 October 2024
