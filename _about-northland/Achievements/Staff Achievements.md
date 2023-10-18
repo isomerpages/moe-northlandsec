@@ -20,14 +20,14 @@ The MSEA is an MOE-wide award that recognises MOE staff who
 Congratulations to our MSEA winners for 2023
 
 **Gold Award Winners :**
-* Mdm Catherine Tan Soo Lee
-* Mdm Choi Pei Ling
-* Ms Yap Qian Hui Joanne
+* Mdm Catherine Tan Soo Lee, OM
+* Mdm Choi Pei Ling, HOD Mother Tongue Languages
+* Ms Yap Qian Hui Joanne, YH Secondary 3
 
 **Silver Award Winners:**
 * Mdm Hor Kah Wai
 * Mdm Jaya D/O Subramanian
-* Mr Liew Chee Keong
+* Mr Liew Chee Keong, OM
 * Miss Nur Khalilah Bte Jasmani
 * Mrs Ong Huifen
 * Mdm Soh Gim Uoon
