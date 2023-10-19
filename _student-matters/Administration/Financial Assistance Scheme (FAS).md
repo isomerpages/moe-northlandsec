@@ -55,4 +55,7 @@ school for Secondary 1 next year.
 <li>Alternatively, pupils may be identified by teachers.</li>
 </ol>
 
+**APPLICATION FORM**
+[2024 MOE FAS Application Form](/files/2024%20moe%20fas%20application%20form.pdf)
+
 Updated 17 October 2024
