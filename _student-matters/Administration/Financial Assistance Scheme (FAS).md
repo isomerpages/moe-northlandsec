@@ -30,7 +30,7 @@ third_nav_title: Administration
 <p><strong>ADDITIONAL HELP REQUIRED?<br></strong>If you need additional help, you can approach your child’s school for further financial assistance.<br>If you need help to get a digital device and/or broadband
 internet access, you can apply for IMDA’s
 DigitalAccess@Home scheme#.  For details, please visit
-www.digitalaccess.gov.sg). For enquiries, please contact 6377 3800 or e-mail: <a>info@imda.gov.sg</a>.<br><em># Subject to eligibility and availability.</em></p>
+www.digitalaccess.gov.sg. For enquiries, please contact 6377 3800 or e-mail: <a>info@imda.gov.sg</a>.<br><em># Subject to eligibility and availability.</em></p>
 
 **Other Information**
 * Parents with children in different schools
