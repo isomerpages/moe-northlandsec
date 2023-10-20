@@ -3,12 +3,12 @@ title: Mathematics Department
 permalink: /academic-curriculum/mathematics-department/
 description: ""
 ---
-<img src="/images/mat1.jpeg">
-<p><em>(From Left to Right)<br /></em><em>Front Row: Mr Chen Weizhong (ST Mathematics), Mr Abudaher (AYH Sec 3), Mr Latiff, Mr Chia Meng Guan, Mr Mohamad Faizal (SH ICT), Miss Liao Caizhuang<br />2<sup>nd</sup>&nbsp;Row: Mr Brian Phua, Miss Haw Yubin, Mdm Lenny Azlina (HOD Maths), Mr Ou Jianwen, Miss Joanne Yap (SH Educational Support)<br />Back Row: Mr Ernest Yeo, Miss Pang Yi Jia, Mdm Hwee Yuet Mei (SH Maths), Mrs Chang Ying Ying, Mr Lim Chee Mun</em></p>
+
+<p><em>(From Left to Right)<br></em><em>Front Row: Mr Chen Weizhong (ST Mathematics), Mr Lim Hwee Chong, Mr Latiff, Mr Chia Meng Guan, Mr Mohamad Faizal (SH ICT), Miss Liao Caizhuang (SH Educational Support (Internal)) <br>2<sup>nd</sup>&nbsp;Row: Mdm Jesslyn Lee, Miss Haw Yubin, Mdm Lenny Azlina (HOD Maths), Mr Abudaher (AYH Sec 4/5), Miss Joanne Yap (YH Sec 3)<br>Back Row: Mr Ernest Yeo, Mr Brian Phua, Mrs Chang Ying Ying, Mdm Hwee Yuet Mei (SH Maths), Mr Ou Jianwen, Mr Feroze  s/o Amzah </em></p>
 <h2><strong><em>Inspiring Mathematics Learning, Nurturing Resilient Learners</em></strong></h2>
 <p>The Mathematics Department believes that everyone can do Mathematics with persistent effort. A strong foundation in the subject will give learners opportunities to solve problems confidently and systematically. These skills will serve them well in life.</p>
 <p>Our teachers seek to collaborate and learn to improve our teaching and learning. We hope to model this spirit of learning and encourage our students to love Mathematics and believe in themselves. We also bring into the classroom physical manipulatives and online platforms such as Peardeck and Kahoot to help our students learn. With the personal learning devices, students are able to be more self-directed and also use technology for consultation too.</p>
-<p>The secondary Mathematics curriculum seek to develop students&rsquo; cognitive and metacognitive skills, and concepts as well as to allow them to appreciate the beauty and relevance of Mathematics in the real world. A primary effort by the department is to allow students to see the beauty and importance of Mathematics and work towards loving the subject.</p>
+<p>The secondary Mathematics curriculum seek to develop students’ cognitive and metacognitive skills, and concepts as well as to allow them to appreciate the beauty and relevance of Mathematics in the real world. A primary effort by the department is to allow students to see the beauty and importance of Mathematics and work towards loving the subject.</p>
 <p>We support all our students in the learning of Mathematics especially for those who require more guidance. They can benefit from small-group consultations and bridging programmes. At the same time, we strive to stretch students who have a higher aptitude for the subject so that they can pursue a course at the highest possible level in this discipline in the future.</p>
 <h4><strong>Department Programmes</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
