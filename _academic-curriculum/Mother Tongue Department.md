@@ -4,7 +4,7 @@ permalink: /academic-curriculum/mother-tongue-department/
 description: ""
 ---
 ![](/images/mtdept2023.jpg)
-<p><em>(From Left to Right)<br></em><em>Front Row: Mdm Kee Bee Hwa, Mdm Choi Pei Ling (HOD MTL), Mdm Liyana, Mdm Nurulain <br></em><em>2<sup>nd</sup>&nbsp;Row: Mr Santhosh Tamilarasan, Ms Li Yuewei, Mdm Siti Fathona, Mdm Noor Zanariah (SH Malay), Mdm Soh Gim Uoon<br></em><em>Back Row: Miss Tan Xin Yi, Mdm Gomathi Ramesh, Mdm Zou Yi, Mdm Fatin Nadiah, Miss Tan Jee Yue</em></p>
+<p><em>(From Left to Right)<br></em><em>Front Row: Mdm Kee Bee Hwa, Mdm Choi Pei Ling (HOD MTL), Mdm Liyana (AYH (Int)), Mdm Nurulain <br></em><em>2<sup>nd</sup>&nbsp;Row: Mr Santhosh Tamilarasan, Ms Li Yuewei, Mdm Siti Fathona, Mdm Noor Zanariah (SH Malay), Mdm Soh Gim Uoon<br></em><em>Back Row: Miss Tan Xin Yi, Mdm Gomathi Ramesh, Mdm Zou Yi, Mdm Fatin Nadiah, Miss Tan Jee Yue</em></p>
 <h4><strong><em>Every student a Competent Communicator in Mother Tongue Language</em></strong></h4>
 <p><strong>Department Mission</strong></p>
 <ul>
