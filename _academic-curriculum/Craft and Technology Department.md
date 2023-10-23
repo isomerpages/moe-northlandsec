@@ -3,8 +3,8 @@ title: Craft and Technology Department
 permalink: /academic-curriculum/craft-and-technology-department/
 description: ""
 ---
-<img src="/images/ctd1.jpeg">
-<p><em>From Left to Right)<br />Front Row: Mr Muhd Arshad, Mr Jaafar, Mr Siaw Kah Chin, Mrs Lee Kong Meng, Mr Balasubramaniam, Mr Shankar Selvaraju, Mr Tay Liang Hoe<br />2<sup>nd</sup>&nbsp;Row: Mrs Janice Toh, Mdm Nur Jehan, Mdm Gan Lei Fong (HOD C&amp;T), Mdm Marliana, Mdm Yeo Sai Hong<br />Back Row: Miss Hartini (AYH Sec 1), Mr Mohamed Amin, Mrs Lydia Goh, Mr Ng Qiyang&nbsp;</em></p>
+![](/images/crafttech2023.jpg)
+<p><em>(From Left to Right)<br>Front Row: Mr Jaafar, Mr Alex Ng, Mr Balasubramaniam, Mr Siaw Kah Chin, Mr Shankar Selvaraju, Mr Tay Liang Hoe<br>2<sup>nd</sup>&nbsp;Row: Mrs Janice Toh, Mdm Nur Jehan, Mdm Gan Lei Fong (HOD C&amp;T), Mdm Marliana, Mdm Yeo Sai Hong<br>Back Row: Miss Hartini (AYH Sec 2), Mr Mohamed Amin, Mrs Lydia Goh, Mr Ng Qiyang&nbsp;</em></p>
 <p>The Craft and Technology department comprises Art, Design and Technology (D&amp;T) and Nutrition and Food Science (NFS) units. The department envisions every Northstar to demonstrate critical thinking by solving real-life issues.</p>
 <p>Through Art, students will be equipped with skills to observe, perceive and interpret by applying their understanding of Art knowledge so as to make meaning of what they see. They will also be exposed to various art forms to equip them with the skills to be able to express their ideas and experiences through art.</p>
 <p>Through D&amp;T, students will develop empathy by developing a keen sense of observation of things around them and applying the design processes during designing. Students will be equipped with sketching skills to do product design during ideation.</p>
@@ -30,7 +30,7 @@ description: ""
 <tr>
 <td style="width: 40%;"><img src="/images/ctd4.png"></td>
 <td style="width: 60%;">
-<h4><strong>Food & Consumer Education</strong></h4>
+<h4><strong>Food &amp; Consumer Education</strong></h4>
 <p>FCE will guide you in learning more about how nutrition supports our health and sustainability, and help you make more informed decisions for a healthier life!</p>
 </td>
 </tr>

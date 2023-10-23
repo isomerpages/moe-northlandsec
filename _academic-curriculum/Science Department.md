@@ -3,8 +3,8 @@ title: Science Department
 permalink: /academic-curriculum/science-department/
 description: ""
 ---
-<img src="/images/sci.jpeg">
-<p><em>(From Left to Right)<br /></em><em>Front Row: Miss Lorraine Soon, Mr Aaron Rajoo (HOD CCE), Mdm Lim Mei Teng (HOD ICT), Miss Haw Yubin, Miss Ng Shuen Yew<br /></em><em>2<sup>nd</sup>&nbsp;Row: Mdm Nilasari (SH Chem), Mdm Kumari (YH Sec 4&amp;5), Mdm Chua Siew Ping, Miss Lim Hwee Peng, Miss Tricia Chan<br /></em><em>Back Row: Ms Ng Hsuen Huey, Mr Jackson Tan, Miss Ng Shi Hui, Mr Clement Ong (ST Bio), Miss Angela Chan, Mr Lim Yong Liang</em></p>
+![](/images/science2023.jpg)
+<p><em>(From Left to Right)<br></em><em>Front Row: Miss Ng Shuen Yew, Mrs Wong Hsuen Huey, Mdm Lim Mei Teng (HOD Science), Mr Clement Ong (ST Biology), Miss Lorraine Soon<br></em><em>2<sup>nd</sup>&nbsp;Row: Mdm Nilasari (SH Chem), Mdm Kumari (YH Sec 1) Miss Haw Yubin, Miss Angeline Leong, Mdm Chua Siew Ping, Miss Lim Hwee Peng<br></em><em>Back Row: Mr Aaron Rajoo (LT CCE), Mr Chan Fook Sum, Miss Jamie Tan, Miss Angela Chan, Mdm Jesslyn Lee, Mr Jackson Tan</em></p>
 <h4><strong>Fostering the Joy of Learning in the Wonders of Science</strong></h4>
 <p>The Science Department at Northland Secondary School seeks to nurture an intrinsic motivation towards learning in every student and that learning should be a lifelong journey of exploration and discovery in the wonders of Science.</p>
 <p>The&nbsp;<strong>AIMS&nbsp;</strong>of the Science Department are to provide well-designed studies of experimental and practical science, in particular, to enable them to acquire sufficient understanding and knowledge to:</p>
@@ -14,7 +14,7 @@ description: ""
 <li>develop attitudes relevant to Science such as accuracy, precision, objectivity, integrity, inquiry; initiative, and inventiveness</li>
 <li>stimulate interest in and care for the local and global environment.</li>
 </ol>
-<p><strong>!NSPIRE</strong>&nbsp;is our Science signature programme comprising a series of exciting activities that ignites students&rsquo; passion in Science and cultivates inquiry and creative problem skills. Through Science activities such as Scientific Thinking via Hydroponics, Carbon Challenge+, Crystal Growing, research projects and talent mentoring, Northstars develop vital attitudes in Science such as curiosity, critical thinking, collaborative and communication skills.</p>
+<p><strong>!NSPIRE</strong>&nbsp;is our Science signature programme comprising a series of exciting activities that ignites students’ passion in Science and cultivates inquiry and creative problem skills. Through Science activities such as Scientific Thinking via Hydroponics, Carbon Challenge+, Crystal Growing, research projects and talent mentoring, Northstars develop vital attitudes in Science such as curiosity, critical thinking, collaborative and communication skills.</p>
 <h4><strong>Department Programmes</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -22,7 +22,7 @@ description: ""
 <td style="width: 40%;"><img src="/images/sci1.jpg"></td>
 <td style="width: 60%;">
 <h4><strong>Hydrophonics</strong></h4>
-<p>Don&rsquo;t have a green thumb? Vegetables won&rsquo;t be the only things you grow! Grow as a scientist through scientific inquiry through our Hydroponics&nbsp;programme!</span></p>
+<p>Don’t have a green thumb? Vegetables won’t be the only things you grow! Grow as a scientist through scientific inquiry through our Hydroponics&nbsp;programme!</p>
 </td>
 </tr>
 <tr>
