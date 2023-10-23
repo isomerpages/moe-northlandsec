@@ -14,12 +14,12 @@ A very BIG thank you to Peiying Primary School for receiving us! Good luck to al
 A very BIG thank you to Huamin Primary School for receiving us! Good luck to all P6 Huaminites for your PSLE!
 
 #### **Primary schools P6 Outreach@ Wellington Primary School** 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRV1y28RKoV5dsv87y4cSEzDpGlSpI6sqXhBqgzCcMSdR9xnFXyiAFa2ovoB73QAKMthiLFtjSxCCrj/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRV1y28RKoV5dsv87y4cSEzDpGlSpI6sqXhBqgzCcMSdR9xnFXyiAFa2ovoB73QAKMthiLFtjSxCCrj/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
 
 A very BIG thank you to Wellington Primary School for receiving us! Good luck to all P6 Wellingtonians for your PSLE!
 
 #### **A Northstar Shines! – Jarret Low (3 Orion)** 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyfo__hVMmpstjcwznrSkkVy6zdiPinlz3RdplTKN8bfmkeuC3VbKIXtlQXSQLa29hZa34ltPAHJTd/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vThSiULi0XzbNr0nhshR_S3SRE9GJMElar-frG1hiaCrxh17lPJ9YqgVwb3AJX6a8n2DQeyDupzkHA3/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
 
 Every year, the Computer Applications unit in MOE conducts the Animation and Game Making Competition for Secondary 2 (Animation Category) and Secondary 3 (Game Category). Northland is proud to share that our Northstar, Jarret Low from 3 Orion achieved the Gold award in this Secondary 3 Game Category! Congratulations Jarret!
 
