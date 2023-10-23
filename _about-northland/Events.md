@@ -3,7 +3,25 @@ title: Events
 permalink: /about-northland/events/
 description: ""
 ---
-#### **Northstars Shine - National Junior Physics Olympiad** 
+#### **Primary schools P6 Outreach@ Peiying Primary School** 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyfo__hVMmpstjcwznrSkkVy6zdiPinlz3RdplTKN8bfmkeuC3VbKIXtlQXSQLa29hZa34ltPAHJTd/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+A very BIG thank you to Peiying Primary School for receiving us! Good luck to all P6 Peiying students for your PSLE!
+
+#### **Primary schools P6 Outreach@ Huamin Primary School** 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTxGGGzYoUcCT7iNXq5g8Nc2gRtE_qicDUXaBNs03d51KbZNJm2XhSuZ6AqI0qvlP-aIx1Ut5q9XWLc/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+A very BIG thank you to Huamin Primary School for receiving us! Good luck to all P6 Huaminites for your PSLE!
+
+#### **Primary schools P6 Outreach@ Wellington Primary School** 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRV1y28RKoV5dsv87y4cSEzDpGlSpI6sqXhBqgzCcMSdR9xnFXyiAFa2ovoB73QAKMthiLFtjSxCCrj/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+A very BIG thank you to Wellington Primary School for receiving us! Good luck to all P6 Wellingtonians for your PSLE!
+
+#### **A Northstar Shines! – Jarret Low (3 Orion)** 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyfo__hVMmpstjcwznrSkkVy6zdiPinlz3RdplTKN8bfmkeuC3VbKIXtlQXSQLa29hZa34ltPAHJTd/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+Every year, the Computer Applications unit in MOE conducts the Animation and Game Making Competition for Secondary 2 (Animation Category) and Secondary 3 (Game Category). Northland is proud to share that our Northstar, Jarret Low from 3 Orion achieved the Gold award in this Secondary 3 Game Category! Congratulations Jarret!
 
 #### **Northstars Shine - National Junior Physics Olympiad** 
 ![](/images/physics%20olympiad%202023.jpeg)
