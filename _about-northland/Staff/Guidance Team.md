@@ -4,3 +4,4 @@ permalink: /guidanceteam/about-northland/staff/permalink/
 description: ""
 third_nav_title: Staff
 ---
+![](/images/guidance2023.jpg)
