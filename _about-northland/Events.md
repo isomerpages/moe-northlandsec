@@ -3,6 +3,18 @@ title: Events
 permalink: /about-northland/events/
 description: ""
 ---
+#### **Northstars Shine - National Junior Physics Olympiad** 
+
+#### **Northstars Shine - National Junior Physics Olympiad** 
+![](/images/physics%20olympiad%202023.jpeg)
+
+2 groups from 4 Orion participated in the National Junior Physics Olympiad 2023 organised by Institute of Physics Singapore and were awarded Certificate of Participation with 3 Honourable Mentions. The students with honourable mentions are Phung Khanh Linh, Wei Jiaqi and Ng Shi Lun. Congratulations!
+
+#### **Northstars Shine - National Junior Chemistry Olympiad** 
+![](/images/chemistry%20olympiad%202023.jpeg)
+
+20 students from 4 Orion and 4 Pollux participated in the National Junior Chemistry Olympiad 2023 organised by Singapore National Institute of Chemistry in May. 2 students proceeded to the final round where they achieved a bronze medal and merit award respectively. The students are Phung Khanh Linh (Bronze Medal) and Chua Yi Zhen (Certificate of Merit). Congratulations!
+
 #### **Northland Secondary School Open House 2023 – We are a Constellation of Northstars!**
 ![](/images/open%20house%202023.jpeg)
 
