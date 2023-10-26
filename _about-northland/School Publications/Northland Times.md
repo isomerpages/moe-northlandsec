@@ -11,7 +11,7 @@ third_nav_title: School Publications
 [Northland Times - SPARCLE 2 2023 Edition](/files/SPARCLE/sparcle%202%202024.pdf)
 
 <h4><strong>2022</strong></h4>
-<p>[Northland Times Issue 1 - SPARCLE 1 Edition](/files/SPARCLE/northland%20times%20issue%201%20-%20sparcle%201%20edition%202022.pdf)</p>
+<p><a href="/files/SPARCLE/northland%20times%20issue%201%20-%20sparcle%201%20edition%202022.pdf">Northland Times Issue 1 - SPARCLE 1 Edition</a></p>
 <p><a href="/files/Northland%20Times%20Issue%202%20-%20SPARCLE%202%20Edition.pdf">Northland Times Issue 2 - SPARCLE 2 Edition.pdf</a></p>
 <p><a href="/files/Northland%20Times%20Issue%203%20-%20National%20Day%20Edition.pdf">Northland Times Issue 3 - National Day Edition.pdf</a></p>
 <p><a href="/files/Northland%20Times%20Issue%204%20-%20Northland%20Times%20Teachers%20Day%20Edition.pdf">Northland Times Issue 4 - Northland Times Teachers Day Edition.pdf</a></p>
