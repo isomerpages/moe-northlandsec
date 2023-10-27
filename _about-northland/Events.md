@@ -3,6 +3,12 @@ title: Events
 permalink: /about-northland/events/
 description: ""
 ---
+#### **Stay Safe- Keep Well**
+![](/images/stay%20safe%20poster%202023.jpeg)
+
+Dear Northstars, as another school year comes to an end, we hope that you will enjoy your vacation and recharge for 2024. During the holidays, do take care of yourself, remember the pointers above to stay safe and keep well!
+See you in 2024!!
+
 #### **Primary schools P6 Outreach@ Peiying Primary School** 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyfo__hVMmpstjcwznrSkkVy6zdiPinlz3RdplTKN8bfmkeuC3VbKIXtlQXSQLa29hZa34ltPAHJTd/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
 
