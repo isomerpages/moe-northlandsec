@@ -3,6 +3,11 @@ title: Events
 permalink: /about-northland/events/
 description: ""
 ---
+#### **Primary schools P6 Outreach@ Ahmad Ibrahim Primary School** 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQefOo255mNd93HnrUyxD2_GF4_x9JCrBk7v8FqJ2fJ0iG_IZ2DiJQqoomSOlBD4pXQ-k2Y0XDuQ04q/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+A very BIG thank you to AIPS for receiving us! Good luck to all P6 AIPS students for your PSLE!
+
 #### **Stay Safe- Keep Well**
 ![](/images/stay%20safe%20poster%202023.jpeg)
 
