@@ -3,6 +3,11 @@ title: Events
 permalink: /about-northland/events/
 description: ""
 ---
+#### **Citizens who Care – Sec 1 Values in Action** 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSEybIlfGQxE76_jNy4zmiVIU5T-BUZKdwEbyI1-WxNVA2Vkdi2AxP4OL_myWAt8M2BiSKkV4rRxOzs/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+This year, our Sec 1 VIA extended beyond the classroom. In the spirit of being Citizens Who Care, our Northstars had the opportunity to serve the community by getting their hands dirty in keeping the environment clean. Great job Northstars!
+
 #### **Primary schools P6 Outreach@ Ahmad Ibrahim Primary School** 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQefOo255mNd93HnrUyxD2_GF4_x9JCrBk7v8FqJ2fJ0iG_IZ2DiJQqoomSOlBD4pXQ-k2Y0XDuQ04q/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
 
