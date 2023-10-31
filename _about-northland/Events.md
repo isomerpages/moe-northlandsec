@@ -3,6 +3,16 @@ title: Events
 permalink: /about-northland/events/
 description: ""
 ---
+#### **Primary schools P6 Outreach@ Naval Base Primary School** 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXc2T4luF0iX7PkUkzL2IsNuG7LQox9XRsMhhLAIvikyw2xbf8aegI7W7hnT007AccYTOA9_n0k67W/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+A very BIG thank you to NVPS for receiving us! Good luck to all P6 NVPS students for your PSLE!
+
+#### **Primary schools P6 Outreach@ Xishan Primary School** 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRm69c2uyZ6cUHFN-CkiQ7zjw-KOaVLTRUxYeqf0Kp1huV09IUNe8dYG3-oyri-l1cBGMofBblQU0pC/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+A very BIG thank you to XPS for receiving us! Good luck to all P6 XPS students for your PSLE!
+
 #### **Citizens who Care – Sec 1 Values in Action** 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSEybIlfGQxE76_jNy4zmiVIU5T-BUZKdwEbyI1-WxNVA2Vkdi2AxP4OL_myWAt8M2BiSKkV4rRxOzs/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
 
