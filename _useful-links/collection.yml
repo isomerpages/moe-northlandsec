@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - School Canteen Ad.md
       - Student Learning Space.md
       - AsknLearn.md
       - ECG in NSS.md
