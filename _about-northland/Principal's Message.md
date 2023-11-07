@@ -22,30 +22,30 @@ We also name our classes after stars – Antares, Castor, Rigel, Vega, Sirius, E
 
 The poem below, penned by Miss Norashikin, our SH/English, aptly describes the attributes of Northstars and Starmakers, the illuminators of Northland Secondary.
 
-Northstars,
-Shining brilliant and bold
-Collaborating to create a story untold
-Albeit the storms of life’s might
-They continue to shimmer bright.
+<p>Northstars,<br>
+Shining brilliant and bold<br>
+Collaborating to create a story untold<br>
+Albeit the storms of life’s might<br>
+They continue to shimmer bright.</p>
 
-Starmakers,
-Imbibing values, so noble and grand
-Shaping Northstars with open hands
-Building character, a life to be proud
-For Northstars, so bright in the crowd
+<p>Starmakers,<br>
+Imbibing values, so noble and grand<br>
+Shaping Northstars with open hands<br>
+Building character, a life to be proud<br>
+For Northstars, so bright in the crowd<br>
 
-Together, 
-They form a constellation
-Of knowledge, growth and inspiration
-Northstars shining, Starmakers guiding
-A journey of education, always inspiring
+</p><p>Together, <br>
+They form a constellation<br>
+Of knowledge, growth and inspiration<br>
+Northstars shining, Starmakers guiding<br>
+A journey of education, always inspiring</p>
 
-Northstars and Starmakers,
-May their light continue to grow
-As they learn, to and fro
-For in the darkness, they will always know
-The power of their immense glow
+<p>Northstars and Starmakers,<br>
+May their light continue to grow<br>
+As they learn, to and fro<br>
+For in the darkness, they will always know<br>
+The power of their immense glow</p>
 
-May our educational galaxy continue to shine brightly for years to come.
+<p>May our educational galaxy continue to shine brightly for years to come.</p>
 
 <p>Lim Kok Hwa<br>Principal<br>Northland Secondary</p>
