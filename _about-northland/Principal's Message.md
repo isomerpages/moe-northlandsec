@@ -48,8 +48,4 @@ The power of their immense glow
 
 May our educational galaxy continue to shine brightly for years to come.
 
-
-
-Lim Kok Hwa
-Principal
-Northland Secondary
+<p>Lim Kok Hwa<br>Principal<br>Northland Secondary</p>
