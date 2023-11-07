@@ -5,12 +5,51 @@ description: ""
 variant: markdown
 ---
 <p>Dear All Northstars,</p>
-<img style="width: 40%;" src="/images/principal 2023.jpg" align="right">
-<p>Welcome back to Northland. While the pandemic continues to test our resolve with new variants of the COVID virus in 2021, the school remains open so that your learning continues unabated, albeit with safety measurements in place. We are confident that 2022 will be better as the nation continues on its trajectory towards being COVID-resilient.</p>
-<p>The total student enrolment in 2022 now stands at about 960 with 32 classes, including about 250 new Sec 1 Northstars. My staff and I are excited to see all of you and could not wait for the year to begin so that we can walk the schooling journey with you. Let's make 2022 a memorable year of learning.</p>
-<p>Northstars spent at least 6 hours a day in school and your educational journey with us last 4-5 years. These encompass a significant part of your adolescent years. The quality of education we can provide as a school has a long-lasting impact on your growing up years. Therefore, as an educational institution, we strive to be&nbsp;<strong><em>an</em></strong>&nbsp;<strong><em>inviting school</em></strong>&nbsp;that provides&nbsp;<strong><em>a positive schooling experience</em></strong>&nbsp;for all Northstars. We hope to make Northland a school that you are proud to call your second home.</p>
-<p>Northland&nbsp;Secondary School is well resourced with a 96-strong teaching force and supported by 6 Allied Educators and 16 Executive &amp; Administrative Staff. We also have a well-stocked and inviting library, a multi-purpose hall, an indoor sports hall, a synthetic hockey pitch, an after- school activity centre, a design studio and many special rooms to cater to the holistic development of Northstars.</p>
-<p>We are blessed to have a fantastic crop of highly dedicated, competent and nurturing teachers and support staff, who will take good care of all Northstars that pass through our our gates. My teachers, non-teaching staff and I are committed to make your stay with us as positive and fulfilling as possible. We hope to make Northland your second home and a conducive environment for your learning and development. To achieve this, we will need you to be at your best behaviour with the right mindset to learn. To help you reach your potential, we will set high expectations for you and will support you to the best of our ability. My staff and I will be firm yet caring, demanding yet nurturing as we journey through 2022.</p>
-<p>We hope to inspire learning by making our lessons interesting, authentic with real world contexts, where Northstars have opportunities to co-construct knowledge through collaboration and inter-discipline learning. Our engaging instructional programme also leverages on each Northstar having their own personal Chromebook.</p>
-<p>My staff and I are committed to unleash the potential in each and every Northstar, true to the mission of the school to&nbsp;<strong>Inspire Learners</strong>&nbsp;and&nbsp;<strong>Nurture Character</strong>. Let us come together as one big Northland family, both staff and students, to become the best version of ourselves as&nbsp;<strong>Learners who Share, Citizens who Care</strong>&nbsp;and&nbsp;<strong>Leaders who Dare.</strong></p>
-<p>Lim Kok Hwa<br>Principal<br>Northland Secondary<br>4 Jan 2022</p>
+<img style="width: 40%;" src="/images/principal 2023.jpeg" align="right">
+##### An Illuminating 2023
+
+2023 has been a busy year for Team Northland. The school transited back to the normalcy of the pre-COVID years. Singapore Youth Festival (SYF) was back in full swing. The National School Games (NSG) competition came thick and fast. Learning journeys to external locations resumed, including overseas trips. We also welcomed our first batch of Secondary One Full Subject-Based Banding (FSBB) cohort. 
+
+While tiring for the Starmakers, it was a fulfilling 2023. As a school, we want Northstars to enjoy the full suites of activities on offer for an enriched and meaningful schooling experience. We are proud that the hardwork by Starmakers had paid off in terms of personal and student outcomes. 
+
+Over the past year, we have witnessed many examples of our Northstars and Starmakers shining brightly, illuminating the way forward for Northland Secondary. Our students have excelled academically, creatively, and socially, demonstrating the leadership and compassion that we need in these challenging times. Northstars surprised us by winning many awards and medals in the domains of performing arts, sports, uniformed groups, as well as cognitive domains such as public speaking, animation, language, oracy and literary skills. One of our students, Rishikka D/O Ranesh, received the highest academic accolade for the 2022 N Level examinations by winning the Lee Kuan Yew Award for Outstanding Normal Course Students (LKY-ONC) (NT)
+
+Our Starmakers, meanwhile, have shown unwavering dedication to their craft, by inspiring and guiding their students, and their colleagues to be the best version of themselves. A few of our Starmakers also achieved individual recognition for their dedicated service to the profession and to the community. They were recognised for their contributions to the professional development of their peers and for service excellence. Special congratulations to Mr Joseph Peterson, our VP(EO), for being conferred the Public Administration Medal (Bronze) for the 2023 National Day Awards. Our heartiest congratulations also to Ms Bian Yu Wei, our other VP(EO), for her appointment as the new Principal of Evergreen Secondary. 
+
+The word ‘star’ is synonymous with our students (Northstars) and staff (Starmakers). And just as stars give off light that illuminates the universe, Starmakers help students see the world in new and meaningful ways, expanding their horizons and inspiring them to reach for their own stars. In guiding and shaping Northstars with a rigorous academic and co-currirular programme, we hope to turn them into bright sparks that make a positive impact on the school, their peers and the community and the world at large. 
+
+We also name our classes after stars – Antares, Castor, Rigel, Vega, Sirius, Epsilon, Pollux and Polaris. Our annual speech and prize presentation day is also renamed as Starcolade, which is the amalgamation of two words – Stars, which refer to both our Northstars and Starsmakers, and Accolade, that is to praise, recognise and celebrate the achievements of our Northstars and Starmakers, the stars of our educational galaxy. Together, Starmakers and Northstars form a powerful force and a shining example of the beauty and wonder of the universe, and the limitless potential that lies within each and every one of us.
+
+The poem below, penned by Miss Norashikin, our SH/English, aptly describes the attributes of Northstars and Starmakers, the illuminators of Northland Secondary.
+
+Northstars,
+Shining brilliant and bold
+Collaborating to create a story untold
+Albeit the storms of life’s might
+They continue to shimmer bright.
+
+Starmakers,
+Imbibing values, so noble and grand
+Shaping Northstars with open hands
+Building character, a life to be proud
+For Northstars, so bright in the crowd
+
+Together, 
+They form a constellation
+Of knowledge, growth and inspiration
+Northstars shining, Starmakers guiding
+A journey of education, always inspiring
+
+Northstars and Starmakers,
+May their light continue to grow
+As they learn, to and fro
+For in the darkness, they will always know
+The power of their immense glow
+
+May our educational galaxy continue to shine brightly for years to come.
+
+
+
+Lim Kok Hwa
+Principal
+Northland Secondary
