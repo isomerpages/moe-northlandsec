@@ -6,8 +6,8 @@ variant: markdown
 ---
 <p>Dear All Northstars,</p>
 <img style="width: 40%;" src="/images/principal 2023.jpeg" align="right">
-##### An Illuminating 2023
 
+###### An Illuminating 2023
 2023 has been a busy year for Team Northland. The school transited back to the normalcy of the pre-COVID years. Singapore Youth Festival (SYF) was back in full swing. The National School Games (NSG) competition came thick and fast. Learning journeys to external locations resumed, including overseas trips. We also welcomed our first batch of Secondary One Full Subject-Based Banding (FSBB) cohort. 
 
 While tiring for the Starmakers, it was a fulfilling 2023. As a school, we want Northstars to enjoy the full suites of activities on offer for an enriched and meaningful schooling experience. We are proud that the hardwork by Starmakers had paid off in terms of personal and student outcomes. 
