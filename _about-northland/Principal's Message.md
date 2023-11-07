@@ -2,9 +2,10 @@
 title: Principal's Message
 permalink: /about-northland/principals-message/
 description: ""
+variant: markdown
 ---
 <p>Dear All Northstars,</p>
-<img style="width: 40%;" src="/images/princ.jpg" align = "right" />
+<img style="width: 40%;" src="/images/principal 2023.jpg" align="right">
 <p>Welcome back to Northland. While the pandemic continues to test our resolve with new variants of the COVID virus in 2021, the school remains open so that your learning continues unabated, albeit with safety measurements in place. We are confident that 2022 will be better as the nation continues on its trajectory towards being COVID-resilient.</p>
 <p>The total student enrolment in 2022 now stands at about 960 with 32 classes, including about 250 new Sec 1 Northstars. My staff and I are excited to see all of you and could not wait for the year to begin so that we can walk the schooling journey with you. Let's make 2022 a memorable year of learning.</p>
 <p>Northstars spent at least 6 hours a day in school and your educational journey with us last 4-5 years. These encompass a significant part of your adolescent years. The quality of education we can provide as a school has a long-lasting impact on your growing up years. Therefore, as an educational institution, we strive to be&nbsp;<strong><em>an</em></strong>&nbsp;<strong><em>inviting school</em></strong>&nbsp;that provides&nbsp;<strong><em>a positive schooling experience</em></strong>&nbsp;for all Northstars. We hope to make Northland a school that you are proud to call your second home.</p>
@@ -12,4 +13,4 @@ description: ""
 <p>We are blessed to have a fantastic crop of highly dedicated, competent and nurturing teachers and support staff, who will take good care of all Northstars that pass through our our gates. My teachers, non-teaching staff and I are committed to make your stay with us as positive and fulfilling as possible. We hope to make Northland your second home and a conducive environment for your learning and development. To achieve this, we will need you to be at your best behaviour with the right mindset to learn. To help you reach your potential, we will set high expectations for you and will support you to the best of our ability. My staff and I will be firm yet caring, demanding yet nurturing as we journey through 2022.</p>
 <p>We hope to inspire learning by making our lessons interesting, authentic with real world contexts, where Northstars have opportunities to co-construct knowledge through collaboration and inter-discipline learning. Our engaging instructional programme also leverages on each Northstar having their own personal Chromebook.</p>
 <p>My staff and I are committed to unleash the potential in each and every Northstar, true to the mission of the school to&nbsp;<strong>Inspire Learners</strong>&nbsp;and&nbsp;<strong>Nurture Character</strong>. Let us come together as one big Northland family, both staff and students, to become the best version of ourselves as&nbsp;<strong>Learners who Share, Citizens who Care</strong>&nbsp;and&nbsp;<strong>Leaders who Dare.</strong></p>
-<p>Lim Kok Hwa<br />Principal<br />Northland Secondary<br />4 Jan 2022</p>
+<p>Lim Kok Hwa<br>Principal<br>Northland Secondary<br>4 Jan 2022</p>
