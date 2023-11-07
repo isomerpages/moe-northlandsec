@@ -4,7 +4,7 @@ permalink: /about-northland/principals-message/
 description: ""
 variant: markdown
 ---
-<p>Dear All Northstars,</p>
+
 <img style="width: 40%;" src="/images/principal 2023.jpeg" align="right">
 
 ###### An Illuminating 2023
