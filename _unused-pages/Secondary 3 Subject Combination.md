@@ -2,7 +2,6 @@
 title: Secondary 3 Subject Combination
 permalink: /student-matters/secondary-two/secondary-3-subject-combination/
 description: ""
-third_nav_title: Secondary Two
 ---
 <h4><strong>Sec 3 Subject Combination results for 2022 (updated 15 Nov 2021)</strong></h4>
 <p>Dear Northstars, the Subject combination results for 2022 are available here.&nbsp;</p>
