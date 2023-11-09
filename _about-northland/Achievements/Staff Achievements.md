@@ -3,6 +3,7 @@ title: Staff Achievements
 permalink: /about-northland/achievements/staff-achievements/
 description: ""
 third_nav_title: Achievements
+variant: markdown
 ---
 <p><strong>Academy Awards for Professional Development </strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ4TKNTWxNhSot24nsvYQADWAq1bz5K-kABr8YxLW3X5AWQJVR9-JpsTbPMZMOcog/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true"></iframe>
@@ -31,7 +32,7 @@ Congratulations to our MSEA winners for 2023
 * Miss Nur Khalilah Bte Jasmani
 * Mrs Ong Huifen
 * Mdm Soh Gim Uoon
-* Mdm Zuraidah Binte Morni
+* Mdm Zuraida Binte Morni
 <p><strong>
 
 Winner of July 2022 MLS Dr Ruth Wong Medal: Mr Lu Jianhao, HOD Humanites</strong></p>
