@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance Scheme (FAS)
 permalink: /student-matters/administration/financial-assistance-scheme-fas/
-variant: tiptap
+variant: markdown
 description: ""
 ---
