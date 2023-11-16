@@ -4,6 +4,11 @@ permalink: /about-northland/events/
 description: ""
 variant: markdown
 ---
+#### **An Extraordinary Celebration: Northland x MINDS Woodlands Gardens School** 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR8dP_h1vpqL3B_sBMlIr2UixmUIGWic3X9zZiUpPgKPkLHPxpQ2YMcnbEH5XRgidE_90WMolJadnhI/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+On 15 November, our Indian Dance, Malay Dance, MCAC, Wushu, supported behind the scenes by InfoComm &amp; HeART Clubs performed with our friends from MINDS Woodlands Gardens School for 1500 people including President Tharman &amp; dignitaries from 10 countries. Congratulations to our CCAs for a job well done!
+
 #### **Girl Guides Sale of Cookies 2023** 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR8dP_h1vpqL3B_sBMlIr2UixmUIGWic3X9zZiUpPgKPkLHPxpQ2YMcnbEH5XRgidE_90WMolJadnhI/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
 
