@@ -4,6 +4,11 @@ permalink: /about-northland/events/
 description: ""
 variant: markdown
 ---
+#### **Citizens Who Care - Values in Action** 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTVWuXF-IjhXZlr_VI88RcI2LHKh0OJxXnp735NrK2xyQhQasDmBaCEzNDJortdt94Eo7fc3DkacXez/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+Our Starmakers and NPCC cadets and InfoComm members served the community last weekend. Their relentless effort and unwavering support have ensured the smooth running of our final VIA for year 2023  in collaboration  with Hao Ren Hao Shi. Well done Northstars!
+
 #### **Leaders who Dare - Battle Royale emerges in Madagui Forest, Vietnam** 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR19UT3GUMjqcgSnTi90t00rcVPrplwK4jMkHpgsooLSne5bI7YYojzD2I3rNj7sZ8K0d5-kc6Pyayj/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
 
