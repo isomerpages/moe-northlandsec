@@ -29,3 +29,20 @@ links:
     collection: partnerships
   - title: Contact Us
     collection: contact-us
+  - title: Sec 1 Registration 2024
+    url: /sec1-registration-2024/welcome/
+    sublinks:
+      - title: Welcome
+        url: /sec1-registration-2024/welcome/
+      - title: Purchase of Books
+        url: /student-matters/administration/pacific-bookstore-purchase-guide/
+      - title: Sec1 Booklist
+        url: /student-matters/secondary-one/booklist/
+      - title: Purchase of Uniforms
+        url: /permalink
+      - title: Financial Assistance Scheme
+        url: /student-matters/administration/financial-assistance-scheme-fas/
+      - title: Full Subject-Based Banding
+        url: /academic-curriculum/full-subject-based-banding-fsbb/
+      - title: Parent Support Group (PSG)
+        url: /partnerships/parent-support-group/
