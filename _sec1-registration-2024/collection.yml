@@ -1,4 +1,5 @@
 collections:
   sec1-registration-2024:
     output: true
-    order: []
+    order:
+      - Welcome.md
