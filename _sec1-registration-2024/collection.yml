@@ -2,6 +2,7 @@ collections:
   sec1-registration-2024:
     output: true
     order:
+      - Parent Support Group (PSG).md
       - Full Subject Based Banding (FSBB).md
       - Financial Assistance Scheme (FAS).md
       - Purchase of Uniform.md
