@@ -2,5 +2,6 @@ collections:
   sec1-registration-2024:
     output: true
     order:
+      - Sec 1 Booklist.md
       - Welcome.md
       - Purchase of Books.md
