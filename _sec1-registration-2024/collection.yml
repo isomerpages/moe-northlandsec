@@ -2,5 +2,4 @@ collections:
   sec1-registration-2024:
     output: true
     order:
-      - Purchase of Books/.keep
       - Welcome.md
