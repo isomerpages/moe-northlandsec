@@ -15,7 +15,7 @@ During the Sec 1 Registration day (22 December 2023), there will be
 <p>You do not need to be physically present in our school on that day as registration will take place online via webinar and only selected students and their parents will be required to attend a face-to-face briefing in Northland Secondary School.</p>
 <p>Our Class Mentors will contact you/your parent/guardian on the day prior to the Sec 1 Registration, to welcome you officially and to provide some general information on administration matters.</p>
 
-<p>Should you still have queries or would like to visit the school, please call the [general office](https://northlandsec.moe.edu.sg/contact-us/contact-information) . 
+<p>Should you still have queries or would like to visit the school, please call the [general office](/contact-us/contact-information/) . 
 You may [click here](https://go.gov.sg/2024sec1registration )   to post your queries prior to Sec 1 Registration, if you have any. We will try to answer your queries during the Registration day.</p>
 
 More details on the webinar will be made available nearer to the date through Parents Gateway. 
