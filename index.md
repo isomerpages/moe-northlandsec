@@ -12,9 +12,9 @@ sections:
         - title: Events
           description: Featured Stories
           url: /about-northland/events
-        - title: SPARCLE Weeks
-          description: Featured Stories
-          url: /student-development-curriculum/sparcle-weeks/sparcle-2
+        - title: 2024 Sec 1 Registration
+          description: ""
+          url: /sec1-registration-2024/welcome/
   - resources:
       title: Announcements
       button: More Announcements
