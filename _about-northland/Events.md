@@ -4,6 +4,20 @@ permalink: /about-northland/events/
 description: ""
 variant: markdown
 ---
+#### **NSS Open House - Thank you Parents &amp; P6ers!**
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqwodczuepCPGKbN_Ere7uJoVKZJwdcX-PVbJTTr-VUFBiVvLkhxVQj0ccNTtf5w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+Dear Parents and P6-ers, Thank you for attending our school's Open House! We hope we have given you a glimpse of how our school nurtures our Northstars to shine. All the best for your PSLE results!
+
+
+#### **Leader who Dares -  Sarah Kaylee Cheng (2 Sirius)**
+![](/images/WhatsApp_Image_2023_11_20_at_10_27_16_AM.jpeg)
+
+Good Job Sarah Kaylee Cheng (2 Sirius) on her first attempt and foray into Wushu Competition arena amidst 32 competitors during yesterday's Singapore National Wushu Championships 2023 for First International Sword (Girls) Youth.
+
+It is never easy but what counts most is her willingness to conquer her fear and taking the first step.All in the name of exposure. If we don't do this now, we will never get a taste of what the future might hold. This will be her very first official score she will have ever attained. This will be her own benchmark to work hard and achieve her personal best every time she sets foot on any mat. It's about competing with herself and bringing out the better version of herself.
+
+Given more training time and exposure, she will achieve what she has set out to achieve for herself! We believe in her !
+
 #### **An Extraordinary Celebration: Northland x MINDS Woodlands Gardens School** 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/watch?v=DeUiOGbevdc" height="315" width="560"></iframe>
 
