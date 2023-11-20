@@ -2,10 +2,10 @@ collections:
   sec1-registration-2024:
     output: true
     order:
-      - Parents Support Group(PSG).md
-      - Full Subject Based Banding.md
       - Welcome.md
       - Purchase of Books.md
       - Sec 1 Booklist.md
       - Purchase of Uniform.md
       - Financial Assistance Scheme (FAS).md
+      - Full Subject Based Banding.md
+      - Parents Support Group(PSG).md
