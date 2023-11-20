@@ -2,7 +2,49 @@
 title: Events
 permalink: /about-northland/events/
 description: ""
+variant: markdown
 ---
+#### **An Extraordinary Celebration: Northland x MINDS Woodlands Gardens School** 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/watch?v=DeUiOGbevdc" height="315" width="560"></iframe>
+
+On 15 November, our Indian Dance, Malay Dance, MCAC, Wushu, supported behind the scenes by InfoComm &amp; HeART Clubs performed with our friends from MINDS Woodlands Gardens School for 1500 people including President Tharman &amp; dignitaries from 10 countries. Congratulations to our CCAs for a job well done!
+
+#### **Girl Guides Sale of Cookies 2023** 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR8dP_h1vpqL3B_sBMlIr2UixmUIGWic3X9zZiUpPgKPkLHPxpQ2YMcnbEH5XRgidE_90WMolJadnhI/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+NSS Girl Guides stepped out of their comfort zone in the Public Cookie Sales at AMK Hub this year. They displayed their enterprising spirit and managed to sell 330 tins just within 5 hours! 
+
+Thanks a crunch 🍪 to everyone who has supported the Guides this year!
+
+#### **UPLIFT Day 2023** 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTy-UF9ggpfKHDzoG-CuMLn0FOHjF3KxP1LjUOZCJVdUofu8DHCj0aZRUmXQn_VHvLHDWTabEQYoyb2/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+A day to celebrate the completion of all UPLIFT activities in 2023 and to celebrate all UPLIFT students as individuals. It was a day of fun as we gathered for laser tag, lunch, ice cream and ended the day with creating our own perler bead keychains / nano block figures.
+
+#### **Citizens Who Care - Values in Action** 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR-lSbAlffRPOlDiTA6ZfpQhgYMG8p-oSNn-xwKe4BeryG7BQkkQ5EWXqt9a1IFyDkSZdRTumzSUzCh/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+Our Starmakers and NPCC cadets and InfoComm members served the community last weekend. Their relentless effort and unwavering support have ensured the smooth running of our final VIA for year 2023  in collaboration  with Hao Ren Hao Shi. Well done Northstars!
+
+#### **Leaders who Dare - Battle Royale emerges in Madagui Forest, Vietnam** 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR19UT3GUMjqcgSnTi90t00rcVPrplwK4jMkHpgsooLSne5bI7YYojzD2I3rNj7sZ8K0d5-kc6Pyayj/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+Amidst the Wilderness of Madagui Forest City in Vietnam, where enthusiasm thrived amidst intense heat, 40 student leaders embarked on an exhilarating journey to conquer the pinnacle of team-building challenges. Each student brought a unique set of skills, an unwavering zeal for triumph, and a thirst for victory. Divided into teams, they dove headfirst into a series of trials meticulously designed to test their unity, problem-solving acumen, and unyielding resilience. This transformative experience served as a catalyst for their collective promise—a commitment to carry the invaluable lessons learned from the Madagui Wilderness into their student leadership journey – to be Leaders who Dare
+
+#### **Leaders who Dare - Student Leadership and Cultural Immersion Trip to Vietnam 2023** 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzei3xQdKKGVS69M9mDZJDFr9SglCPQEKO941mVqv4bfmCpeJ8fQyXnazuRMF6NE6L2N9HuQKqdiiS/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+As part of our effort to groom our student body to be Leaders Who Dare, we have created a top-tier leadership programme where 40 Student Councilors and CCA leaders were selected to embark on an Overseas Leadership Trip to Vietnam. Our student leaders were encouraged to embrace the concept of "challenge by choice", which guided them to willingly confront their vulnerabilities head-on, and this allowed the students to develop their mental resilience and and leadership skills. Our leaders also developed their civic literacy, global awareness &amp; cross-cultural skills through various activities. These include visiting historical sites, an orphanage, local schools, and taking part in team-building exercises in Madagui Forest City. These experiences, tailored to cultivate daring leaders, significantly influenced our leaders' beliefs and perspectives. 
+
+Ismatul Sofia from 2 Pollux shared her key takeaways about the trip: "Through this trip, I learnt to be more grateful; for the bond with my teammates and teachers, for the life that I have; because, life isn’t just about being happy, the struggles that I go through in life isn’t always that bad. I also learnt to have the courage to take a step back to observe my surroundings, to live in the moment. Vietnam has taught me that.”
+
+In essence, our goal is to inspire our students to be powerful catalysts of change by shaping their unique journey as top leaders and leaders who dare in NSS.
+
+#### **Primary schools P6 Outreach@ North View Primary School** 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTVWuXF-IjhXZlr_VI88RcI2LHKh0OJxXnp735NrK2xyQhQasDmBaCEzNDJortdt94Eo7fc3DkacXez/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+
+A very BIG thank you to North View Primary School for receiving us! Good luck to all P6 students for your PSLE!
+
 #### **Primary schools P6 Outreach@ Jiemin Primary School** 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQiCU4ZNz0X8SoNcizf34e2FVkXBtOuMbf45z6orlwJ-9-KRn2xy4AOXCTz7vvBmCVKouS8psCJB__i/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
 
