@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/edited_Sec1registrationbanner.jpg
+      background: /images/open house 2023 banner.jpg
       key_highlights:
         - title: Events
           description: Featured Stories
