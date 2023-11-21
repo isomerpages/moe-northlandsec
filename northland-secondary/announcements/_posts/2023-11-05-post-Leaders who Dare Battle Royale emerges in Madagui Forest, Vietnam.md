@@ -1,6 +1,6 @@
 ---
 title: Leaders who Dare Battle Royale emerges in Madagui Forest, Vietnam
-permalink: /northland-secondary/announcements/permalink/
+permalink: /battleroyale/northland-secondary/announcements/permalink/
 date: 2023-11-05
 layout: post
 description: ""

@@ -1,10 +1,11 @@
 ---
 title: Stay Safe, Keep Well
-permalink: /northland-secondary/announcements/permalink/
+permalink: /safewell/northland-secondary/announcements/permalink/
 date: 2023-10-27
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 ![](/images/stay%20safe%20poster%202023.jpeg)
 
