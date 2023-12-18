@@ -7,11 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/open house 2023 banner.jpg
+      background: /images/Sec_1_Registration_eBanner_v2.png
       key_highlights:
         - title: Events
           description: Featured Stories
           url: /about-northland/events
+        - title: Secondary 1 Registration
+          description: Click here for more info
+          url: " /sec1-registration-2024/welcome/"
   - resources:
       title: Announcements
       button: More Announcements
