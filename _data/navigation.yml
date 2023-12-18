@@ -6,10 +6,10 @@ links:
     collection: academic-curriculum
   - title: Student Matters
     collection: student-matters
-  - title: Student Development Curriculum
-    collection: student-development-curriculum
   - title: Sec 1 Registration 2024
     collection: sec1-registration-2024
+  - title: Student Development Curriculum
+    collection: student-development-curriculum
   - title: Useful Links
     url: /useful-links/financial-assistance-scheme-fas
     sublinks:
