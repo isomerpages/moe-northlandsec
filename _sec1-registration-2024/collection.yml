@@ -2,10 +2,10 @@ collections:
   sec1-registration-2024:
     output: true
     order:
-      - Frequently Asked Questions (FAQ).md
       - Welcome.md
       - Purchase of Books.md
       - Sec 1 Booklist.md
       - Purchase of Uniform.md
       - Financial Assistance Scheme (FAS).md
       - Full Subject Based Banding.md
+      - Frequently Asked Questions (FAQ).md
