@@ -4,6 +4,59 @@ permalink: /about-northland/events/
 description: ""
 variant: markdown
 ---
+#### **A Leader Who Dares - Lee Guo Zheng (1 Rigel)**
+![](/images/WhatsApp_Image_2023_11_23_at_12_25_00_PM.jpeg)
+
+A big round of applause for Guo Zheng on his very first foray into the National Singapore Wushu Championships 2023 amidst 24 other competitors during the 22nd Nov - Wednesday's event for First International Spear (Boys) Youth.
+
+He did well for his first foray in the Wushu Competition and achieved an amazing score of 7.77 for a first timer!
+
+While he is only in Sec 1, age is all but a number. He has put in tremendous effort to come this far. As A Leader Who Dares, he has never caved in to difficulties and challenges. Instead, he takes them on bravely and conquers every little step and obstacle along the way.
+
+It is never easy but what counts most is his willingness to try and take the first step. That is all that matters :)
+
+Guo Zheng, 
+While you do not speak up much, your actions speak volumes. You have shown that you are a resilient athlete who stops at nothing to achieve your best.
+
+Though the competition might have caused some jitters in you, you held your composure and kept your cool as much as you can. Mistakes are inevitable but you persevered on despite the challenges. 
+
+Team Wushu is proud of you and everyone in Team Wushu because your CCA mentors (us) have witnessed all your growth and progress in the journey in CCA. .
+
+Keep up the good work and continue to be the better versions of yourself !
+
+Given more training time and exposure, Guo Zheng will achieve what he has set out to achieve for himself🙏🏼
+
+We believe in him !
+We🐝🍀 in him 🙆🏻‍♀️
+
+#### **A Leader Who Dares - Barron Lin (2 Sirius)**
+![](/images/WhatsApp_Image_2023_11_23_at_12_23_06_PM.jpeg)
+
+Great effort , Barron , on his very first attempt in the National Singapore Wushu Championships 2023 amidst other competitors during 20 Nov - Monday's event for First International Sword (Boys) Youth.
+
+While he shared that he was initially scared, our assurance to him was, "We all will be, if this is our very first time stepping onto the carpet for national competition."
+
+It is never easy but what counts most is his willingness to conquer his fear and taking the first step. We applaud his courage.
+
+Barron,
+Come what may.
+Let's face our fears.
+Together.
+You are not alone.
+You have your team mates and teachers rooting for you, always.
+
+Team Wushu @ Northland is very proud of everyone in Team Wushu , whether you are taking part in this competition or being supporters for your friends and team mates!
+
+Simply because each and every one of us has a story to tell. It is not ours to share with the rest of the world.
+It is not others to find out what our story is. We all have our own story to tell. We don't need to account for anyone but OURSELVES. We have different and unique starting points. And it is totally okay for us to be where we are right now. It is okay to be not okay.
+
+We learn from today's lesson so that tomorrow will be an even more awesome time for us. If we don't start now, we will never know what the future will hold for us. As Leaders Who Dare, we make the first step to venture into unchartered waters, knowing that every experience will be a lesson to learn :)
+
+We learn to be better versions of ourselves every time ^_^
+Every day is a new chapter 📚
+Let's Seize the day! 💪🏼
+Carpe Diem 🌈
+
 #### **NSS Open House - Thank you Parents &amp; P6ers!**
 <iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqwodczuepCPGKbN_Ere7uJoVKZJwdcX-PVbJTTr-VUFBiVvLkhxVQj0ccNTtf5w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 Dear Parents and P6-ers, Thank you for attending our school's Open House! We hope we have given you a glimpse of how our school nurtures our Northstars to shine. All the best for your PSLE results!
