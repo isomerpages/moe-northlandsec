@@ -19,6 +19,6 @@ Should you still have queries or would like to visit the school, please call the
 You may [click here](https://go.gov.sg/2024sec1registration )   to post your queries prior to Sec 1 Registration, if you have any. We will try to answer your queries during the Registration day.<p></p>
 
 More details on the webinar will be made available nearer to the date through Parents Gateway. 
-[Click here](/files/pg_onboarding.pdf)  for more information on how you can download this App, access PG and stay in touch with Us! 
+[Click here](https://pg.moe.edu.sg/faq)  for more information on how you can download this App, access PG and stay in touch with Us! 
 
 Please refer back to Northland Secondary School Website for updates prior to the school term reopening.
