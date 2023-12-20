@@ -1,5 +1,5 @@
 collections:
-  unused-page:
+  unused-pages:
     output: true
     order:
       - School Canteen Advertisement.md
