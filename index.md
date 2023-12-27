@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Sec 1 Registration/edited_Sec1registrationbanner.jpg
+      background: /images/eBanner_final.jpg
       key_highlights:
         - title: Events
           description: Featured Stories
