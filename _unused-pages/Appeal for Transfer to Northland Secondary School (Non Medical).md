@@ -1,0 +1,7 @@
+---
+title: Appeal for Transfer to Northland Secondary School (Non Medical)
+permalink: /sec1-registration-2024/appeal-for-transfer-non-medical/
+variant: tiptap
+description: ""
+---
+<p><strong>Appeal for Transfer (Non-Medical) to Northland Secondary School (from 20 Dec to 26 Dec 2023, 12pm)</strong></p><p>Primary 6 students who have just received their secondary school posting in 2023 may use this <a href="https://form.gov.sg/655727617024fe001228529f" rel="noopener noreferrer nofollow" target="_blank">link</a> to appeal for transfer to Northland Secondary School <u>based on non-medical reasons</u>. Their PSLE score should meet the school's cut-off point of the posting year. Transfer will be subject to available vacancies and the school’s admission criteria.</p><p>For appeals based on medical reasons (serious medical conditions or severe physical impairments), please request through the posted school by 12pm on the following working day after the release of posting results.</p><p>&nbsp;Reason(s) for selection / non-selection of students will not be disclosed.</p><p>The deadline for the submission of appeals is on <strong><u>26 December 2023, 12pm</u></strong>.&nbsp; Late submission will not be allowed.</p><p>Students should still report to the posted secondary school on 2 Jan 2024. The application is deemed unsuccessful if you do not hear from the school by 2 January 2024.</p><p></p><div class="isomer-image-wrapper"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Qrcode_for_appeal__sec1_.png"></div><p></p>
