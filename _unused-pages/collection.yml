@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Appeal for Transfer to Northland Secondary School (Non Medical).md
       - School Canteen Advertisement.md
       - AsknLearn.md
       - Secondary 3 Subject Combination.md
