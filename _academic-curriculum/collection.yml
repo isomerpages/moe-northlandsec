@@ -1,0 +1,21 @@
+collections:
+  academic-curriculum:
+    output: true
+    order:
+      - Full Subject–Based Banding(FSBB).md
+      - Applied Learning Programme (ALP) @ NSS–Eldertech.md
+      - NDLP/Information on NDLP.md
+      - NDLP/Lenovo Chromebook 500e (PLD purchased in 2021).md
+      - NDLP/Acer Chromebook Spin 511 (PLD purchased in 2022).md
+      - NDLP/.keep
+      - Craft and Technology Department.md
+      - English Language & Literature Department.md
+      - Humanities Department.md
+      - Mathematics Department.md
+      - Mother Tongue Department.md
+      - Physical Education & Music Department.md
+      - Science Department.md
+      - Normal Technical (NT) Curriculum.md
+      - Staff Matters/Professional Development.md
+      - Staff Matters/Staff Well–Being.md
+      - Staff Matters/.keep

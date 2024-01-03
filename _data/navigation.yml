@@ -1,0 +1,33 @@
+logo: /images/logo.png
+links:
+  - title: About Northland
+    collection: about-northland
+  - title: Academic Curriculum
+    collection: academic-curriculum
+  - title: Student Matters
+    collection: student-matters
+  - title: Sec 1 Registration 2024
+    collection: sec1-registration-2024
+  - title: Student Development Curriculum
+    collection: student-development-curriculum
+  - title: Useful Links
+    url: /useful-links/financial-assistance-scheme-fas
+    sublinks:
+      - title: Student Learning Space
+        url: https://vle.learning.moe.edu.sg/login
+      - title: AsknLearn
+        url: https://lms.asknlearn.com/NORTHLAND_SS/login.aspx
+      - title: ECG in NSS
+        url: https://sites.google.com/moe.edu.sg/nssecg
+      - title: ECG counselling sign up form
+        url: https://www.booking.gov.sg/public/services/ywlbp1x0/availability?spId=16Aym46r&anonymous=true
+      - title: For Staff
+        url: /useful-links/for-staff
+      - title: Student Well-being
+        url: https://sites.google.com/moe.edu.sg/nssstdtwb/home
+      - title: School Canteen Advertisement
+        url: /useful-links/sch-canteen-ad/
+  - title: Partnerships
+    collection: partnerships
+  - title: Contact Us
+    collection: contact-us

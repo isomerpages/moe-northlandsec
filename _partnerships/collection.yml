@@ -1,0 +1,12 @@
+collections:
+  partnerships:
+    output: true
+    order:
+      - Parent Support Group.md
+      - Alumni.md
+      - Parents/Parents.md
+      - Parents/Parents Gateway.md
+      - Parents/Timetable.md
+      - Parents/Parents Letters.md
+      - Parents/NSS Staff.md
+      - Parents/.keep

@@ -1,0 +1,12 @@
+collections:
+  sec1-registration-2024:
+    output: true
+    order:
+      - Welcome.md
+      - Purchase of Books.md
+      - Sec 1 Booklist.md
+      - Purchase of Uniform.md
+      - Financial Assistance Scheme (FAS).md
+      - Full Subject Based Banding (FSBB).md
+      - Secondary One Registration Slides.md
+      - Frequently Asked Questions (FAQ).md
