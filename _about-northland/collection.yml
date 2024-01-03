@@ -2,10 +2,10 @@ collections:
   about-northland:
     output: true
     order:
-      - Yearbook 2023 (Digital).md
       - Principal's Message.md
       - From the Principal's Desk.md
       - School Corporate Video.md
+      - Yearbook 2023 (Digital).md
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Vision.md
       - Vision, Mission & Values/Mission.md
