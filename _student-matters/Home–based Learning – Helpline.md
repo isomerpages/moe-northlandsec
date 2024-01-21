@@ -7,12 +7,11 @@ variant: markdown
 <h3><strong>SLS Support for Home-based Learning</strong></h3>
 <h4><strong>School Operating Hours</strong></h4>
 <p>During school operating hours, students should contact the&nbsp;<strong><u>School-based Helpline</u></strong>&nbsp;for SLS queries including all SLS access matters such as&nbsp;<u>password rese</u>t and&nbsp;<u>unlocking of accounts</u>, as well as&nbsp;<u>queries about lesson assignments.</u></p>
-<p>The school will be open from 8.20 a.m to 3.30 p.m. on 2nd April 2020. Students who do not have access to any electronic/mobile devices to complete your HBL assignments (especially online work), please report in the canteen.&nbsp;</p>
+
 <h4><strong>School-based Helpline:</strong></h4>
 <ul>
 <li>Go to go.gov.sg/nsshelpline to request for password reset</li>
-<li>Whatsapp: 97839852 or</li>
-<li>email to northlandhelpdesk@gmail.com</li>
+
 </ul>
 <p><strong>Mondays - Fridays: 8:00 am - 4:00 pm</strong></p>
 <hr>
