@@ -3,8 +3,9 @@ title: For Staff
 permalink: /useful-links/for-staff/
 description: ""
 third_nav_title: For Staff
+variant: markdown
 ---
-<p><a href="https://for.edu.sg/infocomm-services" target="_blank" rel="noopener">AVA, Photography and Videography Service Requisition Form</a></p>
+<p><a href="https://go.gov.sg/infocomm-request-form" target="_blank" rel="noopener">AVA, Photography and Videography Service Requisition Form</a></p>
 <p><a href="https://for.edu.sg/nssictsupport" target="_blank" rel="noopener">ICT Support Service Requisition Form</a></p>
 <p><a href="https://for.edu.sg/nssscilab" target="_blank" rel="noopener">Laboratory Requisition Form (SCIENCE DEPARTMENT)</a></p>
 <p><a href="https://schoolcockpit.moe.gov.sg/CP/scapp/security" target="">Cockpit Plus</a></p>
