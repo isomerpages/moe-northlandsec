@@ -6,8 +6,6 @@ links:
     collection: academic-curriculum
   - title: Student Matters
     collection: student-matters
-  - title: Sec 1 Registration 2024
-    collection: sec1-registration-2024
   - title: Student Development Curriculum
     collection: student-development-curriculum
   - title: Useful Links
@@ -15,8 +13,6 @@ links:
     sublinks:
       - title: Student Learning Space
         url: https://vle.learning.moe.edu.sg/login
-      - title: AsknLearn
-        url: https://lms.asknlearn.com/NORTHLAND_SS/login.aspx
       - title: ECG in NSS
         url: https://sites.google.com/moe.edu.sg/nssecg
       - title: ECG counselling sign up form
@@ -25,8 +21,6 @@ links:
         url: /useful-links/for-staff
       - title: Student Well-being
         url: https://sites.google.com/moe.edu.sg/nssstdtwb/home
-      - title: School Canteen Advertisement
-        url: /useful-links/sch-canteen-ad/
   - title: Partnerships
     collection: partnerships
   - title: Contact Us
