@@ -4,6 +4,12 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Northstars Shine! Our first collaboration with Hao Ren Hao Shi in 2024!</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQBlPdGsxiVhe_ds3wY6CVqMHaghttE1gEyGAVii8u8tHd1-YMLC6c1cAXCSXIf_ZjnS0dNWcqmEv_k/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Our Northstars &amp; Starmakers shine again in spreading their love for
+the less fortunate on a wonderful Saturday 3 February 2024.</p>
 <h4><strong>Northstars Shine! Spreading love and joy in our neighbourhood!</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRI1aHA85tlvvsJpBoHsUW2ecqnKJ0E4E0R3wZSPFaligpjZQMouyFFtnqfqf8XVg0y90yEBQvy1HYy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
