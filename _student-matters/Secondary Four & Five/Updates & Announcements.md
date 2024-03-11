@@ -7,6 +7,7 @@ variant: markdown
 ---
 #### **Northstars Shine – Release of 2023 GCE O-level Results**
 
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIRoV-ngJi_wps85FvPXUIetOer1IhQwHcf4-d1HDV1HeIo2QIPsONtXsGbw_e8Hs9kcqH42dYp42H/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 What is the secret to success? For some of our top students, the secret is to start revision early and practice good time management.
 
