@@ -3,7 +3,10 @@ title: Sec 4N Elective Modules
 permalink: /student-matters/secondary-four-n-five/sec-4n-elective-modules/
 description: ""
 third_nav_title: Secondary Four & Five
+variant: markdown
 ---
 <p><strong>Pursuing Excellence with Grit</strong></p>
-<p>During SPARCLE 1 Week, Northstars had first-hand experience of modules such as Mobile Applications, Fashion Design, F1 Automotive Engineering, Events Management and F&amp;B Operations and Hospitality and got the opportunity to showcase their learning.&nbsp;</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSgscjP7VZ8CrC7eEf7c1WrQ3QIfuOcedC6e6AXp7nzxj6c04roBK3RdW-nXNgVUEW-6Nr2eMyMeC_z/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+Our Sec 4N students participated enthusiastically in their Elective Modules and presented an exciting EM Showcase to their peers. Participants visited different booths where our 4N students demonstrated their learning in Automotive Engineering, Art and Craft, Event Management, Fashion Design, F&amp;B Operations and Management and Mobile Applications Design and Technology.
+
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqGtpspzJxUFWVWNxXaLqt0fbANmKSj2BYCdlS7y2OZc3YnFLSCQ24TZmqGHWn9A/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
