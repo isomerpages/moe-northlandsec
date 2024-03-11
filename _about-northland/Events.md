@@ -28,7 +28,7 @@ classrooms in a real-world environment.</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlH8hTYgGZIVdet4Voy7Z3wBYXtPmnIcPnEzd2CtIzJj9McdzvJR_1KbOEojjsrA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4><strong>Secondary 4N  Elective Modules</strong></h4>
+<h4><strong>Secondary 4N Elective Modules</strong></h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqGtpspzJxUFWVWNxXaLqt0fbANmKSj2BYCdlS7y2OZc3YnFLSCQ24TZmqGHWn9A/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
