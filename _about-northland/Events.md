@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4><strong>X-Cite Games</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLAhvqfc4DSa3_2x1xyElUAI2WBKvXDYQmj-rcLrcUcgVg_ssNC0JUNUioGKXRnA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLAhvqfc4DSa3_2x1xyElUAI2WBKvXDYQmj-rcLrcUcgVg_ssNC0JUNUioGKXRnA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>SPARCLE 1</strong></h4>
 <p>SPARCLE stands for&nbsp;<strong>SP</strong>orts,&nbsp;<strong>A</strong>cademic,&nbsp;<strong>R</strong>3&nbsp;(Respect,
@@ -18,23 +18,23 @@ aims to achieve these aims by providing authentic learning experiences&nbsp;outs
 classrooms in a real-world environment.</p>
 <h4><strong>Secondary 1 Camp Respect</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGjbsl0ikbZ109TkFNzkNqbdN3uIgQ2deQjc025ls6_AGLXnQ7QFSv9WzrI98zpA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGjbsl0ikbZ109TkFNzkNqbdN3uIgQ2deQjc025ls6_AGLXnQ7QFSv9WzrI98zpA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Secondary 2 – Camp Responsibility</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQASErgb7tSTCjnWafa9j4T4NlBeIC40p6hQfGkJhGfkp5SjHnp8xPusH3VPDR7SQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQASErgb7tSTCjnWafa9j4T4NlBeIC40p6hQfGkJhGfkp5SjHnp8xPusH3VPDR7SQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Secondary 3 – Camp Resilience</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_6xaFKmnZdcJsMYt8BxruglKQS-xG5ET6lTkB_qa9DQ3qhpcLO35eX8jd28TMbg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_6xaFKmnZdcJsMYt8BxruglKQS-xG5ET6lTkB_qa9DQ3qhpcLO35eX8jd28TMbg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Secondary 4E5N Graduation Programme</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlH8hTYgGZIVdet4Voy7Z3wBYXtPmnIcPnEzd2CtIzJj9McdzvJR_1KbOEojjsrA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlH8hTYgGZIVdet4Voy7Z3wBYXtPmnIcPnEzd2CtIzJj9McdzvJR_1KbOEojjsrA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Secondary 4N Elective Modules</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqGtpspzJxUFWVWNxXaLqt0fbANmKSj2BYCdlS7y2OZc3YnFLSCQ24TZmqGHWn9A/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqGtpspzJxUFWVWNxXaLqt0fbANmKSj2BYCdlS7y2OZc3YnFLSCQ24TZmqGHWn9A/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Commemorating 40 Years of Total Defence - Together We Keep Singapore Strong</strong></h4>
 <div class="iframe-wrapper">
