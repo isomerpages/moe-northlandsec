@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Secondary Two
 variant: markdown
 ---
-[Secondary 2 Term 1 2024 TT](/files/Timetable/2024/NSS_2024_Term1_Sec2.pdf)
+[NSS Sec2 Term2 TT](/files/Timetable/NSS%202023%20Semester%20One%20Timetable_Secondary%202.pdf)
