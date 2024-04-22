@@ -23,7 +23,7 @@ _Please note that meeting the criteria does not guarantee the student will be sh
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 June 2024, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
 
-●        Mainstream primary schools applicants: Parent may log in directly to DSA-Sec Portal at https://www.go.gov.sg/dsa-sec-application
+●        Mainstream primary schools applicants: Parent may log in directly to DSA-Sec Portal at https://go.gov.sg/dsa-sec-application
 
 ●        Non-Mainstream primary schools applicants : Refer to MOE website at: https://go.gov.sg/nmsdsa-sec-application
 
