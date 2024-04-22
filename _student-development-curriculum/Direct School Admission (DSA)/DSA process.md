@@ -42,7 +42,7 @@ Northland’s DSA Schedule is as follows:
 
 Feel free to contact us for more information:
 
-Mr Brian Lui / Ms Zuraida Murni
+Mr Brian Lui / Mr Shaifulizzam / Ms Zuraida Murni
 
 Northland Secondary School
 
