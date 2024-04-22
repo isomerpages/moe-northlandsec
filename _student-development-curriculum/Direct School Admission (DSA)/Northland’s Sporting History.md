@@ -13,7 +13,7 @@ Join the ranks of champions and be part of the legacy at Northland Secondary Sch
 
 ### **Northland Shine !**
 ![](/images/dsa%20sh2.JPG)
-![](/images/Le_Ya_Ni.jpg)
+![](/images/Le_Ya_Ni2.jpg)
 ![](/images/dsa%20sh3.JPG)
 ![](/images/dsa%20sh4.JPG)
 ![](/images/dsa%20sh5.JPG)
