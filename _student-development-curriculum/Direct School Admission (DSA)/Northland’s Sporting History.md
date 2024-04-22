@@ -3,6 +3,7 @@ title: Northland’s Sporting History
 permalink: /student-development-curriculum/direct-school-admission-dsa/northland-s-sporting-history/
 description: ""
 third_nav_title: Direct School Admission (DSA)
+variant: markdown
 ---
 ### **Northland is making Sporting History**
 
@@ -12,7 +13,7 @@ Join the ranks of champions and be part of the legacy at Northland Secondary Sch
 
 ### **Northland Shine !**
 ![](/images/dsa%20sh2.JPG)
-![](/images/dsa%20sh21.JPG)
+![](/images/Le_Ya_Ni2.jpg)
 ![](/images/dsa%20sh3.JPG)
 ![](/images/dsa%20sh4.JPG)
 ![](/images/dsa%20sh5.JPG)

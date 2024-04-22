@@ -3,8 +3,9 @@ title: Welcome
 permalink: /student-development-curriculum/direct-school-admission-dsa/welcome/
 description: ""
 third_nav_title: Direct School Admission (DSA)
+variant: markdown
 ---
-![](/images/dsa%20banner1.jpeg)
+![DSA Banner](/images/WhatsApp_Image_2024_04_22_at_11_17_38.jpg)
 ##### Welcome to Northland Secondary School's Direct School Admissions (DSA) page.
 Northland is offering DSA places for students with interest in **Basketball, Floorball, Hockey, Netball or Wushu.** Northland has a rich history in sports, and we invite you to explore these pages to learn more about the sports in our school.
 
