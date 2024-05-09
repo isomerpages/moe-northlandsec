@@ -4,6 +4,14 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Mother Tongue Languages Fortnight - Live our Language. Love our Culture</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHe0P5ULyJQOWFWRnDAVqXjziud4aKTTW35vGMJ9SSBLf2Y4QRDzt7mFZIlQ0hBZgP699QBhvBk_A1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>In line with the Mother Tongue Language Department’s mission of ‘‘Live
+our Language, Love our Culture’, the department organised interesting hands-on
+activities for our students to gain a deeper understanding of their respective
+cultures and heritage.</p>
 <h4><strong>NSS Starcolade 2024 - Shine!</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTvUXyMl17eyHiDDRL30QY839Zt7qSa1JWRDXLtTqnHrBYe2w_VjdkdrWdgLU9wKy3Fz_nZMm17FK5s/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
@@ -1003,7 +1011,11 @@ and (Small Business Operations. The students enjoyed their learning experience
 at ITE very much and they are looking forward their second stint in Sec
 3.</p>
 <h4><strong>A Northstar Shines… Once Again</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
