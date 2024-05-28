@@ -4,6 +4,10 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Secondary 1 Class Leaders' Appointment 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqaBADc5gBdaVPF6UkJUZi7Wud-7DKLKvsJsrXagdRYIYZN_fhzOYvb5FVizsmAdL8TkWVnfiMqy2D/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>Citizens who Share - Applied Learning Programme - ElderTech 2024</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTyVAXqppqJUySZCUVDAGPc40J0biliStJoa-g4R_0bc3RfRXDsGogfKlabQVkdY4Ea1dZCthEoiC9Y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
