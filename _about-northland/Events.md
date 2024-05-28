@@ -4,6 +4,11 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Citizens who Share - Applied Learning Programme - ElderTech 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5s8fx8m-9pJzyp61IE98smH_x60gzW-lb7MkTDOONkkJ_6VCpTt14qFyl1kA_fysFLMvtSD4m3uLS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Last</p>
 <h4><strong>Student Leaders’ Investiture 2024 - Shine On, Shine For, Shine Within</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5s8fx8m-9pJzyp61IE98smH_x60gzW-lb7MkTDOONkkJ_6VCpTt14qFyl1kA_fysFLMvtSD4m3uLS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
