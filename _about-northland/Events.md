@@ -4,6 +4,32 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Secondary 1 Class Leaders' Appointment 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqaBADc5gBdaVPF6UkJUZi7Wud-7DKLKvsJsrXagdRYIYZN_fhzOYvb5FVizsmAdL8TkWVnfiMqy2D/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4><strong>Citizens who Share - Applied Learning Programme - ElderTech 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTyVAXqppqJUySZCUVDAGPc40J0biliStJoa-g4R_0bc3RfRXDsGogfKlabQVkdY4Ea1dZCthEoiC9Y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Last week during SHINE, we had our ALP tier 2 programme where our Northstars
+showcased their inventions with our elderly from St Luke's Active Ageing
+Centre. After the meet-up, we also engaged with the elderly with some baking
+and badminton.</p>
+<h4><strong>Student Leaders’ Investiture 2024 - Shine On, Shine For, Shine Within</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5s8fx8m-9pJzyp61IE98smH_x60gzW-lb7MkTDOONkkJ_6VCpTt14qFyl1kA_fysFLMvtSD4m3uLS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Last Friday, May 17, our school held the investiture ceremony for our
+student leaders. The theme for this year's investiture is "Shine On, Shine
+For, Shine Within."</p>
+<p>"Shine On" encourages our Northstars to foster positive relationships
+by celebrating each other's achievements and affirming each other's aspirations.
+"Shine For" emphasises dedicating time and energy to serve their spheres
+of influence and the community. Most importantly, "Shine Within" inspires
+our Northstars to look within, focusing on their positive traits and strengths
+to lead themselves and others in meaningful endeavours.</p>
+<p>Shine Northstars! #daretoshine #shineforothers</p>
 <h4><strong>Mother Tongue Languages Fortnight - Live our Language. Love our Culture</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHe0P5ULyJQOWFWRnDAVqXjziud4aKTTW35vGMJ9SSBLf2Y4QRDzt7mFZIlQ0hBZgP699QBhvBk_A1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
