@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Northland Secondary School
 locations:
   - address:
-      - "3 "
+      - "3"
       - Yishun Street 22
       - Singapore 798578
     operating_hours: []
@@ -17,9 +17,5 @@ contacts:
       - email: northland_ss@moe.edu.sg
       - other: ""
     title: Telephone
-  - content:
-      - phone: +65 6257 3634
-      - email: ""
-      - other: ""
-    title: Fax
+feedback: ""
 ---
