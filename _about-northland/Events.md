@@ -4,6 +4,19 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>School Visit by Lutheran Secondary School (Hong Kong) 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbh63D05Ct4ZIOQpLo9kROjmz-q0XFTHmZhb9VzSUKVH-ppdYrovIe6-CCwD9kdw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Northland welcomed teachers and students from our partner school, Lutheran
+Secondary School from Hong Kong on Tuesday 2 July. They visited some of
+our classes and were accompanied by our Singa ambassadors. Our Performing
+Arts Groups also put up memorable performances for our visitors to keep
+them enchanted.</p>
+<h4><strong>Takraw Back to School 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6xenWXVnvUsjEeFQufTa39z8ebYCMJ_u9onLrgEAfUqGidau4A0F9Gtg42e1WNg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>An Extra-Ordinary Celebration 2024</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHn0RIqdrSu7THmS8THqK6Kmb4WKOPMnSOxNoanRKnkkUeU08cL5y00BaM1Bj3-w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
