@@ -4,6 +4,71 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Northstars Shine @ Vasantham news readers</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_16_at_6_37_50_AM.jpg">
+</div>
+<p>Our participants in a Tamil Workshop and competition organised by Mediacorp.
+Anbalagan Amirthavarsini (3 Sirius) &amp; Ramadoss Harini Sri (3 Pollux)
+were awarded consolation prizes in the competition. #daretoshine</p>
+<h4><strong>Northstars Shine @ Young Journalist Camp organised by Berita Harian</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_16_at_6_28_50_AM.jpg">
+</div>
+<p>Our participants of the Young Journalist Camp. #daretoshine</p>
+<h4><strong>Northstars Shine @ River Valley Model United Nations</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_16_at_6_25_16_AM.jpg">
+</div>
+<p>Our participants of the River Valley Model United Nations. #daretoshine</p>
+<h4><strong>Northstars Shine @ Youth Model ASEAN Conference</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_16_at_6_23_12_AM.jpg">
+</div>
+<p>Our participants of the Youth Model ASEAN Conference. Ramadoss Harini
+Sri (3 Pollux) won the Best Delegation Award. #daretoshine</p>
+<h4><strong>Northstars Shine @ NUS Geography Challenge</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_16_at_6_19_41_AM.jpg">
+</div>
+<p>Our Northstar, Terry Yip (4 Vega) won the Bronze Award for Top Performing
+Student in the Individual Component. #daretoshine</p>
+<h4><strong>Northstars Shine Mutiara Tari 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJ-vAYSc4lJP0dkNX9tqQESifHEOkDxMucdEfNmhyRjXUXIZNmIaKiArVLgjqxfQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Our Malay Dancers participated in the national dance competition, Mutiara
+Tari 2024 on Saturday 13 July, at Wisma Geylang Serai. They put up an elegant
+display and mesmerised the audience and judges with their grace and were
+awarded third runner-up. Congratulations to our Nova Lestari! #daretoshine</p>
+<h4><strong>NSS 30</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_10_at_10_57_08_AM.jpg">
+</div>
+<p>A whole school aerial drone shot 'NSS 30' to commemorate our school's
+30th anniversary #daretoshine</p>
+<h4><strong>School Visit by Lutheran Secondary School (Hong Kong) 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbh63D05Ct4ZIOQpLo9kROjmz-q0XFTHmZhb9VzSUKVH-ppdYrovIe6-CCwD9kdw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Northland welcomed teachers and students from our partner school, Lutheran
+Secondary School from Hong Kong on Tuesday 2 July. They visited some of
+our classes and were accompanied by our Singa ambassadors. Our Performing
+Arts Groups also put up memorable performances for our visitors to keep
+them enchanted.</p>
+<h4><strong>Takraw Back to School 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6xenWXVnvUsjEeFQufTa39z8ebYCMJ_u9onLrgEAfUqGidau4A0F9Gtg42e1WNg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4><strong>An Extra-Ordinary Celebration 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHn0RIqdrSu7THmS8THqK6Kmb4WKOPMnSOxNoanRKnkkUeU08cL5y00BaM1Bj3-w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>This is the second year our school has participated in this annual event,
+Singapore’s largest inclusive concert hosted by ExtraOrdinary People, is
+an affirmation to the magic of performing, supporting, and creating unforgettable
+memories together. We are proud to be part of this vibrant celebration
+of the diversity and inclusivity.</p>
 <h4><strong>Singapore Pipe Band Championship 2024</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCQahp9Iia0MTDGgt7yN8UOjxONezOeDoa2GekbU6yrEwvMhOjgFHFdF4mKYcDSg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
