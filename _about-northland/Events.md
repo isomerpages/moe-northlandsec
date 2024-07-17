@@ -19,16 +19,18 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_10_at_10_57_08_AM.jpg">
 </div>
 <p>A wh</p>
-<h4><strong>NSS 30</strong></h4>
+<h4><strong>Northstars Shine @ Youth Model ASEAN Conference</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_10_at_10_57_08_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_16_at_6_23_12_AM.jpg">
 </div>
-<p>A wh</p>
-<h4><strong>NSS 30</strong></h4>
+<p>Our participants of the Youth Model ASEAN Conference. Ramadoss Harini
+Sri (3 Pollux) won the Best Delegation Award. #daretoshine</p>
+<h4><strong>Northstars Shine @ NUS Geography Challenge</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_10_at_10_57_08_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_16_at_6_19_41_AM.jpg">
 </div>
-<p>A wh</p>
+<p>Our Northstar, Terry Yip (4 Vega) won the Bronze Award for Top Performing
+Student in the Individual Component. #daretoshine</p>
 <h4><strong>Northstars Shine Mutiara Tari 2024</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJ-vAYSc4lJP0dkNX9tqQESifHEOkDxMucdEfNmhyRjXUXIZNmIaKiArVLgjqxfQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
