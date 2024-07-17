@@ -4,6 +4,13 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>NSS 30</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_10_at_10_57_08_AM.jpg">
+</div>
+<p>A whole school aerial drone shot 'NSS 30' to commemorate our school's
+30th anniversary #daretoshine</p>
 <h4><strong>School Visit by Lutheran Secondary School (Hong Kong) 2024</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbh63D05Ct4ZIOQpLo9kROjmz-q0XFTHmZhb9VzSUKVH-ppdYrovIe6-CCwD9kdw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
