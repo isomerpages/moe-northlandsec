@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6xenWXVnvUsjEeFQufTa39z8ebYCMJ_u9onLrgEAfUqGidau4A0F9Gtg42e1WNg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
