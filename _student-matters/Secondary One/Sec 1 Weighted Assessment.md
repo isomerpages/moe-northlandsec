@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Secondary One
 variant: markdown
 ---
-[Sec 1 Weighted Assessment - Term 2](https://for.edu.sg/2024-nss-t2wa-s1)
+[Sec 1 Weighted Assessment - Term 3](https://for.edu.sg/2024-nss-t3wa-s1)
