@@ -4,6 +4,17 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Northland Commemorates Racial Harmony Day 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRt2eH-vqNM0yJeLLZHq7Ke-2vDHtNilTSxiSto1RP6qnnI1z8voSi6M6s86mjrqg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Northland Secondary School commemorated Racial Harmony Day on 19 July.
+This day serves as a reminder that everyone has a role in building a harmonious
+society and that our diversity is a source of strength. Our Northstars
+came to school dressed in their ethnic attire to mark this important occasion.
+They enjoyed cultural delicacies during their breaks and participated actively
+in their SPARCLE lesson, which focused on the importance of racial harmony
+and social cohesion.</p>
 <h4><strong>Northstars Shine @ Vasantham news readers</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_16_at_6_37_50_AM.jpg">
