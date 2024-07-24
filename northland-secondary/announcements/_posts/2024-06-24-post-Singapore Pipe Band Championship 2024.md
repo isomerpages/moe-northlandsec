@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBbiACd_ORlqS3kCkhQ0E9hMD1v4dFjgbskap4Rf0FoN9KkcttfEcyzcRT1ATkUg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCQahp9Iia0MTDGgt7yN8UOjxONezOeDoa2GekbU6yrEwvMhOjgFHFdF4mKYcDSg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>On 19 June 2024, Northland Secondary School had the honour of hosting
 the Singapore Pipe Band Championship 2024. NSS’ Pipe Band and Drums CCA,
