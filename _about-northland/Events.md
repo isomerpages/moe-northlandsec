@@ -4,6 +4,17 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Northland Commemorates Racial Harmony Day 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRt2eH-vqNM0yJeLLZHq7Ke-2vDHtNilTSxiSto1RP6qnnI1z8voSi6M6s86mjrqg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Northland Secondary School commemorated Racial Harmony Day on 19 July.
+This day serves as a reminder that everyone has a role in building a harmonious
+society and that our diversity is a source of strength. Our Northstars
+came to school dressed in their ethnic attire to mark this important occasion.
+They enjoyed cultural delicacies during their breaks and participated actively
+in their SPARCLE lesson, which focused on the importance of racial harmony
+and social cohesion.</p>
 <h4><strong>Northstars Shine @ Vasantham news readers</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_16_at_6_37_50_AM.jpg">
@@ -111,11 +122,11 @@ Grace Supasinee Wong Shu Ning, also did a commendable job and came in 3rd
 a great job!!! 😀</p>
 <h4><strong>Secondary 1 Class Leaders' Appointment 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqaBADc5gBdaVPF6UkJUZi7Wud-7DKLKvsJsrXagdRYIYZN_fhzOYvb5FVizsmAdL8TkWVnfiMqy2D/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbyLm5LPgH7qIrl4IjoDzg4oZ5c4-LnQauU5seQlWlXOSuFXDaw7u_UsUDHSr9ZQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Citizens who Share - Applied Learning Programme - ElderTech 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTyVAXqppqJUySZCUVDAGPc40J0biliStJoa-g4R_0bc3RfRXDsGogfKlabQVkdY4Ea1dZCthEoiC9Y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT96BFNOQYF-qsf-Od0j-jKxe0vUZD0ct1o2lpVuGcNkz2rKcpVwR1gNDth-FD7UQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Last week during SHINE, we had our ALP tier 2 programme where our Northstars
 showcased their inventions with our elderly from St Luke's Active Ageing
@@ -123,7 +134,7 @@ Centre. After the meet-up, we also engaged with the elderly with some baking
 and badminton.</p>
 <h4><strong>Student Leaders’ Investiture 2024 - Shine On, Shine For, Shine Within</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5s8fx8m-9pJzyp61IE98smH_x60gzW-lb7MkTDOONkkJ_6VCpTt14qFyl1kA_fysFLMvtSD4m3uLS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSV3XK9gYeaRHYPfMlmmB56gkD14XXSBeoTb-wdHyrrsnB4_-TztVBLEzMIkUkHGA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Last Friday, May 17, our school held the investiture ceremony for our
 student leaders. The theme for this year's investiture is "Shine On, Shine
@@ -137,7 +148,7 @@ to lead themselves and others in meaningful endeavours.</p>
 <p>Shine Northstars! #daretoshine #shineforothers</p>
 <h4><strong>Mother Tongue Languages Fortnight - Live our Language. Love our Culture</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHe0P5ULyJQOWFWRnDAVqXjziud4aKTTW35vGMJ9SSBLf2Y4QRDzt7mFZIlQ0hBZgP699QBhvBk_A1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHqsWXhlEt-dxYjPaohQbrw2FonN2sz1Sr-qoMpgzBFiTJvfk47EitDuyCkWczXQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>In line with the Mother Tongue Language Department’s mission of ‘‘Live
 our Language, Love our Culture’, the department organised interesting hands-on
@@ -145,7 +156,7 @@ activities for our students to gain a deeper understanding of their respective
 cultures and heritage.</p>
 <h4><strong>NSS Starcolade 2024 - Shine!</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTvUXyMl17eyHiDDRL30QY839Zt7qSa1JWRDXLtTqnHrBYe2w_VjdkdrWdgLU9wKy3Fz_nZMm17FK5s/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUMEnoxW2Ko2aZKKSRDVsNdbsQpnSJfB4YepZT0hDZ2hxJB-Zw4hdIthwvDjTzDA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>On Friday, April 19, our school gathered to honour the accomplishments
 of our Northstars and Starmakers. With the presence of our School Advisory
@@ -153,9 +164,9 @@ Committee, the families of award recipients, and our graduating cohort,
 the hall was filled with anticipation for Starcolade. The event proved
 to be a resounding success, while simple, yet it was meaningful and inspiring.
 Congratulations to each deserving recipient on their well-earned recognition!</p>
-<h4><strong>Northland celebrates Hari Raya</strong></h4>
+<h4><strong>Northland celebrates Hari Raya 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTjBM3oMllnjC4oT6Dcv4UheY-oYM1pQkO0PZ7zGfmRCe8WpQzAXwhd7V81IOH_LUzfiXwJ9Zfk-7qh/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBbiACd_ORlqS3kCkhQ0E9hMD1v4dFjgbskap4Rf0FoN9KkcttfEcyzcRT1ATkUg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland's Hari Raya festivities was celebrated on Friday 12 April, with
 an enchanting display of cultural richness and artistic flair. The Symphonic
