@@ -156,7 +156,7 @@ activities for our students to gain a deeper understanding of their respective
 cultures and heritage.</p>
 <h4><strong>NSS Starcolade 2024 - Shine!</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTvUXyMl17eyHiDDRL30QY839Zt7qSa1JWRDXLtTqnHrBYe2w_VjdkdrWdgLU9wKy3Fz_nZMm17FK5s/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUMEnoxW2Ko2aZKKSRDVsNdbsQpnSJfB4YepZT0hDZ2hxJB-Zw4hdIthwvDjTzDA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>On Friday, April 19, our school gathered to honour the accomplishments
 of our Northstars and Starmakers. With the presence of our School Advisory
