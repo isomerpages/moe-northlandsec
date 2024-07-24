@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHe0P5ULyJQOWFWRnDAVqXjziud4aKTTW35vGMJ9SSBLf2Y4QRDzt7mFZIlQ0hBZgP699QBhvBk_A1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHqsWXhlEt-dxYjPaohQbrw2FonN2sz1Sr-qoMpgzBFiTJvfk47EitDuyCkWczXQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>In line with the Mother Tongue Language Department’s mission of ‘‘Live
 our Language, Love our Culture’, the department organised interesting hands-on
