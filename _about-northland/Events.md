@@ -122,11 +122,11 @@ Grace Supasinee Wong Shu Ning, also did a commendable job and came in 3rd
 a great job!!! 😀</p>
 <h4><strong>Secondary 1 Class Leaders' Appointment 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqaBADc5gBdaVPF6UkJUZi7Wud-7DKLKvsJsrXagdRYIYZN_fhzOYvb5FVizsmAdL8TkWVnfiMqy2D/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbyLm5LPgH7qIrl4IjoDzg4oZ5c4-LnQauU5seQlWlXOSuFXDaw7u_UsUDHSr9ZQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Citizens who Share - Applied Learning Programme - ElderTech 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTyVAXqppqJUySZCUVDAGPc40J0biliStJoa-g4R_0bc3RfRXDsGogfKlabQVkdY4Ea1dZCthEoiC9Y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT96BFNOQYF-qsf-Od0j-jKxe0vUZD0ct1o2lpVuGcNkz2rKcpVwR1gNDth-FD7UQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Last week during SHINE, we had our ALP tier 2 programme where our Northstars
 showcased their inventions with our elderly from St Luke's Active Ageing
