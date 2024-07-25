@@ -639,7 +639,7 @@ also share a bit more about our Northland story. Sign up to attend our
 school leaders’ dialogue at https://go.gov.sg/nssopenhouse2023.</p>
 <h4><strong>Graduation Day 2023</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQJewfKBAUcLdFxXbE9QGAqE1tS4Jr474LuyEf7__BFSXAqMYFUYi-plNk5R1PkIQ3CZPkd5-ejq59C/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQiUthcEA-Dygl8Zlcxgk9QNOh4lu4czoyOkzRDlXcR-n9YYe5HKljVRC5_bCusbg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Friday, 27 September marked the end of the secondary school life for the
 class of 2023. Our Northstars took a trip down memory lane and witnessed
