@@ -475,7 +475,7 @@ Tharman &amp; dignitaries from 10 countries. Congratulations to our CCAs
 for a job well done!</p>
 <h4><strong>Girl Guides Sale of Cookies 2023</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8dP_h1vpqL3B_sBMlIr2UixmUIGWic3X9zZiUpPgKPkLHPxpQ2YMcnbEH5XRgidE_90WMolJadnhI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWOsk9cvuD1TLt_pOZFMbNrXWj9qCzo53DdPGW5HQZr8tHxiGu0dd0sjD2PbPHtw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>NSS Girl Guides stepped out of their comfort zone in the Public Cookie
 Sales at AMK Hub this year. They displayed their enterprising spirit and
