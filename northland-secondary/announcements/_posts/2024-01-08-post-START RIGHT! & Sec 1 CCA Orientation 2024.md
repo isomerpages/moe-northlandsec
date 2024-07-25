@@ -7,4 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<div class="iframe-wrapper"><iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDi7cxmjqozLl04wx4EAzqJ69xv7-sdLHjoRBgrIPs9KPu_6pIImeHBicjv281R6q6WE_5GveVdoLI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div><p>START RIGHT! &amp; Sec 1 CCA Orientation.</p>
+<div class="iframe-wrapper">
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTg9c_aFuHd8nYmw06vxmIFVPDS5M8KD9gDluAqtRi5WAK7hxRqabTxy5Q7mmVsBQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>START RIGHT! &amp; Sec 1 CCA Orientation.</p>
