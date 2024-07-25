@@ -354,7 +354,7 @@ an exciting one as they embark on a brand new journey and discover more
 about their talents, passions and strengths.</p>
 <h4><strong>Northstars Shine! - Release of 2023 GCE N-level Results</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUwb3WbBtrznX7N23g3uxd5TlAEsAJdjVOFP2YB6vuLaoYuw7kttID0aPJe6wYkPS8uyWwLKwL2Aar/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQah7U-9uwYEpfILJ8yOQwwYOIYdbTVFMc7jStuHvRvoclP0ZIkr1J8CBxLS5FzvA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>“Always study at your own pace. It is good to have stress but make sure
 those are beneficial stress that can help you grow.” These were the wise
