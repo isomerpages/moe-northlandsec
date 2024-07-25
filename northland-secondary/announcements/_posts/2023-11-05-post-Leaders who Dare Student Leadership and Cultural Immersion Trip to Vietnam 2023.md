@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzei3xQdKKGVS69M9mDZJDFr9SglCPQEKO941mVqv4bfmCpeJ8fQyXnazuRMF6NE6L2N9HuQKqdiiS/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSCKTMJyNb_OycLLks1d5LD3iEO3tgP2GHkQJaJMC2de9Uq5k_lxR5L6N9BdZS-XA/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
 
 As part of our effort to groom our student body to be Leaders Who Dare, we have created a top-tier leadership programme where 40 Student Councilors and CCA leaders were selected to embark on an Overseas Leadership Trip to Vietnam. Our student leaders were encouraged to embrace the concept of "challenge by choice", which guided them to willingly confront their vulnerabilities head-on, and this allowed the students to develop their mental resilience and and leadership skills. Our leaders also developed their civic literacy, global awareness &amp; cross-cultural skills through various activities. These include visiting historical sites, an orphanage, local schools, and taking part in team-building exercises in Madagui Forest City. These experiences, tailored to cultivate daring leaders, significantly influenced our leaders' beliefs and perspectives. 
 
