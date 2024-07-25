@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQefOo255mNd93HnrUyxD2_GF4_x9JCrBk7v8FqJ2fJ0iG_IZ2DiJQqoomSOlBD4pXQ-k2Y0XDuQ04q/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
-
-A very BIG thank you to AIPS for receiving us! Good luck to all P6 AIPS students for your PSLE!
+<div class="iframe-wrapper">
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHidi15ZJjfCbRHZrn0wyv4l5cTp-n0GRJ_h_x6TSFMrQ5-DL1Rx0N1djB-g4uHw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>A very BIG thank you to AIPS for receiving us! Good luck to all P6 AIPS
+students for your PSLE!</p>
