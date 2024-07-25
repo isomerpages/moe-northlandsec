@@ -499,7 +499,7 @@ the smooth running of our final VIA for year 2023 in collaboration with
 Hao Ren Hao Shi. Well done Northstars!</p>
 <h4><strong>Leaders who Dare - Battle Royale emerges in Madagui Forest, Vietnam</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR19UT3GUMjqcgSnTi90t00rcVPrplwK4jMkHpgsooLSne5bI7YYojzD2I3rNj7sZ8K0d5-kc6Pyayj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS8XNtSOGeih5_s5l4kXkIvmrpb-VUZ_SCrRkcDcXhHzSS4t7NVQRjn8XzGvtzavg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Amidst the Wilderness of Madagui Forest City in Vietnam, where enthusiasm
 thrived amidst intense heat, 40 student leaders embarked on an exhilarating
