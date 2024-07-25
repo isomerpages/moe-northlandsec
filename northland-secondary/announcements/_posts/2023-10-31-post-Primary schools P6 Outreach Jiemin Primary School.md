@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQiCU4ZNz0X8SoNcizf34e2FVkXBtOuMbf45z6orlwJ-9-KRn2xy4AOXCTz7vvBmCVKouS8psCJB__i/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
-
-A very BIG thank you to JPS for receiving us! Good luck to all P6 Jieminites for your PSLE!
+<div class="iframe-wrapper">
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRUb7tuGa1Kwx8n1-vAgsywgLAmAw-JjHJWC1Q3Z_ip1hAo-8YtRfQAYhwJtZdTlQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>A very BIG thank you to JPS for receiving us! Good luck to all P6 Jieminites
+for your PSLE!</p>
