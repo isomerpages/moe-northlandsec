@@ -295,7 +295,7 @@ our community and also stress on the importance about learning about other
 cultures and practices.</p>
 <h4><strong>Northstars Shine – Release of 2023 GCE O-level Results</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIRoV-ngJi_wps85FvPXUIetOer1IhQwHcf4-d1HDV1HeIo2QIPsONtXsGbw_e8Hs9kcqH42dYp42H/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2JzY1JMP1v4iqvXBbHkm0CKfkuwktsBQ399bbDtEU66AnhitUfI3rScWWxURh_Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>What is the secret to success? For some of our top students, the secret
 is to start revision early and practice good time management.</p>
