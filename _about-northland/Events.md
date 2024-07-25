@@ -250,7 +250,7 @@ classrooms in a real-world environment.</p>
 </div>
 <h4><strong>Commemorating 40 Years of Total Defence - Together We Keep Singapore Strong</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNVM7qThc0_lTZPwrBQkLgJceTKYvZw0qOm9MkKoDnFYwf6z-qcmNARdW6bwRLJYOeUWn5OfFXrcH1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTqK-VVYaaf_bz98lOhw0hjNN63gUbmO_qKN2N62AXak_jRghJEqTgHseqtWhukBg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland commemorated Total Defence Day with a suite of experiential
 learning activities to drive home the message - “Together, We Keep Singapore
@@ -262,7 +262,7 @@ school also participated in a Fire Drill to learn about emergency preparedness
 and experienced a food disruption exercise.</p>
 <h4><strong>Northland celebrates Chinese Lunar New Year</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRg16NZJYhX5CEJpdHRw4NgVHUZ9vV9uOQqznjD3HaRgeLKCcGfWa4KBrjF4FSKXfhkMYnl8KMCakVE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQT1RVYlftFDX8zRRxfsFo3wuWHBBUClni6d78Qgifr_Kpox11uYHV-qO8mYV-OCA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland ushered in the Chinese Lunar New Year on 9 February. This year,
 the theme for the New Year celebrations is ‘Soaring with Joy to Celebrate
@@ -272,20 +272,20 @@ the day came - our classes’ dragon showcase, the Lion Dance display and
 a visit from the ‘God of Fortune’!</p>
 <h4><strong>Northstars Shine! Our first collaboration with Hao Ren Hao Shi in 2024!</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQBlPdGsxiVhe_ds3wY6CVqMHaghttE1gEyGAVii8u8tHd1-YMLC6c1cAXCSXIf_ZjnS0dNWcqmEv_k/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRebebeiLUuNIT3eoya3esRiLPt7lpiSkVPwaDuf3Q78FGVok_0tOUQa7hXD9HXg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our Northstars &amp; Starmakers shine again in spreading their love for
 the less fortunate on a wonderful Saturday 3 February 2024.</p>
 <h4><strong>Northstars Shine! Spreading love and joy in our neighbourhood!</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRI1aHA85tlvvsJpBoHsUW2ecqnKJ0E4E0R3wZSPFaligpjZQMouyFFtnqfqf8XVg0y90yEBQvy1HYy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4EfDGwIUzek0iCjlZOkzCngxzctD6QKz6VMv5GQCbef2V_qyP0If_EcsOJDeJGg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>As Chinese New Year is approaching, our Northstars took the opportunity
 to go around our neighbourhood wishing our neighbours good health and a
 prosperous new year!</p>
 <h4><strong>Northland celebrates Pongal</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQL9ay5UQIJuYSl81ODmSMKM4Lv8k2q5Nz21B9tvA37yu8jnccpsk5-4NJdBm_HH-7y1jW2n_UEWXuw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShKWWngihSl-z_Chk6EUSefM6W7v7FOdK9S1UL1WEiOXKYL_dNn74dVplU0pRcYw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland Secondary School celebrated Pongal on Friday, 19 January. Pongal
 is a festival celebrated in South India over four days, by farmers who
@@ -295,7 +295,7 @@ our community and also stress on the importance about learning about other
 cultures and practices.</p>
 <h4><strong>Northstars Shine – Release of 2023 GCE O-level Results</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIRoV-ngJi_wps85FvPXUIetOer1IhQwHcf4-d1HDV1HeIo2QIPsONtXsGbw_e8Hs9kcqH42dYp42H/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2JzY1JMP1v4iqvXBbHkm0CKfkuwktsBQ399bbDtEU66AnhitUfI3rScWWxURh_Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>What is the secret to success? For some of our top students, the secret
 is to start revision early and practice good time management.</p>
@@ -309,7 +309,7 @@ for their post-secondary education. Congratulations Northstars for your
 stellar performances!</p>
 <h4><strong>Cluster CCA- Northland Pipe Band and Drums</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZOmSBg3AJ8m3m44JtUWvyi83XnDCTZGEkoD8EtlKgv7TnU9g8oONZOlD9c8DKt7VinFszYaWsXVKs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTVVwVX4QuMtHIwI2iSS9ytgvxP432AwMqx53wVqP6rjKD2KSCPEsIT-RqXiVcwUA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>With cluster CCAs in the pipeline for schools in the N2 cluster, the Northland
 Pipe Band and Drums CCA had the privilege of being invited to two cluster
@@ -321,32 +321,32 @@ musical enchantment to much excitement and interest from the students of
 these schools.</p>
 <h4><strong>START RIGHT! &amp; Sec 1 CCA Orientation 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDi7cxmjqozLl04wx4EAzqJ69xv7-sdLHjoRBgrIPs9KPu_6pIImeHBicjv281R6q6WE_5GveVdoLI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTg9c_aFuHd8nYmw06vxmIFVPDS5M8KD9gDluAqtRi5WAK7hxRqabTxy5Q7mmVsBQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>START RIGHT! &amp; Sec 1 CCA Orientation.</p>
 <h4><strong>Secondary 1 Welcome Ceremony 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQOuFHY4h7VugBLEBOQrNWlAVMHRfvDEMWyac6y3sNvdK7Mz2JGQPg2re7Pff4h9s7DWMmPRZF8janO/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSn3r3gzUgPQYHJynfIlEe6Y2WRjCu1OrtmLI6xY_xLZg_8ngzFchk6YX0zgqv2wg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>You are a Northstar now! Secondary 1 Welcome Ceremony</p>
 <h4><strong>Secondary 1 Orientation 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRsYoZ2B_rAqm48eilt_B2nLsiuO5AVxH5kpVQjsWb5FcMnZueW8OWMoAhDQwZ1zvG53fuMPiZlijmt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSo8C6tsiYjfcUybVYH7ABmwyICsZgXyvLJfjulPKCBDaaqzsER8wfFXwIeJ6_VSA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Welcome Northstars! Secondary 1 Orientation.</p>
 <h4><strong>Class Photos commemorating our 30th Anniversary!</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ8v6SjTj3ZrNGQ6S8PUQqU1gNC8yqRly9kstUWcd5zoQ-VgZjgzSOe6IpuYPkmI8pIz2klpuUBfdL8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwPuJbN2e8SE97vQiqbQd6wag6bHNVswtxmkjmAEHMWF0txIl8-NthAStR_6ttwQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>START RIGHT 2024! Class Photos commemorating our 30th Anniversary!</p>
 <h4><strong>Our Starmakers commemorating our 30th Anniversary!</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQYSUSdCg2xSnktJuFWrlX5mh4Fix0xmNPhE9ceYLizuQIq2u6FYz7C2NVA5t6Nfw3hxdDRuiZ5vD5Z/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMvOKh2sdiXQk0HzRjvdloGEz14np4GrawDilcAM4h_eSzGetxyWpwTQoXRkh99g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Welcome 2024! Our Starmakers commemorating our 30th Anniversary!</p>
 <h4><strong>Welcome Northstars!</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSI7Z6kbBnc88A2rQUn3cPtWK3XqdOamq2QWVmrm9XjoiLA1Q-93WA25BMJ0zKdRCFwA81idVeXYWa1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwD8SQe7ykhYR9TNtuqazzYtrF-SLZ6NuQWL76fXSvXNBq01g0VhjntI4IjrhUHQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our school welcomed our new Secondary 1 Northstars to the school as they
 reported to school for Secondary 1 registration. The year promises to be
@@ -354,7 +354,7 @@ an exciting one as they embark on a brand new journey and discover more
 about their talents, passions and strengths.</p>
 <h4><strong>Northstars Shine! - Release of 2023 GCE N-level Results</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUwb3WbBtrznX7N23g3uxd5TlAEsAJdjVOFP2YB6vuLaoYuw7kttID0aPJe6wYkPS8uyWwLKwL2Aar/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQah7U-9uwYEpfILJ8yOQwwYOIYdbTVFMc7jStuHvRvoclP0ZIkr1J8CBxLS5FzvA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>“Always study at your own pace. It is good to have stress but make sure
 those are beneficial stress that can help you grow.” These were the wise
@@ -475,7 +475,7 @@ Tharman &amp; dignitaries from 10 countries. Congratulations to our CCAs
 for a job well done!</p>
 <h4><strong>Girl Guides Sale of Cookies 2023</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8dP_h1vpqL3B_sBMlIr2UixmUIGWic3X9zZiUpPgKPkLHPxpQ2YMcnbEH5XRgidE_90WMolJadnhI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWOsk9cvuD1TLt_pOZFMbNrXWj9qCzo53DdPGW5HQZr8tHxiGu0dd0sjD2PbPHtw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>NSS Girl Guides stepped out of their comfort zone in the Public Cookie
 Sales at AMK Hub this year. They displayed their enterprising spirit and
@@ -483,7 +483,7 @@ managed to sell 330 tins just within 5 hours!</p>
 <p>Thanks a crunch 🍪 to everyone who has supported the Guides this year!</p>
 <h4><strong>UPLIFT Day 2023</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTy-UF9ggpfKHDzoG-CuMLn0FOHjF3KxP1LjUOZCJVdUofu8DHCj0aZRUmXQn_VHvLHDWTabEQYoyb2/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWVFBWzxENQaIZASVrsuE15NbAVp7yvSONBUo7FniAnqxhJjTiTV61a5LWIycCdw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A day to celebrate the completion of all UPLIFT activities in 2023 and
 to celebrate all UPLIFT students as individuals. It was a day of fun as
@@ -491,7 +491,7 @@ we gathered for laser tag, lunch, ice cream and ended the day with creating
 our own perler bead keychains / nano block figures.</p>
 <h4><strong>Citizens Who Care - Values in Action</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-lSbAlffRPOlDiTA6ZfpQhgYMG8p-oSNn-xwKe4BeryG7BQkkQ5EWXqt9a1IFyDkSZdRTumzSUzCh/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWFz5i81s5cXkj0y6vELjJK71hDzU5HYgPBGv2c8RZTv6etacHv84zl7jyI3GiNA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our Starmakers and NPCC cadets and InfoComm members served the community
 last weekend. Their relentless effort and unwavering support have ensured
@@ -499,7 +499,7 @@ the smooth running of our final VIA for year 2023 in collaboration with
 Hao Ren Hao Shi. Well done Northstars!</p>
 <h4><strong>Leaders who Dare - Battle Royale emerges in Madagui Forest, Vietnam</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR19UT3GUMjqcgSnTi90t00rcVPrplwK4jMkHpgsooLSne5bI7YYojzD2I3rNj7sZ8K0d5-kc6Pyayj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS8XNtSOGeih5_s5l4kXkIvmrpb-VUZ_SCrRkcDcXhHzSS4t7NVQRjn8XzGvtzavg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Amidst the Wilderness of Madagui Forest City in Vietnam, where enthusiasm
 thrived amidst intense heat, 40 student leaders embarked on an exhilarating
@@ -513,7 +513,7 @@ learned from the Madagui Wilderness into their student leadership journey
 – to be Leaders who Dare</p>
 <h4><strong>Leaders who Dare - Student Leadership and Cultural Immersion Trip to Vietnam 2023</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSzei3xQdKKGVS69M9mDZJDFr9SglCPQEKO941mVqv4bfmCpeJ8fQyXnazuRMF6NE6L2N9HuQKqdiiS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCKTMJyNb_OycLLks1d5LD3iEO3tgP2GHkQJaJMC2de9Uq5k_lxR5L6N9BdZS-XA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>As part of our effort to groom our student body to be Leaders Who Dare,
 we have created a top-tier leadership programme where 40 Student Councilors
@@ -538,31 +538,31 @@ of change by shaping their unique journey as top leaders and leaders who
 dare in NSS.</p>
 <h4><strong>Primary schools P6 Outreach@ North View Primary School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTVWuXF-IjhXZlr_VI88RcI2LHKh0OJxXnp735NrK2xyQhQasDmBaCEzNDJortdt94Eo7fc3DkacXez/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRxOPmwfyPc-_IxfHE9dAwAwrAnh0Dq-6sEuAzTH_QKWtCtbOc1tY4KOL2q_-A5Mw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to North View Primary School for receiving us! Good
 luck to all P6 students for your PSLE!</p>
 <h4><strong>Primary schools P6 Outreach@ Jiemin Primary School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQiCU4ZNz0X8SoNcizf34e2FVkXBtOuMbf45z6orlwJ-9-KRn2xy4AOXCTz7vvBmCVKouS8psCJB__i/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRUb7tuGa1Kwx8n1-vAgsywgLAmAw-JjHJWC1Q3Z_ip1hAo-8YtRfQAYhwJtZdTlQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to JPS for receiving us! Good luck to all P6 Jieminites
 for your PSLE!</p>
 <h4><strong>Primary schools P6 Outreach@ Naval Base Primary School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXc2T4luF0iX7PkUkzL2IsNuG7LQox9XRsMhhLAIvikyw2xbf8aegI7W7hnT007AccYTOA9_n0k67W/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFunEgZAxOW49g0ADNgx4Qxl272g38wAuu98bXGK54hibhB79n1k7sOLtvzGmT5Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to NVPS for receiving us! Good luck to all P6 NVPS
 students for your PSLE!</p>
 <h4><strong>Primary schools P6 Outreach@ Xishan Primary School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRm69c2uyZ6cUHFN-CkiQ7zjw-KOaVLTRUxYeqf0Kp1huV09IUNe8dYG3-oyri-l1cBGMofBblQU0pC/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSLWD4tS9VUtIzvbqtFIAuNcB1iNUOrdmzJaKUL2lf2qmwozTZjwg_jz1wuipsGVQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to XPS for receiving us! Good luck to all P6 XPS
 students for your PSLE!</p>
 <h4><strong>Citizens who Care – Sec 1 Values in Action</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSEybIlfGQxE76_jNy4zmiVIU5T-BUZKdwEbyI1-WxNVA2Vkdi2AxP4OL_myWAt8M2BiSKkV4rRxOzs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQR8lT5ER442ZpPWfAtzQkvqZhAMIATo9b4Lf1OBVhgYhXi6tJI0wG09gU4moE5aw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>This year, our Sec 1 VIA extended beyond the classroom. In the spirit
 of being Citizens Who Care, our Northstars had the opportunity to serve
@@ -570,7 +570,7 @@ the community by getting their hands dirty in keeping the environment clean.
 Great job Northstars!</p>
 <h4><strong>Primary schools P6 Outreach@ Ahmad Ibrahim Primary School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQefOo255mNd93HnrUyxD2_GF4_x9JCrBk7v8FqJ2fJ0iG_IZ2DiJQqoomSOlBD4pXQ-k2Y0XDuQ04q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHidi15ZJjfCbRHZrn0wyv4l5cTp-n0GRJ_h_x6TSFMrQ5-DL1Rx0N1djB-g4uHw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to AIPS for receiving us! Good luck to all P6 AIPS
 students for your PSLE!</p>
@@ -584,25 +584,25 @@ do take care of yourself, remember the pointers above to stay safe and
 keep well! See you in 2024!!</p>
 <h4><strong>Primary schools P6 Outreach@ Peiying Primary School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyfo__hVMmpstjcwznrSkkVy6zdiPinlz3RdplTKN8bfmkeuC3VbKIXtlQXSQLa29hZa34ltPAHJTd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTCKL3Dr8fKkZ8ALybRrkRq__qKP6eAIpBEHkjMn2U5_s0q_EvEWQcq8ViR4U51oA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to Peiying Primary School for receiving us! Good
 luck to all P6 Peiying students for your PSLE!</p>
 <h4><strong>Primary schools P6 Outreach@ Huamin Primary School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTxGGGzYoUcCT7iNXq5g8Nc2gRtE_qicDUXaBNs03d51KbZNJm2XhSuZ6AqI0qvlP-aIx1Ut5q9XWLc/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSR-VzHCnr6PW40PqsA83_AWFRA5zO7LdPSWpIcwHvKIFQotPxXDflAMivPOC3thw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to Huamin Primary School for receiving us! Good luck
 to all P6 Huaminites for your PSLE!</p>
 <h4><strong>Primary schools P6 Outreach@ Wellington Primary School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRV1y28RKoV5dsv87y4cSEzDpGlSpI6sqXhBqgzCcMSdR9xnFXyiAFa2ovoB73QAKMthiLFtjSxCCrj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe2iIcTql3tiMxwpkVD0-wXeVrcSFVVp2K3MzpBzhr329gqB__pB-lyKHvvOG9Tg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to Wellington Primary School for receiving us! Good
 luck to all P6 Wellingtonians for your PSLE!</p>
 <h4><strong>A Northstar Shines! – Jarret Low (3 Orion)</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThSiULi0XzbNr0nhshR_S3SRE9GJMElar-frG1hiaCrxh17lPJ9YqgVwb3AJX6a8n2DQeyDupzkHA3/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThy-X8yOiitMCaR6bxVi2XVtEjtLkbNAUdc3Lb_3dpSZrSkTeyCqnhJMO-ojm0bg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Every year, the Computer Applications unit in MOE conducts the Animation
 and Game Making Competition for Secondary 2 (Animation Category) and Secondary
@@ -639,7 +639,7 @@ also share a bit more about our Northland story. Sign up to attend our
 school leaders’ dialogue at https://go.gov.sg/nssopenhouse2023.</p>
 <h4><strong>Graduation Day 2023</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQJewfKBAUcLdFxXbE9QGAqE1tS4Jr474LuyEf7__BFSXAqMYFUYi-plNk5R1PkIQ3CZPkd5-ejq59C/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQiUthcEA-Dygl8Zlcxgk9QNOh4lu4czoyOkzRDlXcR-n9YYe5HKljVRC5_bCusbg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Friday, 27 September marked the end of the secondary school life for the
 class of 2023. Our Northstars took a trip down memory lane and witnessed
