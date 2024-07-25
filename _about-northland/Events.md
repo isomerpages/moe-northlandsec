@@ -483,7 +483,7 @@ managed to sell 330 tins just within 5 hours!</p>
 <p>Thanks a crunch 🍪 to everyone who has supported the Guides this year!</p>
 <h4><strong>UPLIFT Day 2023</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTy-UF9ggpfKHDzoG-CuMLn0FOHjF3KxP1LjUOZCJVdUofu8DHCj0aZRUmXQn_VHvLHDWTabEQYoyb2/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWVFBWzxENQaIZASVrsuE15NbAVp7yvSONBUo7FniAnqxhJjTiTV61a5LWIycCdw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A day to celebrate the completion of all UPLIFT activities in 2023 and
 to celebrate all UPLIFT students as individuals. It was a day of fun as
