@@ -250,7 +250,7 @@ classrooms in a real-world environment.</p>
 </div>
 <h4><strong>Commemorating 40 Years of Total Defence - Together We Keep Singapore Strong</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNVM7qThc0_lTZPwrBQkLgJceTKYvZw0qOm9MkKoDnFYwf6z-qcmNARdW6bwRLJYOeUWn5OfFXrcH1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTqK-VVYaaf_bz98lOhw0hjNN63gUbmO_qKN2N62AXak_jRghJEqTgHseqtWhukBg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland commemorated Total Defence Day with a suite of experiential
 learning activities to drive home the message - “Together, We Keep Singapore
