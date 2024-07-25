@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXc2T4luF0iX7PkUkzL2IsNuG7LQox9XRsMhhLAIvikyw2xbf8aegI7W7hnT007AccYTOA9_n0k67W/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
-
-A very BIG thank you to NVPS for receiving us! Good luck to all P6 NVPS students for your PSLE!
+<div class="iframe-wrapper">
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFunEgZAxOW49g0ADNgx4Qxl272g38wAuu98bXGK54hibhB79n1k7sOLtvzGmT5Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>A very BIG thank you to NVPS for receiving us! Good luck to all P6 NVPS
+students for your PSLE!</p>
