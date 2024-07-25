@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSEybIlfGQxE76_jNy4zmiVIU5T-BUZKdwEbyI1-WxNVA2Vkdi2AxP4OL_myWAt8M2BiSKkV4rRxOzs/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="528" height="557" allowfullscreen="true"></iframe>
-
-This year, our Sec 1 VIA extended beyond the classroom. In the spirit of being Citizens Who Care, our Northstars had the opportunity to serve the community by getting their hands dirty in keeping the environment clean. Great job Northstars!
+<div class="iframe-wrapper">
+<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQR8lT5ER442ZpPWfAtzQkvqZhAMIATo9b4Lf1OBVhgYhXi6tJI0wG09gU4moE5aw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>This year, our Sec 1 VIA extended beyond the classroom. In the spirit
+of being Citizens Who Care, our Northstars had the opportunity to serve
+the community by getting their hands dirty in keeping the environment clean.
+Great job Northstars!</p>
