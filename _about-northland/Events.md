@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Northstar Shines – Loo Dan Lin (Class of 2021) - Lee Kuan Yew (LKY) Gold Medal 2024</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_12_at_8_33_20_AM.jpg">
 </div>
