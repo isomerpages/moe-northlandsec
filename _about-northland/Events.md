@@ -4,6 +4,14 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Leaders Who Dare – Our Uniformed Groups preparing for the National Day Commemoration Ceremony 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsEuJcQX0964m2dxEyrtyJc2iGUlw5cmyAhwUnpOLZ8brBTWIjM5GNnwQuR_QjQA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>The school would like to extend its heartfelt gratitude to our UGs for
+their outstanding dedication and hard work in preparing for the National
+Day Commemoration Ceremony. Your commitment, discipline, and teamwork have
+been truly inspiring. We are proud of you! #daretoshine</p>
 <h4><strong>Northland Commemorates Racial Harmony Day 2024</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRt2eH-vqNM0yJeLLZHq7Ke-2vDHtNilTSxiSto1RP6qnnI1z8voSi6M6s86mjrqg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
