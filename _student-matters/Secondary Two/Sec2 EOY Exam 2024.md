@@ -7,3 +7,5 @@ third_nav_title: Secondary Two
 ---
 <p><a href="/files/Exam Timetable 2024/2024_NSS_End_of_Year_Exam_Timetable__Sec2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec2 EOY Exam Timetable 2024</a>
 </p>
+<p><a href="https://for.edu.sg/2024-nss-t4eye-s2" rel="noopener nofollow" target="_blank">Sec2 EOY 2024 Exam Details </a>
+</p>
