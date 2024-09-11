@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Northstar Shines – Zhu Xingyu (3 Pollux)</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_09_11_at_2_02_40_PM.jpg">
 </div>
