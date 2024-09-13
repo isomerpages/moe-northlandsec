@@ -4,6 +4,68 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Northstars Shine at the "National Create Your Own Newspaper Competition" 全国中学编采比赛</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_09_12_at_10_39_43_AM.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_09_12_at_10_39_58_AM.jpg">
+</div>
+<p>The school is happy to announce that both our Upper Secondary and Lower
+Secondary teams have clinched awards at the "National Create Your Own Newspaper
+Competition."</p>
+<p>The Upper Secondary team earned the First Prize (一等奖), while the Lower
+Secondary team was awarded the Second Prize (二等奖).</p>
+<p>The winning team members are:</p>
+<p>Upper Secondary-</p>
+<p>• Lee Yee Meng (4 Vega)</p>
+<p>• Ooi Ching Wen (4 Vega)</p>
+<p>• Liew Jun Wei (4 Vega)</p>
+<p>• Tan Xian Fu (4 Vega)</p>
+<p>• Terry Yip Cheng Hao (4 Vega)</p>
+<p>Lower Secondary:</p>
+<p>• Ooi Jun Xiang (2 Vega)</p>
+<p>• Chan Xin Hui, Alicia (1 Sirius)</p>
+<p>• Wong Yu Rui Shanese (1 Sirius)</p>
+<p>• Felicia Sam Re Ling (1 Rigel)</p>
+<p>• Tan Wei Xuan (1 Vega)</p>
+<p>A special shoutout to the dedicated teachers-in- charge:</p>
+<p>Mr Tan Pek Lim (Upper Secondary)</p>
+<p>Ms Eng Jia Qi (Lower Secondary)</p>
+<p>#daretoshine</p>
+<h4><strong>Leaders who Dare - Mural Painting in Commemoration of NSS 30th Anniversary</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1tFFDiLh0xJPmD382JDcBWIVulu6kq5ZV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>In commemoration of our school’s 30th Anniversary, the Art Unit is proud
+to showcase a mural painted by our very own Northstars! The 30th Anniversary
+mural in Northland Secondary School’s Library spans two walls, featuring
+the school's iconic building silhouette in the foreground. Behind it, a
+vibrant array of flowers in various artistic styles symbolises the school’s
+nurturing and diverse environment. The flowers represent the growth and
+individuality of students, while the building reflects the school’s strong
+foundation. Together, they highlight Northland’s values of Respect, Resilience,
+and Responsibility, celebrating its legacy as a welcoming institution that
+fosters creativity and unity.</p>
+<p>The names of the talented students who contributed to this magnificent
+mural are -</p>
+<p>• Lai Wei En (1 Castor)</p>
+<p>• Nur Amal Binte Khaire (1 Castor)</p>
+<p>• Eden Lin Boon Yao (3 Antares)</p>
+<p>• Ngan Jing Lun (3 Antares)</p>
+<p>• Lim Shi Fang (3 Castor)</p>
+<p>• Alesha Binte Mohamed Shabir (3 Epsilon)</p>
+<p>• Chew Bao Xi Keona (3 Mizar)</p>
+<p>• See Hui Er (3 Mizar)</p>
+<p>• Goh Kim Seng (3 Mizar)</p>
+<p>• Zheng Ting (3 Orion)</p>
+<p>• Champion Kirsten Cara (3 Pollux)</p>
+<p>• Drusilla Amran (3 Pollux)</p>
+<p>• Shannyn Lim Xuan Ning (3 Pollux)</p>
+<p>• Cherry Thet (3 Rigel)</p>
+<p>• Nicole Oh Shi En (3 Rigel)</p>
+<p>• Nurul Dania Irliyana Binte Mohamad Faizal (3 Rigel)</p>
+<p>Well Done Starmakers and Northstars!!! #daretoshine</p>
 <h4><strong>StarMakers Shine at N2 CL T&amp;L Symposium</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_09_11_at_3_40_03_PM__1_.jpg">
