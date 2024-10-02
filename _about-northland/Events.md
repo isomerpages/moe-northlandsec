@@ -4,6 +4,25 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Northstar Shines - Liao Chengle (3 Pollux) @ Singapore Physics League</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_02_at_9_52_30_AM.jpg">
+</div>
+<h4><strong>Northstars Shine @ Singapore Junior Physics Olympiad</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_02_at_9_49_59_AM.jpg">
+</div>
+<h4><strong>Graduation Day - Class of 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOjDwdeJTTjIZhxqbOnECXulv7GemFFiPsmuRR8412QFvOqxOCwUHxmQMYlYpTiA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>On Friday, 27 September, the class of 2024 celebrated the end of their
+secondary school journey. Our Northstars reminisced about their transformation—boys
+becoming young men, and girls blossoming into young ladies. The School
+Leaders and Year Head extended their heartfelt congratulations, encouraging
+the graduates to keep learning and cherish the friendships they built at
+Northland. Best wishes to all Northstars as you embark on your future endeavours—
+continue to shine!</p>
 <h4><strong>Northstars Shine at the "National Create Your Own Newspaper Competition" 全国中学编采比赛</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_09_12_at_10_39_43_AM.jpg">
