@@ -4,6 +4,20 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Northstars Shine @ Piala Cendekia Sahibba 2024 (National Scrabble Competition)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_03_at_7_01_17_AM.jpg">
+</div>
+<h4><strong>Northstar Shines @ GetActive! Singapore Sports Festival (Pesta Sukan 2024)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_02_at_2_34_35_PM.jpg">
+</div>
+<p>Nurin Qaisara Binte Muhamad Hammar (3 Orion) has reached a significant
+milestone by participating in the recent GetActive! Singapore Sports Festival
+(Pesta Sukan 2024) in Sport Silat. The school and her Silat School are
+particularly proud of her accomplishments in what was her first local national
+tournament, in where she secured a top-six position in her category. Well
+done, Nurin!</p>
 <h4><strong>Northstar Shines - Liao Chengle (3 Pollux) @ Singapore Physics League</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_02_at_9_52_30_AM.jpg">
