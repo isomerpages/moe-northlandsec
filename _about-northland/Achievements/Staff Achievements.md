@@ -5,6 +5,70 @@ description: ""
 third_nav_title: Achievements
 variant: markdown
 ---
+### **Starmakers’ Achievements 2024**
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2ynjvL4hP4F5m78CppZunpip_4lhbVkea9hlfMPtFPpBUWROjlCqZwEl93Fzqm3sREaNkGM22QteI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+**Mr Aaron Rajoo**
+* National Day Commendation Award
+* Teacher Leaders Programme&nbsp; 2 (Term 1)
+* Sharing on Unlocking The Power Of Emotions In CCE Facilitation at St. Joseph’s Institution
+* Sharing on Unlocking The Power Of Emotions In Organisational Learning at National Institute of Education
+
+**Mr Brian Lui**
+* National Day Long Service Award Award
+
+**Mr Shaifulizzam B Mohd Rouse**
+
+* National Day Long Service Award Award
+
+**Mr Clement Ong**
+
+* National Day Long Service Award Award
+
+**Mr Derek Han**
+
+* Teacher Leaders Programme 1 (Term 1)
+* Presentation on AI POETICA - Exploring the Efficacy of AI in Enhancing Students' Written Response to Poetry at EduTECH Asia
+* Presentation on Exploring the Efficacy of AI in Enhancing Students' Written Response to Poetry at North Zone Inquiry Project (Literature)
+
+**Mr Abudaher**
+
+* Management and Leadership in Schools Programme (Semester 2)
+
+**Miss Elizabeth Phua**
+
+* Management and Leadership in Schools Programme (Semester 2)
+
+**Mdm Choi Pei Ling and Mdm Soh Gim Uoon**
+
+* Presentation on Northland Secondary Mother Tongue Media Literacy Programme: Practical Exploration for Enhancing Students' 21st Century Core Competencies(德贤母语媒体素养课程：提升学生21世纪核心能力的实践探索) at 2024 National Online Symposium on Chinese Language Teaching and Learning in Secondary Schools (2024年全国中学华文教与学线上分享会)
+
+**Mdm Choi Pei Ling, Mdm Soh Gim Uoon and Miss Kee Bee Hwa**
+
+* Presentation on A Practical Study on Enhancing Students' Interest in Learning Chinese: The E-papers Project at Northland Secondary School' (提升学生华文学习兴趣的实践研究：德贤中学的“走近报纸”项目) at the N2 Chinese Teaching &amp; Learning Symposium
+
+**Mdm Noor Zanariah Bte Sidi, Mdm Nurliyana Bte Ju'airi, Mdm Siti Fathona Bte Amdan and Ms Nurulain Binte Ishak**
+
+* Presentation on Self-Determination Theory (SDT) in the R.E.A.P Program to Enhance Writing Skills (Teori Penentuan Diri (Self-determination theory/SDT) dalam Program R.E.A.P untuk Mempertingkat Kemahiran Menulis) at&nbsp; SeJATI Sejiwa Learning Festival
+
+**Mr Lim Thai Wee David &amp; Mdm Gan Lei Fong**
+
+* Sharing on A Student Perspective on Harnessing gamification to increase students' engagement of learning at Back to School (Cluster Programme)
+
+**Mr Lu Jianhao**
+
+* Article on ChatGPT-Assisted Learning: Self-Assessment &amp; Feedback Generation, [https://assessmentforall.com/](https://assessmentforall.com/)
+
+**Miss Vanessa Yeo**
+
+* Academy Awards for Professional Development
+* Presentation on Harnessing Chatbots as Digital Peers in the EL Classroom at SG Learning Designers Circle
+
+**Miss Zahratul Asyeeqah Mohamed**
+
+* Teacher Work Attachment (TWA) at First Principles Education
+
+### **Starmakers’ Achievements 2023**
+
 <p><strong>Academy Awards for Professional Development </strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ4TKNTWxNhSot24nsvYQADWAq1bz5K-kABr8YxLW3X5AWQJVR9-JpsTbPMZMOcog/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true"></iframe>
 The&nbsp;Academy Awards for Professional Development recognise and affirm the efforts of officers in the education service and partners in education for their contributions to the professional development of the teaching fraternity.
