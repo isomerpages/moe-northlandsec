@@ -6,7 +6,8 @@ third_nav_title: Achievements
 variant: markdown
 ---
 ### **Starmakers’ Achievements 2024**
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2ynjvL4hP4F5m78CppZunpip_4lhbVkea9hlfMPtFPpBUWROjlCqZwEl93Fzqm3sREaNkGM22QteI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="434" width="720" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2ynjvL4hP4F5m78CppZunpip_4lhbVkea9hlfMPtFPpBUWROjlCqZwEl93Fzqm3sREaNkGM22QteI/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+
 **Mr Aaron Rajoo**
 * National Day Commendation Award
 * Teacher Leaders Programme&nbsp; 2 (Term 1)
@@ -39,11 +40,10 @@ variant: markdown
 * Management and Leadership in Schools Programme (Semester 2)
 
 **Mdm Choi Pei Ling and Mdm Soh Gim Uoon**
-
 * Presentation on Northland Secondary Mother Tongue Media Literacy Programme: Practical Exploration for Enhancing Students' 21st Century Core Competencies(德贤母语媒体素养课程：提升学生21世纪核心能力的实践探索) at 2024 National Online Symposium on Chinese Language Teaching and Learning in Secondary Schools (2024年全国中学华文教与学线上分享会)
 
 **Mdm Choi Pei Ling, Mdm Soh Gim Uoon and Miss Kee Bee Hwa**
-
+<iframe allowfullscreen="true" height="569" width="720" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSg-bG7PKnHn4qns7t02varQp_ENh2ED0tEIBYCxREYZuovvjf1LWfw1GnMRxWo23cdOUps-bv3b05-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 * Presentation on A Practical Study on Enhancing Students' Interest in Learning Chinese: The E-papers Project at Northland Secondary School' (提升学生华文学习兴趣的实践研究：德贤中学的“走近报纸”项目) at the N2 Chinese Teaching &amp; Learning Symposium
 
 **Mdm Noor Zanariah Bte Sidi, Mdm Nurliyana Bte Ju'airi, Mdm Siti Fathona Bte Amdan and Ms Nurulain Binte Ishak**
