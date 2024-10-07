@@ -3,7 +3,17 @@ title: Ex–Student Achievements
 permalink: /about-northland/Achievements/permalink/
 description: ""
 third_nav_title: Achievements
+variant: markdown
 ---
+#### A Northstar Shines – Loo Dan Lin (Class of 2021) - Lee Kuan Yew (LKY) Gold Medal
+![](/images/WhatsApp_Image_2024_10_08_at_6_38_11_AM.jpg)
+Our school is proud to share that our Northstar, Loo Dan Lin, graduated from ITE as one of the top graduates of 2024. Dan Lin was conferred the Lee Kuan Yew (LKY) Gold Medal, at the ITE Graduation Ceremony. The LKY Gold Medal is awarded to the top graduate of each ITE College, who has excelled in his or her course of study and co-curricular activities, and has made contributions to the community. Dan Lin s currently pursuing a Diploma in Banking and Finance at Singapore Polytechnic.&nbsp; Dan Lin is a true embodiment of a Learner who Shares, A Citizen who Cares and A Leader who Dares. May you continue to shine in your future endeavours, Dan Lin!
+
+#### A Northstar Shines - Rishikka D/O Ranesh (Class of 2022) - The Lee Kuan Yew Award For Outstanding Normal Course Students
+
+![](/images/WhatsApp_Image_2024_10_08_at_6_35_02_AM.jpg)
+
+Northland Secondary School congratulates our alumna, Rishikka D/O Ranesh (4R8), Class of 2022 for being accorded The Lee Kuan Yew Award For Outstanding Normal Course Students! The Lee Kuan Yew Award For Outstanding Normal Course Students is an accolade that recognises students in Normal Academic and Normal Technical courses for their academic achievements and to encourage them to continue striving for academic accomplishments This is a testament of Rishikka’s hard work and self-belief. Thank you for being an inspiration to all Northstars!
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -82,7 +92,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Neo Hui Yu</strong></td>
-<td style="text-align: center;">Singapore Computer Society for Outstanding<br />&nbsp;IT Youth Achievement Award</td>
+<td style="text-align: center;">Singapore Computer Society for Outstanding<br>&nbsp;IT Youth Achievement Award</td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Seo Wee Kuan</strong></td>
@@ -98,7 +108,7 @@ third_nav_title: Achievements
 <hr>
 <p><strong>NGEE ANN KONGSI SCHOLARSHIP WINNER AT REPUBLIC POLYTECHNIC &amp; LEAP REPRESENTATIVE</strong></p>
 <p>Venus Lau Ying Jie, a former Northland student who is currently pursuing a Diploma in Industrial and Operations Management at Republic Polytechnic, has been awarded the Ngee Ann Kongsi Scholarship and is a face of the LEAP (Learn Engineering at Polytechnics) movement.</p>
-<p>Check out LEAP at&nbsp;<br /><a href="http://facebook.com/joinengineering" target="">facebook.com/joinengineering</a><br /><a href="http://twitter.com/joinengineering" target="">twitter.com/joinengineering</a><br /><a href="http://instagram.com/joinengineering" target="">instagram.com/joinengineering</a></p>
+<p>Check out LEAP at&nbsp;<br><a href="http://facebook.com/joinengineering" target="">facebook.com/joinengineering</a><br><a href="http://twitter.com/joinengineering" target="">twitter.com/joinengineering</a><br><a href="http://instagram.com/joinengineering" target="">instagram.com/joinengineering</a></p>
 <p>Congratulations Venus Lau Ying Jie!</p>
 <hr>
 <p><strong>NGEE ANN POLYTECHNIC'S 2015 GRADUATING CLASS AWARD WINNER</strong></p>
@@ -145,8 +155,8 @@ third_nav_title: Achievements
 <th style="text-align: center;" colspan="3">Awards</th>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="2"><strong>Tay Zhi Yin</strong><br />Diploma in Digital Animation</td>
-<td style="text-align: center;" colspan="3">Diploma in Digital Animation<br />Diploma in Digital Animation (Course Medalist)<br />Media Development Authority Gold Medal<br />Diploma with Merit</td>
+<td style="text-align: center;" colspan="2"><strong>Tay Zhi Yin</strong><br>Diploma in Digital Animation</td>
+<td style="text-align: center;" colspan="3">Diploma in Digital Animation<br>Diploma in Digital Animation (Course Medalist)<br>Media Development Authority Gold Medal<br>Diploma with Merit</td>
 </tr>
 </tbody>
 </table>
@@ -160,20 +170,20 @@ third_nav_title: Achievements
 <th style="text-align: center;" colspan="3">Awards</th>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="2"><strong>Ong Han Xiang<br /></strong>Diploma in Multimedia &amp; Infocomm Technology</td>
+<td style="text-align: center;" colspan="2"><strong>Ong Han Xiang<br></strong>Diploma in Multimedia &amp; Infocomm Technology</td>
 <td style="text-align: center;" colspan="3">Cisco Systems (USA) Award for Outstanding Project Work</td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="2"><strong>Rahumathmarini</strong><br />Diploma in Multimedia &amp; Infocomm Technology</td>
+<td style="text-align: center;" colspan="2"><strong>Rahumathmarini</strong><br>Diploma in Multimedia &amp; Infocomm Technology</td>
 <td style="text-align: center;" colspan="3">Cisco Systems (USA) Award for Outstanding Project Work</td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="2"><strong>Yin Zhiyan</strong><br />Diploma in Digital Media Design (Animation)&nbsp;</td>
+<td style="text-align: center;" colspan="2"><strong>Yin Zhiyan</strong><br>Diploma in Digital Media Design (Animation)&nbsp;</td>
 <td style="text-align: center;" colspan="3">MediaCorp Gold Medal</td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="2">&nbsp;<strong>Meng Qingnan</strong><br />Diploma in Space &amp; Interior Design&nbsp;</td>
-<td style="text-align: center;" colspan="3">Architrave (a Company of Banyan Tree Group) Award for Outstanding<br />Project Work</td>
+<td style="text-align: center;" colspan="2">&nbsp;<strong>Meng Qingnan</strong><br>Diploma in Space &amp; Interior Design&nbsp;</td>
+<td style="text-align: center;" colspan="3">Architrave (a Company of Banyan Tree Group) Award for Outstanding<br>Project Work</td>
 </tr>
 </tbody>
 </table>
@@ -182,4 +192,4 @@ third_nav_title: Achievements
 <p>CoNeo Shi Hai, currently a 2nd year student of Higher Nitec in Electronics Engineering at ITE College Central has performed exceptionally with a GPA of more than 3. Congratulations Neo Shi Hai!</p>
 <h4><strong>ADMISSION VIA DIRECT POLYTECHNIC ADMISSIONS EXERCISE 2014</strong></h4>
 <p>Congratulations to:</p>
-<p>Eswari D/o Ravendiran (5NA)<br />Teo Zhi Xuan (5NB)<br />for being admitted to Nanyang Polytechnic&rsquo;s Diploma in Business Management &amp; Diploma in Food Science and Nutrition respectively in the Direct Polytechnic admissions Exercise 2014.</p>
+<p>Eswari D/o Ravendiran (5NA)<br>Teo Zhi Xuan (5NB)<br>for being admitted to Nanyang Polytechnic’s Diploma in Business Management &amp; Diploma in Food Science and Nutrition respectively in the Direct Polytechnic admissions Exercise 2014.</p>
