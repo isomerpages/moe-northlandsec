@@ -3,7 +3,9 @@ title: Current Student Achievements
 permalink: /about-northland/achievements/current-student-achievements/
 description: ""
 third_nav_title: Achievements
+variant: markdown
 ---
+<p><strong><a href="/about-northland/achievements/current-student-achievements/2023">2024</a></strong></p>
 <p><strong><a href="/about-northland/achievements/current-student-achievements/2023">2023</a></strong></p>
 <p><strong><a href="/about-northland/achievements/current-student-achievements/2022">2022</a></strong></p>
 <p><strong><a href="/about-northland/achievements/current-student-achievements/2020">2020</a></strong></p>
