@@ -7,8 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Our biennial concert featuring our CCAs, Northstars and teachers is here
-once again! \</p>
+<h4>Our biennial concert featuring our CCAs, Northstars and Starmakers is here once again! </h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_08_at_8_45_09_AM.jpg">
