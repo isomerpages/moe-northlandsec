@@ -2,6 +2,7 @@
 title: Students' Council
 permalink: /student-development-curriculum/students-council/
 description: ""
+variant: markdown
 ---
 <table class="iveo_table ive_eobj_center ives_tab_1">
 <tbody>
@@ -33,39 +34,31 @@ description: ""
 </tbody>
 </table>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFpP1LQObpwP6RDk47bYI-XMMc_KYfP4AMTo4tTHYuST7qWw6AY9bFrNGPcypGiQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true"></iframe>
+![](/images/Student_Council_V2.jpg)
 
-The Students’ Council is the school’s premier platform for developing confident student leaders who dare. The Council has strengthened its resolve to be the representatives of the student body, listening to the voices of Northstars. This year, the Council continued to seek feedback from the ground and surfaced issues brought up by Northstars through platforms like the Town Hall Dialogue and Instagram Page, Voices of Northstars, where they analysed and discussed with our School Leaders to improve the school.&nbsp;
+Northland Secondary School’s Student Council is dedicated to representing the voices of Northstars, acting as a bridge between students and School Management by bringing forward ideas, suggestions, and feedback for consideration. As the primary student leadership group, the Student Council strives to create a vibrant, inclusive environment where every student feels valued, heard, and inspired to reach their full potential as “Learners who Share, Citizens who Care, and Leaders who Dare.”
 
-The Council also continues to initiate and support school events, such as the Induction Ceremony for Secondary Ones and SPARCLE 1 camps. The Council has also grown in their ability to plan, articulate their proposals as well as implement events at school level. The Council EXCO members have shown maturity in their thinking and honed their collaborative competencies.
+We aim to empower Northstars through initiatives such as the biannual _Student Dialogue_ and _The Voices of Northstars_, providing platforms for students to discuss important issues in school life with our School Leaders to drive meaningful improvements.
 
-Our Student Councillors are cognisant of their leadership progress and development through their self-assessment of leadership and conversations with the Student Leadership teachers. Our Students’ Council will continue to work together with the student body to increase their own and the student body’s voice and agency.
+In addition, we actively foster school spirit and pride through events like the Secondary 1 Orientation, Youth Day, and Teachers’ Day, while encouraging all Northstars to contribute to the school community in their unique ways, helping to build a stronger, more connected school environment.
 
-<table border="1">
-<tbody>
-<tr>
-<td><strong>Teachers-in-charge:</strong></td>
-<td>
-<p>Mdm Nur Atassha Binte Mohd Nasirn<br>Mdm Siti Fathona Bte Amdan<br>Mr Brian Phua<br>Miss Zahratul Asyeeqah Binte Mohd<br>Mdm Nurulain Bte Ishak<br>Ms Kng Hwee Mae<br>Miss Tan Xin Yi</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Student Leaders</strong></p>
-<table border="1">
-<tbody>
-<tr>
-<td><strong>President:</strong></td>
-<td><p> Pow Xu Yi (3 Vega))</p></td>
-</tr>
-<tr>
-<td><strong>Vice Presidents:&nbsp;</strong></td>
-<td>
-<p>Chermaine Kuek Xhin Ting (3 Vega)<br>     Malejana Leah Marie Victoria Laurente (3 Epsilon)</p>
-</td>
-</tr>
-<tr>
-<td><strong>EXCO members:</strong></td>
-<td>
-<p> Amal Elma Binte Mohamed Faizal (3 Vega))<br>Mikaela Choo (3 Epsilon)<br>Khloe Lim Xin Yi&nbsp;(3 Antares)<br>Nur Luthfeah Binte Othman (3 Orion))<br>Nurin Akisha Binte Kamar Nor (3 Pollux)<br>
-</p></td></tr></tbody></table>
+
+**Student Leaders**
+
+**President:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ismatul Sofia Binti Mohamed Irfan (3 Sirius)
+
+**Vice Presidents:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sarah Kaylee Cheng Qe An (3 Pollux), Huo Zhiqin (3 Pollux)
+
+**Secretary:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jas Yee Si Ting (3 Pollux)
+
+**Head Of Operations:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ooh Yu Jie (3 Castor)
+
+**Head Of Student Welfare:** &nbsp;&nbsp;&nbsp;&nbsp; Trinity Joy Diomampo Lleva (3 Pollux)
+
+**Head Of Communications:** &nbsp;&nbsp;&nbsp; Marcel Tan Lai Hang (3 Castor)
+
+**Head Of School Pride:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cash Ng Thiam Hong (Huang Tianhong) (3 Antares)
+
+**Secondary 2 Coordinator:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ng Sue Ann (3 Sirius)
+
+**Secondary 1 Coordinator:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Charles Ooi Zhen Yi (3 Sirius)
