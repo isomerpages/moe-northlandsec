@@ -4,6 +4,11 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Graduation Day - Class of 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOjDwdeJTTjIZhxqbOnECXulv7GemFFiPsmuRR8412QFvOqxOCwUHxmQMYlYpTiA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>On</p>
 <h4><strong>Northstars Shine @ Piala Cendekia Sahibba 2024 (National Scrabble Competition)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_03_at_7_01_17_AM.jpg">
