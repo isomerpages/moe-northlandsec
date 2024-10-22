@@ -4,6 +4,10 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Learners Who Share – Secondary 3 ECG Learning Journeys 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRmyt6di2PM9FlVj-H-9YcFxL505oMeS_hLcuwnQySdXFjhGkuHEt5Stb0zrhIZsw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>Northstars Shine @ Piala Cendekia Sahibba 2024 (National Scrabble Competition)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_03_at_7_01_17_AM.jpg">
