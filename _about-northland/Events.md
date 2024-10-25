@@ -4,6 +4,10 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Citizens who Care - Secondary 1 VIA 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_qnxRUVs7agTDoPIueajjQ9P9om7q65MG2QoG2AFncKaTTHHXIoWU7TZ9w5izqw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>Learners Who Share – Secondary 3 ECG Learning Journeys 2024</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRmyt6di2PM9FlVj-H-9YcFxL505oMeS_hLcuwnQySdXFjhGkuHEt5Stb0zrhIZsw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
