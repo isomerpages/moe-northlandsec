@@ -6,6 +6,25 @@ third_nav_title: Achievements
 variant: markdown
 ---
 ### **Starmakers’ Achievements 2024**
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTIczTILLDgJLRP0x-PzDBfcY71voAG3lUwrgRgnsR7daLSh2xq2TkYhUyYR5JfFLPu7FSFL0mw0_R5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+* **Mr Chen Weizhon**g &nbsp;- MOE Service Excellence Award Gold Award
+* **Miss Norashikin Binte Ibrahim** - MOE Service Excellence Award Gold Award
+* **Mr Abdul Razak Bin Masiran** - MOE Service Excellence Award Silver Award
+* **Miss Chang Shu Hui Michelle** - MOE Service Excellence Award Silver Award
+* **Mr Chia Meng Guan** - MOE Service Excellence Award Silver Award
+* **Mrs Daphne Kirishanan** - MOE Service Excellence Award Silver Award
+* 
+**Mr Dharmapuri Rajendra Krishna** - MOE Service Excellence Award Silver Award
+* **Mdm Gomathi Ramesh** - MOE Service Excellence Award Silver Award
+* **Mr Mohamed Ibrahim S/O Sirajuddin** - MOE Service Excellence Award Silver Award
+* **Ms Niko** - MOE Service Excellence Award Silver Award
+* **Mdm Nur Atassha Bte Mohamed Nasir**- MOE Service Excellence Award Silver Award
+* **Mr Santhosh Tamilarasan** - MOE Service Excellence Award Silver Award
+* **Mrs Voo - Ng Weng Yin Veronica** - MOE Service Excellence Award Silver Award
+* **Miss Yeo Xin Ying, Vanessa** - MOE Service Excellence Award Silver Award
+
+
 <iframe allowfullscreen="true" height="434" width="720" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2ynjvL4hP4F5m78CppZunpip_4lhbVkea9hlfMPtFPpBUWROjlCqZwEl93Fzqm3sREaNkGM22QteI/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Mr Aaron Rajoo**
