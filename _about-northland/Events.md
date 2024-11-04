@@ -4,6 +4,10 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Northstars Shine - End-of-year Awards Ceremony 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe9ZhG26ZPXSyx5Ya8Dd7BydfU7X1kTVJkt-FDNY_6K5z6gQtbNAmSyaKme01AGA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>Citizens who Care - Secondary 1 VIA 2024</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_qnxRUVs7agTDoPIueajjQ9P9om7q65MG2QoG2AFncKaTTHHXIoWU7TZ9w5izqw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
