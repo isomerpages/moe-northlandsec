@@ -4,6 +4,10 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Leaders who Dare - Alpha Centauri Overseas Student Leadership Development Training Camp 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ09aOv_2j-FaFB9VEBeLtkYbC0DQbc-Oi5mS2r0Jf3VbqtqfRr98jYkOrhrv1XTw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>Northstars Shine - End-of-year Awards Ceremony 2024</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe9ZhG26ZPXSyx5Ya8Dd7BydfU7X1kTVJkt-FDNY_6K5z6gQtbNAmSyaKme01AGA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
