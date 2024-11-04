@@ -2,14 +2,15 @@
 title: Mathematics Department
 permalink: /academic-curriculum/mathematics-department/
 description: ""
+variant: markdown
 ---
-![](/images/maths2023.jpg)
+![](/images/WhatsApp_Image_2024_11_04_at_8_25_54_AM__7_.jpg)
 *(From Left to Right)*    
-*Front Row: Mr Chen Weizhong (ST Mathematics), Mr Lim Hwee Chong, Mr Latiff, Mr Chia Meng Guan, Mr Mohamad Faizal (SH ICT), Miss Liao Caizhuang (SH Educational Support (Internal))* 
+*Front Row: Mr Chen Weizhong (ST Mathematics), Mr Lim Hwee Chong, Mr Latiff, Mr Chia Meng Guan, Mr Mohamad Faizal (SH ICT), Miss Liao Caizhuang (SH Educational Support)* 
 
-*2nd Row: Mdm Jesslyn Lee, Miss Haw Yubin, Mdm Lenny Azlina (HOD Maths), Mr Abudaher (AYH Sec 4/5), Miss Joanne Yap (YH Sec 3)*
+*2nd Row: Mdm Jesslyn Lee, Miss Haw Yubin, Miss Damaris Koh, Mr Abudaher (AYH Sec 1), Ms Laeu Siew Fung, Mr Dharmapuri Rajendra Krishna (SH Data Management), Miss Joanne Yap (YH Sec 3)*
 
-*Back Row: Mr Ernest Yeo, Mr Brian Phua, Mrs Chang Ying Ying, Mdm Hwee Yuet Mei (SH Maths), Mr Ou Jianwen, Mr Feroze  s/o Amzah*
+*Back Row: Mdm Lee Shin Peng, Mr Brian Phua, Mrs Chang Ying Ying, Mdm Hwee Yuet Mei (SH Maths), Mr Ou Jianwen, Mr Feroze  s/o Amzah*
 <h2><strong><em>Inspiring Mathematics Learning, Nurturing Resilient Learners</em></strong></h2>
 <p>The Mathematics Department believes that everyone can do Mathematics with persistent effort. A strong foundation in the subject will give learners opportunities to solve problems confidently and systematically. These skills will serve them well in life.</p>
 <p>Our teachers seek to collaborate and learn to improve our teaching and learning. We hope to model this spirit of learning and encourage our students to love Mathematics and believe in themselves. We also bring into the classroom physical manipulatives and online platforms such as Peardeck and Kahoot to help our students learn. With the personal learning devices, students are able to be more self-directed and also use technology for consultation too.</p>
