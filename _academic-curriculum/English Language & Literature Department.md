@@ -2,9 +2,10 @@
 title: English Language & Literature Department
 permalink: /academic-curriculum/english-language-n-literature-department/
 description: ""
+variant: markdown
 ---
-![](/images/eldept.jpeg)
-<p><em>(From Left to Right)<br></em><em>Front Row:</em><em>&nbsp;Miss Sally Poh, Miss Norashikin (SH EL), Mr Kenneth Chye (HOD EL), Miss Zahratul Asyeeqah, Mr Derek Han (ST Lit)<br></em><em>2</em><em>nd</em><em>&nbsp;Row:</em><em>&nbsp;Mdm Rozilawati, Miss Mookaiah Manonmani, Ms Michelle Chang (HOD Discipline), Mrs Daphne Kirishanan, Mr Jonah Wang, Miss Claudia Choo<br></em><em>Back Row:</em><em>&nbsp;Mr Menjit Singh, Ms Ynez Lim, Miss Kng Hwee Mae, Miss Vanessa Yeo, Miss Puah Cai Ling</em></p>
+![](/images/WhatsApp_Image_2024_11_04_at_8_25_54_AM.jpg)
+<p><em>(From Left to Right)<br></em><em>Front Row:</em><em>&nbsp;Miss Sally Poh, Miss Norashikin (SH EL), Mr Kenneth Chye (HOD EL), Miss Zahratul Asyeeqah, Mr Derek Han (ST Lit)<br></em><em>2</em><em>nd</em><em>&nbsp;Row:</em><em>&nbsp;Mdm Rozilawati, Miss Mookaiah Manonmani, Ms Michelle Chang (HOD Discipline), Mrs Daphne Kirishanan, Mr Jonah Wang, Miss Claudia Choo<br></em><em>Back Row:</em><em>&nbsp;Mr Menjit Singh, Miss Tan Yoke Ting, Miss Kng Hwee Mae, Miss Vanessa Yeo, Miss Puah Cai Ling</em></p>
 <h4><strong><em>Inspire and nurture students to be effective communicators who share&nbsp;</em></strong></h4>
 <p><strong>In the English Language Department, we believe that every Northstar is a STAR. A Northstar is a learner who&nbsp;</strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
