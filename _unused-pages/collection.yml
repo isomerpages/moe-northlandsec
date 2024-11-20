@@ -2,6 +2,9 @@ collections:
   unused-pages:
     output: true
     order:
+      - Sec1 EOY Exam 2024.md
+      - Sec 1 Post Exam Timetable 2024.md
+      - Secondary One Registration Slides.md
       - Shine Week Timetable for Sec4&5.md
       - Shine Week 2024 Timetable.md
       - Shine Week Timetable for Sec 2.md

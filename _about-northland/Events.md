@@ -4,6 +4,39 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>PassionArts 2024 – Shine</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQK43kwqqELpWHKt2fiKUW1uVEmUvV3Hzo6hWI6u2sL8kXofWbBkGTqYbcvPvFdyQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>PassionArts 2024 – Shine is the culmination event for our school’s 30th
+anniversary celebrations and it is also a vibrant celebration of creativity
+and the arts, bringing people together to experience the joy of artistic
+expression.</p>
+<h4><strong>Be a Northstar for a Day – Tue 12 Nov 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNgThHSvXiWKlIrxQz4L68dkTTVxkr3HU7sI_FxHzULg1akDRYQZx2Vy54K57gjA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>A very BIG thank you to the following primary schools for attending our
+Be a Northstar for a Day –</p>
+<p>* Ahmad Ibrahim Primary School</p>
+<p>* Huamin Primary School</p>
+<p>* Jiemin Primary School</p>
+<p>* North View Primary School</p>
+<p>* Xishan Primary School</p>
+<p>* Yishun Primary School</p>
+<p>We hope that you enjoyed the experience and have a better understanding
+of the spirit and energy that makes Northland a truly wonderful place.
+All the best to your PSLE!</p>
+<h4><strong>Starmakers shine at Malay Language National Learning Festival 2024</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTaxb0w8-uhp9yhfaB3Ejzl2lyZ3ARdeNvAjOIz9_4RgIkddVjPFOVPrWzfuUz6AA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Our ML unit shared their T&amp;L practice at SeJATi Sejiwa Learning Festival
+organised by the MOE CPDD (ML) on 5th November 2024</p>
+<p>Their professional sharing entitled 'Using RE.AP to Enhance Writing Skills
+in Teaching Malay Language' was very well-received by the participants.</p>
+<p>Thank you Noor, Nurliyana, Fathona and Ain, for role modelling 'Learners
+Who Share'!</p>
 <h4><strong>Leaders who Dare - Alpha Centauri Overseas Student Leadership Development Training Camp 2024</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ09aOv_2j-FaFB9VEBeLtkYbC0DQbc-Oi5mS2r0Jf3VbqtqfRr98jYkOrhrv1XTw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
