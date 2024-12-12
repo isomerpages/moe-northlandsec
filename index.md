@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/eBanner_final.jpg
       key_highlights:
-        - title: Sec 1 Registration 2024
+        - title: Sec 1 Registration 2025
           description: ""
           url: /sec1-registration-2024/welcome/
   - resources:
