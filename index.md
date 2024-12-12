@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Sec 1 Registration 2025
           description: ""
-          url: /sec1-registration-2024/welcome/
+          url: /sec1-registration-2025/welcome/
   - resources:
       title: Announcements
       button: More Announcements
