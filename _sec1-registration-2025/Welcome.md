@@ -1,6 +1,6 @@
 ---
 title: Welcome
-permalink: /sec1-registration-2024/welcome/
+permalink: /sec1-registration-2025/welcome/
 variant: tiptap
 description: ""
 ---
