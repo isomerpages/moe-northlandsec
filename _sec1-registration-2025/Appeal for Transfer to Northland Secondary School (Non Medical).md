@@ -4,7 +4,7 @@ permalink: /sec1-registration-2024/appeal-for-transfer-non-medical/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Appeal for Transfer (Non-Medical) to Northland Secondary School </strong></h4>
+<h4><strong>Appeal for Transfer (Non-Medical) to Northland Secondary School</strong></h4>
 <p>&nbsp;Primary 6 students who have just received their secondary school
 posting in 2024 may use this form to appeal for transfer to Northland Secondary
 School. Their PSLE score must meet the school's cut-off point of the posting
