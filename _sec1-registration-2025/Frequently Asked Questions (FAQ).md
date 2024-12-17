@@ -47,7 +47,7 @@ and perform a simple one-time onboarding process.</p>
 <p><strong><em>6. Does my child/ward need to register via e-registration or report in person if he/she intends to appeal for a transfer (Non-Medical) to Northland Secondary school?</em></strong>
 </p>
 <p>If you intend to appeal for a transfer to Northland Secondary school on
-non-medical grounds, do e-register with NSS&nbsp;using the form <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6734557492e81e4b79b482a5</a> by
+non-medical grounds, do e-register with NSS&nbsp;using the <a href="https://form.gov.sg/6734557492e81e4b79b482a5" rel="noopener nofollow" target="_blank">form</a> by
 27 December 2024, 12pm.</p>
 <p>&nbsp;</p>
 <p><strong><em>7. My child/ward has been posted to NSS, but would like to request for school transfer due to medical reasons, what should I do?</em></strong>
