@@ -3,6 +3,7 @@ title: Timetable
 permalink: /student-matters/secondary-two/timetable/
 description: ""
 third_nav_title: Secondary Two
-variant: markdown
+variant: tiptap
 ---
-[NSS Sec2 Term3 Time-Table 2024](/files/Timetable/2024_NSS_Term_3_sec2_classes.pdf)
+<p><a href="/files/2025 TT Term1/NSS_Term_1_Timetable_for_Secondary_Two__2025_.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 Sec Two Timetable</a>
+</p>
