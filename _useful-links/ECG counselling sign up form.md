@@ -4,4 +4,5 @@ permalink: /useful-links/ecg-counselling-sign-up-form/
 description: ""
 variant: tiptap
 ---
-<a href="https://go.gov.sg/nssecg">External Link</a>
+<p>Please click <a href="https://go.gov.sg/nssecg" rel="noopener nofollow" target="_blank">here</a> to
+access the form.</p>
