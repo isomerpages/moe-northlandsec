@@ -4,6 +4,11 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Start Right Programme- Secondary 1 Orientation - CCA Carnival</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXd5Vr0pBvNp4beTJLopcKZdjxIWowp5A6nqm3_x8Mfg9rWW-4k1UmOT00H3cbVg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Start Right Programme- Secondary 1 Orientation - CCA Carnival</p>
 <h4><strong>Northstars Shine! - Release of 2024 GCE N-level Results</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT26Y-8BY-p2xNrYwqf569QLHjS3sSni5qhT-AFzJoVcbxDYLY7FNikF-BiyNWOpA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
