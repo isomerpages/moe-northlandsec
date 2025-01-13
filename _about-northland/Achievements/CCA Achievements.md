@@ -243,7 +243,7 @@ variant: tiptap
 </p>
 <p><strong>PassionArts2024</strong>
 </p>
-<p><strong>Singapore and Southeast Asian Pipe Band Championship 2024&nbsp;</strong>
+<p><strong>Singapore Pipe Band Championship 2024&nbsp;</strong>
 </p>
 <p>-Zhou YinzhI (3 Pollux) - 1<sup>st</sup> Solo Piping Under 18 Years Old</p>
 <p>-Cash Ng Thiam Hong (Huang Tianhong) (3 Antares) – 2<sup>nd</sup> Solo
@@ -266,8 +266,6 @@ Wei Jun (3 Vega) – 3<sup>rd</sup> Solo Tenor Under 14 Years Old</p>
 <p>
 <br><strong>Singapore and Southeast Asian Pipe Band Championship 2024 - Penang, Malaysia</strong>
 </p>
-<p>-Zhou Yinzhi (3 Pollux)&nbsp; - 2<sup>nd</sup> Solo Snare Under 16 Years
-Old</p>
 <p>-Ooh Yu Jie (3 Castor) - 2<sup>nd</sup> Solo Snare Under 16 Years Old</p>
 <p>-Cash Ng Thiam Hong (Huang Tianhong) (3 Antares) 3<sup>rd</sup> Solo Piping
 Under 18 Years Old</p>
