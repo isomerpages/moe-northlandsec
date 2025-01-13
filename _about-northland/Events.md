@@ -4,6 +4,15 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Northstars Shine! – Release of 2024 GCE O-level Results 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSs4Vo77KXjlmLR55Vlv9yTcZmWS8tTaeYcc4WkVxZXFEDqb27nkkTVf3Z5pBhyUA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4><strong>Start Right Programme- Secondary 1 Orientation - Welcome Ceremony 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwdumoYXqVt8vNO7gEwaV_hlpLX6aZqvgdCPVMM_qsFVYC99RwSOA8ZxZoU54LsA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Northland welcomes our new Northstars! May you continue to shine!</p>
 <h4><strong>Start Right Programme - Secondary 1 Orientation - CCA Carnival 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXd5Vr0pBvNp4beTJLopcKZdjxIWowp5A6nqm3_x8Mfg9rWW-4k1UmOT00H3cbVg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
