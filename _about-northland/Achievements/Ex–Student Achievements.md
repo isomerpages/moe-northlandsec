@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Achievements
 variant: markdown
 ---
+#### Northstar shines! A Citizen who Cares - 2SG Lukman Nur Hakim Bin Azizian
+![](/images/2SG_LUKMAN_NUR_HAKIM_BIN_AZIZIAN.png)
+Our school would like to congratulate our former Northstar, 25G Lukman Nur Hakim Bin Azizian for being awarded National Serviceman of the year 2024 by the Singapore Armed Forces. Well done Luqman and congratulations!
+
 #### A Northstar Shines – Loo Dan Lin (Class of 2021) - Lee Kuan Yew (LKY) Gold Medal
 ![](/images/WhatsApp_Image_2024_10_08_at_6_38_11_AM.jpg)
 Our school is proud to share that our Northstar, Loo Dan Lin, graduated from ITE as one of the top graduates of 2024. Dan Lin was conferred the Lee Kuan Yew (LKY) Gold Medal, at the ITE Graduation Ceremony. The LKY Gold Medal is awarded to the top graduate of each ITE College, who has excelled in his or her course of study and co-curricular activities, and has made contributions to the community. Dan Lin s currently pursuing a Diploma in Banking and Finance at Singapore Polytechnic.&nbsp; Dan Lin is a true embodiment of a Learner who Shares, A Citizen who Cares and A Leader who Dares. May you continue to shine in your future endeavours, Dan Lin!
