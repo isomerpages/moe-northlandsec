@@ -795,4 +795,3 @@ by 10/03/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 6257 6781 for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
-<p></p>
