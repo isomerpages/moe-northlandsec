@@ -4,6 +4,13 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Northstars Shine! Spreading love and joy in our neighbourhood!</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQu4L8vQpmJXm3M-FJ8P5WQGWsPVtwsbO1eZ7jOjFoW8OWyaVDbMPT3P9fSPcnRA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>As Chinese New Year is around the corner, our Northstars took the opportunity
+to go around our neighbourhood wishing our neighbours good health and a
+prosperous new year!</p>
 <h4><strong>Northstars Shine! – Release of 2024 GCE O-level Results 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSs4Vo77KXjlmLR55Vlv9yTcZmWS8tTaeYcc4WkVxZXFEDqb27nkkTVf3Z5pBhyUA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
