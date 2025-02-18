@@ -4,11 +4,17 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Northstars Shine! Spreading love and joy in our neighbourhood!</strong></h4>
+<h4><strong>Citizens who Care - Northland commemorates Total Defence Day - Together we make Singapore strong 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQu4L8vQpmJXm3M-FJ8P5WQGWsPVtwsbO1eZ7jOjFoW8OWyaVDbMPT3P9fSPcnRA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFbjT5y6Zn3a5mCtvnXj6216dHdyRkxLYCgImc2Z8npsqQoybQ8agyDixSRsardw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p>As Ch</p>
+<p>The focus for Total Defence Day is on Singaporeans’ readiness and resilience
+in the face of crises and disruptions. Total Defence underpins our ability
+to deal with the ever-evolving threats and challenges to Singapore. Every
+Singaporean plays a part in our daily lives to ensure that Singapore is
+prepared for crises and disruption. In the commemoration of Total Defence
+Day, the school curated a range of hands-on learning experiences tailored
+to each level, aligning with the respective defence pillar.</p>
 <h4><strong>Northland celebrates Chinese Lunar New Year 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1xH9sLZgM4xZmC9PK7xgRAVs9F_Hgeo2c22rTRyZFBVRThsGWpsQLAX2Q8-tITQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
