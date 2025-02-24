@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/eBanner_final.jpg
       key_highlights:
-        - title: Sec 1 Registration 2025
+        - title: Events
           description: ""
-          url: /sec1-registration-2025/welcome/
+          url: /about-northland/events/
   - resources:
       title: Announcements
       button: More Announcements
