@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ![](/images/WhatsApp_Image_2024_11_04_at_8_25_52_AM__1_.jpg)
-<p><em>(From Left to Right)<br></em><em>Front Row: Mr Aaron Rajoo (LT CCE),  Mr Clement Ong (ST Biology), Mdm Lim Mei Teng (HOD Science), Mdm Nilasari (SH Chem), Miss Haw Yubin, <br></em><em>2<sup>nd</sup>&nbsp;Row: Mrs Wong Hsuen Huey, Mr Jackson Tan, Miss Ng Shuen Yew, Miss Angeline Leong, Mdm Chua Siew Ping, Miss Lim Hwee Peng<br></em><em>Back Row: Mrs Lim Sok Hoong, Mr Johnny Tan, Ms Britney Ho, Mr Mohamed Munir Bin Mohamed Ismail,  Mdm Kumari (YH Sec 2),  Mr Lee Wen Ze, Mdm Jesslyn Lee, </em></p>
+<p><em>(From Left to Right)<br></em><em>Front Row: Mr Aaron Rajoo (LT CCE),  Mr Clement Ong (ST Biology), Mdm Lim Mei Teng (HOD Science), Mdm Nilasari (SH Chem), Miss Haw Yubin, <br></em><em>2<sup>nd</sup>&nbsp;Row: Mrs Wong Hsuen Huey, Mr Jackson Tan, Miss Ng Shuen Yew, Miss Angeline Leong, Mdm Chua Siew Ping, Miss Lim Hwee Peng<br></em><em>Back Row: Mrs Lim Sok Hoon, Mr Johnny Tan, Ms Britney Ho, Mr Mohamed Munir Bin Mohamed Ismail,  Mdm Kumari (YH Sec 2),  Mr Lee Wen Ze, Mdm Jesslyn Lee, </em></p>
 <h4><strong>Fostering the Joy of Learning in the Wonders of Science</strong></h4>
 <p>The Science Department at Northland Secondary School seeks to nurture an intrinsic motivation towards learning in every student and that learning should be a lifelong journey of exploration and discovery in the wonders of Science.</p>
 <p>The&nbsp;<strong>AIMS&nbsp;</strong>of the Science Department are to provide well-designed studies of experimental and practical science, in particular, to enable them to acquire sufficient understanding and knowledge to:</p>
