@@ -4,6 +4,13 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Learners who Share and Citizens who Care, Falesha (4 Antares) and Shawki (4 Epsilon), Class of 2024)</strong></h4>
+<p>We are proud to announce that two of our Northstars received an award
+for the ViaRT Green Art competition which took place last November. ViaRT
+is an organisation that brings everyone together to make a positive impact
+on sustainable living through art. The winners are Falesha from 4 Antares
+and Shawki from 4 Epsilon (2024). Both Artworks will be showcased in the
+Singapore Sustainable Gallery at the Marina Barrage at a later date. #shine</p>
 <h4><strong>Citizens who Care - Northland commemorates Total Defence Day - Together we make Singapore strong 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFbjT5y6Zn3a5mCtvnXj6216dHdyRkxLYCgImc2Z8npsqQoybQ8agyDixSRsardw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
