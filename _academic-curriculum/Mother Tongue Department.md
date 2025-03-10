@@ -15,7 +15,7 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6lVeBKRLDXAOp5QDgMPInD6rX8nr7iG3yc0i8fTXUS_nALHe45eeNrkJAjWtZBcxvH32BfC_4RLvK/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></td>
+<td style="width: 50%;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ4hqnKhQWdi2KlaZqvyFHESqLhe6Vb8_cABg9p9XyFb5mmoBV8Ou4iTxSsPt__dA/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></td>
 <td style="width: 50%;">
 <h4><strong>Mother Tongue Languages Fortnight</strong></h4>
 <p>In line with the Mother Tongue Language Department’s mission of ‘‘Live our Language, Love our Culture’, the department organised interesting hands-on activities for our students to gain a deeper understanding of their respective cultures and heritage.</p>
