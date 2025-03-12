@@ -4,6 +4,8 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Citizens wh</strong></h4>
+<h4><strong>Leaders who Dare - Our Netball B Division Team</strong></h4>
 <h4><strong>Citizens who Care - Northland commemorates Total Defence Day 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrsbPJPRin9ZVemA14eo0SSKhX1Ia1vezmJUhFA9Re4gxKvlA0L_ihitN-6oxKkA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
