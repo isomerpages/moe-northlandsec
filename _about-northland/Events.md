@@ -4,6 +4,10 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Mother Tongue Languages Fortnight - Opening Ceremony 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSN3TWWfr0Q6gnezDLV_qcXQSRk_faDtM6Qz07dHg1iVQngK_ed7wbUuXcnyHicVQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>Mother Tongue Languages Fortnight 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4hqnKhQWdi2KlaZqvyFHESqLhe6Vb8_cABg9p9XyFb5mmoBV8Ou4iTxSsPt__dA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
