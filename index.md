@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/eBanner_final.jpg
+      background: /images/WhatsApp_Image_2025_03_26_at_07_08_47.jpg
       key_highlights:
         - title: Events
           description: ""
