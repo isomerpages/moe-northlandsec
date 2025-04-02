@@ -7,11 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/WhatsApp_Image_2025_03_26_at_07_08_47.jpg
+      background: /images/eBanner_edited.png
       key_highlights:
         - title: Events
           description: ""
           url: /about-northland/events/
+      variant: image
   - resources:
       title: Announcements
       button: More Announcements
