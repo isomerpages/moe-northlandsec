@@ -4,17 +4,17 @@ permalink: /partnerships/parent-support-group/
 description: ""
 variant: tiptap
 ---
+<div class="iframe-wrapper">
+<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQs7dmWCuoP0HEnI0bUs5XD5r4xwQz9Orx4ZMtWbYpEVWkdJzrkBiajehmgNgCW9w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p>The Parent Support Group (PSG) has always been a strong and invaluable
 school partner, dedicating time and hard work to contribute to the school.&nbsp;
 Our parents contribute by collaborating with various departments in some
-of the school programmes. The PSG helped to oversee the ‘Breakfast for
-the Early Ones’, a Peer Support Leaders Programme. The PSG also worked
-with the Mother Tongue Languages Department and CCE Committee to educate
-our Northstars about our culture. Our PSG continues to play the important
-role of being the bridge between the school and parents by supporting and
-serving our school and enlivening and enriching our students’ learning
-experiences.</p>
-<p></p>
+of the school programmes. The PSG has worked with the Mother Tongue Languages
+Department and CCE Committee to educate our Northstars about our culture.
+Our PSG continues to play the important role of being the bridge between
+the school and parents by supporting and serving our school and enlivening
+and enriching our students’ learning experiences.</p>
 <p></p>
 <p><strong><u>Tips for Parents<br></u></strong>-&nbsp;<a href="https://schoolbag.sg/story/every-parent-a-supportive-partner" rel="noopener noreferrer nofollow" target="">Every Parent a Supportive Partner</a>
 <br>-&nbsp;<a href="https://schoolbag.sg/story/bonding-with-your-child" rel="noopener noreferrer nofollow" target="">Parent-child bonding</a>
