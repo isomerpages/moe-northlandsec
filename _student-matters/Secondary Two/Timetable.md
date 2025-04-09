@@ -5,5 +5,5 @@ description: ""
 third_nav_title: Secondary Two
 variant: tiptap
 ---
-<p><a href="/files/2025 TT Term1/Updated TT TERM1/NSS_Term_1_Sec_2_wef_20_Jan_2025.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 Sec Two Timetable (updated 16Jan 2025)</a>
+<p><a href="/files/2025 TT Term 2/2025_NSS_Term_2_Sec_2_compressed.pdf" rel="noopener nofollow" target="_blank">2025 NSS Term2_Sec2</a>
 </p>
