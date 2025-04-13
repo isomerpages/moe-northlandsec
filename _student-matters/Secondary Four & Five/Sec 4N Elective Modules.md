@@ -9,4 +9,7 @@ variant: markdown
 
 Our Sec 4N students participated enthusiastically in their Elective Modules and presented an exciting EM Showcase to their peers. Participants visited different booths where our 4N students demonstrated their learning in Automotive Engineering, Art and Craft, Event Management, Fashion Design, F&amp;B Operations and Management and Mobile Applications Design and Technology.
 
-<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqGtpspzJxUFWVWNxXaLqt0fbANmKSj2BYCdlS7y2OZc3YnFLSCQ24TZmqGHWn9A/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+![](/images/Sec_4b.jpg)
+
+
+![](/images/Sec_4a.jpg)
