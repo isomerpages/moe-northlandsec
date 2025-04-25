@@ -4,6 +4,27 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Learners who Share – War and Diplomacy Card Game competition 2025</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_23_at_10_32_36_AM.jpg">
+</div>
+<p>Our Secondary 3 History Ambassadors represented our school in the War
+and Diplomacy Card Game competition on Mon 21 Apr. Through this competition,
+students gain a deeper understanding of the personalities and circumstances
+that led to the outbreak of WWII in Europe.Northland c</p>
+<h4><strong>Northland Secondary School Starcolade 2025 – When Stars Align</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi2GDj0iAokgfef_LDWiGluC2fHLCZtpyArh9eBsDPeahQ_2WPCOA6CL1iCWpnKA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi2GDj0iAokgfef_LDWiGluC2fHLCZtpyArh9eBsDPeahQ_2WPCOA6CL1iCWpnKA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi2GDj0iAokgfef_LDWiGluC2fHLCZtpyArh9eBsDPeahQ_2WPCOA6CL1iCWpnKA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Northland rejoices in the brilliance of our Northstars and Starmakers
+in our Starcolade 2025. May you continue to shine in your ways and be the
+guiding light for others! #daretoshine #starcolade2025</p>
 <h4><strong>Northland celebrates Hari Raya 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi2GDj0iAokgfef_LDWiGluC2fHLCZtpyArh9eBsDPeahQ_2WPCOA6CL1iCWpnKA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
