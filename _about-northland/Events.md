@@ -17,10 +17,10 @@ that led to the outbreak of WWII in Europe.Northland c</p>
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfZqLF1Xv_RHf8glEzsqTV0h3RluUbRuASI3ZFpFb4OBlO0vwEujM2RnD8DayMng/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi2GDj0iAokgfef_LDWiGluC2fHLCZtpyArh9eBsDPeahQ_2WPCOA6CL1iCWpnKA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTnTGwquYV5M1hlwWk-9DS3AdRlg_SV7NRP68snwsSxqG0XX_eNMv5lo6b-Nj45ig/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi2GDj0iAokgfef_LDWiGluC2fHLCZtpyArh9eBsDPeahQ_2WPCOA6CL1iCWpnKA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrAOfdlmPkUVs44p9GEE28a9wsbRJUmSTWtvpgLs6OtnJN3iZzbqPgpzXav6_Fww/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland rejoices in the brilliance of our Northstars and Starmakers
 in our Starcolade 2025. May you continue to shine in your ways and be the
