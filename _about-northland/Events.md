@@ -11,7 +11,7 @@ variant: tiptap
 <p>Our Secondary 3 History Ambassadors represented our school in the War
 and Diplomacy Card Game competition on Mon 21 Apr. Through this competition,
 students gain a deeper understanding of the personalities and circumstances
-that led to the outbreak of WWII in Europe.Northland c</p>
+that led to the outbreak of WWII in Europe.</p>
 <h4><strong>Northland Secondary School Starcolade 2025 – When Stars Align</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfZqLF1Xv_RHf8glEzsqTV0h3RluUbRuASI3ZFpFb4OBlO0vwEujM2RnD8DayMng/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
