@@ -4,6 +4,23 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi2GDj0iAokgfef_LDWiGluC2fHLCZtpyArh9eBsDPeahQ_2WPCOA6CL1iCWpnKA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Northla</p>
+<h4><strong>2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi2GDj0iAokgfef_LDWiGluC2fHLCZtpyArh9eBsDPeahQ_2WPCOA6CL1iCWpnKA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Northla</p>
+<h4><strong>Leaders who Dare – Secondary 3 Class Committee Student Leaders 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi2GDj0iAokgfef_LDWiGluC2fHLCZtpyArh9eBsDPeahQ_2WPCOA6CL1iCWpnKA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>The Class Committee Appointment Ceremony celebrated the formal recognition
+of newly appointed class committee leaders, acknowledging their dedication,
+leadership, and commitment to representing their peers. #daretoshine</p>
 <h4><strong>Learners who Share – War and Diplomacy Card Game competition 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_23_at_10_32_36_AM.jpg">
