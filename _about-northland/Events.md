@@ -4,6 +4,30 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Learners who Share - Secondary 2 ALP Programme – CodeQuest: Discover, Play, Create 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR9EOHTDiVPKCOX5d2DMFaRj_stv-JVe_GyAssVEWvSKmatMWp_I0o-Q9jA2nJvVQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Our Secondary 2 Northstars participated in an engaging and interactive
+STEM experience titled CodeQuest: Discover, Play, Create on Friday 2 May.
+The event featured seven engaging and technology-enhanced STEM stations,
+designed to provide students with an exciting hands-on introduction to
+basic coding concepts. This session served as a lead-in to the drone programming
+module scheduled in Term 4.</p>
+<h4><strong>Leaders who Dare – Secondary 4/5 Class Committee Student Leaders 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwT20mXK_Nrtvz96ye3i8Hxzj0dFRqfH6_HkWXymGJxVw12M9fKxSYriKdoV6D7w/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>The Class Committee Appointment Ceremony celebrated the formal recognition
+of newly appointed class committee leaders, acknowledging their dedication,
+leadership, and commitment to representing their peers. #daretoshine</p>
+<h4><strong>Leaders who Dare – Secondary 3 Class Committee Student Leaders 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFieiQJFYdjthCx2NypKhekTyu7b4a9Z3U3xGXkg1fUiMiIPVIVx_NHZ-od8KudQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>The Class Committee Appointment Ceremony celebrated the formal recognition
+of newly appointed class committee leaders, acknowledging their dedication,
+leadership, and commitment to representing their peers. #daretoshine</p>
 <h4><strong>Learners who Share – War and Diplomacy Card Game competition 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_23_at_10_32_36_AM.jpg">
