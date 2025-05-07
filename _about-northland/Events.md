@@ -9,11 +9,13 @@ variant: tiptap
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi2GDj0iAokgfef_LDWiGluC2fHLCZtpyArh9eBsDPeahQ_2WPCOA6CL1iCWpnKA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northla</p>
-<h4><strong>2025</strong></h4>
+<h4><strong>Leaders who Dare – Secondary 4/5 Class Committee Student Leaders 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi2GDj0iAokgfef_LDWiGluC2fHLCZtpyArh9eBsDPeahQ_2WPCOA6CL1iCWpnKA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p>Northla</p>
+<p>The Class Committee Appointment Ceremony celebrated the formal recognition
+of newly appointed class committee leaders, acknowledging their dedication,
+leadership, and commitment to representing their peers. #daretoshine</p>
 <h4><strong>Leaders who Dare – Secondary 3 Class Committee Student Leaders 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi2GDj0iAokgfef_LDWiGluC2fHLCZtpyArh9eBsDPeahQ_2WPCOA6CL1iCWpnKA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
