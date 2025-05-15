@@ -8,6 +8,15 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR9EOHTDiVPKCOX5d2DMFaRj_stv-JVe_GyAssVEWvSKmatMWp_I0o-Q9jA2nJvVQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p>Our Seco</p>
+<h4><strong>Learners who Share - Learning Journey to Singapore Repertory Theatre (SRT) - Boy in Striped Pyjamas 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQKk9WBi3t6jv2HsoF2PMgA3xVJKcy6mc7cyRkt1ePKHfXqbu01G1nHlQG6E2qLDQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4><strong>Learners who Share - Secondary 2 ALP Programme – CodeQuest: Discover, Play, Create 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR9EOHTDiVPKCOX5d2DMFaRj_stv-JVe_GyAssVEWvSKmatMWp_I0o-Q9jA2nJvVQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p>Our Secondary 2 Northstars participated in an engaging and interactive
 STEM experience titled CodeQuest: Discover, Play, Create on Friday 2 May.
 The event featured seven engaging and technology-enhanced STEM stations,
