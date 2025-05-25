@@ -4,11 +4,16 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
-<h4><strong>2025</strong></h4>
+<h4><strong>Northstar Shines at National Hard Pen Calligraphy Competition 2025</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_23_at_10_32_36_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_21_at_1_12_04_PM.jpg">
 </div>
-<p>Our Secondary 3 History Ambassadors represented our</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_21_at_1_12_05_PM.jpg">
+</div>
+<p>Our student Chen Jiayi (4 Pollux) won the Commendation Award ( 优胜奖) at
+the National Hard Pen Calligraphy Competition organised by Fo Guang Shan.
+Congratulations!</p>
 <h4><strong>Northstars Shine in North Zone Chinese Speech Competition 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_21_at_1_07_44_PM.jpg">
