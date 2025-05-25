@@ -4,6 +4,29 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>2025</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_23_at_10_32_36_AM.jpg">
+</div>
+<p>Our Secondary 3 History Ambassadors represented our</p>
+<h4><strong>Northstars Shine in North Zone Chinese Speech Competition 2025</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_21_at_1_07_44_PM.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_21_at_1_07_43_PM__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_21_at_1_07_42_PM.jpg">
+</div>
+<p>Our Northstars participated in the North Zone Chinese Speech Competition,
+organised by Evergreen Primary and Secondary School. We are proud to share
+that the following students have received commendations for their performance:</p>
+<p>Shou Xingyu (4 Pollux) – Merit Award (优异奖)</p>
+<p>Wint Yadanar (2 Sirius) and Yang Xiaohe (Sec 3 Antares) – Promising Award
+(潜力奖)</p>
+<p>Congratulations to all our awardees for their efforts and achievements!
+#shine</p>
 <h4><strong>Mother's Day Flower Sale 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRUTz40tYvj6fRFsWxPGCPZ4_en34NPWjjAo3Ymi34CbXgwfOrsZw3dv7KvjGVFAg/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
