@@ -4,6 +4,11 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Leaders who Dare - Student Leaders Investiture 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSK3ms6vZRPcZPwHakCZsHQ4viRM5SAZU0llPmH0zPIiYrYETSBIzL5qUDA7MQnMQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>The handing over of the baton to the next batch of CCA leaders. #shine</p>
 <h4><strong>Northstar Shines at National Hard Pen Calligraphy Competition 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_21_at_1_12_04_PM.jpg">
