@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 ---
 ![](/images/WhatsApp_Image_2024_11_04_at_8_25_54_AM__4_.jpg)
-<p><em>(From Left to Right)<br></em><em>Front Row: Mdm Kee Bee Hwa, Mdm Choi Pei Ling (HOD MTL), Mdm Liyana (AYH Sec 1), Ms Nurulain <br></em><em>2<sup>nd</sup>&nbsp;Row: Mr Santhosh Tamilarasan, Mr Chua Yong Le, Mdm Siti Fathona, Mdm Noor Zanariah (SH Malay), Mdm Soh Gim Uoon<br></em><em>Back Row: Mr Tan Pek Lim, Mdm Gomathi Ramesh, Mdm Zou Yi, Ms Cai Yuhuan, Miss Eng Jia Qi, Miss Narmatha d/o Submaniam</em></p>
 <h4><strong><em>Every student a Competent Communicator in Mother Tongue Language</em></strong></h4>
 <p><strong>Department Mission</strong></p>
 <ul>
