@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 ---
 ![](/images/WhatsApp_Image_2024_11_04_at_8_25_52_AM.jpg)
-<p><em>(From Left to Right)<br></em><em>Front Row: Mr Brian Lui (HOD PE/CCA), Mr Shaifulizzam (SH Discipline), Mr Abdul Razak (HOD Educational Support)<br>Back Row: Mrs Merin Chong, Miss Deborah Chong, Ms Christine Nair</em></p>
 <p><strong>Physical education (PE)&nbsp;</strong>plays an important role in the holistic development of students by promoting the growth of body, mind and spirit, enabling students to experience the exhilarating sensation of well-being derived from being in an exciting match in a well-loved game, or simply from one’s regular exercise routine. Northland’s PE Curriculum articulates these outcomes through a two-pronged approach:</p>
 <ul>
 <li><strong>Learn to Play</strong></li>
