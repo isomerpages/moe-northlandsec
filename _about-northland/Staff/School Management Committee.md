@@ -6,4 +6,53 @@ third_nav_title: Staff
 variant: markdown
 ---
 ![](/images/WhatsApp_Image_2024_11_04_at_8_25_54_AM__2_.jpg)
-<p><em>(From Left to Right)<br></em><em>Front Row: Mr Chen Weizhong (LT Mathematics, Mdm Lim Mei Teng (HOD Science), Mr Abdul Razak (HOD Educational Support), Mdm Choi Pei Ling (HOD MTL), Mdm Gan Lei Fong (HOD C&amp;T), Mr Brian Lui (HOD PE &amp; CCA), Mr Lu Jianhao (HOD Hum)<br></em><em>2<sup>nd</sup>&nbsp;Row: Mr Mr Mohammad Faizal (SH ICT), Mr David Lim (HOD ICT), Mr Low Chee Wai (VIce-Principal 2), Mr Joseph Peterson (Vice-Principal 1), Mr Lim Kok Hwa (Principal), Mr Cheen Hsien Hong (Vice-Principal Administration), Mr Shaifulizzam (SH PE &amp; CCA), Mr Kenneth Chye (HOD ELL) <br></em><em>3<sup>rd</sup>&nbsp;Row: Miss Elizabeth Phua (SH Humanities),&nbsp;</em><em>Mdm Kumari (YH Sec 2), Mr Abudaher (AYH Sec 1) Mdm Nur Atassha (SH CCE),</em><em>, Mrs Chang Yuet Mei (SH Mathematics),&nbsp;</em><em>Miss Hartini (AYH Sec 3),&nbsp;</em><em>Miss Norashikin (SH EL), Miss Michelle Chong (HOD Discipline)<br></em><em>Back Row:&nbsp;Mdm Nilasari (SH Chem), Mdm Nurliyana (AYH Sec 1), Miss Liao Caizhuang (SH ES), Ms Joanne Yap (YH Sec 4/5), Mr Dharmapuri Rajendra Krishna (SH Data Management), Miss Ong Lay Ching (SSD), Mr Aaron Rajoo (LT CCE), Mdm Noor Zanariah (SH Malay)&nbsp;</em></p>
+
+|Appointment  | Name
+| -------- | -------- 
+| Principal      | Mr Lim Kok Hwa     |
+Vice-Principal 1 | Mr  Peterson Joseph     |
+Vice-Principal 2| Mr Low Chee Wai
+Vice-Principal Admin| Mr Cheen Hsien Hong
+HOD CCE| Mdm Nur Atassha Bte Mohamed Nasir
+HOD HOD Craft & Technology| Mdm Gan Lei Fong
+HOD Student Management| Miss Michelle Chang 
+HOD English Language & Literature | Mr Kenneth Chye 
+HOD Education Support | Mr Abdul Razak Bin Masiran
+HOD Humanities | Miss  Elizabeth Phua Li Jia
+HOD ICT | Mr Lim Thai Wee David
+HOD Mathematics  | Miss Teo Bee Hoon
+HOD Mother Tongue Languages| Mdm Choi Pei Ling
+HOD PE & CCA| Mr Brian  Lui 
+HOD Science| Mdm Lim Mei Teng
+SSD|Mdm Elsa Chen
+HOD 21 CC | Miss Jillian Khong 
+YH (Sec 1) | Mdm Theseira Merlinda Laura
+YH (Sec 4/5) | Mdm Joanne Yap
+AYH (Sec 1) - Internal | Miss Zahratul Asyeeqah 
+AYH (Sec 2) | Mdm Nurliyana Bte Ju'airi
+AYH (Sec 3)| Mr Abudaher 
+AYH (Sec 3) - Internal| Mrs Lydia Goh
+AYH (Sec 4/5)| Miss Hartini Bte Idris
+SH (21 CC) - Internal| Miss Kng Hwee Mae
+SH Chemistry | Mdm Nilasari Binte Mohamed
+SH Data Management|Mr Dharmapuri Rajendra Krishna
+SH (Education Support)| Miss Liao Caizhuang
+SH ICT| Mr Mohammad Faizal Bin Zailani
+SH Malay Language| Mdm Noor Zanariah Bte Sidi
+SH (PE&CCA)| Mr Shaifulizzam B Mohd Rouse
+SH (Student Management)| Mdm Amira Filza Bte Mohamed Ibrahim
+SH (Student Management)| Mr  Jeffrey Tay 
+LT (CCE)| Mr Aaron Rajoo
+LT (Math) | Mr Chen Weizhong
+
+
+
+
+
+
+
+
+
+
+
+
