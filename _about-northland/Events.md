@@ -4,11 +4,11 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Leaders who Dare – Northland Pipe Band 2025</strong></h4>
+<h4><strong>Learners who Share - Secondary 2 National Museum Learning Journey 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTeFngkkQxzUThX6yF8wQk-YPdPHlY8ItFxfthxC0ZT_oIBGn745uBIVkuN43DkVw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBcravPNCqW7uEyPxGOHr8Nj47glSF2mM7i8EQBNoRrEqJFOTETduv-jkyfRqyoA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p>Northlan</p>
+<p>Learners who Share - Secondary 2 National Museum Learning Journey</p>
 <h4><strong>Learners who Share- School Work Attachment Programme Highlights 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaEVaBG8qKZOCltc-1bICyne0ZD5SoWTCR2PCkbVoESpDruXMuVIyyLLjLIDkPgQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
