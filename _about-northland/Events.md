@@ -4,6 +4,14 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Leaders who Dare - Student Leaders’ Investiture 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpqWZsreGwOEvqawR1isTfTwjUgcwl0OBiq_hz3Zka7YpsHu-QyoLNdJv6uWoRpA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Friday 23 May witnessed the handing over the baton from one batch to another
+in the 6th Student Leaders’ Investiture. This year’s theme, Defy Gravity,
+sought to inspire our Northstars to rise beyond limits and believe in their
+potential to lead with courage and purpose. #shine #shineforothers</p>
 <h4><strong>Learners who Share - Secondary 2 National Museum Learning Journey 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBcravPNCqW7uEyPxGOHr8Nj47glSF2mM7i8EQBNoRrEqJFOTETduv-jkyfRqyoA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
