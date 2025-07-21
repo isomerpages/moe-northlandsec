@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4><strong>Northstars Shine Bright at the National Schools Literature Festival 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSTvkIHmxwAQVoCdl8npWH7wPvCWXxt-XmRHo5a8SrZtGFVZLDKoOJXdApKJe0XtA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZPrgtvk0v-ZEPBjh8JwtpsXzRE_1dgR6bLM-vQgeKAh3wQG8NLO2ttycrpBFAPA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>On 12 July 2025, our Northstars once again proved their literary prowess
 and passion for the written word at the National Schools Literature Festival
