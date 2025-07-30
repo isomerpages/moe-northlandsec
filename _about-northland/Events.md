@@ -4,11 +4,11 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
-<h4><strong>2025</strong></h4>
-<div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZPrgtvk0v-ZEPBjh8JwtpsXzRE_1dgR6bLM-vQgeKAh3wQG8NLO2ttycrpBFAPA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p>On 12 July 2025</p>
+<h4><strong>Northstar Shines! - Shernise Ho (3 Rigel) 2025</strong></h4>
+<p>Shernise on behalf of TeAm Wushu from Northland Secondary School has been
+featured in the EXTRA.Ordinary Celebration INSTAGRAM post.&nbsp; Check
+it out!&nbsp; <a href="https://www.instagram.com/p/DMmxvOfR5Gb/?igsh=MTV6ZTcycjRycnM1Yw==" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/DMmxvOfR5Gb/?igsh=MTV6ZTcycjRycnM1Yw==</a>
+</p>
 <h4><strong>Northstars Shine! - Team Wushu, Pipe Band and Drums, Guzheng Ensemble and Indian Dance 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZPrgtvk0v-ZEPBjh8JwtpsXzRE_1dgR6bLM-vQgeKAh3wQG8NLO2ttycrpBFAPA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
