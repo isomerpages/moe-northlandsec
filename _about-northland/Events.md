@@ -5,13 +5,16 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Northstar Shines! - Shernise Ho (3 Rigel) 2025</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_07_28_at_9_12_42_AM.jpg">
+</div>
 <p>Shernise on behalf of TeAm Wushu from Northland Secondary School has been
 featured in the EXTRA.Ordinary Celebration INSTAGRAM post.&nbsp; Check
 it out!&nbsp; <a href="https://www.instagram.com/p/DMmxvOfR5Gb/?igsh=MTV6ZTcycjRycnM1Yw==" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/DMmxvOfR5Gb/?igsh=MTV6ZTcycjRycnM1Yw==</a>
 </p>
 <h4><strong>Northstars Shine! - Team Wushu, Pipe Band and Drums, Guzheng Ensemble and Indian Dance 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZPrgtvk0v-ZEPBjh8JwtpsXzRE_1dgR6bLM-vQgeKAh3wQG8NLO2ttycrpBFAPA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6VW-hLkrDx_CL9zPyX5k9nIW92zzwQhMufBU81SHd1kRU8hGyvSwfMrJbXgZ8Fw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our CCAs are excitedly preparing for An Extraordinary Celebration 2025!
 This special event provides a unique platform for individuals with special
