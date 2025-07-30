@@ -4,6 +4,20 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZPrgtvk0v-ZEPBjh8JwtpsXzRE_1dgR6bLM-vQgeKAh3wQG8NLO2ttycrpBFAPA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>On 12 July 2025</p>
+<h4><strong>Northstars Shine! - Team Wushu, Pipe Band and Drums, Guzheng Ensemble and Indian Dance 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZPrgtvk0v-ZEPBjh8JwtpsXzRE_1dgR6bLM-vQgeKAh3wQG8NLO2ttycrpBFAPA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Our CCAs are excitedly preparing for An Extraordinary Celebration 2025!
+This special event provides a unique platform for individuals with special
+needs to interact, rehearse, and perform alongside their mainstream peers.
+By showcasing the talents and abilities of every participant, we hope to
+break down barriers and foster a sense of unity among diverse communities.</p>
 <h4><strong>Northstars Shine Bright at the National Schools Literature Festival 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZPrgtvk0v-ZEPBjh8JwtpsXzRE_1dgR6bLM-vQgeKAh3wQG8NLO2ttycrpBFAPA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
