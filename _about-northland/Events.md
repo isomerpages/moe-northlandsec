@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4><strong>Northstars Shine @ An Extraordinary Celebration 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6VW-hLkrDx_CL9zPyX5k9nIW92zzwQhMufBU81SHd1kRU8hGyvSwfMrJbXgZ8Fw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSZmN4gXzPAWJg_2SrH9Gc6cZLYTymgaBkEyCewqhFLEfsrry7dlIaybtGoOOwiQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>#shineforothers</p>
 <h4><strong>Starmakers and Northstars Shine @Malay Language Fiesta 2025</strong></h4>
