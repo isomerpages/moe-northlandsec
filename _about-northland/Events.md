@@ -11,7 +11,7 @@ variant: tiptap
 <p>#shineforothers</p>
 <h4><strong>Starmakers and Northstars Shine @Malay Language Fiesta 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6VW-hLkrDx_CL9zPyX5k9nIW92zzwQhMufBU81SHd1kRU8hGyvSwfMrJbXgZ8Fw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRljTmCAXJqK-okzfjjs5P3Z0sDyUMZOksVaLSAQThHJ8LSkvT34rpSHpxTsVmPAg/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our Malay Language showcased their signature programme at the Fiesta Bahasa
 organised by MLLPC/MOE on Saturday 26 June. Our booth known as ‘Wartawan
