@@ -4,7 +4,7 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Northstars Shine @  An Extraordinary Celebration 2025</strong></h4>
+<h4><strong>Northstars Shine @ An Extraordinary Celebration 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6VW-hLkrDx_CL9zPyX5k9nIW92zzwQhMufBU81SHd1kRU8hGyvSwfMrJbXgZ8Fw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
@@ -13,9 +13,11 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6VW-hLkrDx_CL9zPyX5k9nIW92zzwQhMufBU81SHd1kRU8hGyvSwfMrJbXgZ8Fw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p>Our C</p>
-<h4><strong>Northstar shine in STEM Competitions 2025</strong></h4>
-<p></p>
+<p>Our Malay Language showcased their signature programme at the Fiesta Bahasa
+organised by MLLPC/MOE on Saturday 26 June. Our booth known as ‘Wartawan
+Bestari’ (An Accomplished Journalist) was well-received by visitors and
+students alike. #shine</p>
+<h4><strong>Northstars shine in STEM Competitions 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_07_31_at_11_32_13_AM.jpg">
 </div>
