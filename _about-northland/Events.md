@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4><strong>Northland celebrates Starmakers' Day 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe6-eUHW8C2KfQIhhgaalyO15vBV4MfVRG0V8zJT7644mhmoBbOhMa0em-dlX7LQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLmGd0YKeXDhfb0H1KimJRHiPKrNzt6kkKs3ByiDmNrSliHP12Yu3g4joBJrjA7Q/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>On Thursday, 4 September, our Northstars came together to give thanks
 to our amazing Starmakers with a day full of joy and appreciation! The
