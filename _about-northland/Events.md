@@ -4,6 +4,12 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Northstar Shines! - Prize Presentation 2025</strong></h4>
+<p>National Schools Liferature Festival - Upper Secondary Unseen Debate</p>
+<p></p>
+<p>National Schools Liferature Festival</p>
+<p></p>
+<p>Leaders who Dare - Girl Guides - School Commendation Award</p>
 <h4><strong>Northland Secondary School SG60 National Day Carnival 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe6-eUHW8C2KfQIhhgaalyO15vBV4MfVRG0V8zJT7644mhmoBbOhMa0em-dlX7LQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
