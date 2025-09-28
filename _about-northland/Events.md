@@ -4,6 +4,83 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Northland celebrates Starmakers' Day 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLmGd0YKeXDhfb0H1KimJRHiPKrNzt6kkKs3ByiDmNrSliHP12Yu3g4joBJrjA7Q/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>On Thursday, 4 September, our Northstars came together to give thanks
+to our amazing Starmakers with a day full of joy and appreciation! The
+festivities kicked off with a fun bonding session between Northstars and
+their Class Mentors. Soon after, the whole school gathered in the hall
+for a vibrant concert, where students lit up the stage with their talents
+to thank their teachers. A special highlight was the GEMS awards, shining
+the spotlight on our Caring Starmakers.Northland celebrates Starmakers'
+Day</p>
+<h4><strong>Leaders who Dare - Create Your Own Newspaper 2025</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_23_at_2_42_31_PM.jpg">
+</div>
+<p>Our Northstars showcased their creativity and teamwork in the National
+"Create Your Own Newspaper" Competition 全国中学编采比赛.</p>
+<p>Our Upper Secondary Team – led by Ms Tan Xin Yi – did us proud by clinching
+二等奖 (2nd Prize)</p>
+<p>The Team Members are Kuek Jing Xuan Vanessa (3 Castor)</p>
+<p>Lee Guo Zheng (3 Epsilon)</p>
+<p>Toh Jie Yu (4 Orion)</p>
+<p>Ooi Jun Xiang (3 Antares)</p>
+<p>Chia Li Via (4 Polaris)</p>
+<h4><strong>A Leader who dares - MESRA 60 for 60 Programme 2025</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_23_at_2_38_24_PM.jpg">
+</div>
+<p>Our Student Councillor, Nur Arianna Natasha Binte Norazman (2 Castor),
+was nominated in April for the MESRA 60 for 60 Programme: Connecting Generations,
+Charting Futures. This programme is a youth engagement initiative that
+brings together students from schools all over Singapore, empowering them
+to design and lead their own community projects. Through the programme,
+Arianna has garnered not only skills but extended her networking beyond
+the school. She mentioned that this programme is not only developmental
+in nature but provide a greater awareness and appreciation towards the
+community which many students do not get to experience often. She hopes
+that this programme will continue for future student generations to come.</p>
+<h4><strong>Northland Shines - Positive Classroom Awards 2025</strong></h4>
+<p>Positive Classroom Award - Secondary 1</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Positive_Classroom_Award___Secondary_1.jpg">
+</div>
+<p>Positive Classroom Award - Secondary 2</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Positive_Classroom_Award___Secondary_2.jpg">
+</div>
+<p>Positive Classroom Award - Secondary 3</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Positive_Classroom_Award___Secondary_3.jpg">
+</div>
+<h4><strong>Northstar Shines! - Prize Presentation 2025</strong></h4>
+<p>National Schools Literature Festival - Upper Secondary Unseen Debate</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Schools_Liferature_Festival___Upper_Secondary_Unseen_Debate.jpg">
+</div>
+<p>National Schools Literature Festival</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Schools_Liferature_Festival.jpg">
+</div>
+<p>Leaders who Dare - Girl Guides - School Commendation Award</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leaders_who_Dare___Girl_Guides___School_Commendation_Award.jpg">
+</div>
+<p>Leaders who Dare - Girl Guides - Puan Noor Aishah Award - Silver</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leaders_who_Dare___Girl_Guides___Puan_Noor_Aishah_Award___Silver.jpg">
+</div>
+<p>Leaders who Dare - Girl Guides - Baden Powell Award</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leaders_who_Dare___Girl_Guides___Baden_Powell_Award.jpg">
+</div>
+<p>Leaders who Dare - Netball - Nee Soon South Netball Invitationals 2025</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leaders_who_Dare___Netball___Nee_Soon_South_Netball_Invitationals_2025.jpg">
+</div>
 <h4><strong>Northland Secondary School SG60 National Day Carnival 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe6-eUHW8C2KfQIhhgaalyO15vBV4MfVRG0V8zJT7644mhmoBbOhMa0em-dlX7LQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
@@ -2736,5 +2813,4 @@ for both Northstars and staff.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMQ2Dltx4hwxsU6_Ghu60ymk9FUx3R5g2bnYPAhojyODQDUMsLrQwc0DoD5GINiGt7zqJadf2wR49i/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
-<p></p>
 <p></p>
