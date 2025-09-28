@@ -2762,9 +2762,3 @@ for both Northstars and staff.</p>
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMQ2Dltx4hwxsU6_Ghu60ymk9FUx3R5g2bnYPAhojyODQDUMsLrQwc0DoD5GINiGt7zqJadf2wR49i/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leaders_who_Dare___Netball___Nee_Soon_South_Netball_Invitationals_2025.jpg">
-</div>
-<p></p>
