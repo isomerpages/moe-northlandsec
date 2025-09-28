@@ -10,11 +10,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Schools_Liferature_Festival___Upper_Secondary_Unseen_Debate.jpg">
 </div>
 <p>National Sch</p>
-<h4><strong>Northstar Shines! - Prize Presentation 2025</strong></h4>
+<h4><strong>Northland Shines - Positive Classroom Awards 2025</strong></h4>
 <p>National Schools Literature Festival - Upper Secondary Unseen Debate</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Schools_Liferature_Festival___Upper_Secondary_Unseen_Debate.jpg">
-</div>
 <p>National Schools Literature Fe</p>
 <h4><strong>Northstar Shines! - Prize Presentation 2025</strong></h4>
 <p>National Schools Literature Festival - Upper Secondary Unseen Debate</p>
