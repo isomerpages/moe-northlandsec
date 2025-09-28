@@ -18,7 +18,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leaders_who_Dare___Girl_Guides___School_Commendation_Award.jpg">
 </div>
 <p>Leaders who Dare - Girl Guides - Puan Noor Aishah Award - Silver</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leaders_who_Dare___Girl_Guides___Puan_Noor_Aishah_Award___Silver.jpg">
+</div>
 <p>Leaders who Dare - Girl Guides - Baden Powell Award</p>
 <p></p>
 <p>Leaders who Dare - Netball - Nee Soon South Netball Invitationals 2025</p>
