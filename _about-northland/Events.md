@@ -4,6 +4,18 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Northland celebrates Starmakers' Day 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe6-eUHW8C2KfQIhhgaalyO15vBV4MfVRG0V8zJT7644mhmoBbOhMa0em-dlX7LQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>On Thursday, 4 September, our Northstars came together to give thanks
+to our amazing Starmakers with a day full of joy and appreciation! The
+festivities kicked off with a fun bonding session between Northstars and
+their Class Mentors. Soon after, the whole school gathered in the hall
+for a vibrant concert, where students lit up the stage with their talents
+to thank their teachers. A special highlight was the GEMS awards, shining
+the spotlight on our Caring Starmakers.Northland celebrates Starmakers'
+Day</p>
 <h4><strong>Leaders who Dare - Create Your Own Newspaper 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_23_at_2_42_31_PM.jpg">
