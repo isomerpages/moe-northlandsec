@@ -26,7 +26,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leaders_who_Dare___Girl_Guides___Baden_Powell_Award.jpg">
 </div>
 <p>Leaders who Dare - Netball - Nee Soon South Netball Invitationals 2025</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leaders_who_Dare___Netball___Nee_Soon_South_Netball_Invitationals_2025.jpg">
+</div>
 <h4><strong>Northland Secondary School SG60 National Day Carnival 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe6-eUHW8C2KfQIhhgaalyO15vBV4MfVRG0V8zJT7644mhmoBbOhMa0em-dlX7LQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
@@ -2761,4 +2763,8 @@ for both Northstars and staff.</p>
 </div>
 <p></p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leaders_who_Dare___Netball___Nee_Soon_South_Netball_Invitationals_2025.jpg">
+</div>
 <p></p>
