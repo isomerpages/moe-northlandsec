@@ -11,8 +11,9 @@ variant: tiptap
 </div>
 <p>National Sch</p>
 <h4><strong>Northland Shines - Positive Classroom Awards 2025</strong></h4>
-<p>National Schools Literature Festival - Upper Secondary Unseen Debate</p>
-<p>National Schools Literature Fe</p>
+<p>Positive Classroom Award - Secondary 1</p>
+<p>Positive Classroom Award - Secondary 2</p>
+<p>Positive Classroom Award - Secondary 3</p>
 <h4><strong>Northstar Shines! - Prize Presentation 2025</strong></h4>
 <p>National Schools Literature Festival - Upper Secondary Unseen Debate</p>
 <div class="isomer-image-wrapper">
