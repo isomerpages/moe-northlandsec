@@ -12,8 +12,17 @@ variant: tiptap
 <p>National Sch</p>
 <h4><strong>Northland Shines - Positive Classroom Awards 2025</strong></h4>
 <p>Positive Classroom Award - Secondary 1</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Positive_Classroom_Award___Secondary_1.jpg">
+</div>
 <p>Positive Classroom Award - Secondary 2</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Positive_Classroom_Award___Secondary_2.jpg">
+</div>
 <p>Positive Classroom Award - Secondary 3</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Positive_Classroom_Award___Secondary_3.jpg">
+</div>
 <h4><strong>Northstar Shines! - Prize Presentation 2025</strong></h4>
 <p>National Schools Literature Festival - Upper Secondary Unseen Debate</p>
 <div class="isomer-image-wrapper">
