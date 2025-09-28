@@ -5,11 +5,17 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Northstar Shines! - Prize Presentation 2025</strong></h4>
-<p>National Schools Liferature Festival - Upper Secondary Unseen Debate</p>
+<p>National Schools Literature Festival - Upper Secondary Unseen Debate</p>
 <p></p>
-<p>National Schools Liferature Festival</p>
+<p>National Schools Literature Festival</p>
 <p></p>
 <p>Leaders who Dare - Girl Guides - School Commendation Award</p>
+<p></p>
+<p>Leaders who Dare - Girl Guides - Puan Noor Aishah Award - Silver</p>
+<p></p>
+<p>Leaders who Dare - Girl Guides - Baden Powell Award</p>
+<p></p>
+<p>Leaders who Dare - Netball - Nee Soon South Netball Invitationals 2025</p>
 <h4><strong>Northland Secondary School SG60 National Day Carnival 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe6-eUHW8C2KfQIhhgaalyO15vBV4MfVRG0V8zJT7644mhmoBbOhMa0em-dlX7LQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
@@ -2742,5 +2748,7 @@ for both Northstars and staff.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMQ2Dltx4hwxsU6_Ghu60ymk9FUx3R5g2bnYPAhojyODQDUMsLrQwc0DoD5GINiGt7zqJadf2wR49i/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
