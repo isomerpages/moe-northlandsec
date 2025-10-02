@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Achievements
 variant: markdown
 ---
+[2025](https://www.northlandsec.moe.edu.sg/2025/)
+
 [2024](https://northlandsec.moe.edu.sg/2024/)
 <p><strong><a href="/about-northland/achievements/current-student-achievements/2023">2023</a></strong></p>
 <p><strong><a href="/about-northland/achievements/current-student-achievements/2022">2022</a></strong></p>
