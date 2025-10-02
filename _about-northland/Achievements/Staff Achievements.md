@@ -6,6 +6,10 @@ third_nav_title: Achievements
 variant: tiptap
 ---
 <h3><strong>Starmakers’ Achievements 2025</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Gold_and_Black_Luxury_New_Year_Facebook_Cover.png">
+</div>
 <p><strong><em>National Day Awards</em></strong>
 </p>
 <p><strong>Mr Lim Kok Hwa (Principal)- </strong>National Day Public Administration
