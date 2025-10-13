@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - School Canteen.md
       - Student Learning Space.md
       - ECG in NSS.md
       - ECG counselling sign up form.md
