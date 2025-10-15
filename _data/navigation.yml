@@ -9,18 +9,7 @@ links:
   - title: Student Development Curriculum
     collection: student-development-curriculum
   - title: Useful Links
-    url: /useful-links/financial-assistance-scheme-fas
-    sublinks:
-      - title: Student Learning Space
-        url: https://vle.learning.moe.edu.sg/login
-      - title: ECG in NSS
-        url: https://sites.google.com/moe.edu.sg/nssecg
-      - title: ECG counselling sign up form
-        url: https://go.gov.sg/nssecg
-      - title: For Staff
-        url: /useful-links/for-staff
-      - title: Student Well-being
-        url: https://sites.google.com/moe.edu.sg/nssstdtwb/home
+    collection: useful-links
   - title: Partnerships
     collection: partnerships
   - title: Contact Us
