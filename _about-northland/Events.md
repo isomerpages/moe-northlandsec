@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4><strong>Northland Graduation Day for the Class of 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLmGd0YKeXDhfb0H1KimJRHiPKrNzt6kkKs3ByiDmNrSliHP12Yu3g4joBJrjA7Q/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQyQ66z_FCB7OEx3mSh_xOffejy2jvRmpDbdwrtc5R7KPRTCfVOesrf5Bh3Ja0ig/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>On Friday, 3 October, the Class of 2025 celebrated the culmination of
 their secondary school journey. Our Northstars reflected on their transformation
