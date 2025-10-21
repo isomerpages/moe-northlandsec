@@ -4,6 +4,32 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Northland Graduation Day for the Class of 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLmGd0YKeXDhfb0H1KimJRHiPKrNzt6kkKs3ByiDmNrSliHP12Yu3g4joBJrjA7Q/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>On Friday, 3 October, the Class of 2025 celebrated the culmination of
+their secondary school journey. Our Northstars reflected on their transformation
+— boys becoming young men and girls blossoming into young ladies. The School
+Leaders and Year Head offered heartfelt congratulations, encouraging the
+graduates to continue learning and cherish the friendships formed at Northland
+as they embark on their future endeavors — keep shining!</p>
+<h4><strong>The Northland Opportunities in VIA and Academic (N.O.V.A) Trail 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeUvH7wTQjBLFZ1aXrGckW5tONKdad6Xon_zGnYG7UwMcWLdmLPy0-xSAIsm_NqA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>The NOVA Trail is making learning come to live as a living classroom is
+woven into the fabric of our Yishun neighbourhood. Each station is a location
+of significance in Yishun, carefully chosen to connect directly with what
+our Northstars study in school.</p>
+<p>The NOVA Trail is a chance for Northstars to discover the stories and
+science hidden in the places around them. At each stop, they were challenged
+to notice, ask, and connect — not just to learn about Yishun, but to see
+the subjects they learnt differently.</p>
+<p>The N.O.V.A trail isn't about memorising facts; it’s about real-world
+learning in our own backyard. By the end of the trail, Northstars walked
+away not only knowing Yishun better, but also realising that every corner
+of our neighbourhood can teach us something new.</p>
 <h4><strong>Northland celebrates Starmakers' Day 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLmGd0YKeXDhfb0H1KimJRHiPKrNzt6kkKs3ByiDmNrSliHP12Yu3g4joBJrjA7Q/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
