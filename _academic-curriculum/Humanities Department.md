@@ -4,7 +4,7 @@ permalink: /academic-curriculum/humanities-department/
 description: ""
 variant: markdown
 ---
-![](/images/WhatsApp_Image_2024_11_04_at_8_25_54_AM__1_.jpg)
+![](/images/WhatsApp_Image_2025_10_21_at_12_10_18_PM__2_.jpg)
 
 <p>The Humanities empower one to navigate the world we live in. Through an education in the Humanities, students learn to reason about being human and to ask questions about our world. They also learn to deal critically, logically and creatively with subjective, complex and often imperfect information.</p>
 <p>At Northland Secondary School, the Humanities Department seeks to develop:<br><strong>Curiosity</strong><br><strong>Critical Thinking</strong><br><strong>Compassion&nbsp;in our students.</strong></p>
