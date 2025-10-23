@@ -4,7 +4,7 @@ permalink: /academic-curriculum/mother-tongue-department/
 description: ""
 variant: markdown
 ---
-![](/images/WhatsApp_Image_2024_11_04_at_8_25_54_AM__4_.jpg)
+![](/images/WhatsApp_Image_2025_10_21_at_12_10_18_PM__6_.jpg)
 <h4><strong><em>Every student a Competent Communicator in Mother Tongue Language</em></strong></h4>
 <p><strong>Department Mission</strong></p>
 <ul>

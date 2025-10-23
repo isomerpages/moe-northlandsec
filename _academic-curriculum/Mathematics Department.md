@@ -4,7 +4,7 @@ permalink: /academic-curriculum/mathematics-department/
 description: ""
 variant: markdown
 ---
-![](/images/WhatsApp_Image_2024_11_04_at_8_25_54_AM__7_.jpg)
+![](/images/MA_Dept.jpg)
 ### Inspiring Mathematics Learning, Nurturing Resilient Learners
 <p>The Mathematics Department believes that everyone can do Mathematics with persistent effort. A strong foundation in the subject will give learners opportunities to solve problems confidently and systematically. These skills will serve them well in life.</p>
 <p>Our teachers seek to collaborate and learn to improve our teaching and learning. We hope to model this spirit of learning and encourage our students to love Mathematics and believe in themselves. We also bring into the classroom physical manipulatives and online platforms such as Peardeck and Kahoot to help our students learn. With the personal learning devices, students are able to be more self-directed and also use technology for consultation too.</p>

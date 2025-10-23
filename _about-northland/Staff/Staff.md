@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Staff
 variant: markdown
 ---
-![](/images/WhatsApp_Image_2024_11_05_at_8_43_26_AM.jpg)
+![](/images/WhatsApp_Image_2025_10_16_at_5_17_26_PM.jpg)
