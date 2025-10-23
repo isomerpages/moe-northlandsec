@@ -4,7 +4,7 @@ permalink: /academic-curriculum/physical-education-n-music-department/
 description: ""
 variant: markdown
 ---
-![](/images/WhatsApp_Image_2024_11_04_at_8_25_52_AM.jpg)
+![](/images/WhatsApp_Image_2025_10_21_at_12_10_18_PM__8_.jpg)
 <p><strong>Physical education (PE)&nbsp;</strong>plays an important role in the holistic development of students by promoting the growth of body, mind and spirit, enabling students to experience the exhilarating sensation of well-being derived from being in an exciting match in a well-loved game, or simply from one’s regular exercise routine. Northland’s PE Curriculum articulates these outcomes through a two-pronged approach:</p>
 <ul>
 <li><strong>Learn to Play</strong></li>
