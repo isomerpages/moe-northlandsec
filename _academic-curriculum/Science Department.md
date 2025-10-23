@@ -4,7 +4,7 @@ permalink: /academic-curriculum/science-department/
 description: ""
 variant: markdown
 ---
-![](/images/WhatsApp_Image_2024_11_04_at_8_25_52_AM__1_.jpg)
+![](/images/WhatsApp_Image_2025_10_21_at_12_10_18_PM__9_.jpg)
 <h4><strong>Fostering the Joy of Learning in the Wonders of Science</strong></h4>
 <p>The Science Department at Northland Secondary School seeks to nurture an intrinsic motivation towards learning in every student and that learning should be a lifelong journey of exploration and discovery in the wonders of Science.</p>
 <p>The&nbsp;<strong>AIMS&nbsp;</strong>of the Science Department are to provide well-designed studies of experimental and practical science, in particular, to enable them to acquire sufficient understanding and knowledge to:</p>
