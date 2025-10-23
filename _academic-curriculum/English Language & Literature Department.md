@@ -4,7 +4,7 @@ permalink: /academic-curriculum/english-language-n-literature-department/
 description: ""
 variant: markdown
 ---
-![](/images/WhatsApp_Image_2024_11_04_at_8_25_54_AM.jpg)
+![](/images/WhatsApp_Image_2025_10_21_at_12_10_18_PM__1_.jpg)
 <h4><strong><em>Inspire and nurture students to be effective communicators who share&nbsp;</em></strong></h4>
 <p><strong>In the English Language Department, we believe that every Northstar is a STAR. A Northstar is a learner who&nbsp;</strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
