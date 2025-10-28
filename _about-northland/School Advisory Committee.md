@@ -79,6 +79,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Douglas Danapal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
