@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>Chop Kong Chong – Uniform Vendor Online Purchase Guide&nbsp;2024</strong></h4>
+<h4><strong>Chop Kong Chong – Uniform Vendor Online Purchase Guide&nbsp;2025</strong></h4>
 </td>
 </tr>
 <tr>
