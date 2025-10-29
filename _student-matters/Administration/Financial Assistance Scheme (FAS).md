@@ -27,35 +27,18 @@ from our Government and Government-Aided Schools who need financial assistance
 for their studies.</p>
 <p><strong>INCOME CRITERION:</strong>
 </p>
-<p>Gross Monthly Household Income = $3000 or below
+<p>Gross Monthly Household Income = $4000 or below
 <br>OR
-<br>Per Capita Income = $750 or below
+<br>Per Capita Income = $1000 or below
 <br>(Per Capita Income = Total Gross Monthly Household Income divided by the
 No. of Household Members)</p>
-<p>![](/images/fas%20benefits2024.JPG)</p>
-<p><strong>HOW TO APPLY?<br></strong>Application forms are available from
-the school and MOE website. The school will notify you of the outcome of
-your application.</p>
-<p>You can click <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="">here</a>&nbsp;or
-scan the QR code to submit the form online via FormSG</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/fas2024 qr1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><strong>HOW TO APPLY?<br><br></strong>The MOE FAS for 2026 is open for
+application. Parents / Guardians <strong>are strongly encouraged </strong>to
+submit the application <strong>online</strong> via this <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">link</a> .</p>
+<p>Please click <a href="/files/MOE_FAS_Application_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download the softcopy of the FAS form for your reference.</p>
+<p>Please call General Office at 62576781 if you need clarification.</p>
+<p></p>
 <p><strong>ADDITIONAL HELP REQUIRED?<br></strong>If you need additional help,
 you can approach your child’s school for further financial assistance.
 <br>If you need help to get a digital device and/or broadband internet access,
@@ -74,7 +57,7 @@ The school which receives the application form will inform you of the outcome
 for all the children.</p>
 </li>
 <li>
-<p>Primary 6 students going to Secondary 1 in 2025 Primary 6 students can
+<p>Primary 6 students going to Secondary 1 in 2026 Primary 6 students can
 apply for MOE FAS at their primary school for Secondary 1 next year.</p>
 </li>
 </ul>
@@ -112,5 +95,4 @@ forms.&nbsp;</p>
 <p>Alternatively, pupils may be identified by teachers.</p>
 </li>
 </ol>
-<p><strong>APPLICATION FORM: </strong><a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 MOE FAS Application</a>
-</p>
+<p></p>
