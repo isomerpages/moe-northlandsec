@@ -10,9 +10,9 @@ to enquire on the application procedures.</p>
 <h4><strong>Q2 How do my child redeem the transport subsidy and what is the timeline?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>All MOE FAS students will receive transport subsidy of $10 from Jan to
-Dec. Students need to go to Transit Link Office and produce their EZ link
-card to top up.</p>
+<p>All MOE FAS students will receive transport subsidy of $21 from Jan to
+Dec 2026. Students need to go to Transit Link Office and produce their
+EZ link card to top up.</p>
 </li>
 <li>
 <p>Alternatively they can also go to the Add Value Machine to top up. The
