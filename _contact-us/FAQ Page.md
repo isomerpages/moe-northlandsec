@@ -20,7 +20,7 @@ top up is valid from 1st to 10th of every month.</p>
 </li>
 </ul>
 <h4><strong>Q3 What is the opening hours for the General Office?</strong></h4>
-<p>General Office is opened from 7.30am to 5.30pm every day.</p>
+<p>General Office is opened from 7.30am to 4.00pm every day.</p>
 <h4><strong>Q4 What is the opening hours for the school Bookshop Vendor?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
