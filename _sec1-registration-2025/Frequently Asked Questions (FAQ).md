@@ -9,25 +9,24 @@ description: ""
 </p>
 <p><strong><em>1. What is the assembly time and dismissal time for the Secondary 1 students?&nbsp;</em></strong>
 </p>
-<p>· &nbsp;The assembly time for all school days is 7.25am. They are to report
-to the hall.</p>
-<p>· For dismissal time,</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.20pm on Thursday 2
-Jan, Monday 6 Jan and Tuesday 7 Jan</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6pm on Friday 3 Jan,
-due to the CCA Exhibition and Parent engagement</p>
-<p>&nbsp;</p>
+<p>· For Friday 2 January, the assembly&nbsp;time is at&nbsp;<strong>7.25am</strong>&nbsp;and
+the dismissal time is at&nbsp;<strong>12.40pm</strong>.&nbsp; Secondary
+1 students are to report to the&nbsp;<strong>school hall&nbsp;</strong>on
+the first day of school.</p>
+<p>· For Monday 5 January to Friday 9 January, the schedule will be shared
+during the Sec 1 registration.</p>
+<p></p>
 <p><strong><em>2. What do the Secondary 1 student need to bring for the first week of school?</em></strong>
 </p>
 <p>The students are only required to bring their storybook, water bottle,
 stationery, notebook.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><em>3. What is the attire for the first day of school?</em></strong>
 </p>
-<p>Students should come in their white uniform and school shorts/skirt on
-Tuesday 2 January. For those who have not managed to get the school uniform,
+<p>Students should come in their polo T-shirt and school shorts/skirt on
+Friday 2 January. For those who have not managed to get the polo T-shirt,
 they can report to school on 2 January in their primary school uniform.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><em>4.&nbsp;Is there a carpark on site should I come and collect my purchase from book shop?</em></strong>
 </p>
 <p>Our carpark space is limited, should you come and collect any book or
@@ -42,18 +41,19 @@ school.</p>
 hence we strongly encourage you to come on-board PG so that you may receive
 timely information from us. You can download the free Parents Gateway mobile
 app on your mobile phone (available on IOS and Android platforms only)
-and perform a simple one-time onboarding process.</p>
-<p>&nbsp;</p>
-<p><strong><em>6. Does my child/ward need to register via e-registration or report in person if he/she intends to appeal for a transfer (Non-Medical) to Northland Secondary school?</em></strong>
+and perform a simple one-time onboarding process. Find official answers
+to frequently asked questions about Parents Gateway(PG) <a href="https://ask.gov.sg/parentsgateway" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p><strong><em>**6. Does my child/ward need to register via e-registration or report in person if he/she intends to appeal for a transfer (Non-Medical) to Northland Secondary school?</em></strong>
 </p>
 <p>If you intend to appeal for a transfer to Northland Secondary school on
-non-medical grounds, do e-register with NSS&nbsp;using the <a href="https://form.gov.sg/6734557492e81e4b79b482a5" rel="noopener nofollow" target="_blank">form</a> by
-27 December 2024, 12pm.</p>
+non-medical grounds, do e-register with NSS&nbsp;using the form <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s6wf6v</a> by
+26 December 2025, 12pm.</p>
 <p>&nbsp;</p>
-<p><strong><em>7. My child/ward has been posted to NSS, but would like to request for school transfer due to medical reasons, what should I do?</em></strong>
+<p><strong><em>**7. My child/ward has been posted to NSS, but would like to request for school transfer due to medical reasons, what should I do?</em></strong>
 </p>
 <p>If you would like to put in a request under this category, we will require
-you to come to the school on&nbsp;<strong>19 December&nbsp;between 8.30am to 12 noon</strong>&nbsp;to
+you to come to the school on&nbsp;<strong>26 December&nbsp;between 8.30am to 12 noon</strong>&nbsp;to
 submit your appeal. Please bring along with you the relevant medical documents
 to support your appeal. If you are unable to do so, you can still submit
 your appeal and documents via email at <strong><em><a rel="noopener noreferrer nofollow" target="_blank">northland_ss@moe.edu.sg</a></em></strong>
@@ -61,12 +61,14 @@ your appeal and documents via email at <strong><em><a rel="noopener noreferrer n
 <p>&nbsp;</p>
 <p><strong>C: Higher Mother Tongue / 3rd Language&nbsp;</strong>
 </p>
-<p><strong><em>8. How do I appeal for Higher Mother Tongue?</em></strong>
+<p><strong><em>8.Does the school offer Higher Mother Tongue Languages?</em></strong>
 </p>
-<p>Please kindly email the Head of Department/ Mother Tongue at <a rel="noopener noreferrer nofollow" target="_blank">Choi_PEI_LING@schools.gov.sg</a> by&nbsp;<strong>Friday, 27 December 2024.</strong>&nbsp;Please
-indicate your child's full name and class in your request.</p>
+<p>Northland Secondary School does not offer Higher Mother Tongue Languages
+(HMTL). Students who are eligible to take HMTL will attend lessons at one
+of the designated HMTL centres in the afternoons, after our school curriculum
+hours.&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong><em>9. &nbsp;Does </em>the school offer Hindi as Mother Tongue subject?</strong>
+<p><strong><em>9. Does </em>the school offer Hindi as a Mother Tongue subject?</strong>
 </p>
 <p>No, our school does not offer Hindi as a Mother Tongue subject. Students
 who wish to offer Hindi will have to attend lessons at D.A.V Hindi School
@@ -149,16 +151,15 @@ via school email at <strong><em><a rel="noopener noreferrer nofollow" target="_b
 </p>
 <p>Students who were granted the MOE FAS by Primary school (in P6), need
 not re-apply.&nbsp; Others who need to apply, please submit the application
-via <a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener noreferrer nofollow" target="_blank">FormSG.</a>
-</p>
+via <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>.</p>
 <p>&nbsp;</p>
 <p><strong><em>14. Will my child/ward be issued with a new School Smart Card when term starts?</em></strong>
 </p>
-<p>Please be informed that all students entering Secondary One in Jan 2025
+<p>Please be informed that all students entering Secondary One in Jan 2026
 will be issued with a new Secondary level School Smart Card (SSC).&nbsp;
 While Secondary One Students are waiting for their Secondary level SSCs
 to be ready, they can continue to use their Primary level SSCs for concessionary
-travel till end Apr 2025. Students can still purchase the Bus Concession
+travel till end Apr 2026. Students can still purchase the Bus Concession
 Pass (BCP) using their Primary level SSCs, but they would need to purchase
 the BCP for Secondary School students.</p>
 <p>&nbsp;</p>
