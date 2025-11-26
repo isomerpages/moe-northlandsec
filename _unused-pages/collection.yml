@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Full Subject Based Banding (FSBB).md
       - Full Subject–Based Banding(FSBB).md
       - Sec1 EOY Exam 2024.md
       - Sec 1 Post Exam Timetable 2024.md
