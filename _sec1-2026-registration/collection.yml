@@ -1,5 +1,5 @@
 collections:
-  sec1-registration-2025:
+  sec1-2026-registration:
     output: true
     order:
       - Welcome.md
