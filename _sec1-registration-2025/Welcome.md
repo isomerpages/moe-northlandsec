@@ -11,35 +11,35 @@ description: ""
 commence your secondary school education, as a Northstar. It will be a
 new phase of your development and we are happy to welcome you as part of
 our NSS family.</p>
-<p><strong>This year’s Sec 1 Registration will be carried out on 20<sup> </sup>Dec (Fri) via a webinar (online).</strong>
-</p>
-<p>During the <strong>Sec 1 Registration day (20 Dec 2024, Fri)</strong>,
+<p>This year’s Sec 1 registration will be carried out in a hybrid mode.</p>
+<p>During the <strong>Sec 1 Registration day (23 December 2025)</strong>,
 there will be</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome Address
-by our Principal</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Year Head Address
-(Including Week 0 Programme and SPARCLE 1 Week)</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Briefing on National
-Digital Literacy Programme (NDLP)</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Briefing on Students
-Offered Subjects of More Demanding Level</p>
-<p><strong>Students and parents do not need to report in person on the Registration Day.</strong>
-</p>
-<p>On 19 Dec 2024, parents will receive a welcome call from your child ’s/ward’s
-Class mentor and a Parent Gateway (PG) message will be sent to parents
-after 5pm with the webinar information.</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A welcome address
+by our Principal and Sec 1 AYH</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A briefing on
+National Digital Literacy Programme (NDLP)</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A SBB briefing
+for G1 and G2 students</p>
+<p>You do not need to be physically present in our school on that day as
+registration will take place online via webinar.</p>
+<p>Our Class Mentors will contact you/your parent/guardian on the day prior
+to the Sec 1 Registration, to welcome you officially and to provide some
+general information on administration matters.</p>
 <p>Should you still have queries or would like to visit the school, please
-call the <strong><a href="https://northlandsec.moe.edu.sg/contact-us/contact-information" rel="noopener noreferrer nofollow" target="_blank"><u>general office</u></a></strong>&nbsp;.</p>
-<p>You may click <strong><a href="https://go.gov.sg/sec1registrationforclass2025" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
+call the <a href="https://www.northlandsec.moe.edu.sg/contact-us/contact-information/" rel="noopener nofollow" target="_blank">general office</a>
+</p>
+<p>You may click on <strong>Q&amp;A</strong> feature in Microsoft Teams to
 post your queries prior to Sec 1 Registration, if you have any. We will
 try to answer your queries during the Registration Day.</p>
 <p>More details on the webinar will be made available nearer to the date
-through Parents Gateway (PG). Click <strong><a href="https://pg.moe.edu.sg/faq" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>&nbsp;
-for more information on how you can download this App, access PG and stay
-in touch with Us!</p>
+through Parents Gateway.
+<br>Click <a href="https://ask.gov.sg/parentsgateway" rel="noopener nofollow" target="_blank">Here</a>&nbsp;
+for more information on how you can download this App, access or you have
+any queries on Parents Gateway.</p>
+<p>&nbsp;</p>
 <p>Please refer to Northland Secondary School Website for updates prior to
-the school term reopening.
-<br>
+the school term reopening.</p>
+<p>
 <br>
 </p>
 <hr>
