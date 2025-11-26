@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Sec 1 Registration 2025 Slides.md
       - Full Subject Based Banding (FSBB).md
       - Full Subject–Based Banding(FSBB).md
       - Sec1 EOY Exam 2024.md
