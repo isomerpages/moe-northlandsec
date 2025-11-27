@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Sec 1 Registration 2026
           description: ""
-          url: /about-northland/events/
+          url: /sec1-registration-2025/welcome/
       variant: image
   - resources:
       title: Announcements
