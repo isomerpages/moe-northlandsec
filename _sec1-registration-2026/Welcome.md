@@ -11,7 +11,7 @@ description: ""
 commence your secondary school education, as a Northstar. It will be a
 new phase of your development and we are happy to welcome you as part of
 our NSS family.</p>
-<p>This year’s Sec 1 registration will be carried out in a hybrid mode.</p>
+<p>This year's Sec 1 registration will be held via webinar/online mode.</p>
 <p>During the <strong>Sec 1 Registration day (23 December 2025)</strong>,
 there will be</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A welcome address
