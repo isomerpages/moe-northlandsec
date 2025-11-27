@@ -7,9 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/eBanner_edited.png
+      background: /images/Sec 1 Registration/NORTHLAND_SECONDARY_SCHOOL.png
       key_highlights:
-        - title: Events
+        - title: Sec 1 Registration 2026
           description: ""
           url: /about-northland/events/
       variant: image
