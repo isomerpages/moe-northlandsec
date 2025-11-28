@@ -157,5 +157,5 @@ shoe laces. Sports shoes are allowed if they fit this criteria.</p>
 <p>&nbsp;</p>
 <p><strong><em>16. What kind of school uniform Students can wear?</em></strong>
 </p>
-<p>The school uniform should be&nbsp;the school polo T-shirt&nbsp; and school
-shirt with shorts/skirt for special occasions/events.</p>
+<p>The school uniform should be&nbsp;the school polo T-shirt with shorts/skirt&nbsp;or
+school shirt with shorts/skirt for special occasions/events.</p>
