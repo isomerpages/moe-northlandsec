@@ -43,6 +43,19 @@ timely information from us. You can download the free Parents Gateway mobile
 app on your mobile phone (available on IOS and Android platforms only)
 and perform a simple one-time onboarding process. Find official answers
 to frequently asked questions about Parents Gateway(PG) <a href="https://ask.gov.sg/parentsgateway" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong><em>6. Does my child/ward need to register via e-registration or report in person if he/she intends to appeal for a transfer (Non-Medical) to Northland Secondary school?</em></strong>
+</p>
+<p>If you intend to appeal for a transfer to Northland Secondary school on
+non-medical grounds, do e-register with NSS&nbsp;using the form: <a href="https://go.gov.sg/e7jpyu" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/e7jpyu</a> by
+26 December 2025, 12pm.</p>
+<p><strong><em>7. My child/ward has been posted to NSS, but would like to request for school transfer due to medical reasons, what should I do?</em></strong>
+</p>
+<p>If you would like to put in a request under this category, we will require
+you to come to the school on&nbsp;<strong>26 December&nbsp;between 8.30am to 12 noon</strong>&nbsp;to
+submit your appeal. Please bring along with you the relevant medical documents
+to support your appeal. If you are unable to do so, you can still submit
+your appeal and documents via email at <strong><em><a rel="noopener noreferrer nofollow" target="_blank">northland_ss@moe.edu.sg</a></em></strong>
+</p>
 <p></p>
 <p><strong>C: Higher Mother Tongue / 3rd Language&nbsp;</strong>
 </p>
