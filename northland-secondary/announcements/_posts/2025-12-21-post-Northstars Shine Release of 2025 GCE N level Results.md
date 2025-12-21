@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNTyIUBEoVCvkAcbOQlJ9KqgrLfmHhZJ54QxbzIycDfeVCsXXEQHVoyZgN7EgJ0Q/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNTyIUBEoVCvkAcbOQlJ9KqgrLfmHhZJ54QxbzIycDfeVCsXXEQHVoyZgN7EgJ0Q/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Congratulations to the Class of 2025 of Northland Secondary School on
 receiving your GCE N level results! This is a significant milestone in
