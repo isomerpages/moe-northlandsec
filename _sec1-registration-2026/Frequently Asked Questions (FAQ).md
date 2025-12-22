@@ -14,9 +14,9 @@ the dismissal time is at&nbsp;<strong>12.40pm</strong>.&nbsp; Secondary
 1 students are to report to the&nbsp;<strong>school hall&nbsp;</strong>on
 the first day of school.</p>
 <p>· For Monday 5 January to Friday 9 January, the schedule will be shared
-during the Sec 1 registration.</p>
+on the first day of school.</p>
 <p></p>
-<p><strong><em>2. What do the Secondary 1 student need to bring for the first week of school?</em></strong>
+<p><strong><em>2. What do the Secondary 1 student need to bring for the first day of school?</em></strong>
 </p>
 <p>The students are only required to bring their storybook, water bottle,
 stationery, notebook.</p>
