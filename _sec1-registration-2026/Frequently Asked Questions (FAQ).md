@@ -149,7 +149,7 @@ via school email at <strong><em><a rel="noopener noreferrer nofollow" target="_b
 </p>
 <p>Students who were granted the MOE FAS by Primary school for 2026, need
 not re-apply.&nbsp; Others who need to apply, please submit the application
-via .</p>
+via this <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">link</a> .</p>
 <p>&nbsp;</p>
 <p><strong><em>14. Will my child/ward be issued with a new School Smart Card when term starts?</em></strong>
 </p>
