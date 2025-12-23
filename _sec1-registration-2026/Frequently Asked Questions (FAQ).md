@@ -51,7 +51,7 @@ non-medical grounds, do e-register with NSS&nbsp;using the form: <a href="https:
 <p><strong><em>7. My child/ward has been posted to NSS, but would like to request for school transfer due to medical reasons, what should I do?</em></strong>
 </p>
 <p>If you would like to put in a request under this category, we will require
-you to come to the school on&nbsp;<strong>26 December&nbsp;between 8.30am to 12 noon</strong>&nbsp;to
+you to come to the school on&nbsp;<strong>22 December&nbsp;between 8.30am to 12 noon</strong>&nbsp;to
 submit your appeal. Please bring along with you the relevant medical documents
 to support your appeal. If you are unable to do so, you can still submit
 your appeal and documents via email at <strong><em><a rel="noopener noreferrer nofollow" target="_blank">northland_ss@moe.edu.sg</a></em></strong>
