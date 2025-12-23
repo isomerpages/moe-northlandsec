@@ -147,9 +147,9 @@ via school email at <strong><em><a rel="noopener noreferrer nofollow" target="_b
 <p>&nbsp;</p>
 <p><strong><em>13. How can I apply for MOE Financial Assistance ?</em></strong>
 </p>
-<p>Students who were granted the MOE FAS by Primary school (in P6), need
+<p>Students who were granted the MOE FAS by Primary school for 2026, need
 not re-apply.&nbsp; Others who need to apply, please submit the application
-via <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>.</p>
+via .</p>
 <p>&nbsp;</p>
 <p><strong><em>14. Will my child/ward be issued with a new School Smart Card when term starts?</em></strong>
 </p>
