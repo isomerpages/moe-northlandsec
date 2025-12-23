@@ -2,9 +2,9 @@ collections:
   sec1-registration-2026:
     output: true
     order:
-      - Sec 1 Registration Briefing slides.md
       - Sec 1 2026 Registration Slides.md
       - Welcome.md
+      - Sec 1 Registration Briefing slides.md
       - Purchase of Books.md
       - Sec 1 Booklist.md
       - Purchase of Uniform.md
