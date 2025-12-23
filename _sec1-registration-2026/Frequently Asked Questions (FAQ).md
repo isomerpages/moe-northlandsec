@@ -51,7 +51,7 @@ non-medical grounds, do e-register with NSS&nbsp;using the form: <a href="https:
 <p><strong><em>7. My child/ward has been posted to NSS, but would like to request for school transfer due to medical reasons, what should I do?</em></strong>
 </p>
 <p>If you would like to put in a request under this category, we will require
-you to come to the school on&nbsp;<strong>26 December&nbsp;between 8.30am to 12 noon</strong>&nbsp;to
+you to come to the school on&nbsp;<strong>22 December&nbsp;between 8.30am to 12 noon</strong>&nbsp;to
 submit your appeal. Please bring along with you the relevant medical documents
 to support your appeal. If you are unable to do so, you can still submit
 your appeal and documents via email at <strong><em><a rel="noopener noreferrer nofollow" target="_blank">northland_ss@moe.edu.sg</a></em></strong>
@@ -147,9 +147,9 @@ via school email at <strong><em><a rel="noopener noreferrer nofollow" target="_b
 <p>&nbsp;</p>
 <p><strong><em>13. How can I apply for MOE Financial Assistance ?</em></strong>
 </p>
-<p>Students who were granted the MOE FAS by Primary school (in P6), need
+<p>Students who were granted the MOE FAS by Primary school for 2026, need
 not re-apply.&nbsp; Others who need to apply, please submit the application
-via <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>.</p>
+via this <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">link</a> .</p>
 <p>&nbsp;</p>
 <p><strong><em>14. Will my child/ward be issued with a new School Smart Card when term starts?</em></strong>
 </p>
