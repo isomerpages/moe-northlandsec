@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Welcome.md
-      - Sec 1 Registration Briefing slides.md
       - Purchase of Books.md
       - Sec 1 Booklist.md
       - Purchase of Uniform.md
       - Financial Assistance Scheme (FAS).md
       - Appeal for Transfer (Non Medical) to Northland Secondary School.md
+      - Sec 1 Registration Briefing slides.md
       - Frequently Asked Questions (FAQ).md
