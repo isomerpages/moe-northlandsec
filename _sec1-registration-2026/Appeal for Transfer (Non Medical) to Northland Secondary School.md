@@ -4,7 +4,8 @@ permalink: /appeal-for-transfer-non-medical-to-northland-secondary-school/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Instructions for Appeal for Transfer (Non-Medical) to Northland Secondary School</strong></h4>
+<h4><strong><u>(Application Closed)</u></strong></h4>
+<h4><strong>Instructions for Appeal for Transfer (Non-Medical) to Northland Secondary School<u>.</u></strong></h4>
 <p>Primary 6 students who have just received their secondary school posting
 in 2025 may use this form to appeal for transfer to Northland Secondary
 School. Their PSLE score must meet the school's cut-off point of the posting
@@ -36,5 +37,5 @@ school by 2 January 2026.</p>
 </li>
 </ol>
 <p></p>
-<p>Please click/scan the QR code for the application. Thank you</p><a class="isomer-image-wrapper" href="https://go.gov.sg/e7jpyu"><img style="width: 50%;" height="auto" width="100%" alt="Click here for the application" src="/images/Qrcode_for_appeal__sec12026_.jpg"></a>
+<p>Please click/scan the QR code for the application. Thank you</p>
 <p></p>
