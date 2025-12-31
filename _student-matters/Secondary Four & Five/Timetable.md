@@ -5,5 +5,5 @@ description: ""
 third_nav_title: Secondary Four & Five
 variant: tiptap
 ---
-<p><a href="/files/2025 TT TERM3/2025_NSS_Term_3_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">2025_NSS_Term3_Sec_4&amp;5</a>
+<p><a href="/files/2026 TT/NSS_Term_1_Sec4_5_TT_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5 TT Term1 2026 (wef 6Jan)</a>
 </p>
