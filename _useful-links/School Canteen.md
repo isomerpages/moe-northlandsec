@@ -28,24 +28,24 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halal Food stall</p>
+<p>Snacks and Drinks Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Oct 2025</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Noodles</p>
+<p>Cold Drinks &amp; Fruits</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vegetarian Stall</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Oct 2025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Any form of Vegetarian cuisine is acceptable</p>
+<p></p>
 </td>
 </tr>
 </tbody>
