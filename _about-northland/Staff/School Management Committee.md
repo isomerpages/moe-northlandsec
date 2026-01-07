@@ -6,6 +6,7 @@ third_nav_title: Staff
 variant: markdown
 ---
 ![](/images/WhatsApp_Image_2025_11_03_at_4_52_44_PM.jpg)
+
 |Appointment  | Name
 | -------- | -------- 
 | Principal      | Mr Lim Kok Hwa     |
