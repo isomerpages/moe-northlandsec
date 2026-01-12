@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrbQg_iFYdBEZkKWVpdiRJclnUOjWyT14IS9YYk3eeWjKmEyZ4A8D5ngu0fqPwFeMnpbfuZDo0GQVN/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQT36a7181xEx3liJ-54qssQJWb6pm9RzrXkvqcYU2ypE62BtESyfxqpM1iKVUnnzA67gYNQrFhF0Rx/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland welcomes our new Northstars who have joined our school! To facilitate
 a smooth transition to secondary school, we have organised a series of
