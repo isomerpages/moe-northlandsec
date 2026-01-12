@@ -103,7 +103,8 @@ School’s General Office by the closing date.</p>
 <p>Contact No: 62576781</p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">northland_ss@school.gov.sg</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">northland_ss@moe.edu.sg</a>
+</p>
 </li>
 <li>
 <p>Contact Person: Mdm Jaya S</p>
