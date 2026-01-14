@@ -5,4 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Secondary Four & Five
 ---
-<p></p>
+<p>Click <a href="/files/2025_O_Level_Briefing_Slides_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the slides</p>
