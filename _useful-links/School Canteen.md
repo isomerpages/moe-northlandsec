@@ -28,13 +28,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Snacks and Drinks Stall</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cold Drinks &amp; Fruits</p>
+<p></p>
 </td>
 </tr>
 <tr>
