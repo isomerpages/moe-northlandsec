@@ -4,6 +4,16 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Visit by Nguyen Du Junior High School, Hanoi </strong></h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTy_CGdH0Jr9vE5f6h0daf-uU8_Gy8cLMgE0zQa7aACOxBVW7l1Hj72GCL-jLQFY4lT1c-etrolrOGw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>What an unforgettable day! On Friday, 16 January, students, teachers,
+and parents from our partner school in Hanoi visited Northland for an exciting
+exchange programme. Our guests dove straight into the Northland experience
+— joining lessons, joining in our vibrant Pongal celebrations, and exploring
+our CCA activities. May you bring home wonderful memories of Singapore
+and Northland Secondary School</p>
 <h4><strong>Be a Northstar for a day! – 14 November 2025</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtDKl-o7l3FFiL4yzmvBUo0S-eGwYRjKonE9z3w3UJidKIyunqlMCPkMgIkOX0Bg/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
