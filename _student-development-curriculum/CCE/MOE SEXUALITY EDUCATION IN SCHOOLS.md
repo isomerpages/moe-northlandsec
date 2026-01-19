@@ -680,7 +680,7 @@ our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>Secondary 5</strong>
+<p><strong>Secondary 5</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
