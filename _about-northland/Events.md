@@ -4,7 +4,7 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Visit by Nguyen Du Junior High School, Hanoi </strong></h4>
+<h4><strong>Visit by Nguyen Du Junior High School, Hanoi</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTy_CGdH0Jr9vE5f6h0daf-uU8_Gy8cLMgE0zQa7aACOxBVW7l1Hj72GCL-jLQFY4lT1c-etrolrOGw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
