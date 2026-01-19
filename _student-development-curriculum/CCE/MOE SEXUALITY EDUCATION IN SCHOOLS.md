@@ -149,8 +149,7 @@ which are of prime concern at this age.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -282,8 +281,7 @@ of online falsehoods, flouting copyright laws, etc.)</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -411,8 +409,7 @@ risks and avoid negative consequences, both offline and online</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -546,8 +543,7 @@ alignment with our beliefs</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -712,8 +708,7 @@ our beliefs</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -794,8 +789,7 @@ family values are the key messages.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g. Term 3 Week 9)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
