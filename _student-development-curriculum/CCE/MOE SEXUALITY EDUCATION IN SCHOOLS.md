@@ -303,13 +303,11 @@ as doing household chores) and how gender stereotypes are formed. &nbsp;Students
 will discuss how one’s understanding of gender roles should not be limited
 by gender stereotypes, for example women can be pilots, while men can be
 nurses.</p>
-<p>&nbsp;</p>
-<p>Students learn to focus on their personal strengths to pursue their interests
-and build their self- confidence.</p>
-<p>&nbsp;</p>
-<p>Students will also learn about the definitions of biological sex, gender
-identity, gender expression and sexual orientation. They will learn to
-treat everyone with respect and empathy.</p>
+<p>&nbsp;Students learn to focus on their personal strengths to pursue their
+interests and build their self- confidence.</p>
+<p>&nbsp;Students will also learn about the definitions of biological sex,
+gender identity, gender expression and sexual orientation. They will learn
+to treat everyone with respect and empathy.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -337,8 +335,7 @@ influence. The lesson encourages the safe and responsible use of social
 media, and aims to deepen students’ conviction, and extend a call to action
 to students to taking appropriate decisions to safeguard their well-being
 and safety.</p>
-<p>&nbsp;</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+<p>&nbsp;<em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -438,12 +435,11 @@ entering into a dating relationship.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that
-self-perception and identity have an impact on our self-esteem and how
-we interact with others and the choices we make, both online and offline</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand
-that expectations of oneself and others may differ and can affect one’s
-emotions, thoughts and behaviours</p>
+<p>·&nbsp;know that self-perception and identity have an impact on our self-esteem
+and how we interact with others and the choices we make, both online and
+offline</p>
+<p>·&nbsp;understand that expectations of oneself and others may differ and
+can affect one’s emotions, thoughts and behaviours</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise
 what healthy dating relationships involve and know that readiness is important
 when entering into a dating relationship</p>
@@ -470,15 +466,12 @@ and that family and friends are important pillars of support.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that
-relationship-building involves personal emotions and vulnerabilities, and
-changes and challenges</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that
-a decision to end a relationship will have consequences on oneself and
-others</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that
-grief and loss due to rejections and broken relationships is normal and
-one can recover from the experience</p>
+<p>·&nbsp;know that relationship-building involves personal emotions and
+vulnerabilities, and changes and challenges</p>
+<p>·know that a decision to end a relationship will have consequences on
+oneself and others</p>
+<p>·know that grief and loss due to rejections and broken relationships is
+normal and one can recover from the experience</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know there
 are healthy ways of coping with broken relationships, and family and friends
 are important pillars of support</p>
@@ -566,16 +559,21 @@ alignment with our beliefs</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</a>
-</p>
+<p>This lesson aims to help students think critically about gender stereotypes
+that exist in our society in the contexts of career and family (e.g. males
+typically perceived as main breadwinners and females typically perceived
+as main caregivers in the family), and the impact of these stereotypes
+on individuals. Students will learn to be aware of possible gender stereotypes
+that may affect one’s family and future decisions. They will also learn
+to reframe their perspectives and not judge others based on their own or
+others’ values and principles, with regard to gender stereotypes.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what gender
-stereotypes comprise, e.g. notions of masculinity and femininity vary over
-time and space, and are shaped by societal expectations</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that imposing gender
-stereotypes on oneself and others can limit one’s experiences, cause harm
-to the self-esteem of oneself and others and should be avoided</p>
+<p>·&nbsp;understand what gender stereotypes comprise, e.g. notions of masculinity
+and femininity vary over time and space, and are shaped by societal expectations</p>
+<p>·&nbsp;know that imposing gender stereotypes on oneself and others can
+limit one’s experiences, cause harm to the self-esteem of oneself and others
+and should be avoided</p>
 <p><em>&nbsp;</em>
 </p>
 </td>
@@ -627,7 +625,14 @@ personal and emotional boundaries in a relationship</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters in &nbsp;sustaining and maintaining a long-term romantic relationship that leads to marriage, is understanding the other person’s perspective and effectively communicating with each other.&nbsp;</a>
+<p>This lesson focuses on building a positive relationship with one’s partner
+in a marriage. Students will understand that while a marriage, defined
+in Singapore as a union between a man and a woman, requires mutual commitment
+and effort like the other relationships in their lives, what sets a marriage
+apart is its lifelong commitment. Students will learn that what really
+matters in &nbsp;sustaining and maintaining a long-term romantic relationship
+that leads to marriage, is understanding the other person’s perspective
+and effectively communicating with each other.<a rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -731,9 +736,9 @@ in consideration of the well-being of themselves and others.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we strengthen
-our character when we commit to sound values-based viewpoints (e.g. respect
-for life) and decisions, and speak and act in alignment with our beliefs</p>
+<p>·understand that we strengthen our character when we commit to sound values-based
+viewpoints (e.g. respect for life) and decisions, and speak and act in
+alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 3</p>
