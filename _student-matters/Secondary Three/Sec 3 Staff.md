@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Secondary Three
 variant: markdown
 ---
-![](/images/YH_AYH_LM_CMs_2025_Page_3.jpg)
+![](/images/Picture20.png)
