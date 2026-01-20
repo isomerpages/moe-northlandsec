@@ -4,9 +4,19 @@ permalink: /about-northland/events/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Northland celebrates Pongal</strong></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfZeR_xSJGhlVX0PAwtZC6UoarGMWh698P3oJi5TqZheBVEO3m62ZCpBT_NpNU6NeXb6U9USxkNTim/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Northland Secondary School celebrated Pongal on Friday, 16 January. Pongal
+is a harvest festival in which farmers give thanks to the Sun God for a
+bountiful harvest. Our school educates Northstars about Pongal’s significance
+in our community and emphasises the importance of learning about other
+cultures and traditions. This year, Nguyen Du Junior High School joined
+us for the celebrations and made the celebration even more significant.</p>
 <h4><strong>Visit by Nguyen Du Junior High School, Hanoi</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTy_CGdH0Jr9vE5f6h0daf-uU8_Gy8cLMgE0zQa7aACOxBVW7l1Hj72GCL-jLQFY4lT1c-etrolrOGw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTy_CGdH0Jr9vE5f6h0daf-uU8_Gy8cLMgE0zQa7aACOxBVW7l1Hj72GCL-jLQFY4lT1c-etrolrOGw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>What an unforgettable day! On Friday, 16 January, students, teachers,
 and parents from our partner school in Hanoi visited Northland for an exciting
@@ -16,7 +26,7 @@ our CCA activities. May you bring home wonderful memories of Singapore
 and Northland Secondary School</p>
 <h4><strong>Be a Northstar for a day! – 14 November 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtDKl-o7l3FFiL4yzmvBUo0S-eGwYRjKonE9z3w3UJidKIyunqlMCPkMgIkOX0Bg/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtDKl-o7l3FFiL4yzmvBUo0S-eGwYRjKonE9z3w3UJidKIyunqlMCPkMgIkOX0Bg/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Thank you very much to the teachers and P6 students from Ahmad Ibrahim
 Primary School. Huamin Primary School, Naval Base Primary School and North
@@ -25,7 +35,7 @@ We hope that you had as much fun here as we had fun hosting you! Hope to
 see you again and all the best for your PSLE results!</p>
 <h4><strong>Northland Graduation Day for the Class of 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQyQ66z_FCB7OEx3mSh_xOffejy2jvRmpDbdwrtc5R7KPRTCfVOesrf5Bh3Ja0ig/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQyQ66z_FCB7OEx3mSh_xOffejy2jvRmpDbdwrtc5R7KPRTCfVOesrf5Bh3Ja0ig/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>On Friday, 3 October, the Class of 2025 celebrated the culmination of
 their secondary school journey. Our Northstars reflected on their transformation
@@ -35,7 +45,7 @@ graduates to continue learning and cherish the friendships formed at Northland
 as they embark on their future endeavors — keep shining!</p>
 <h4><strong>The Northland Opportunities in VIA and Academic (N.O.V.A) Trail 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeUvH7wTQjBLFZ1aXrGckW5tONKdad6Xon_zGnYG7UwMcWLdmLPy0-xSAIsm_NqA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeUvH7wTQjBLFZ1aXrGckW5tONKdad6Xon_zGnYG7UwMcWLdmLPy0-xSAIsm_NqA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>The NOVA Trail is making learning come to live as a living classroom is
 woven into the fabric of our Yishun neighbourhood. Each station is a location
@@ -51,7 +61,7 @@ away not only knowing Yishun better, but also realising that every corner
 of our neighbourhood can teach us something new.</p>
 <h4><strong>Northland celebrates Starmakers' Day 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLmGd0YKeXDhfb0H1KimJRHiPKrNzt6kkKs3ByiDmNrSliHP12Yu3g4joBJrjA7Q/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLmGd0YKeXDhfb0H1KimJRHiPKrNzt6kkKs3ByiDmNrSliHP12Yu3g4joBJrjA7Q/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>On Thursday, 4 September, our Northstars came together to give thanks
 to our amazing Starmakers with a day full of joy and appreciation! The
@@ -128,7 +138,7 @@ that this programme will continue for future student generations to come.</p>
 </div>
 <h4><strong>Northland Secondary School SG60 National Day Carnival 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe6-eUHW8C2KfQIhhgaalyO15vBV4MfVRG0V8zJT7644mhmoBbOhMa0em-dlX7LQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe6-eUHW8C2KfQIhhgaalyO15vBV4MfVRG0V8zJT7644mhmoBbOhMa0em-dlX7LQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>On Friday, 8 August 2025, Northland Secondary School came alive with the
 vibrant sights and sounds of a joyful celebration marking Singapore’s 60th
@@ -152,7 +162,7 @@ by National Day games, filling the classrooms with laughter, friendly competitio
 and class bonding.</p>
 <h4><strong>X-Cite Games 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRlzNOO9FMFCkKq6XH0G2S4GEV0hpLGytI2X6k58Mx1hTdXipXXy4KYFKk4I06V4Q/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRlzNOO9FMFCkKq6XH0G2S4GEV0hpLGytI2X6k58Mx1hTdXipXXy4KYFKk4I06V4Q/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>The X-Cite Games for our lower secondary classes was successfully organised
 by the Secondary 2 CCA leaders. Both leaders and students enjoyed the experience,
@@ -160,7 +170,7 @@ which nurtured the spirit of Sportsmanship for Life and reinforced the
 importance of embodying the true values of a sportsman.</p>
 <h4><strong>Northland commemorates Racial Harmony Day 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZpBGIZW8AzV4vOvT8dZkbvKPfFtmxgQ1W_UtbK1Fh31bI-hQt3hrbmvWb5dNtZw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZpBGIZW8AzV4vOvT8dZkbvKPfFtmxgQ1W_UtbK1Fh31bI-hQt3hrbmvWb5dNtZw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>This year’s RHD theme is “Our People, Our Tapestry” — a reminder that
 Singapore’s strength lies in the beautiful threads of our different cultures,
@@ -172,12 +182,12 @@ canteen, gave students a meaningful opportunity to appreciate the rich
 diversity of cultures in Singapore.</p>
 <h4><strong>Northstars Shine @ An Extraordinary Celebration 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSZmN4gXzPAWJg_2SrH9Gc6cZLYTymgaBkEyCewqhFLEfsrry7dlIaybtGoOOwiQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSZmN4gXzPAWJg_2SrH9Gc6cZLYTymgaBkEyCewqhFLEfsrry7dlIaybtGoOOwiQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>#shineforothers</p>
 <h4><strong>Starmakers and Northstars Shine @Malay Language Fiesta 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRljTmCAXJqK-okzfjjs5P3Z0sDyUMZOksVaLSAQThHJ8LSkvT34rpSHpxTsVmPAg/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRljTmCAXJqK-okzfjjs5P3Z0sDyUMZOksVaLSAQThHJ8LSkvT34rpSHpxTsVmPAg/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our Malay Language showcased their signature programme at the Fiesta Bahasa
 organised by MLLPC/MOE on Saturday 26 June. Our booth known as ‘Wartawan
@@ -229,7 +239,7 @@ it out!&nbsp; <a href="https://www.instagram.com/p/DMmxvOfR5Gb/?igsh=MTV6ZTcycjR
 </p>
 <h4><strong>Northstars Shine! - Team Wushu, Pipe Band and Drums, Guzheng Ensemble and Indian Dance 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6VW-hLkrDx_CL9zPyX5k9nIW92zzwQhMufBU81SHd1kRU8hGyvSwfMrJbXgZ8Fw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6VW-hLkrDx_CL9zPyX5k9nIW92zzwQhMufBU81SHd1kRU8hGyvSwfMrJbXgZ8Fw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our CCAs are excitedly preparing for An Extraordinary Celebration 2025!
 This special event provides a unique platform for individuals with special
@@ -238,7 +248,7 @@ By showcasing the talents and abilities of every participant, we hope to
 break down barriers and foster a sense of unity among diverse communities.</p>
 <h4><strong>Northstars Shine Bright at the National Schools Literature Festival 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZPrgtvk0v-ZEPBjh8JwtpsXzRE_1dgR6bLM-vQgeKAh3wQG8NLO2ttycrpBFAPA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZPrgtvk0v-ZEPBjh8JwtpsXzRE_1dgR6bLM-vQgeKAh3wQG8NLO2ttycrpBFAPA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>On 12 July 2025, our Northstars once again proved their literary prowess
 and passion for the written word at the National Schools Literature Festival
@@ -266,7 +276,7 @@ Northland’s values of Respect, Resilience, and Responsibility.</p>
 Shine on! 🌟📚🎉</p>
 <h4><strong>Northland celebrates Youth Day 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSTvkIHmxwAQVoCdl8npWH7wPvCWXxt-XmRHo5a8SrZtGFVZLDKoOJXdApKJe0XtA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSTvkIHmxwAQVoCdl8npWH7wPvCWXxt-XmRHo5a8SrZtGFVZLDKoOJXdApKJe0XtA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland celebrated Youth Day on Friday July 11th, with a memorable and
 enjoyable experience for all students. The day was filled with fun activities,
@@ -277,7 +287,7 @@ Leaders also embraced their playful side, showcasing their dance moves
 and engaging with the younger students in a fun and energetic manner.</p>
 <h4><strong>Leaders who Dare - Student Leaders’ Investiture 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpqWZsreGwOEvqawR1isTfTwjUgcwl0OBiq_hz3Zka7YpsHu-QyoLNdJv6uWoRpA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpqWZsreGwOEvqawR1isTfTwjUgcwl0OBiq_hz3Zka7YpsHu-QyoLNdJv6uWoRpA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Friday 23 May witnessed the handing over the baton from one batch to another
 in the 6th Student Leaders’ Investiture. This year’s theme, Defy Gravity,
@@ -285,12 +295,12 @@ sought to inspire our Northstars to rise beyond limits and believe in their
 potential to lead with courage and purpose. #shine #shineforothers</p>
 <h4><strong>Learners who Share - Secondary 2 National Museum Learning Journey 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBcravPNCqW7uEyPxGOHr8Nj47glSF2mM7i8EQBNoRrEqJFOTETduv-jkyfRqyoA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBcravPNCqW7uEyPxGOHr8Nj47glSF2mM7i8EQBNoRrEqJFOTETduv-jkyfRqyoA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Learners who Share - Secondary 2 National Museum Learning Journey</p>
 <h4><strong>Learners who Share- School Work Attachment Programme Highlights 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaEVaBG8qKZOCltc-1bICyne0ZD5SoWTCR2PCkbVoESpDruXMuVIyyLLjLIDkPgQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaEVaBG8qKZOCltc-1bICyne0ZD5SoWTCR2PCkbVoESpDruXMuVIyyLLjLIDkPgQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>This June, our Secondary 3 students embarked on a meaningful journey through
 the School Work Attachment Programme (SWAP), gaining real-world insights
@@ -307,7 +317,7 @@ and investing in our students' growth. Here's to building brighter futures
 together!</p>
 <h4><strong>Leaders who Dare – Northland Pipe Band 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTeFngkkQxzUThX6yF8wQk-YPdPHlY8ItFxfthxC0ZT_oIBGn745uBIVkuN43DkVw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTeFngkkQxzUThX6yF8wQk-YPdPHlY8ItFxfthxC0ZT_oIBGn745uBIVkuN43DkVw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland Secondary School proudly hosted the highly anticipated Singapore
 Pipe Band Championships 2025 on Wednesday 4 June, bringing together talented
@@ -341,7 +351,7 @@ Drumming</p>
 <p>#shine</p>
 <h4><strong>Leaders who Dare- Northstars Shine in Nee Soon South Netball Invitationals 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_UXo5s8WSIBjz-3ofsNr7FUjU2WoP6dorZKTZEA4URohi-8_CV7QO4Wk-lf9wgA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_UXo5s8WSIBjz-3ofsNr7FUjU2WoP6dorZKTZEA4URohi-8_CV7QO4Wk-lf9wgA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our Netball girls participated in the B and C Division Nee Soon South
 Netball Invitationals 2025 organised by the Nee Soon South CSN. We are
@@ -350,15 +360,15 @@ in this event. Congratulations to our Netball girls for their outstanding
 efforts and achievements!</p>
 <h4><strong>Learners who Share – SHINE Week Secondary 2 Values In action – Sustainability 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR656fkuJxWpgn6LazaZQtu0eauuobonbw-_ZTOuP3eDCrDlOYTfB2LxdNxThAO3Q/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR656fkuJxWpgn6LazaZQtu0eauuobonbw-_ZTOuP3eDCrDlOYTfB2LxdNxThAO3Q/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Learners who Share – SHINE Week Secondary 1 ALP - Code for Fun 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyE5lVMTFqHZRlsjvlZxGH-8BTNaBYg32hZwZjksC5ESRFHQTG4Eq6Jk_a7JsmRQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyE5lVMTFqHZRlsjvlZxGH-8BTNaBYg32hZwZjksC5ESRFHQTG4Eq6Jk_a7JsmRQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Leaders who Dare - Student Leaders Investiture 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSK3ms6vZRPcZPwHakCZsHQ4viRM5SAZU0llPmH0zPIiYrYETSBIzL5qUDA7MQnMQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSK3ms6vZRPcZPwHakCZsHQ4viRM5SAZU0llPmH0zPIiYrYETSBIzL5qUDA7MQnMQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>The handing over of the baton to the next batch of CCA leaders. #shine</p>
 <h4><strong>Northstar Shines at National Hard Pen Calligraphy Competition 2025</strong></h4>
@@ -391,15 +401,15 @@ that the following students have received commendations for their performance:</
 #shine</p>
 <h4><strong>Mother's Day Flower Sale 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRUTz40tYvj6fRFsWxPGCPZ4_en34NPWjjAo3Ymi34CbXgwfOrsZw3dv7KvjGVFAg/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRUTz40tYvj6fRFsWxPGCPZ4_en34NPWjjAo3Ymi34CbXgwfOrsZw3dv7KvjGVFAg/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Learners who Share - Learning Journey to Singapore Repertory Theatre (SRT) - Boy in Striped Pyjamas 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQKk9WBi3t6jv2HsoF2PMgA3xVJKcy6mc7cyRkt1ePKHfXqbu01G1nHlQG6E2qLDQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQKk9WBi3t6jv2HsoF2PMgA3xVJKcy6mc7cyRkt1ePKHfXqbu01G1nHlQG6E2qLDQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Learners who Share - Secondary 2 ALP Programme – CodeQuest: Discover, Play, Create 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR9EOHTDiVPKCOX5d2DMFaRj_stv-JVe_GyAssVEWvSKmatMWp_I0o-Q9jA2nJvVQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR9EOHTDiVPKCOX5d2DMFaRj_stv-JVe_GyAssVEWvSKmatMWp_I0o-Q9jA2nJvVQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our Secondary 2 Northstars participated in an engaging and interactive
 STEM experience titled CodeQuest: Discover, Play, Create on Friday 2 May.
@@ -409,14 +419,14 @@ basic coding concepts. This session served as a lead-in to the drone programming
 module scheduled in Term 4.</p>
 <h4><strong>Leaders who Dare – Secondary 4/5 Class Committee Student Leaders 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwT20mXK_Nrtvz96ye3i8Hxzj0dFRqfH6_HkWXymGJxVw12M9fKxSYriKdoV6D7w/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwT20mXK_Nrtvz96ye3i8Hxzj0dFRqfH6_HkWXymGJxVw12M9fKxSYriKdoV6D7w/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>The Class Committee Appointment Ceremony celebrated the formal recognition
 of newly appointed class committee leaders, acknowledging their dedication,
 leadership, and commitment to representing their peers. #daretoshine</p>
 <h4><strong>Leaders who Dare – Secondary 3 Class Committee Student Leaders 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFieiQJFYdjthCx2NypKhekTyu7b4a9Z3U3xGXkg1fUiMiIPVIVx_NHZ-od8KudQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFieiQJFYdjthCx2NypKhekTyu7b4a9Z3U3xGXkg1fUiMiIPVIVx_NHZ-od8KudQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>The Class Committee Appointment Ceremony celebrated the formal recognition
 of newly appointed class committee leaders, acknowledging their dedication,
@@ -431,20 +441,20 @@ students gain a deeper understanding of the personalities and circumstances
 that led to the outbreak of WWII in Europe.</p>
 <h4><strong>Northland Secondary School Starcolade 2025 – When Stars Align</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfZqLF1Xv_RHf8glEzsqTV0h3RluUbRuASI3ZFpFb4OBlO0vwEujM2RnD8DayMng/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfZqLF1Xv_RHf8glEzsqTV0h3RluUbRuASI3ZFpFb4OBlO0vwEujM2RnD8DayMng/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTnTGwquYV5M1hlwWk-9DS3AdRlg_SV7NRP68snwsSxqG0XX_eNMv5lo6b-Nj45ig/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTnTGwquYV5M1hlwWk-9DS3AdRlg_SV7NRP68snwsSxqG0XX_eNMv5lo6b-Nj45ig/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrAOfdlmPkUVs44p9GEE28a9wsbRJUmSTWtvpgLs6OtnJN3iZzbqPgpzXav6_Fww/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrAOfdlmPkUVs44p9GEE28a9wsbRJUmSTWtvpgLs6OtnJN3iZzbqPgpzXav6_Fww/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland rejoices in the brilliance of our Northstars and Starmakers
 in our Starcolade 2025. May you continue to shine in your ways and be the
 guiding light for others! #daretoshine #starcolade2025</p>
 <h4><strong>Northland celebrates Hari Raya 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi2GDj0iAokgfef_LDWiGluC2fHLCZtpyArh9eBsDPeahQ_2WPCOA6CL1iCWpnKA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi2GDj0iAokgfef_LDWiGluC2fHLCZtpyArh9eBsDPeahQ_2WPCOA6CL1iCWpnKA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland celebrated Hari Raya on Friday, 4 April, showcasing an enchanting
 celebration of cultural richness and artistic flair. Our talented Northstars
@@ -457,7 +467,7 @@ of the significance of Hari Raya through the series of performances prepared
 for them.</p>
 <h4><strong>Northstars Shine! Learners Who Share &amp; Leaders who Dare – Team Wushu 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQpwZrlg9P1feQIfXHUu4VJ2FUNLgWdKW3Z4wehwG7TftI-P3dwWJ7FI0YzP-QUiA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQpwZrlg9P1feQIfXHUu4VJ2FUNLgWdKW3Z4wehwG7TftI-P3dwWJ7FI0YzP-QUiA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our NSS Wushu team proudly participated in the Wushu Invitational Competition
 (a joint collaboration and co-hosted by Northland Secondary School and
@@ -511,16 +521,16 @@ but also a showcase of the dedication and talent within the piping community.</p
 </div>
 <h4><strong>Citizens who Care - Northland commemorates Total Defence Day 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrsbPJPRin9ZVemA14eo0SSKhX1Ia1vezmJUhFA9Re4gxKvlA0L_ihitN-6oxKkA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrsbPJPRin9ZVemA14eo0SSKhX1Ia1vezmJUhFA9Re4gxKvlA0L_ihitN-6oxKkA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Secondary 1s learning more about CPR</p>
 <h4><strong>Mother Tongue Languages Fortnight - Opening Ceremony 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSN3TWWfr0Q6gnezDLV_qcXQSRk_faDtM6Qz07dHg1iVQngK_ed7wbUuXcnyHicVQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSN3TWWfr0Q6gnezDLV_qcXQSRk_faDtM6Qz07dHg1iVQngK_ed7wbUuXcnyHicVQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Mother Tongue Languages Fortnight 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4hqnKhQWdi2KlaZqvyFHESqLhe6Vb8_cABg9p9XyFb5mmoBV8Ou4iTxSsPt__dA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4hqnKhQWdi2KlaZqvyFHESqLhe6Vb8_cABg9p9XyFb5mmoBV8Ou4iTxSsPt__dA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>In line with the Mother Tongue Language Department’s mission of ‘‘Live
 our Language, Love our Culture’, the department organised engaging hands-on
@@ -538,7 +548,7 @@ and Shawki from 4 Epsilon (2024). Both Artworks will be showcased in the
 Singapore Sustainable Gallery at the Marina Barrage at a later date. #shine</p>
 <h4><strong>Citizens who Care - Northland commemorates Total Defence Day - Together we make Singapore strong 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFbjT5y6Zn3a5mCtvnXj6216dHdyRkxLYCgImc2Z8npsqQoybQ8agyDixSRsardw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFbjT5y6Zn3a5mCtvnXj6216dHdyRkxLYCgImc2Z8npsqQoybQ8agyDixSRsardw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>The focus for Total Defence Day is on Singaporeans’ readiness and resilience
 in the face of crises and disruptions. Total Defence underpins our ability
@@ -549,7 +559,7 @@ Day, the school curated a range of hands-on learning experiences tailored
 to each level, aligning with the respective defence pillar.</p>
 <h4><strong>Northland celebrates Chinese Lunar New Year 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1xH9sLZgM4xZmC9PK7xgRAVs9F_Hgeo2c22rTRyZFBVRThsGWpsQLAX2Q8-tITQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1xH9sLZgM4xZmC9PK7xgRAVs9F_Hgeo2c22rTRyZFBVRThsGWpsQLAX2Q8-tITQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland ushered in the Year of the Snake on 28 January. This year, the
 theme for the New Year celebrations is 'Divine Snake ushers in a Joyful
@@ -558,7 +568,7 @@ MCAC, our talented HOD PE CCA, a spectacular Lion Dance display and a visit
 from the 'God of Fortune"!</p>
 <h4><strong>Northland celebrates Pongal in dance! 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwz4yJQ1aZRRXMgkrWw1IaAiqvUorWRYzDCg3ZUIstAKN_viEFcKKGu_v-n0RPIw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwz4yJQ1aZRRXMgkrWw1IaAiqvUorWRYzDCg3ZUIstAKN_viEFcKKGu_v-n0RPIw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland Secondary School celebrated Pongal on Friday, 24 January with
 a dance extravaganza! Pongal is a festival celebrated in South India over
@@ -568,28 +578,28 @@ dance performances from our Northstars and Starmakers. It will be a day
 to remember. #shine</p>
 <h4><strong>Northstars Shine! Spreading love and joy in our neighbourhood! 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQu4L8vQpmJXm3M-FJ8P5WQGWsPVtwsbO1eZ7jOjFoW8OWyaVDbMPT3P9fSPcnRA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQu4L8vQpmJXm3M-FJ8P5WQGWsPVtwsbO1eZ7jOjFoW8OWyaVDbMPT3P9fSPcnRA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>As Chinese New Year is around the corner, our Northstars took the opportunity
 to go around our neighbourhood wishing our neighbours good health and a
 prosperous new year!</p>
 <h4><strong>Northstars Shine! – Release of 2024 GCE O-level Results 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSs4Vo77KXjlmLR55Vlv9yTcZmWS8tTaeYcc4WkVxZXFEDqb27nkkTVf3Z5pBhyUA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSs4Vo77KXjlmLR55Vlv9yTcZmWS8tTaeYcc4WkVxZXFEDqb27nkkTVf3Z5pBhyUA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Start Right Programme- Secondary 1 Orientation - Welcome Ceremony 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwdumoYXqVt8vNO7gEwaV_hlpLX6aZqvgdCPVMM_qsFVYC99RwSOA8ZxZoU54LsA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwdumoYXqVt8vNO7gEwaV_hlpLX6aZqvgdCPVMM_qsFVYC99RwSOA8ZxZoU54LsA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland welcomes our new Northstars! May you continue to shine!</p>
 <h4><strong>Start Right Programme - Secondary 1 Orientation - CCA Carnival 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXd5Vr0pBvNp4beTJLopcKZdjxIWowp5A6nqm3_x8Mfg9rWW-4k1UmOT00H3cbVg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXd5Vr0pBvNp4beTJLopcKZdjxIWowp5A6nqm3_x8Mfg9rWW-4k1UmOT00H3cbVg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Start Right Programme- Secondary 1 Orientation - CCA Carnival</p>
 <h4><strong>Northstars Shine! - Release of 2024 GCE N-level Results</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT26Y-8BY-p2xNrYwqf569QLHjS3sSni5qhT-AFzJoVcbxDYLY7FNikF-BiyNWOpA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT26Y-8BY-p2xNrYwqf569QLHjS3sSni5qhT-AFzJoVcbxDYLY7FNikF-BiyNWOpA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>“Discipline is doing what you hate to do but doing it like you love it.”
 These wise words from Harvin (4 Orion) encapsulate his spirit of perseverance
@@ -624,7 +634,7 @@ nuggets for success-</p>
 for demonstrating resilience and grit!</p>
 <h4><strong>PassionArts 2024 – Shine</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQK43kwqqELpWHKt2fiKUW1uVEmUvV3Hzo6hWI6u2sL8kXofWbBkGTqYbcvPvFdyQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQK43kwqqELpWHKt2fiKUW1uVEmUvV3Hzo6hWI6u2sL8kXofWbBkGTqYbcvPvFdyQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>PassionArts 2024 – Shine is the culmination event for our school’s 30th
 anniversary celebrations and it is also a vibrant celebration of creativity
@@ -632,7 +642,7 @@ and the arts, bringing people together to experience the joy of artistic
 expression.</p>
 <h4><strong>Be a Northstar for a Day – Tue 12 Nov 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNgThHSvXiWKlIrxQz4L68dkTTVxkr3HU7sI_FxHzULg1akDRYQZx2Vy54K57gjA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNgThHSvXiWKlIrxQz4L68dkTTVxkr3HU7sI_FxHzULg1akDRYQZx2Vy54K57gjA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to the following primary schools for attending our
 Be a Northstar for a Day –</p>
@@ -647,7 +657,7 @@ of the spirit and energy that makes Northland a truly wonderful place.
 All the best to your PSLE!</p>
 <h4><strong>Starmakers shine at Malay Language National Learning Festival 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTaxb0w8-uhp9yhfaB3Ejzl2lyZ3ARdeNvAjOIz9_4RgIkddVjPFOVPrWzfuUz6AA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTaxb0w8-uhp9yhfaB3Ejzl2lyZ3ARdeNvAjOIz9_4RgIkddVjPFOVPrWzfuUz6AA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our ML unit shared their T&amp;L practice at SeJATi Sejiwa Learning Festival
 organised by the MOE CPDD (ML) on 5th November 2024</p>
@@ -657,19 +667,19 @@ in Teaching Malay Language' was very well-received by the participants.</p>
 Who Share'!</p>
 <h4><strong>Leaders who Dare - Alpha Centauri Overseas Student Leadership Development Training Camp 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ09aOv_2j-FaFB9VEBeLtkYbC0DQbc-Oi5mS2r0Jf3VbqtqfRr98jYkOrhrv1XTw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ09aOv_2j-FaFB9VEBeLtkYbC0DQbc-Oi5mS2r0Jf3VbqtqfRr98jYkOrhrv1XTw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Northstars Shine - End-of-year Awards Ceremony 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe9ZhG26ZPXSyx5Ya8Dd7BydfU7X1kTVJkt-FDNY_6K5z6gQtbNAmSyaKme01AGA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe9ZhG26ZPXSyx5Ya8Dd7BydfU7X1kTVJkt-FDNY_6K5z6gQtbNAmSyaKme01AGA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Citizens who Care - Secondary 1 VIA 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_qnxRUVs7agTDoPIueajjQ9P9om7q65MG2QoG2AFncKaTTHHXIoWU7TZ9w5izqw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_qnxRUVs7agTDoPIueajjQ9P9om7q65MG2QoG2AFncKaTTHHXIoWU7TZ9w5izqw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Learners Who Share – Secondary 3 ECG Learning Journeys 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRmyt6di2PM9FlVj-H-9YcFxL505oMeS_hLcuwnQySdXFjhGkuHEt5Stb0zrhIZsw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRmyt6di2PM9FlVj-H-9YcFxL505oMeS_hLcuwnQySdXFjhGkuHEt5Stb0zrhIZsw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Northstars Shine @ Piala Cendekia Sahibba 2024 (National Scrabble Competition)</strong></h4>
 <div class="isomer-image-wrapper">
@@ -695,7 +705,7 @@ done, Nurin!</p>
 </div>
 <h4><strong>Graduation Day - Class of 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOjDwdeJTTjIZhxqbOnECXulv7GemFFiPsmuRR8412QFvOqxOCwUHxmQMYlYpTiA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOjDwdeJTTjIZhxqbOnECXulv7GemFFiPsmuRR8412QFvOqxOCwUHxmQMYlYpTiA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>On Friday, 27 September, the class of 2024 celebrated the end of their
 secondary school journey. Our Northstars reminisced about their transformation—boys
@@ -735,7 +745,7 @@ Secondary team was awarded the Second Prize (二等奖).</p>
 <p>#daretoshine</p>
 <h4><strong>Leaders who Dare - Mural Painting in Commemoration of NSS 30th Anniversary</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1tFFDiLh0xJPmD382JDcBWIVulu6kq5ZV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1tFFDiLh0xJPmD382JDcBWIVulu6kq5ZV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>In commemoration of our school’s 30th Anniversary, the Art Unit is proud
 to showcase a mural painted by our very own Northstars! The 30th Anniversary
@@ -787,7 +797,7 @@ done well in the The Singapore Hokkien Huay Kuan Literary Awards. Xingyu
 has emerged 2nd runner-up in the poetry category! Well done Xingyu!</p>
 <h4><strong>Northland Celebrates Starmakers’ Day</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1joasm2f4OJz4o1RaFhcttH4gKpDGlzIW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1joasm2f4OJz4o1RaFhcttH4gKpDGlzIW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our Northstars paid tribute to our Starmakers on Thursday 29 August with
 a series of celebratory activities. The day began with a delightful bonding
@@ -799,7 +809,7 @@ Our PSG members and alumni also made time from their busy schedules to
 make it a truly memorable day for everyone involved.</p>
 <h4><strong>Northland Celebrates National Day 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgfx24afH9o25cTpVS6u8ld7gHpuhePOIpNFHCEBvaVjtiEirNv2i3MzDxMRiSPQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgfx24afH9o25cTpVS6u8ld7gHpuhePOIpNFHCEBvaVjtiEirNv2i3MzDxMRiSPQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our school celebrated Singapore’s 59th National Day on Thursday 8 August.
 The theme for this year’s National Day is “Together, As One United People”,
@@ -827,7 +837,7 @@ endeavours, Dan Lin!</p>
 <p>#daretoshine</p>
 <h4><strong>Leaders Who Dare – Our Uniformed Groups preparing for the National Day Commemoration Ceremony 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsEuJcQX0964m2dxEyrtyJc2iGUlw5cmyAhwUnpOLZ8brBTWIjM5GNnwQuR_QjQA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsEuJcQX0964m2dxEyrtyJc2iGUlw5cmyAhwUnpOLZ8brBTWIjM5GNnwQuR_QjQA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>The school would like to extend its heartfelt gratitude to our UGs for
 their outstanding dedication and hard work in preparing for the National
@@ -835,7 +845,7 @@ Day Commemoration Ceremony. Your commitment, discipline, and teamwork have
 been truly inspiring. We are proud of you! #daretoshine</p>
 <h4><strong>Northland Commemorates Racial Harmony Day 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRt2eH-vqNM0yJeLLZHq7Ke-2vDHtNilTSxiSto1RP6qnnI1z8voSi6M6s86mjrqg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRt2eH-vqNM0yJeLLZHq7Ke-2vDHtNilTSxiSto1RP6qnnI1z8voSi6M6s86mjrqg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland Secondary School commemorated Racial Harmony Day on 19 July.
 This day serves as a reminder that everyone has a role in building a harmonious
@@ -875,7 +885,7 @@ Sri (3 Pollux) won the Best Delegation Award. #daretoshine</p>
 Student in the Individual Component. #daretoshine</p>
 <h4><strong>Northstars Shine Mutiara Tari 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJ-vAYSc4lJP0dkNX9tqQESifHEOkDxMucdEfNmhyRjXUXIZNmIaKiArVLgjqxfQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJ-vAYSc4lJP0dkNX9tqQESifHEOkDxMucdEfNmhyRjXUXIZNmIaKiArVLgjqxfQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our Malay Dancers participated in the national dance competition, Mutiara
 Tari 2024 on Saturday 13 July, at Wisma Geylang Serai. They put up an elegant
@@ -889,7 +899,7 @@ awarded third runner-up. Congratulations to our Nova Lestari! #daretoshine</p>
 30th anniversary #daretoshine</p>
 <h4><strong>School Visit by Lutheran Secondary School (Hong Kong) 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbh63D05Ct4ZIOQpLo9kROjmz-q0XFTHmZhb9VzSUKVH-ppdYrovIe6-CCwD9kdw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbh63D05Ct4ZIOQpLo9kROjmz-q0XFTHmZhb9VzSUKVH-ppdYrovIe6-CCwD9kdw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland welcomed teachers and students from our partner school, Lutheran
 Secondary School from Hong Kong on Tuesday 2 July. They visited some of
@@ -898,11 +908,11 @@ Arts Groups also put up memorable performances for our visitors to keep
 them enchanted.</p>
 <h4><strong>Takraw Back to School 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6xenWXVnvUsjEeFQufTa39z8ebYCMJ_u9onLrgEAfUqGidau4A0F9Gtg42e1WNg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6xenWXVnvUsjEeFQufTa39z8ebYCMJ_u9onLrgEAfUqGidau4A0F9Gtg42e1WNg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>An Extra-Ordinary Celebration 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHn0RIqdrSu7THmS8THqK6Kmb4WKOPMnSOxNoanRKnkkUeU08cL5y00BaM1Bj3-w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHn0RIqdrSu7THmS8THqK6Kmb4WKOPMnSOxNoanRKnkkUeU08cL5y00BaM1Bj3-w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>This is the second year our school has participated in this annual event,
 Singapore’s largest inclusive concert hosted by ExtraOrdinary People, is
@@ -911,7 +921,7 @@ memories together. We are proud to be part of this vibrant celebration
 of the diversity and inclusivity.</p>
 <h4><strong>Singapore Pipe Band Championship 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCQahp9Iia0MTDGgt7yN8UOjxONezOeDoa2GekbU6yrEwvMhOjgFHFdF4mKYcDSg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCQahp9Iia0MTDGgt7yN8UOjxONezOeDoa2GekbU6yrEwvMhOjgFHFdF4mKYcDSg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>On 19 June 2024, Northland Secondary School had the honour of hosting
 the Singapore Pipe Band Championship 2024. NSS’ Pipe Band and Drums CCA,
@@ -951,11 +961,11 @@ Grace Supasinee Wong Shu Ning, also did a commendable job and came in 3rd
 a great job!!! 😀</p>
 <h4><strong>Secondary 1 Class Leaders' Appointment 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbyLm5LPgH7qIrl4IjoDzg4oZ5c4-LnQauU5seQlWlXOSuFXDaw7u_UsUDHSr9ZQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbyLm5LPgH7qIrl4IjoDzg4oZ5c4-LnQauU5seQlWlXOSuFXDaw7u_UsUDHSr9ZQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Citizens who Share - Applied Learning Programme - ElderTech 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT96BFNOQYF-qsf-Od0j-jKxe0vUZD0ct1o2lpVuGcNkz2rKcpVwR1gNDth-FD7UQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT96BFNOQYF-qsf-Od0j-jKxe0vUZD0ct1o2lpVuGcNkz2rKcpVwR1gNDth-FD7UQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Last week during SHINE, we had our ALP tier 2 programme where our Northstars
 showcased their inventions with our elderly from St Luke's Active Ageing
@@ -963,7 +973,7 @@ Centre. After the meet-up, we also engaged with the elderly with some baking
 and badminton.</p>
 <h4><strong>Student Leaders’ Investiture 2024 - Shine On, Shine For, Shine Within</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSV3XK9gYeaRHYPfMlmmB56gkD14XXSBeoTb-wdHyrrsnB4_-TztVBLEzMIkUkHGA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSV3XK9gYeaRHYPfMlmmB56gkD14XXSBeoTb-wdHyrrsnB4_-TztVBLEzMIkUkHGA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Last Friday, May 17, our school held the investiture ceremony for our
 student leaders. The theme for this year's investiture is "Shine On, Shine
@@ -977,7 +987,7 @@ to lead themselves and others in meaningful endeavours.</p>
 <p>Shine Northstars! #daretoshine #shineforothers</p>
 <h4><strong>Mother Tongue Languages Fortnight - Live our Language. Love our Culture</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHqsWXhlEt-dxYjPaohQbrw2FonN2sz1Sr-qoMpgzBFiTJvfk47EitDuyCkWczXQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHqsWXhlEt-dxYjPaohQbrw2FonN2sz1Sr-qoMpgzBFiTJvfk47EitDuyCkWczXQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>In line with the Mother Tongue Language Department’s mission of ‘‘Live
 our Language, Love our Culture’, the department organised interesting hands-on
@@ -985,7 +995,7 @@ activities for our students to gain a deeper understanding of their respective
 cultures and heritage.</p>
 <h4><strong>NSS Starcolade 2024 - Shine!</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUMEnoxW2Ko2aZKKSRDVsNdbsQpnSJfB4YepZT0hDZ2hxJB-Zw4hdIthwvDjTzDA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUMEnoxW2Ko2aZKKSRDVsNdbsQpnSJfB4YepZT0hDZ2hxJB-Zw4hdIthwvDjTzDA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>On Friday, April 19, our school gathered to honour the accomplishments
 of our Northstars and Starmakers. With the presence of our School Advisory
@@ -995,7 +1005,7 @@ to be a resounding success, while simple, yet it was meaningful and inspiring.
 Congratulations to each deserving recipient on their well-earned recognition!</p>
 <h4><strong>Northland celebrates Hari Raya 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBbiACd_ORlqS3kCkhQ0E9hMD1v4dFjgbskap4Rf0FoN9KkcttfEcyzcRT1ATkUg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="749" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBbiACd_ORlqS3kCkhQ0E9hMD1v4dFjgbskap4Rf0FoN9KkcttfEcyzcRT1ATkUg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland's Hari Raya festivities was celebrated on Friday 12 April, with
 an enchanting display of cultural richness and artistic flair. The Symphonic
@@ -1047,7 +1057,7 @@ of Health, Ms. Hildegarde Naughton, as well as Ms. Sarah McGrath, Ireland’s
 Ambassador to Singapore.</p>
 <h4><strong>X-Cite Games</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLAhvqfc4DSa3_2x1xyElUAI2WBKvXDYQmj-rcLrcUcgVg_ssNC0JUNUioGKXRnA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLAhvqfc4DSa3_2x1xyElUAI2WBKvXDYQmj-rcLrcUcgVg_ssNC0JUNUioGKXRnA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>SPARCLE 1</strong></h4>
 <p>SPARCLE stands for&nbsp;<strong>SP</strong>orts,&nbsp;<strong>A</strong>cademic,&nbsp;<strong>R</strong>3&nbsp;(Respect,
@@ -1059,27 +1069,27 @@ aims to achieve these aims by providing authentic learning experiences&nbsp;outs
 classrooms in a real-world environment.</p>
 <h4><strong>Secondary 1 Camp Respect</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGjbsl0ikbZ109TkFNzkNqbdN3uIgQ2deQjc025ls6_AGLXnQ7QFSv9WzrI98zpA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGjbsl0ikbZ109TkFNzkNqbdN3uIgQ2deQjc025ls6_AGLXnQ7QFSv9WzrI98zpA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Secondary 2 – Camp Responsibility</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQASErgb7tSTCjnWafa9j4T4NlBeIC40p6hQfGkJhGfkp5SjHnp8xPusH3VPDR7SQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQASErgb7tSTCjnWafa9j4T4NlBeIC40p6hQfGkJhGfkp5SjHnp8xPusH3VPDR7SQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Secondary 3 – Camp Resilience</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_6xaFKmnZdcJsMYt8BxruglKQS-xG5ET6lTkB_qa9DQ3qhpcLO35eX8jd28TMbg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_6xaFKmnZdcJsMYt8BxruglKQS-xG5ET6lTkB_qa9DQ3qhpcLO35eX8jd28TMbg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Secondary 4E5N Graduation Programme</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlH8hTYgGZIVdet4Voy7Z3wBYXtPmnIcPnEzd2CtIzJj9McdzvJR_1KbOEojjsrA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlH8hTYgGZIVdet4Voy7Z3wBYXtPmnIcPnEzd2CtIzJj9McdzvJR_1KbOEojjsrA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Secondary 4N Elective Modules</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqGtpspzJxUFWVWNxXaLqt0fbANmKSj2BYCdlS7y2OZc3YnFLSCQ24TZmqGHWn9A/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqGtpspzJxUFWVWNxXaLqt0fbANmKSj2BYCdlS7y2OZc3YnFLSCQ24TZmqGHWn9A/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Commemorating 40 Years of Total Defence - Together We Keep Singapore Strong</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTqK-VVYaaf_bz98lOhw0hjNN63gUbmO_qKN2N62AXak_jRghJEqTgHseqtWhukBg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTqK-VVYaaf_bz98lOhw0hjNN63gUbmO_qKN2N62AXak_jRghJEqTgHseqtWhukBg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland commemorated Total Defence Day with a suite of experiential
 learning activities to drive home the message - “Together, We Keep Singapore
@@ -1091,7 +1101,7 @@ school also participated in a Fire Drill to learn about emergency preparedness
 and experienced a food disruption exercise.</p>
 <h4><strong>Northland celebrates Chinese Lunar New Year</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQT1RVYlftFDX8zRRxfsFo3wuWHBBUClni6d78Qgifr_Kpox11uYHV-qO8mYV-OCA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQT1RVYlftFDX8zRRxfsFo3wuWHBBUClni6d78Qgifr_Kpox11uYHV-qO8mYV-OCA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland ushered in the Chinese Lunar New Year on 9 February. This year,
 the theme for the New Year celebrations is ‘Soaring with Joy to Celebrate
@@ -1101,20 +1111,20 @@ the day came - our classes’ dragon showcase, the Lion Dance display and
 a visit from the ‘God of Fortune’!</p>
 <h4><strong>Northstars Shine! Our first collaboration with Hao Ren Hao Shi in 2024!</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRebebeiLUuNIT3eoya3esRiLPt7lpiSkVPwaDuf3Q78FGVok_0tOUQa7hXD9HXg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRebebeiLUuNIT3eoya3esRiLPt7lpiSkVPwaDuf3Q78FGVok_0tOUQa7hXD9HXg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our Northstars &amp; Starmakers shine again in spreading their love for
 the less fortunate on a wonderful Saturday 3 February 2024.</p>
 <h4><strong>Northstars Shine! Spreading love and joy in our neighbourhood!</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4EfDGwIUzek0iCjlZOkzCngxzctD6QKz6VMv5GQCbef2V_qyP0If_EcsOJDeJGg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4EfDGwIUzek0iCjlZOkzCngxzctD6QKz6VMv5GQCbef2V_qyP0If_EcsOJDeJGg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>As Chinese New Year is approaching, our Northstars took the opportunity
 to go around our neighbourhood wishing our neighbours good health and a
 prosperous new year!</p>
 <h4><strong>Northland celebrates Pongal</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShKWWngihSl-z_Chk6EUSefM6W7v7FOdK9S1UL1WEiOXKYL_dNn74dVplU0pRcYw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShKWWngihSl-z_Chk6EUSefM6W7v7FOdK9S1UL1WEiOXKYL_dNn74dVplU0pRcYw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland Secondary School celebrated Pongal on Friday, 19 January. Pongal
 is a festival celebrated in South India over four days, by farmers who
@@ -1124,7 +1134,7 @@ our community and also stress on the importance about learning about other
 cultures and practices.</p>
 <h4><strong>Northstars Shine – Release of 2023 GCE O-level Results</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2JzY1JMP1v4iqvXBbHkm0CKfkuwktsBQ399bbDtEU66AnhitUfI3rScWWxURh_Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2JzY1JMP1v4iqvXBbHkm0CKfkuwktsBQ399bbDtEU66AnhitUfI3rScWWxURh_Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>What is the secret to success? For some of our top students, the secret
 is to start revision early and practice good time management.</p>
@@ -1138,7 +1148,7 @@ for their post-secondary education. Congratulations Northstars for your
 stellar performances!</p>
 <h4><strong>Cluster CCA- Northland Pipe Band and Drums</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTVVwVX4QuMtHIwI2iSS9ytgvxP432AwMqx53wVqP6rjKD2KSCPEsIT-RqXiVcwUA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTVVwVX4QuMtHIwI2iSS9ytgvxP432AwMqx53wVqP6rjKD2KSCPEsIT-RqXiVcwUA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>With cluster CCAs in the pipeline for schools in the N2 cluster, the Northland
 Pipe Band and Drums CCA had the privilege of being invited to two cluster
@@ -1150,32 +1160,32 @@ musical enchantment to much excitement and interest from the students of
 these schools.</p>
 <h4><strong>START RIGHT! &amp; Sec 1 CCA Orientation 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTg9c_aFuHd8nYmw06vxmIFVPDS5M8KD9gDluAqtRi5WAK7hxRqabTxy5Q7mmVsBQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTg9c_aFuHd8nYmw06vxmIFVPDS5M8KD9gDluAqtRi5WAK7hxRqabTxy5Q7mmVsBQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>START RIGHT! &amp; Sec 1 CCA Orientation.</p>
 <h4><strong>Secondary 1 Welcome Ceremony 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSn3r3gzUgPQYHJynfIlEe6Y2WRjCu1OrtmLI6xY_xLZg_8ngzFchk6YX0zgqv2wg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSn3r3gzUgPQYHJynfIlEe6Y2WRjCu1OrtmLI6xY_xLZg_8ngzFchk6YX0zgqv2wg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>You are a Northstar now! Secondary 1 Welcome Ceremony</p>
 <h4><strong>Secondary 1 Orientation 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSo8C6tsiYjfcUybVYH7ABmwyICsZgXyvLJfjulPKCBDaaqzsER8wfFXwIeJ6_VSA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSo8C6tsiYjfcUybVYH7ABmwyICsZgXyvLJfjulPKCBDaaqzsER8wfFXwIeJ6_VSA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Welcome Northstars! Secondary 1 Orientation.</p>
 <h4><strong>Class Photos commemorating our 30th Anniversary!</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwPuJbN2e8SE97vQiqbQd6wag6bHNVswtxmkjmAEHMWF0txIl8-NthAStR_6ttwQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwPuJbN2e8SE97vQiqbQd6wag6bHNVswtxmkjmAEHMWF0txIl8-NthAStR_6ttwQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>START RIGHT 2024! Class Photos commemorating our 30th Anniversary!</p>
 <h4><strong>Our Starmakers commemorating our 30th Anniversary!</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMvOKh2sdiXQk0HzRjvdloGEz14np4GrawDilcAM4h_eSzGetxyWpwTQoXRkh99g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMvOKh2sdiXQk0HzRjvdloGEz14np4GrawDilcAM4h_eSzGetxyWpwTQoXRkh99g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Welcome 2024! Our Starmakers commemorating our 30th Anniversary!</p>
 <h4><strong>Welcome Northstars!</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwD8SQe7ykhYR9TNtuqazzYtrF-SLZ6NuQWL76fXSvXNBq01g0VhjntI4IjrhUHQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwD8SQe7ykhYR9TNtuqazzYtrF-SLZ6NuQWL76fXSvXNBq01g0VhjntI4IjrhUHQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our school welcomed our new Secondary 1 Northstars to the school as they
 reported to school for Secondary 1 registration. The year promises to be
@@ -1183,7 +1193,7 @@ an exciting one as they embark on a brand new journey and discover more
 about their talents, passions and strengths.</p>
 <h4><strong>Northstars Shine! - Release of 2023 GCE N-level Results</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQah7U-9uwYEpfILJ8yOQwwYOIYdbTVFMc7jStuHvRvoclP0ZIkr1J8CBxLS5FzvA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQah7U-9uwYEpfILJ8yOQwwYOIYdbTVFMc7jStuHvRvoclP0ZIkr1J8CBxLS5FzvA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>“Always study at your own pace. It is good to have stress but make sure
 those are beneficial stress that can help you grow.” These were the wise
@@ -1271,7 +1281,7 @@ to learn :)</p>
 a new chapter 📚 Let's Seize the day! 💪🏼 Carpe Diem 🌈</p>
 <h4><strong>NSS Open House - Thank you Parents &amp; P6ers!</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqwodczuepCPGKbN_Ere7uJoVKZJwdcX-PVbJTTr-VUFBiVvLkhxVQj0ccNTtf5w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqwodczuepCPGKbN_Ere7uJoVKZJwdcX-PVbJTTr-VUFBiVvLkhxVQj0ccNTtf5w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Dear Parents and P6-ers, Thank you for attending our school's Open House!
 We hope we have given you a glimpse of how our school nurtures our Northstars
@@ -1295,7 +1305,7 @@ out the better version of herself.</p>
 out to achieve for herself! We believe in her !</p>
 <h4><strong>An Extraordinary Celebration: Northland x MINDS Woodlands Gardens School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DeUiOGbevdc?si=LpANEbE6a2mWI93u"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DeUiOGbevdc?si=LpANEbE6a2mWI93u"></iframe>
 </div>
 <p>On 15 November, our Indian Dance, Malay Dance, MCAC, Wushu, supported
 behind the scenes by InfoComm &amp; HeART Clubs performed with our friends
@@ -1304,7 +1314,7 @@ Tharman &amp; dignitaries from 10 countries. Congratulations to our CCAs
 for a job well done!</p>
 <h4><strong>Girl Guides Sale of Cookies 2023</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWOsk9cvuD1TLt_pOZFMbNrXWj9qCzo53DdPGW5HQZr8tHxiGu0dd0sjD2PbPHtw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWOsk9cvuD1TLt_pOZFMbNrXWj9qCzo53DdPGW5HQZr8tHxiGu0dd0sjD2PbPHtw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>NSS Girl Guides stepped out of their comfort zone in the Public Cookie
 Sales at AMK Hub this year. They displayed their enterprising spirit and
@@ -1312,7 +1322,7 @@ managed to sell 330 tins just within 5 hours!</p>
 <p>Thanks a crunch 🍪 to everyone who has supported the Guides this year!</p>
 <h4><strong>UPLIFT Day 2023</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWVFBWzxENQaIZASVrsuE15NbAVp7yvSONBUo7FniAnqxhJjTiTV61a5LWIycCdw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWVFBWzxENQaIZASVrsuE15NbAVp7yvSONBUo7FniAnqxhJjTiTV61a5LWIycCdw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A day to celebrate the completion of all UPLIFT activities in 2023 and
 to celebrate all UPLIFT students as individuals. It was a day of fun as
@@ -1320,7 +1330,7 @@ we gathered for laser tag, lunch, ice cream and ended the day with creating
 our own perler bead keychains / nano block figures.</p>
 <h4><strong>Citizens Who Care - Values in Action</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWFz5i81s5cXkj0y6vELjJK71hDzU5HYgPBGv2c8RZTv6etacHv84zl7jyI3GiNA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWFz5i81s5cXkj0y6vELjJK71hDzU5HYgPBGv2c8RZTv6etacHv84zl7jyI3GiNA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our Starmakers and NPCC cadets and InfoComm members served the community
 last weekend. Their relentless effort and unwavering support have ensured
@@ -1328,7 +1338,7 @@ the smooth running of our final VIA for year 2023 in collaboration with
 Hao Ren Hao Shi. Well done Northstars!</p>
 <h4><strong>Leaders who Dare - Battle Royale emerges in Madagui Forest, Vietnam</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS8XNtSOGeih5_s5l4kXkIvmrpb-VUZ_SCrRkcDcXhHzSS4t7NVQRjn8XzGvtzavg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS8XNtSOGeih5_s5l4kXkIvmrpb-VUZ_SCrRkcDcXhHzSS4t7NVQRjn8XzGvtzavg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Amidst the Wilderness of Madagui Forest City in Vietnam, where enthusiasm
 thrived amidst intense heat, 40 student leaders embarked on an exhilarating
@@ -1342,7 +1352,7 @@ learned from the Madagui Wilderness into their student leadership journey
 – to be Leaders who Dare</p>
 <h4><strong>Leaders who Dare - Student Leadership and Cultural Immersion Trip to Vietnam 2023</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCKTMJyNb_OycLLks1d5LD3iEO3tgP2GHkQJaJMC2de9Uq5k_lxR5L6N9BdZS-XA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCKTMJyNb_OycLLks1d5LD3iEO3tgP2GHkQJaJMC2de9Uq5k_lxR5L6N9BdZS-XA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>As part of our effort to groom our student body to be Leaders Who Dare,
 we have created a top-tier leadership programme where 40 Student Councilors
@@ -1367,31 +1377,31 @@ of change by shaping their unique journey as top leaders and leaders who
 dare in NSS.</p>
 <h4><strong>Primary schools P6 Outreach@ North View Primary School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRxOPmwfyPc-_IxfHE9dAwAwrAnh0Dq-6sEuAzTH_QKWtCtbOc1tY4KOL2q_-A5Mw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRxOPmwfyPc-_IxfHE9dAwAwrAnh0Dq-6sEuAzTH_QKWtCtbOc1tY4KOL2q_-A5Mw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to North View Primary School for receiving us! Good
 luck to all P6 students for your PSLE!</p>
 <h4><strong>Primary schools P6 Outreach@ Jiemin Primary School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRUb7tuGa1Kwx8n1-vAgsywgLAmAw-JjHJWC1Q3Z_ip1hAo-8YtRfQAYhwJtZdTlQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRUb7tuGa1Kwx8n1-vAgsywgLAmAw-JjHJWC1Q3Z_ip1hAo-8YtRfQAYhwJtZdTlQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to JPS for receiving us! Good luck to all P6 Jieminites
 for your PSLE!</p>
 <h4><strong>Primary schools P6 Outreach@ Naval Base Primary School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFunEgZAxOW49g0ADNgx4Qxl272g38wAuu98bXGK54hibhB79n1k7sOLtvzGmT5Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFunEgZAxOW49g0ADNgx4Qxl272g38wAuu98bXGK54hibhB79n1k7sOLtvzGmT5Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to NVPS for receiving us! Good luck to all P6 NVPS
 students for your PSLE!</p>
 <h4><strong>Primary schools P6 Outreach@ Xishan Primary School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSLWD4tS9VUtIzvbqtFIAuNcB1iNUOrdmzJaKUL2lf2qmwozTZjwg_jz1wuipsGVQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSLWD4tS9VUtIzvbqtFIAuNcB1iNUOrdmzJaKUL2lf2qmwozTZjwg_jz1wuipsGVQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to XPS for receiving us! Good luck to all P6 XPS
 students for your PSLE!</p>
 <h4><strong>Citizens who Care – Sec 1 Values in Action</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQR8lT5ER442ZpPWfAtzQkvqZhAMIATo9b4Lf1OBVhgYhXi6tJI0wG09gU4moE5aw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQR8lT5ER442ZpPWfAtzQkvqZhAMIATo9b4Lf1OBVhgYhXi6tJI0wG09gU4moE5aw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>This year, our Sec 1 VIA extended beyond the classroom. In the spirit
 of being Citizens Who Care, our Northstars had the opportunity to serve
@@ -1399,7 +1409,7 @@ the community by getting their hands dirty in keeping the environment clean.
 Great job Northstars!</p>
 <h4><strong>Primary schools P6 Outreach@ Ahmad Ibrahim Primary School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHidi15ZJjfCbRHZrn0wyv4l5cTp-n0GRJ_h_x6TSFMrQ5-DL1Rx0N1djB-g4uHw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHidi15ZJjfCbRHZrn0wyv4l5cTp-n0GRJ_h_x6TSFMrQ5-DL1Rx0N1djB-g4uHw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to AIPS for receiving us! Good luck to all P6 AIPS
 students for your PSLE!</p>
@@ -1413,25 +1423,25 @@ do take care of yourself, remember the pointers above to stay safe and
 keep well! See you in 2024!!</p>
 <h4><strong>Primary schools P6 Outreach@ Peiying Primary School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTCKL3Dr8fKkZ8ALybRrkRq__qKP6eAIpBEHkjMn2U5_s0q_EvEWQcq8ViR4U51oA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTCKL3Dr8fKkZ8ALybRrkRq__qKP6eAIpBEHkjMn2U5_s0q_EvEWQcq8ViR4U51oA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to Peiying Primary School for receiving us! Good
 luck to all P6 Peiying students for your PSLE!</p>
 <h4><strong>Primary schools P6 Outreach@ Huamin Primary School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSR-VzHCnr6PW40PqsA83_AWFRA5zO7LdPSWpIcwHvKIFQotPxXDflAMivPOC3thw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSR-VzHCnr6PW40PqsA83_AWFRA5zO7LdPSWpIcwHvKIFQotPxXDflAMivPOC3thw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to Huamin Primary School for receiving us! Good luck
 to all P6 Huaminites for your PSLE!</p>
 <h4><strong>Primary schools P6 Outreach@ Wellington Primary School</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe2iIcTql3tiMxwpkVD0-wXeVrcSFVVp2K3MzpBzhr329gqB__pB-lyKHvvOG9Tg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe2iIcTql3tiMxwpkVD0-wXeVrcSFVVp2K3MzpBzhr329gqB__pB-lyKHvvOG9Tg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>A very BIG thank you to Wellington Primary School for receiving us! Good
 luck to all P6 Wellingtonians for your PSLE!</p>
 <h4><strong>A Northstar Shines! – Jarret Low (3 Orion)</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThy-X8yOiitMCaR6bxVi2XVtEjtLkbNAUdc3Lb_3dpSZrSkTeyCqnhJMO-ojm0bg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThy-X8yOiitMCaR6bxVi2XVtEjtLkbNAUdc3Lb_3dpSZrSkTeyCqnhJMO-ojm0bg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Every year, the Computer Applications unit in MOE conducts the Animation
 and Game Making Competition for Secondary 2 (Animation Category) and Secondary
@@ -1468,7 +1478,7 @@ also share a bit more about our Northland story. Sign up to attend our
 school leaders’ dialogue at https://go.gov.sg/nssopenhouse2023.</p>
 <h4><strong>Graduation Day 2023</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQiUthcEA-Dygl8Zlcxgk9QNOh4lu4czoyOkzRDlXcR-n9YYe5HKljVRC5_bCusbg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQiUthcEA-Dygl8Zlcxgk9QNOh4lu4czoyOkzRDlXcR-n9YYe5HKljVRC5_bCusbg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Friday, 27 September marked the end of the secondary school life for the
 class of 2023. Our Northstars took a trip down memory lane and witnessed
@@ -1499,7 +1509,7 @@ attaining first in the Upper Sec NA category in the All Singapore Secondary
 Maths Competition! Well done Ting Ting!</p>
 <h4><strong>Northland celebrates Starmakers’ Day</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7hNTGNZUIEoALsVy7AGNwM2CiIHIMOcwtQMvvpKgryyb5DaZpPqAtg7DUotRuUQ/embed?start=true&amp;loop=true&amp;delayms=3000&amp;slide=id.p9"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7hNTGNZUIEoALsVy7AGNwM2CiIHIMOcwtQMvvpKgryyb5DaZpPqAtg7DUotRuUQ/embed?start=true&amp;loop=true&amp;delayms=3000&amp;slide=id.p9"></iframe>
 </div>
 <p>Our Northstars paid tribute to our Starmakers on Thursday 31 August with
 a series of celebratory activities. We started off the day with wonderful
@@ -1511,7 +1521,7 @@ also took time off their busy schedules to visit their former mentors and
 it was certainly an memorable day for all.</p>
 <h4><strong>Northstars Shine – Prove It challenge</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbo5RrbhBr1x9OhksZiP6Huis9ERRsI1sZy3qx3YXJk_Z3Pjrj6if9epIQhIK34w/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="557" width="528" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbo5RrbhBr1x9OhksZiP6Huis9ERRsI1sZy3qx3YXJk_Z3Pjrj6if9epIQhIK34w/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Some of our Secondary 1 Northstars participated in the Prove It challenge
 organised by NLB. We sent in 2 groups which investigated the following
@@ -1555,7 +1565,7 @@ both groups achieved the Silver Award! The students are –</p>
 </ul>
 <h4><strong>Northland celebrates our nation's 58th birthday</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGPtGitgk42BwGpcFsl5hkMALxK1RY7gOz2fA0krDQ69YPNMXxeAWVCse5d188LQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGPtGitgk42BwGpcFsl5hkMALxK1RY7gOz2fA0krDQ69YPNMXxeAWVCse5d188LQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland celebrated Singapore’s 58th National Day with a series of activities
 on Tuesday 8 Aug. The theme for this year’s National Day is “Onward as
@@ -1564,7 +1574,7 @@ onward together in building our shared future as one united people. We
 had fun, wore our red and showed our pride as one nation, one Singapore!</p>
 <h4><strong>Learners who Share @ Nee Soon Green Carnival</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdKuDVGEmix4jgYXTLxwBvCI7QAIEaZGDQQ_xgVI78f2-h5EyY2itnexailsv7Xg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdKuDVGEmix4jgYXTLxwBvCI7QAIEaZGDQQ_xgVI78f2-h5EyY2itnexailsv7Xg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>On Sunday 30 July, Northstars from 2 Pollux set up a booth at Nee Soon
 East Senior Hub to interact with the residents in the community and to
@@ -1576,7 +1586,7 @@ who visited the booth. As a result, a number of residents went on and pledge
 and to do their part for the environment. Well done Northstars!</p>
 <h4><strong>Northland Commemorates Racial Harmony Day – Singapore: Our Multicultural Mosaic</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSTok_R1figVq9ZZOoh6TVL0A68Rksk6vELMymLPe5IQf2PIS3CW3OY1YbTuBCO0w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSTok_R1figVq9ZZOoh6TVL0A68Rksk6vELMymLPe5IQf2PIS3CW3OY1YbTuBCO0w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland Secondary School commemorated Racial Harmony Day on 21 July.
 The day serves to remind us to be proud of our heritage and to learn to
@@ -1587,7 +1597,7 @@ The highlight of the day is definitely the assembly programme which served
 to educate and entertain our Northstars on racial harmony.</p>
 <h4><strong>Learning for Life Programme – X-Cite Games</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkXkJKqIdnSWjPYjv4uOCVIbG-EAZYWM1T2eB38gn_dzzTwCbOLijwNSAm_daFnw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkXkJKqIdnSWjPYjv4uOCVIbG-EAZYWM1T2eB38gn_dzzTwCbOLijwNSAm_daFnw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>The X-Cite Games is part of the school’s Learning for Life Programme,
 "Game for Life" which leverages sports and physical activity to prepare
@@ -1598,7 +1608,7 @@ another in a variety of games like soccer, Captain’s ball, ultimate frisbee
 and handball.</p>
 <h4><strong>Youth Day Celebrations - Be-YOU-tiful</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTyqAvmc0jimaOTca2zzWmJNA2LZKP1o8iSRdK0vZ0J2YvgT21U0LmTN9_N3afbdQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTyqAvmc0jimaOTca2zzWmJNA2LZKP1o8iSRdK0vZ0J2YvgT21U0LmTN9_N3afbdQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Northland celebrated Youth Day this year with a series of activities on
 7 July. Northstars got to come to school in their casual wear. The day
@@ -1607,7 +1617,7 @@ at the photo booths set up by Student Councillors, and it culminated to
 the celebratory concert which celebrated the days of being young and beautiful.</p>
 <h4><strong>School Exchange and Cultural Immersion Programme in Hong Kong</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvxTg2tSeh31dVXYq5YwihVc9NNO3tm9PLJromH733hdRLmMkQf8TdrekZrPZFLA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvxTg2tSeh31dVXYq5YwihVc9NNO3tm9PLJromH733hdRLmMkQf8TdrekZrPZFLA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Our Northstars and Starmakers went on a School Exchange and Cultural Immersion
 Programme in Hong Kong from 30 May to 2 June. The highlight was definitely
@@ -1643,14 +1653,14 @@ was followed by the swearing-in of the new Student Council and the affirmation
 of the CCA leaders. Our student leaders pledged to be Leaders who Dare,
 serving the community with pride and moral courage.</p>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFpP1LQObpwP6RDk47bYI-XMMc_KYfP4AMTo4tTHYuST7qWw6AY9bFrNGPcypGiQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFpP1LQObpwP6RDk47bYI-XMMc_KYfP4AMTo4tTHYuST7qWw6AY9bFrNGPcypGiQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Olympi-X 2023</strong></h4>
 <p>Olympi-X games is the new carnival name for the X-Celebration challenge.
 In this sports event, CCA groups pit against each other in exciting and
 healthy sports competitions to have fun and build camaraderie.</p>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRX7_Szk_Pd_5CcU7XvzbW7HBEnentDWjVLJthm_mKf6dtT5g7hk7gTmyVTYIFrDw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRX7_Szk_Pd_5CcU7XvzbW7HBEnentDWjVLJthm_mKf6dtT5g7hk7gTmyVTYIFrDw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Northland celebrates Hari Raya</strong></h4>
 <p>‘A Rojak Raya’ is the theme for this year’s Hari Raya celebration. Rojak
@@ -1661,7 +1671,7 @@ world, regardless their ethnicities. The celebration featured elements
 of educating through games, fashion influences and food, all of which was
 conceptualised, assembled and executed by student directors.</p>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_SCyPaybGhRjlUG1KIQi9QDYmsRn5s-apDJ7AnyLOu6GFLFpN-gAOfhBxBBZ5-Q/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_SCyPaybGhRjlUG1KIQi9QDYmsRn5s-apDJ7AnyLOu6GFLFpN-gAOfhBxBBZ5-Q/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>ALP - Eldertech - Technology for Adaptive Aging - Code for Fun</strong></h4>
 <p>On 15 to 18 May, Secondary 1 Northstars took part in the Applied Learning
@@ -1669,7 +1679,7 @@ Programmne (ALP) Code for Fun. The students had a good time with the coding
 sessions as well as assembling a truck using cardboards. They had opportunity
 to troubleshoot their codes so that their prototypes can function as intended.</p>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9W09v30NoZa8zKwnxB0Tc4S6Q1wa_HERzAjnOBxHAJSrdQnFo-dX3oPnJliKWfg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9W09v30NoZa8zKwnxB0Tc4S6Q1wa_HERzAjnOBxHAJSrdQnFo-dX3oPnJliKWfg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Congratulations Northstars - SYF Achievements</strong></h4>
 <p>Congratulations to our Performing Arts CCAs for doing well at the SYF
@@ -1692,7 +1702,7 @@ Arts Presentation 2023! Well done Northstars!</p>
 </li>
 </ol>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PQueZT3IhSI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PQueZT3IhSI"></iframe>
 </div>
 <h4><strong>NSS Starcolade 2023</strong></h4>
 <p>On Friday 28 April, the school came together to celebrate the achievements
@@ -1702,7 +1712,7 @@ Starcolade live in the Hall or via livestream from the classrooms. The
 event was a big success and while simple, it was meaningful and inspiring.
 Congratulations to all deserving recipients!</p>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTT_bTd77PDd_gfDV5JQH2P8LAfSmUYCDdhSW4uYfrOWF0B9lLUHzAor3VJCmK8Rw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTT_bTd77PDd_gfDV5JQH2P8LAfSmUYCDdhSW4uYfrOWF0B9lLUHzAor3VJCmK8Rw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>SPARCLE 1</strong></h4>
 <p>SPARCLE stands for SPorts, Academic, R3 (Respect, Responsibility and Resilience)
@@ -1714,27 +1724,27 @@ aims to achieve these aims by providing authentic learning experiences
 outside classrooms in a real-world environment.</p>
 <h4>X-treme Run</h4>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQGVRNvgcRrrZQ1oUFn6F6YIwCDNYKhHLg-IFglWkRZAjMNAPCVfrYy_n6T8r3K3g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQGVRNvgcRrrZQ1oUFn6F6YIwCDNYKhHLg-IFglWkRZAjMNAPCVfrYy_n6T8r3K3g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Secondary 1 Camp Respect</h4>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3vnbyYnOJx6FO5qLszIxHEpvceSFVZTyS2SkeNJLPC1IskTsT_SgU6vh-DfWCBA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3vnbyYnOJx6FO5qLszIxHEpvceSFVZTyS2SkeNJLPC1IskTsT_SgU6vh-DfWCBA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Secondary 2 Camp Responsibility</h4>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT5DFF2_UVGKzL-ejqrA54KNIJU3o219Z8VzjlEI8AdqL1Jhjoe0F9nTGPWfY7XGQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT5DFF2_UVGKzL-ejqrA54KNIJU3o219Z8VzjlEI8AdqL1Jhjoe0F9nTGPWfY7XGQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Secondary 3 Camp Resilience</h4>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqvrD_eYv4uf85BMgdCO2RSQHW1GproDQLUonJSu-GjMi_dKylntgEnmCyE6KliQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqvrD_eYv4uf85BMgdCO2RSQHW1GproDQLUonJSu-GjMi_dKylntgEnmCyE6KliQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Secondary 4N Elective Modules</h4>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSknhKVeZf7AvstK2-Gl-uNybVQs00lcjeaVQ-YKdQXVxPZ1RtLmvIW2n-XlkHBA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSknhKVeZf7AvstK2-Gl-uNybVQs00lcjeaVQ-YKdQXVxPZ1RtLmvIW2n-XlkHBA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Sec 4E5N Graduation Programme</h4>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT44LPg8Rdq5EoQqwvfxIyJ2uQhOJIePdwl1UU5PX-IUR9UQ1Mom-e3z-O7qxrnsw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT44LPg8Rdq5EoQqwvfxIyJ2uQhOJIePdwl1UU5PX-IUR9UQ1Mom-e3z-O7qxrnsw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Mother Tongue Languages Fortnight - Live our Language. Love our Culture</strong></h4>
 <p>In line with the Mother Tongue Language Department’s mission of ‘‘Live
@@ -1742,7 +1752,7 @@ our Language, Love our Culture’, the department organised interesting hands-on
 activities for our students to gain a deeper understanding of their respective
 cultures and heritage.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ858xh54S_2Olxo1rJamFqDf4ogPrdwKJ_anafSBeHfrA6pMylnKRvSt4K61-aIBr--CXk_YBYs_wz/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ858xh54S_2Olxo1rJamFqDf4ogPrdwKJ_anafSBeHfrA6pMylnKRvSt4K61-aIBr--CXk_YBYs_wz/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland commemorates Total Defence Day -Citizens who Care</strong></h4>
 <p>Northland commemorated Total Defence Day on 14 February. Our theme this
@@ -1757,7 +1767,7 @@ to learn more about Military Defence. Our Secondary 3s learnt more about
 Changi Airport in the Changi Experience Studio and our graduating classes
 embarked on their VIA Journeys.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQl3n_EwEwzoC9L0u7dRWG0w_zWTExN9vKvKseI-BijMqpgc-ZMCi1ErBRbQe5xZ4JEftxUzkxyEVAl/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQl3n_EwEwzoC9L0u7dRWG0w_zWTExN9vKvKseI-BijMqpgc-ZMCi1ErBRbQe5xZ4JEftxUzkxyEVAl/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland celebrates Chinese Lunar New Year</strong></h4>
 <p>Northland celebrated Chinese Lunar New Year on 20 January. This year,
@@ -1768,7 +1778,7 @@ decoration competition and also a lesson on making rabbit lanterns. On
 the Guzheng Ensemble, Wushu and MCAC and then the school was then visited
 by some special guests – 2 LED lighted lions and the ‘God of Fortune’!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTPmVsw-D3rJQeWIn9K-YasJpq_kG1FHOHJFQ-cFjjDtqaxOQVr9YHn7AsP7HnmrFAS-tAaNVcHDrok/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTPmVsw-D3rJQeWIn9K-YasJpq_kG1FHOHJFQ-cFjjDtqaxOQVr9YHn7AsP7HnmrFAS-tAaNVcHDrok/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland celebrates Pongal</strong></h4>
 <p>Northland Secondary School celebrated Pongal on Friday, 13 January. Pongal
@@ -1778,7 +1788,7 @@ school seeks to educate our Northstars on the significance of Pongal in
 our community and also stress on the importance about learning about other
 cultures and practices.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRz3fr_9KJp96PmgSdgPm67DNlY05LL7t7pvlK4UVqDACF7UZYuNEaGNPMwjPb0-MDqf6Yh6lWjAKfV/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRz3fr_9KJp96PmgSdgPm67DNlY05LL7t7pvlK4UVqDACF7UZYuNEaGNPMwjPb0-MDqf6Yh6lWjAKfV/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northstars Shine! - Release of 2022 GCE O-level Results</strong></h4>
 <p>On Monday 12 January, graduating students from Northland Secondary School
@@ -1805,7 +1815,7 @@ fun, don’t forget to focus and put in effort in your studies. Plan your
 time well and do the right thing at the right time!”&nbsp;</p>
 <p>Once again, congratulations Northstars for your stellar performances!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSnDry1WoiGEjEaOKHGUgt8tk_TXDykZzyAOT9OdIezSSvLIWEi2RDjhdPkWN5FQkNiZoXqV8zWPGnZ/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSnDry1WoiGEjEaOKHGUgt8tk_TXDykZzyAOT9OdIezSSvLIWEi2RDjhdPkWN5FQkNiZoXqV8zWPGnZ/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Welcome back to school – Start Right 2023</strong></h4>
 <p>Northland Secondary School welcomed our Northstars back to school and
@@ -1815,7 +1825,7 @@ time reconnecting with their Class Mentors and their friends. Our new Secondary
 their new school. The year definitely promises to be an exciting one for
 our Northstars!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSc03RLM5jg4mwvCyWsm6BRFr-x1Tqsq5oZgJlJ6olwDShQ3WKUpqhsFYkZ3nX4z8FrVRb7ZTrkovob/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSc03RLM5jg4mwvCyWsm6BRFr-x1Tqsq5oZgJlJ6olwDShQ3WKUpqhsFYkZ3nX4z8FrVRb7ZTrkovob/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northstars Shine! - Release of 2022 GCE N-level Results</strong></h4>
 <p>On Monday, 19 December 2022, graduating students from Northland Secondary
@@ -1826,7 +1836,7 @@ qualified for the Direct-Entry-Scheme to Polytechnic Programme (DPP). In
 the Normal Technical course, 100% of the students qualified for post-secondary
 education in the Institute of Technical Education (ITE).</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJ6l-AxDxx-d3YruqO5YmfLEP-ZsoaqZTsCtiiv1GRpBfBRRRuC1LwU6ay6jp_0i1vujC6gv3bTZSc/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJ6l-AxDxx-d3YruqO5YmfLEP-ZsoaqZTsCtiiv1GRpBfBRRRuC1LwU6ay6jp_0i1vujC6gv3bTZSc/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p>Our top performers paid tribute to their teachers, parents and peers for
 their tremendous support. Shawn Yo (4R4) dedicated his success to his mother
@@ -1853,7 +1863,7 @@ truly pays off!” Wise words from our top performers indeed.</p>
 <p>Once again, congratulations Northstars for your stellar performances!&nbsp;</p>
 <h4><strong>Learners who Share - Body Positivity Workshop</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuR_1DI9C4ActB70hzcCJgN-n79vhUB1OCLAjkaCDFxgJCTghXabn3ByRlvqN6cel3ul_UlrEBI_sZ/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuR_1DI9C4ActB70hzcCJgN-n79vhUB1OCLAjkaCDFxgJCTghXabn3ByRlvqN6cel3ul_UlrEBI_sZ/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p>The Body Positivity Module introduced during the Sec 2 SPARCLE lesson
 culminated in a grooming workshop held on Tue 18 Oct. The students and
@@ -1883,7 +1893,7 @@ up and in a video. We sent 2 teams. Team 1 achieved the silver award. Team
 the students!!</p>
 <h4><strong>Graduation Day 2022 - Pursuing Excellence with Grit</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTjtwazaqvS4WLsN6HZLpNaVfXUlVkxmiSYbZXvA5-WtbeFxAi-rwK7bTc_8aI95YwubuKvW6yMOgkT/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTjtwazaqvS4WLsN6HZLpNaVfXUlVkxmiSYbZXvA5-WtbeFxAi-rwK7bTc_8aI95YwubuKvW6yMOgkT/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p>23 September 2022 marked the end of the secondary school life for the
 class of 2022. Our students took a trip down memory lane and witnessed
@@ -1897,7 +1907,7 @@ life by singing their school song, “Responsible and Resolute” for the last
 time.</p>
 <h4><strong>Creative Artistes – Malay Dance - Mutiara Tari 2022</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKsZtjSF5_gbDjGp6wYuyeTy2fYfUWnogmn4aT7rF3BUX44-OIUm_mu18fgNnUo9T7SARbvGXzXYbM/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKsZtjSF5_gbDjGp6wYuyeTy2fYfUWnogmn4aT7rF3BUX44-OIUm_mu18fgNnUo9T7SARbvGXzXYbM/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p>Last weekend, the Malay dancers participated in a national dance competition,
 Mutiara Tari, in conjunction with the Bulan Bahasa 2022. Out of the 11
@@ -1907,7 +1917,7 @@ also took opportunity to make this event a family outing. The faces of
 our Northstars and their families say it all!</p>
 <h4><strong>Teachers’ Day Celebrations – Happy Starmakers’ Day</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7Kb3JshYdRtuNTwLc_wk7_VfdROp9RqegDXd4lrENQ_-gaVZPJ29bDsr4l0N6m6Vw9Tsi_yHXruNj/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7Kb3JshYdRtuNTwLc_wk7_VfdROp9RqegDXd4lrENQ_-gaVZPJ29bDsr4l0N6m6Vw9Tsi_yHXruNj/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p>Northland honoured our Starmakers on Thursday, 1 September. Our day started
 with our Northstars preparing their gifts for their beloved teachers. This
@@ -1918,7 +1928,7 @@ of our Student Councillors who planned and executed this year’s celebrations
 with dedication, tenacity and gusto.</p>
 <h4><strong>Northland celebrates National Day - Stronger Together, Majulah!</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT5dFeUomyKvjNCcKb5onDZXAWcBzmxdN7hVE34m83y58cVm33Y1sxC16-LjwVkMQmZzfixyOurL4oy/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT5dFeUomyKvjNCcKb5onDZXAWcBzmxdN7hVE34m83y58cVm33Y1sxC16-LjwVkMQmZzfixyOurL4oy/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p>Northland celebrated our nation’s 57th Birthday on Monday 8 August. The
 theme for this year’s celebration is “Stronger Together, Majulah!“, a call
@@ -1932,7 +1942,7 @@ the singing of National Day songs, reminding us that we are One People,
 One Nation, One Singapore!</p>
 <h4><strong>Leaders who Dare – Student Council Investiture</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQxa6Tav4_47pZv6n0QlvHM5Xiu7deS-Nu9dBGeO2f5TNqQngYNsSM1Nqi63UT5MaxxS3qvTJoXtRgh/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQxa6Tav4_47pZv6n0QlvHM5Xiu7deS-Nu9dBGeO2f5TNqQngYNsSM1Nqi63UT5MaxxS3qvTJoXtRgh/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p>The Students’ Council is the school’s premier platform for developing
 confident student leaders who dare. In its third year, the Council has
@@ -1954,7 +1964,7 @@ day. They were also treated to cultural delicacies during their breaks.
 The highlight of the day is definitely the assembly programme which served
 to educate and entertain our Northstars on racial harmony.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQLooY36YRqbgb9XmeW6ySE9n6X4C3IFj0CJI1kgVhBO7vII0j99GsaFBOTL5J3abqVzRTjiQlxOISD/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQLooY36YRqbgb9XmeW6ySE9n6X4C3IFj0CJI1kgVhBO7vII0j99GsaFBOTL5J3abqVzRTjiQlxOISD/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Secondary 2NT Category A Elective Modules</strong></h4>
 <p>Every year, our 2NT and 3NT students are given the opportunity to study
@@ -1975,7 +1985,7 @@ industries.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRT1K1GIy7qnVgPnetkYQRZhtXqSMso3pSsrG7fqi5qzjFvWIrnDHTQMEMMGvk_CflghxfIiX2enTkj/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRT1K1GIy7qnVgPnetkYQRZhtXqSMso3pSsrG7fqi5qzjFvWIrnDHTQMEMMGvk_CflghxfIiX2enTkj/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p>Our 2NT students were given the choice to choose between Fitness for Life
 and (Small Business Operations. The students enjoyed their learning experience
@@ -2010,7 +2020,7 @@ groups. We wish you all the best in your future endeavours Andrew!</p>
 Mohammad Rizal (3A3) managed to clinch the first placing in the Chong Pang
 Next Top Speaker!&nbsp;</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJY1r4ELm0A0vEbkLCldRuzsu2WOwiOWO45SSMpbXdTTTyTMYyQU4Yj8X2noWW47BGRIbRa1uWI5l_/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJY1r4ELm0A0vEbkLCldRuzsu2WOwiOWO45SSMpbXdTTTyTMYyQU4Yj8X2noWW47BGRIbRa1uWI5l_/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p>The public speaking competition is organised by Chong Pang Toastmasters
 Club and students across secondary schools in Yishun pit their public speaking
@@ -2027,7 +2037,7 @@ them.&nbsp;</p>
 we recognised and affirmed award winners for their outstanding 2021 achievements
 and contributions to the school.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRk1Y7Mn7zjiQVFkCWa_h-6O1_6Ny-I18oQXUkodfDs9XMpI4rtYZH7EXsLK80PsmvPxE4sMtR_mOfW/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRk1Y7Mn7zjiQVFkCWa_h-6O1_6Ny-I18oQXUkodfDs9XMpI4rtYZH7EXsLK80PsmvPxE4sMtR_mOfW/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p>In our journey of trying to keep the flame of success alive, our Northstars
 and Starmakers have put in so much effort. The theme ‘Stride &amp; Strive’
@@ -2042,7 +2052,7 @@ to Capitol Theatre to watch Meenah and Cheenah, a play staged by Dream
 Academy. The students were extremely excited as the play was a sweet celebration
 of the end of the exam season!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTl35EHjjIiRkSbNaBtxPRT3osOkkCkwa1-4ApOabEXNp98Seo8g6B6yzRJW0lcZFbdLMjQKgLyKbAG/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTl35EHjjIiRkSbNaBtxPRT3osOkkCkwa1-4ApOabEXNp98Seo8g6B6yzRJW0lcZFbdLMjQKgLyKbAG/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p>The play was about the close friendship of a Chinese and Malay duo, and
 revealed the racial harmony as well as racial stereotypes that our society
@@ -2113,7 +2123,7 @@ Dr Maliki was warmly welcomed by our student hosts Ng Chee Yong from class
 after our Speech Day celebrations and it promises to be the hottest new
 place in Northland!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOJfFBx3DqOS7KtPDNwQpKj2_f1e-Ik_la4PCltcIOE86aqUilqF7FbzG2afKn40Yl5j_nZ5_lr6GT/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOJfFBx3DqOS7KtPDNwQpKj2_f1e-Ik_la4PCltcIOE86aqUilqF7FbzG2afKn40Yl5j_nZ5_lr6GT/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Citizens who Care - Northland commemorates Total Defence Day</strong></h4>
 <p>Northland commemorated Total Defence Day on 15 February. Our theme this
@@ -2126,7 +2136,7 @@ Our Secondary 2s went to Singapore Discovery Centre to learn more about
 Military Defence. Our Secondary 3s and Secondary 4s embarked on Virtual
 Learning journeys and our Secondary 5s learned how to prevent fake news.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQjfYaWeWeGwlbDucELy0cq3vzEU_abjlrBiTIt2336BN9kHu2Rtfr3GtMHJcL01VjcDQiqe_P4VMY0/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQjfYaWeWeGwlbDucELy0cq3vzEU_abjlrBiTIt2336BN9kHu2Rtfr3GtMHJcL01VjcDQiqe_P4VMY0/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Learners who Share - Mother Tongue Languages Fortnight</strong></h4>
 <p>Northland organised Mother Tongue Languages Fortnight from 7 February
@@ -2137,7 +2147,7 @@ their respective cultures and heritage. Our students played traditional
 games, learnt to make Roti Jala and Chinese dumpling and also learnt more
 about Chinese and Indian painting and clay making.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdKLb9HlNXZ2aOV0yETdAP8LOhA-aL6Qonx70CbS_9k_Q4UGM9TXzY2HToy97xwX2gHG3adqnL9sX5/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdKLb9HlNXZ2aOV0yETdAP8LOhA-aL6Qonx70CbS_9k_Q4UGM9TXzY2HToy97xwX2gHG3adqnL9sX5/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland celebrates Chinese Lunar New Year</strong></h4>
 <p>Northland celebrated Chinese Lunar New Year on 31 January, which was the
@@ -2145,7 +2155,7 @@ eve of the Lunar New Year. This year, the theme for the New Year celebrations
 is “Roaring with Vitality” or&nbsp;福虎生风. It signifies the school’s determination
 to forge ahead in the New Year with vigour and vivacity.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS35biz5HIKmH8XzSdtXyTltP6VGl-Rrpeu5_as0wuq1YItc0G7dbolZ6_teFDCp4ffczAsJCBsUc72/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS35biz5HIKmH8XzSdtXyTltP6VGl-Rrpeu5_as0wuq1YItc0G7dbolZ6_teFDCp4ffczAsJCBsUc72/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p>The celebrations started with entertaining performances by the Guzheng
 Ensemble, Wushu and MCAC. The students then started making their own paper
@@ -2161,7 +2171,7 @@ by the Tamil Unit, the virtual event seeks to educate our Northstars on
 the significance of Pongal and the importance about learning about other
 cultures and practices.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmR8Gni8AKqgSsqFTJYtVkjRcKwG_oqu2nNKgJAg3IhVRTc1WWmtpkrGHA11qXvlWodEgbRaXIf2hN/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmR8Gni8AKqgSsqFTJYtVkjRcKwG_oqu2nNKgJAg3IhVRTc1WWmtpkrGHA11qXvlWodEgbRaXIf2hN/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>2021 GCE O-Level Results</strong></h4>
 <p>On Monday 12 January, graduating students from Northland Secondary School
@@ -2169,7 +2179,7 @@ received their GCE O-level results. All of them were given a warmly received
 by our School Leaders and Year Head. After a briefing, the graduating students
 received their result slips from their respective Form Teachers.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFinIQgdyQbHX74mRBBgMXtUINWINj8lukrKfPhKdTfzgNqQ6SGVWRzahyRNRIm1V0XF9A836ZvA6q/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFinIQgdyQbHX74mRBBgMXtUINWINj8lukrKfPhKdTfzgNqQ6SGVWRzahyRNRIm1V0XF9A836ZvA6q/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p>Our top students paid tribute to their family, friends and teachers for
 being with them in this journey. Wang Jingxi (4R1) recalled&nbsp;how she
@@ -2195,7 +2205,7 @@ facilitating the team bonding activities and the START RIGHT!&nbsp;lessons
 also allowed Class&nbsp;Mentors&nbsp;set routines, norms and expectations
 with students to create a conducive class that is ready for learning.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0w62olzXvBGJKiw84B_BVceTdki87m6x9QyuK-3AEALS3w_oPAQ326YbSxSDbgvWxx91d2lDSe_Uo/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0w62olzXvBGJKiw84B_BVceTdki87m6x9QyuK-3AEALS3w_oPAQ326YbSxSDbgvWxx91d2lDSe_Uo/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Teachers' Day Celebrations - Our Heroes</strong></h4>
 <p>The theme for this year’s Teachers’ Day Celebrations was entitled “Our
@@ -2208,7 +2218,7 @@ tribute to our teachers who have gone the extra mile to nurture character
 and inspire learning. After the concert, the teachers attended an online
 Zoom tea, entitled A Tea-rific Day to end the celebrations.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRH2zJ1-eerKWRUyfiHz4AWWtJOt7G9tvXjfyQS6YLxvzZ2p78JeAWxqvTbtBtC2QxVbhjLnZugcD-X/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRH2zJ1-eerKWRUyfiHz4AWWtJOt7G9tvXjfyQS6YLxvzZ2p78JeAWxqvTbtBtC2QxVbhjLnZugcD-X/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland celebrates National Day</strong></h4>
 <p>Northland celebrated our nation’s 56th Birthday on Friday 6 August. The
@@ -2225,11 +2235,11 @@ Day songs that remind us of our shared sense of values and purpose. Despite
 Phase 2 restrictions, it was a day to remember.&nbsp;</p>
 <h4>E-Harmony Runway</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2UHN6GaRVpQzhxl1HcvdIH1Vy4itIcj500OT90xNQKljcE2MIXikXTCo_AIIpaaDB6iAom0US8MJg/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2UHN6GaRVpQzhxl1HcvdIH1Vy4itIcj500OT90xNQKljcE2MIXikXTCo_AIIpaaDB6iAom0US8MJg/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4>Fly Our Flag</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQq4e_xBTk1Z-dcB7q1iuC-K3KzFsGt1Eylg-wOv__9DXLY6_hl4LWQD7TnmThX_km8cqp32nWtFgtk/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQq4e_xBTk1Z-dcB7q1iuC-K3KzFsGt1Eylg-wOv__9DXLY6_hl4LWQD7TnmThX_km8cqp32nWtFgtk/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4>MCAC</h4>
 <div class="isomer-image-wrapper">
@@ -2237,11 +2247,11 @@ Phase 2 restrictions, it was a day to remember.&nbsp;</p>
 </div>
 <h4>National Day Celebrations</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTtuXm_z_RmcnAjtb0QzmwmvgxuyHlU9quFqiBg3Cjq_nJz4npV-ruI8phSkLiEWOtW6FrxEvEzH182/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTtuXm_z_RmcnAjtb0QzmwmvgxuyHlU9quFqiBg3Cjq_nJz4npV-ruI8phSkLiEWOtW6FrxEvEzH182/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4>Virtual Learning Journey - Civic District</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMc13YF1EHTNlPaIE0c1reUQcXy8ZeIrfScf__VGKbEMibvNKgP5gPSz9mEuegAXz1q8RoUBqN998u/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMc13YF1EHTNlPaIE0c1reUQcXy8ZeIrfScf__VGKbEMibvNKgP5gPSz9mEuegAXz1q8RoUBqN998u/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland Commemorates Racial Harmony Day – Singapore's diversity is a strength</strong></h4>
 <p>Northland Secondary School commemorated Racial Harmony Day amidst Phase
@@ -2254,7 +2264,7 @@ were also treated to cultural delicacies during their breaks to savour
 and appreciate the delights that our different cultures have given us.
 It was a wonderful day of learning.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRSoGPKgkZyIh6JEZKpon6aYyufP7C7yMn-6FXQ8YjGkK6OwiQnSlz2oMTmZOy_W3L-Jenkf5gW0zBy/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRSoGPKgkZyIh6JEZKpon6aYyufP7C7yMn-6FXQ8YjGkK6OwiQnSlz2oMTmZOy_W3L-Jenkf5gW0zBy/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Leaders who Dare: Student Leaders Investiture – Empowered Voices</strong></h4>
 <p>Our student leaders were formally recognised as representatives of the
@@ -2265,7 +2275,7 @@ followed by the swearing-in of the new President and the affirmation of
 the student leaders in class. Our student leaders also pledged to be Leaders
 who Dare, serving the community with pride and moral courage.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQeNBVbieQ7aplnIe7FXOFDmtbz7prg0Fma75I8pXsjrREuxbcv3zvaKZ4xUdjLq-A7JytrzRJKmm3N/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQeNBVbieQ7aplnIe7FXOFDmtbz7prg0Fma75I8pXsjrREuxbcv3zvaKZ4xUdjLq-A7JytrzRJKmm3N/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>SPARCLE 2 - Green Earth for Everyone</strong></h4>
 <p>This year, we show our resilience and ability to adapt by organising SPARCLE
@@ -2278,7 +2288,7 @@ Harmony with Nature, Towards a Zero Waste Nation, Promoting Eco-Smart Towns.
 Our Artmosphere exhibition featured “Breathe!”, an art installation which
 serves as a reminder to recycle and be kind to Mother Earth.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSnDpZKRDy1pfJ_yr27n9sdFdZK4AWMyIQtfrpIKpp6f8IKeiw2HMElG6VpkrKYwNjlDiJl7PpCr-IW/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSnDpZKRDy1pfJ_yr27n9sdFdZK4AWMyIQtfrpIKpp6f8IKeiw2HMElG6VpkrKYwNjlDiJl7PpCr-IW/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland Celebrates Hari Raya</strong></h4>
 <p>Northland held our Hari Raya celebrations on the last day of school, 28
@@ -2291,7 +2301,7 @@ staff celebrated Hari Raya differently, before we were entertained by our
 Malay Dancers and educated by our talented Northstars in a heartwarming
 skit. We ended the celebrations with a design-your-own Malay costume competition.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIEL9EJ9DkkxtrpkYfKPwK69yl9N94EJH53OJ33ghyY0pSqEe9SdG73Veb2-cQW7q64QEd8UQRqavi/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIEL9EJ9DkkxtrpkYfKPwK69yl9N94EJH53OJ33ghyY0pSqEe9SdG73Veb2-cQW7q64QEd8UQRqavi/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland Secondary School Speech &amp; Prize-Giving Day 2021 – Revitalise!</strong></h4>
 <p>Our school celebrated the achievements of our students on 23 April 2021.
@@ -2307,7 +2317,7 @@ the morning with our Polaris Award going to Clarice Ong of 4R2, class of
 the stars. Our Speech Day ended with the whole school singing our school
 song, promising to go “From Triumph to Triumph”!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRM2iRuXhSSojtO3A-gSadwiTQ1Jdl62CQJDhp56to7tW-8AJuqNMUaRFdA1NbvFaAwK_ZN--lFFp5/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRM2iRuXhSSojtO3A-gSadwiTQ1Jdl62CQJDhp56to7tW-8AJuqNMUaRFdA1NbvFaAwK_ZN--lFFp5/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northstar Shines! A Leader who Dares – Michelle Lim</strong></h4>
 <p>Northland Secondary School is proud to share that SI (NPCC) Michelle Lim
@@ -2332,7 +2342,7 @@ can offer to them when they finish their secondary school education. We
 thank their FTs and members of the UPLIFT committee for accompanying our
 Northstars on this wonderful experience!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTHYHqiSrd8_bmrXe46IFFYERMCgKdIumvZSGgQDkHPdEJlGWQQm86zpAexVf7PScinM3UEomrArCNE/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTHYHqiSrd8_bmrXe46IFFYERMCgKdIumvZSGgQDkHPdEJlGWQQm86zpAexVf7PScinM3UEomrArCNE/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Learners who Share - CAT A Elective Modules</strong></h4>
 <p>Our Northstars from 2T6 and 2T7 attended CAT A Elective Modules from 22
@@ -2342,7 +2352,7 @@ East. During the four days, our students were given a taste of the exciting
 curriculum that ITE has to offer. We thank their FTs and members of the
 UPLIFT committee for accompanying our Northstars on this eye-opening experience!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuzau_A8X1fk1ie-1A8tRzMubnfW1kkWUjmdKTUi9u3LrFUnWf-P107llV74YEZoEJseY4YJ-fEU3C/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuzau_A8X1fk1ie-1A8tRzMubnfW1kkWUjmdKTUi9u3LrFUnWf-P107llV74YEZoEJseY4YJ-fEU3C/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland Celebrates Chinese Lunar New Year</strong></h4>
 <p>Northland celebrated Chinese Lunar New Year on 11 February, which was
@@ -2355,7 +2365,7 @@ the ‘One Beat One Spirit’ drumming experience. The classes were visited
 by a special guest – the ‘God of Fortune’ who took pains to go to every
 class to shower them blessings and wishing everyone academic success!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCgbElQHkrvqG8n_uZnPNucLxuOciN5MCeuWF8tjK7tRvnkZ85mtWGABsTlwwzTvBpgTvFoX0VjGwM/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCgbElQHkrvqG8n_uZnPNucLxuOciN5MCeuWF8tjK7tRvnkZ85mtWGABsTlwwzTvBpgTvFoX0VjGwM/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland Commemorates Total Defence Day</strong></h4>
 <p>Northland commemorated Total Defence Day on 9 February. Our theme this
@@ -2368,7 +2378,7 @@ times.&nbsp;Our Secondary 1s went through CPR training and our Secondary
 Our Secondary 3s and Secondary 4s embarked on Virtual Learning journeys
 and our Secondary 5s learned how to prevent fake news.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSIA5EsHiGMcjRODL2RG57gOBmquyvH1cunEWcDhn9LSGY3chb2enRC9dwoDinnRYjmalqC3nvMLSrN/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSIA5EsHiGMcjRODL2RG57gOBmquyvH1cunEWcDhn9LSGY3chb2enRC9dwoDinnRYjmalqC3nvMLSrN/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Leaders who Dare – ACE Runners</strong></h4>
 <p>11 of our ACE Runners took part in the Standard Chartered Virtual Marathon
@@ -2379,7 +2389,7 @@ running shoes. If you are interested in running, do join us in our ACE
 Running programme every Tuesday 3.30pm to 5.30pm! Do approach Mr Razak
 for more details.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpADn0vC4GMpiJxAbYsW4eEpe0jpMZMD9-7R2HOevNRENB7pmz-YCbqoVxmRKulIvbcsjYuhcubQjf/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpADn0vC4GMpiJxAbYsW4eEpe0jpMZMD9-7R2HOevNRENB7pmz-YCbqoVxmRKulIvbcsjYuhcubQjf/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Learners who Share - Experience ITE Programme</strong></h4>
 <p>Our Secondary 2NT Northstars went for an Experience ITE Programme on 8
@@ -2387,7 +2397,7 @@ February 2021. Students learned about the careers they can pursue and participat
 in real-life training using actual training equipment. It was an insightful
 and enjoyable day for our Northstars.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTvZ7HAfDNuDX1enYWW1X6t4_h2UDkTvCy_1lUO370ph184d2ZCMi80iVUedtZhV-re5UT366jup3O3/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTvZ7HAfDNuDX1enYWW1X6t4_h2UDkTvCy_1lUO370ph184d2ZCMi80iVUedtZhV-re5UT366jup3O3/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Leaders who Dare - NCC Cadets @ Khatib Bongsu Nature Park Kayaking and Engagement Session</strong></h4>
 <p>On Saturday, 30 January, our NCC cadets, Aloysius Tay (4R1), Ibrahim Bin
@@ -2396,7 +2406,7 @@ schools to explore Khatib Bongsu Nature Park via kayaks with our grassroots
 advisor, Mr Louis Ng. Accompanied by Ms Lorraine Soon, our Northstars definitely
 enjoyed the experience on a beautiful Saturday morning. Way to go, Northstars!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSkxLgCkc_unCXj2b1FZWjokqyuj5VFJUmP2kP9ZaGCyk6ochBFOYvcaTCUxO6qFWY5WSrHaFHuXQO/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSkxLgCkc_unCXj2b1FZWjokqyuj5VFJUmP2kP9ZaGCyk6ochBFOYvcaTCUxO6qFWY5WSrHaFHuXQO/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>A shining Northstar – Chloe Ng (3A2)</strong></h4>
 <p>Our Art Unit is proud to announce that Chloe‘s mask design is displayed
@@ -2406,7 +2416,7 @@ the winners of the Mask-a-rade Challenge organised by the National Heritage
 Board last year. Besides having her winning artwork printed on face masks,
 she also received a $200 voucher. Congratulations Chloe!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNTkqq3bCgQgYEy9HyVFIu1n-Q8QsMbEA2UXJH0awOCGHqGkhA4HDIb8DPTr9HwYRzR22jWvwAaT_i/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNTkqq3bCgQgYEy9HyVFIu1n-Q8QsMbEA2UXJH0awOCGHqGkhA4HDIb8DPTr9HwYRzR22jWvwAaT_i/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland celebrates Pongal</strong></h4>
 <p>Northland Secondary School celebrated Pongal on Friday, 15 January 2021.
@@ -2415,7 +2425,7 @@ who give thanks to the Sun God for the blessings of a rich harvest. Organised
 by the Tamil Unit, the event seeks to educate our Northstars on the significance
 of Pongal and the importance about learning about other cultures and practices.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNd87ucE2vrPoivWsxvRyJoPvLVf--55CTsz0FuGk8DU9MX2-3z4_zxxvylttXoQ6QHvf3PW51-3TK/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNd87ucE2vrPoivWsxvRyJoPvLVf--55CTsz0FuGk8DU9MX2-3z4_zxxvylttXoQ6QHvf3PW51-3TK/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Welcome back to school - Start Right 2021</strong></h4>
 <p>Northland Secondary School welcomed our Northstars back to school and
@@ -2427,7 +2437,7 @@ reconnecting with their form teachers and their friends. Our new Secondary
 1 Northstars also had the opportunity to know new friends and teachers.
 The year definitely promises to be an exciting one for our Northstars!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_Qe_-fhApGtAmZGnN5U5_yGkdurovpzfUayHjVfYQYKZhzJ5uQ-0uNqysV1RWBKB0Su_JjOY_-khm/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_Qe_-fhApGtAmZGnN5U5_yGkdurovpzfUayHjVfYQYKZhzJ5uQ-0uNqysV1RWBKB0Su_JjOY_-khm/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>A very special Graduation Day</strong></h4>
 <p>25 September 2020 marked the end of the secondary school education for
@@ -2441,7 +2451,7 @@ It was a day of pride and joy as students marked the last day of their
 secondary school life by singing “Responsible and Resolute” for the last
 time.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkHzSZ8ptq5h91fyoatYEqO_NAbOXZglVcHRxHhwcSR7TTS3FGNpo35exkRlhd8MohrleSnoEE45Le/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkHzSZ8ptq5h91fyoatYEqO_NAbOXZglVcHRxHhwcSR7TTS3FGNpo35exkRlhd8MohrleSnoEE45Le/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Teachers’ Day Celebrations</strong></h4>
 <p>This year’s Teachers’ Day Celebrations took a different form but it was
@@ -2456,7 +2466,7 @@ the GEMS Awards paid tribute to our teachers who have gone the extra mile
 to nurture character and inspire learning. After the concert, the teachers
 attended an online Zoom lunch to end the celebrations.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrVPsoa0aqO6XHUzbkFLUi35J9WOLMZDEro2QjQm-PqkSRimY0mD4DNkKaiiU1JBsuCjwq-tGeC6Wr/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrVPsoa0aqO6XHUzbkFLUi35J9WOLMZDEro2QjQm-PqkSRimY0mD4DNkKaiiU1JBsuCjwq-tGeC6Wr/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Student Council Investiture 2020</strong></h4>
 <p>This year marks the inaugural Student Council Investiture. The ceremony
@@ -2472,7 +2482,7 @@ shift from Prefectorial to Student Council Board has been a testament of
 such spirit, which runs analogous to this year’s theme of, ‘Empowered to
 Excel’.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTjuy9raULW0KBCcfS3VO-EWXa9Cv2g5ykKbyebYgNYFsY9Tp7egtbIh7-tb5kFPZIbJHGFpkEolEyQ/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTjuy9raULW0KBCcfS3VO-EWXa9Cv2g5ykKbyebYgNYFsY9Tp7egtbIh7-tb5kFPZIbJHGFpkEolEyQ/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland Commemorates Racial Harmony Day</strong></h4>
 <p>Racial Harmony Day was commemorated in a very different way this year.
@@ -2486,7 +2496,7 @@ special dishes in the canteen were the amazing icing on the cake, wrapping
 up a week of deep reflection with a lighter touch to awareness building
 through food.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSe-We1DmurYpcknoadtmXnjX769q6LGwfsD1CzlR3TWJCv_O023hFpGur8AM6VRfQ8qmzJAJbtUsTy/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSe-We1DmurYpcknoadtmXnjX769q6LGwfsD1CzlR3TWJCv_O023hFpGur8AM6VRfQ8qmzJAJbtUsTy/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland celebrates Hari Raya Aidilfitri 2020</strong></h4>
 <p>Hari Raya celebrations has always been one of the favourite events in
@@ -2499,7 +2509,7 @@ their coveted Hari Raya outfits! Our Northland teachers and staff also
 rose to the challenge and did their very own Hari Raya showcase. All in
 the spirit of celebrating the triumph of patience, perseverance and hope.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmb-LBrOL48Ig25TIJnYDtd0ZgVtVE0b40B4E0dZXSIHxlXfZKWl5UL-mRRVPGgThJi4SpuXCZvwIa/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmb-LBrOL48Ig25TIJnYDtd0ZgVtVE0b40B4E0dZXSIHxlXfZKWl5UL-mRRVPGgThJi4SpuXCZvwIa/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Citizens who Care – NSS Safe Reopening</strong></h4>
 <p>Our Secondary 1, 2 and graduating students returned back to school after
@@ -2507,7 +2517,7 @@ Circuit Breaker. In school, our Northstars continued to show social responsibili
 by practising COVID-19 GEARUP and safe distancing. Well done, Northstars!
 #nssunited</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfQMCXCTczCJgLRXiLw7DmrUr5PEZGPVvOLoWBf7M4QD6CV_Ixx-_eHdnTuNQqdAw9X3uXfpjexrEE/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfQMCXCTczCJgLRXiLw7DmrUr5PEZGPVvOLoWBf7M4QD6CV_Ixx-_eHdnTuNQqdAw9X3uXfpjexrEE/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Learners who Share</strong></h4>
 <p>Our Northland Art teachers, at the 9th annual Art Teachers' exhibition,
@@ -2517,7 +2527,7 @@ below to read our artists’ interview–&nbsp;
 <br>The Story Behind "Ripple". Link:&nbsp;<a href="https://staraedge.com/2020/02/12/artist-interview-the-story-behind-ripple/" rel="noopener" target="_blank">https://staraedge.com/2020/02/12/artist-interview-the-story-behind-ripple/</a>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6LDdWLVAAynKEf_QEI1WPOZZ23R7VrdKkBgA7t2-PkSHjSeyHIWDXyGhcVUFiz5I7g5eKqnsGJQ5C/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6LDdWLVAAynKEf_QEI1WPOZZ23R7VrdKkBgA7t2-PkSHjSeyHIWDXyGhcVUFiz5I7g5eKqnsGJQ5C/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland commemorates Total Defence Day - 14 February 2020</strong></h4>
 <p>Northland commemorated Total Defence Day on 14 February under the gloom
@@ -2530,7 +2540,7 @@ segregated recesses to be Citizens who Care - to clean up after eating
 by carrying out the Wipe-down Routine. The Secondary 2s learnt to play
 Guardians of the City, a Total Defence card game, during FTGP.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYwZPrHC-oQtxk3epcSy9E_o3wyCWSDMiIo_z9u9uiTuz4otN876fJREJFSrDnY9MZphwJuvktRBPk/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYwZPrHC-oQtxk3epcSy9E_o3wyCWSDMiIo_z9u9uiTuz4otN876fJREJFSrDnY9MZphwJuvktRBPk/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Family Champions (FamChamps) Of Northland Secondary School</strong></h4>
 <p>Destiny Stashar Phileo Stanley(3A1), Siti Nor Umairah Binte Mohd Hishammuddin
@@ -2551,7 +2561,7 @@ performance. The students then went back for an exciting Chinese knot making
 competition. The school then went back to the hall and was entertained
 by an rousing concert put up by the Chinese unit.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSC2Sm4TfufiiooHaPK_pHYXddQzGYwGAGEeU2Frkbg4FORGpxo3CU-XjYCu9-OjOtiaNv9sYGgVGNo/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSC2Sm4TfufiiooHaPK_pHYXddQzGYwGAGEeU2Frkbg4FORGpxo3CU-XjYCu9-OjOtiaNv9sYGgVGNo/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland celebrates Pongal</strong></h4>
 <p>Northland Secondary School celebrated Pongal on Friday, 17 January 2020.
@@ -2560,7 +2570,7 @@ who give thanks to the Sun God for the blessings of a rich harvest. Organised
 by the Tamil Unit, the event seeks to educate our Northstars on the significance
 of Pongal and the importance about learning about other cultures and practices.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQLost-agxke8TxRAlxp_Gh5xGEg44BPFL6mMY6Zec5sDm0Jkawpw1bJxVipkVhNU_MI4bpFozaVCJf/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQLost-agxke8TxRAlxp_Gh5xGEg44BPFL6mMY6Zec5sDm0Jkawpw1bJxVipkVhNU_MI4bpFozaVCJf/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Staff Learning Festival</strong></h4>
 <p>Objectives:
@@ -2577,7 +2587,7 @@ of Pongal and the importance about learning about other cultures and practices.<
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjrI1PkIkp86yIjdlgVdh3759jhqgn5FxkDwFFhpGi-Tyja-7QJsmfLhhrigrFHNzRVm-n7PlluLMM/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjrI1PkIkp86yIjdlgVdh3759jhqgn5FxkDwFFhpGi-Tyja-7QJsmfLhhrigrFHNzRVm-n7PlluLMM/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>X-plore Carnival</strong></h4>
 <p>The X-plore Carnival is the last activity of our LLP, Game for Life. X-plore
@@ -2587,7 +2597,7 @@ and focuses on instilling Sportsmanship. On 24 October 2019, our Secondary
 Archery and Bubble Bump Soccer. Through these activities, they also showed
 sportsmanship by showing Respect, Responsibility and Resilience.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmnFVuCLN9TYjaWIuidTrwx7BrQCoTJAHqIxbH-FzZ7hx3m0jPhCN6pivCTswDIUfzPA_vlIHSqIy8/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmnFVuCLN9TYjaWIuidTrwx7BrQCoTJAHqIxbH-FzZ7hx3m0jPhCN6pivCTswDIUfzPA_vlIHSqIy8/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Learners who Share - ALP Symposium</strong></h4>
 <p>Our school’s annual ALP Symposium was held on 23 October 2019. In line
@@ -2602,7 +2612,7 @@ Temasek Polytechnic to engage our Northstars on their Diploma in Gerontology
 and to inspire them to pursue this endeavour. It was a good day of learning
 and sharing for our Northstars.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT81ORfjz02zy-0dWE-fEetzCn8424UJauEU4z_ALPUC2PMlI7gIFG6ymvabDoPpUiqQsvwbqVLAbAp/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT81ORfjz02zy-0dWE-fEetzCn8424UJauEU4z_ALPUC2PMlI7gIFG6ymvabDoPpUiqQsvwbqVLAbAp/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Teachers’ Day Celebrations</strong></h4>
 <p>Northland celebrated Teachers’ Day on 5 September with a series of activities
@@ -2615,7 +2625,7 @@ fulfil their mission to bring out the best in our Northstars. This was
 followed by a delightful performance, entitled “Genies of Northstars”,
 in dedication to our teachers.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSPVmKxLs7L7_Wxxx-zqOPCaHCIQyNmLxm3BhHEW7cSmpQPTdBzdNpbiK3eM_uAE5uuOvh3VEAY4pCO/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSPVmKxLs7L7_Wxxx-zqOPCaHCIQyNmLxm3BhHEW7cSmpQPTdBzdNpbiK3eM_uAE5uuOvh3VEAY4pCO/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Leaders who Share - Mayor's North West Networking Session for Schools</strong></h4>
 <p>On 2 September 2019, the school was invited to share with the community
@@ -2623,7 +2633,7 @@ about the school's effort in saving the environment. Our Northstars shared
 about our SPARCLE 2 Week, the lesson packages designed by the departments
 based on theme Green Earth for Everyone.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvxiMsGBvpBuxhduCeakzUsvHd-OVy51U3mwxHi6cXO-PzMjgga8oT8FNKN_eSknMXxL70uSBZ7Tm5/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvxiMsGBvpBuxhduCeakzUsvHd-OVy51U3mwxHi6cXO-PzMjgga8oT8FNKN_eSknMXxL70uSBZ7Tm5/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland Celebrates Singapore's 54th National Day</strong></h4>
 <p>On 8 August 2018, our school celebrated Singapore’s 54th National Day.
@@ -2640,17 +2650,17 @@ with gusto.</p>
 <p><strong>CLASS ACTIVITY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyGitKSTZm17_OZOKULuKhZdFmUVXJuabwrTNVwSEoMeJLsqq-FYLQwmJJW-XRxNC0UVQSPsVEgJKG/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyGitKSTZm17_OZOKULuKhZdFmUVXJuabwrTNVwSEoMeJLsqq-FYLQwmJJW-XRxNC0UVQSPsVEgJKG/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p><strong>CONCERT</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQJ1oPoj_X_n1IIsiF7noydAzMg7jwMM8zH8SL7n5NhRd4ft7nhwLtviHwxLG8xfDVe35zUjI8rofd/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQJ1oPoj_X_n1IIsiF7noydAzMg7jwMM8zH8SL7n5NhRd4ft7nhwLtviHwxLG8xfDVe35zUjI8rofd/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p><strong>OBSERVANCE PARADE</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAn7WpAnn-mOnVUwaXjG9YoeDRk2rckfKj8-5LBzlMCO8fFFPVwx5kEIl31DbxFpbqMSdOPnn1vswE/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAn7WpAnn-mOnVUwaXjG9YoeDRk2rckfKj8-5LBzlMCO8fFFPVwx5kEIl31DbxFpbqMSdOPnn1vswE/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Movie Night</strong></h4>
 <p>On 26 July Friday, 98 students and their families had a blast watching
@@ -2659,7 +2669,7 @@ with everyone relaxing as they watched the movie “Aquaman”. This activity
 was organised by our dedicated Parent Support Group (PSG). Our students
 went home with wonderful memories.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTq8nMDlRHycl-uEDD4WuPz0MbloZTSsWzYCSxF0W7vh1x9aHUnkfhwyEzDjxUVBWqRlEQzvwvrozyj/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTq8nMDlRHycl-uEDD4WuPz0MbloZTSsWzYCSxF0W7vh1x9aHUnkfhwyEzDjxUVBWqRlEQzvwvrozyj/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Racial Harmony Week</strong></h4>
 <p>Between 15 and 19 July 2019, Northland Secondary School celebrated Racial
@@ -2672,7 +2682,7 @@ focused on our cultural diversity. We are also very heartened to have our&nbsp;<
 on board our RHD celebrations, with them organising a display of carefully
 curated ethnic items at Makers to help our students learn about our multiculturalism.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXs_bwxdje3hNzNQzy91N_NBKwCKxxRCGz-1Vhn6RMVyqrBi9Qnmd9_TlGn_uNWUvzUHbROTI7mfiq/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXs_bwxdje3hNzNQzy91N_NBKwCKxxRCGz-1Vhn6RMVyqrBi9Qnmd9_TlGn_uNWUvzUHbROTI7mfiq/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Leaders who Dare - NCC Day Observance Ceremony</strong></h4>
 <p>Northland celebrated NCC Day on 3July 2019, Wednesday. This year, NCC
@@ -2683,7 +2693,7 @@ Staff Sergeant Nur Nabilah Binte Rosli (NCC Air) from Sec 3A2. They accepted
 this daunting task with pride and they did an excellent job leading and
 commanding the contingent.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_6M4fFUxE9xzs12zbogwsgfNqP-OJ8p064KP98MzOXrBmVQPj5DKcMz0z196Ksw70zf_ZmZ1z_VT4/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_6M4fFUxE9xzs12zbogwsgfNqP-OJ8p064KP98MzOXrBmVQPj5DKcMz0z196Ksw70zf_ZmZ1z_VT4/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>NSS Combined Uniformed Groups (UG) Camp</strong></h4>
 <p>Over the weekend of 5-7 July, our uniformed groups conducted their annual
@@ -2695,7 +2705,7 @@ and Resilience. This valuable experience for our UG students could not
 have been possible without the dedication of 15 of our UG teachers, especially
 Mr Sean Oh and Ms Pang Yijia who led by organising the camp.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSLQR-vaxGCbXuqcSleaIQiXkHtc0KImCqUJK6ZzVPXwmzkLJ3pTxrftiwNkPwvaYKlxx8i4Y8XF2Yf/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSLQR-vaxGCbXuqcSleaIQiXkHtc0KImCqUJK6ZzVPXwmzkLJ3pTxrftiwNkPwvaYKlxx8i4Y8XF2Yf/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Community Plank Art activity (organised by Nee Soon East CC)</strong></h4>
 <p>This year, our school participated in a community plank art activity organised
@@ -2706,7 +2716,7 @@ painted by students from Heart Club and 3A4. The plank art hearts will
 be displayed in front of block 227 (opposite Nee Soon Town Council) and
 block 210 (next to Nee Soon East CC) for the coming National Day Celebrations.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQt7p7q5oV180RaK4mjuC7TD_IwDMBN2-e4uq4kBKGyf9qDzC-rAwSk8HD3V1ymG5gh80emUaNu8sdk/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQt7p7q5oV180RaK4mjuC7TD_IwDMBN2-e4uq4kBKGyf9qDzC-rAwSk8HD3V1ymG5gh80emUaNu8sdk/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>D.A.R.E. Enterprise Education Programme</strong></h4>
 <p>Between 27 and 30 May 2019, some of our Secondary 1 Northstars got to
@@ -2718,7 +2728,7 @@ Makers, students got to develop their entrepreneurial skills and 21st century
 competencies such as communication, collaboration and inventive and critical
 thinking skills.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZK6U29rUD9nCdzPFdLlUl3G0KChmw6bkZu-Z3s3G-sq8Lw-hKwvFHfeD0Utfdt0BwBE1ezyYofYlD/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZK6U29rUD9nCdzPFdLlUl3G0KChmw6bkZu-Z3s3G-sq8Lw-hKwvFHfeD0Utfdt0BwBE1ezyYofYlD/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Mother Tongue Languages (MTL) Fortnight</strong></h4>
 <p>The purpose of the Mother Tongue Languages Fortnight is to provide interesting
@@ -2728,15 +2738,15 @@ develop the joy of learning Mother Tongue languages and cultures through
 interesting programmes and competitions.&nbsp;</p>
 <h4><strong>CL Unit</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7A0awJaM3F74I_lWgC3rvSTgGa7NlXxw94D4WExd_9mXcAs2O6tdD6I6Hui9M8f7pm_iFzQzqXJxu/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7A0awJaM3F74I_lWgC3rvSTgGa7NlXxw94D4WExd_9mXcAs2O6tdD6I6Hui9M8f7pm_iFzQzqXJxu/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>ML Unit</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRdnu9QjSj8vR7yJjeuGRZJoDcyIDq8-gpThFRXb-Qlp-29lgK1kjsJtj9XEvJtEoUg2UCRGo01AMn/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRdnu9QjSj8vR7yJjeuGRZJoDcyIDq8-gpThFRXb-Qlp-29lgK1kjsJtj9XEvJtEoUg2UCRGo01AMn/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>TL Unit</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRebR3fi3-StxyR53dPa94femeuD7objProdkiy5lxqnVPPTQwT80RRr_UXdg0ixoFBLnWGPruuCZcS/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRebR3fi3-StxyR53dPa94femeuD7objProdkiy5lxqnVPPTQwT80RRr_UXdg0ixoFBLnWGPruuCZcS/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Shooting for the Stars with our Dads</strong></h4>
 <p>On 6 April, the Dads of our Parent Support Group (PSG) organised their
@@ -2753,7 +2763,7 @@ also goes out to our sporting partner, Yishun Sports Centre, which arranged
 for the special appearance of the Home United stars, and to Home United
 for making the event extra special with their presence.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSngAKm7zUQn46Ah3hEpfBr0hU53l-7gX3oscVQWCFMMAC8HzK1N-wFJygV-2r7vqiil0IGig5A9fwh/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSngAKm7zUQn46Ah3hEpfBr0hU53l-7gX3oscVQWCFMMAC8HzK1N-wFJygV-2r7vqiil0IGig5A9fwh/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland celebrates Hari Raya Aidilfitri</strong></h4>
 <p>Northland celebrated Hari Raya Aidilfitri on the last day of school, 31
@@ -2803,7 +2813,7 @@ on 1st and 2nd June. The Championships is a competitive pipe band event
 held in Singapore. It is in line with international piping standards and
 conducted at both solo and band categories. Good luck Northstars!&nbsp;</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTIMhrJCwF1P6SOA_E4wMMjsjUPUT2FvLQwJgeOZ0U0NSvKJx-KMEaz3p60dybgHv5IMIrpLC1qNKQo/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTIMhrJCwF1P6SOA_E4wMMjsjUPUT2FvLQwJgeOZ0U0NSvKJx-KMEaz3p60dybgHv5IMIrpLC1qNKQo/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Northland Secondary School Anti-Drug Week</strong></h4>
 <p>This week commemorates Northland’s Anti-Drug Week. During the week, Northstars
@@ -2813,7 +2823,7 @@ guest star, Mr Noel Yap of Ah Boys to Men fame, gave an honest sharing
 of how his life was almost ruined by drugs. It was indeed a good week of
 learning.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTMy_QXKjX35KpTbtrbwlRoeRFToEtsHvqYNCs7KuvQpWgCp0syRt6Cpy-HqkJmS65oUw0cokOeyg3n/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTMy_QXKjX35KpTbtrbwlRoeRFToEtsHvqYNCs7KuvQpWgCp0syRt6Cpy-HqkJmS65oUw0cokOeyg3n/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Arts Showcase – Indian Dance, Malay Dance and MCAC</strong></h4>
 <p>The school was given a real treat as our school’s dance groups performed
@@ -2821,14 +2831,14 @@ for the school as a run-up to Singapore Youth Festival Arts Presentation.
 The performances were original, bold and entertaining. Most importantly,
 they show the resilience Northstars have put in.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRNQ81MoPBmG6Qypl_zIpFdWwHDj_Obmee_4FukQuhpP6lzoiBEe8JoEHuS_VTcysufzbBGfoFRMFZF/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRNQ81MoPBmG6Qypl_zIpFdWwHDj_Obmee_4FukQuhpP6lzoiBEe8JoEHuS_VTcysufzbBGfoFRMFZF/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Arts Showcase – Symphonic Band</strong></h4>
 <p>Our school Symphonic Band gave our Northstars a delightful performance
 during morning assembly as the band prepares itself for the Singapore Youth
 Festival Arts Presentation.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfxiO4OnxnKP-PfOku4MUdH0mjtTuFn_xrVHc9C7_IYCygsuXKh5IP39zADcF8v9LpVcCcmwtCloSg/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfxiO4OnxnKP-PfOku4MUdH0mjtTuFn_xrVHc9C7_IYCygsuXKh5IP39zADcF8v9LpVcCcmwtCloSg/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Our Girl Guides commemorate World Thinking Day</strong></h4>
 <p>Every year on 22 February, Girl Guides Singapore (GGS) joins 10 million
@@ -2836,14 +2846,14 @@ Girl Guides and Girl Scouts around the world to commemorate World Thinking
 Day. World Thinking Day is a day to celebrate international friendships
 and promote positive actions that make our world a better place.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8RjYE2lkxy-3lnI_3bun6kCuF9UZLALk74Jz6Mq4TEbfhNeS_FEvlp-TJF_3tVuHTJYS9APepxmEY/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8RjYE2lkxy-3lnI_3bun6kCuF9UZLALk74Jz6Mq4TEbfhNeS_FEvlp-TJF_3tVuHTJYS9APepxmEY/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Arts Showcase – Gu Zheng Ensemble</strong></h4>
 <p>Our Guzheng Ensemble gave our Northstars an enchanting performance during
 morning assembly as the ensemble prepares itself for the Singapore Youth
 Festival Arts Presentation.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-vVt3pBMuUlgYH19pIkZGLie2MUpTFTCFNjqef0CJUK7fV7fnIier-oqx8wccLuaFQDKWhT6XO6qr/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-vVt3pBMuUlgYH19pIkZGLie2MUpTFTCFNjqef0CJUK7fV7fnIier-oqx8wccLuaFQDKWhT6XO6qr/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <h4><strong>Education Minister Mr Ong Ye Kung visits Northland Secondary School</strong></h4>
 <p>Education Minister Mr Ong Ye Kung visits Northland Secondary School On
@@ -2856,6 +2866,6 @@ on reducing assessment load and shared his perspectives on focusing on
 better teaching and better learning. It was definitely an enriching experience
 for both Northstars and staff.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMQ2Dltx4hwxsU6_Ghu60ymk9FUx3R5g2bnYPAhojyODQDUMsLrQwc0DoD5GINiGt7zqJadf2wR49i/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMQ2Dltx4hwxsU6_Ghu60ymk9FUx3R5g2bnYPAhojyODQDUMsLrQwc0DoD5GINiGt7zqJadf2wR49i/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <p></p>
