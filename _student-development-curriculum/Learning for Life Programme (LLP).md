@@ -5,7 +5,8 @@ description: ""
 variant: markdown
 ---
 <h4><strong>Game for Life: Empowering our Active Sportsmen</strong></h4>
-<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSsnTYUylTnodps0YfKbjuwQQhDDxuHIHJHOYTr0cwXWtPZOMYLBx3Wkn6UCCQ7Aw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+<iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-_jTDaSqVQvzWj4eVkLsMo73oECWYLGv7pA_V4KaE6y66BdyfUhmaSh5F8m2YtA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <p><em>Developing Social Emotional Competencies through Sports and Physical Activities</em></p>
 <p>Our school’s&nbsp;<strong>Learning for Life Programme,&nbsp;</strong>“<strong>Game for Life</strong>” leverages sports and physical activity to prepare our Northstars for life, by imbuing them with strong social-emotional competencies grounded on our core values of Respect, Responsibility and Resilience. Students will also be empowered with the passion, knowledge and skills to lead a life of healthy and sporting pursuits. In addition, students with sporting talent will be identified and progressively developed through exposure to competitive sports within and beyond the school.</p>
