@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Sec3 EOY Exam 2025 Timetable.md
       - Sec2 EOY Exam 2025 Timetable.md
       - Sec1 EOY Exam 2025 Timetable.md
       - Appeal for Transfer (Non Medical) to Northland Secondary School.md
