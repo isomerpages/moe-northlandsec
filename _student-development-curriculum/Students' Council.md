@@ -34,7 +34,7 @@ variant: markdown
 </tbody>
 </table>
 
-![](/images/Student_Council_V2.jpg)
+![](/images/Student_Council_Group_7029___Edited.jpg)
 
 Northland Secondary School’s Student Council is dedicated to representing the voices of Northstars, acting as a bridge between students and School Management by bringing forward ideas, suggestions, and feedback for consideration. As the primary student leadership group, the Student Council strives to create a vibrant, inclusive environment where every student feels valued, heard, and inspired to reach their full potential as “Learners who Share, Citizens who Care, and Leaders who Dare.”
 
@@ -43,22 +43,3 @@ We aim to empower Northstars through initiatives such as the biannual _Student D
 In addition, we actively foster school spirit and pride through events like the Secondary 1 Orientation, Youth Day, and Teachers’ Day, while encouraging all Northstars to contribute to the school community in their unique ways, helping to build a stronger, more connected school environment.
 
 
-**Student Leaders**
-
-**President:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ismatul Sofia Binti Mohamed Irfan (3 Sirius)
-
-**Vice Presidents:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sarah Kaylee Cheng Qe An (3 Pollux), Huo Zhiqin (3 Pollux)
-
-**Secretary:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jas Yee Si Ting (3 Pollux)
-
-**Head Of Operations:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ooh Yu Jie (3 Castor)
-
-**Head Of Student Welfare:** &nbsp;&nbsp;&nbsp;&nbsp; Trinity Joy Diomampo Lleva (3 Pollux)
-
-**Head Of Communications:** &nbsp;&nbsp;&nbsp; Marcel Tan Lai Hang (3 Castor)
-
-**Head Of School Pride:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cash Ng Thiam Hong (Huang Tianhong) (3 Antares)
-
-**Secondary 2 Coordinator:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ng Sue Ann (3 Sirius)
-
-**Secondary 1 Coordinator:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Charles Ooi Zhen Yi (3 Sirius)
