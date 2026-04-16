@@ -6,7 +6,6 @@ third_nav_title: Direct School Admission (DSA)
 variant: tiptap
 ---
 <p></p>
-<h5></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA 2026/DSA_Website_Banner_2026.jpg">
 </div>
