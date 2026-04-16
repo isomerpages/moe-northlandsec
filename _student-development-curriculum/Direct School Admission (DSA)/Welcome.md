@@ -17,7 +17,8 @@ to learn more about the sports in our school.</p>
 <br>We invite you to apply to Northland Secondary School if you have an interest
 and wish to pursue any of the following sports at a competitive level and
 beyond:</p>
-<p>For more information, please click the link below for our Sports CCA website</p>
+<p>For more information, please click the link below to visit our Sports
+CCA website.</p>
 <p><a href="https://sites.google.com/moe.edu.sg/nssecca/our-cca-groups/sports-games?authuser=0" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/nssecca/our-cca-groups/sports-games?authuser=0</a>
 </p>
 <h5><strong>WHY CHOOSE NORTHLAND’S DSA PROGRAMME</strong></h5>
