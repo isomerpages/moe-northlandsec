@@ -28,13 +28,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Muslim Noodle Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>15 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Halal noodle dishes</p>
 </td>
 </tr>
 <tr>
