@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Secondary Three
 variant: markdown
 ---
-[Sec 3 Weighted Assessment - Term 2](https://docs.google.com/document/d/1mWWqlvqid-bMz2X8nulUoyLIgX9HtJ3w28cEEwC5leQ/edit?tab=t.0)
+[Sec 3 Weighted Assessment - Term 3](https://docs.google.com/document/d/1HJ9mwIwfsOX_ykAvgOXLQNd40CPSBhs68I1gTj_pf2M/edit?tab=t.0)
