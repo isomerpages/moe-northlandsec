@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Secondary One
 variant: markdown
 ---
-[Sec 1 Weighted Assessment - Term 3](https://docs.google.com/document/d/1ZgNy1L4UR0_uu-ZduDgITXRPgp4L-wxLI3WYWKSRLDQ/edit?tab=t.0)
+[Sec 1 End-of-Year Examinations - Term 4](https://docs.google.com/document/d/1ZNf4wCsp_rRtrR290K6tQwUyJZRakaIoWdYYoqDxV_M/edit?tab=t.0)
